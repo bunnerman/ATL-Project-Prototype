@@ -1,4 +1,4 @@
-# 🔴🔴 Deadline on Sunday 🔴🔴
+## 🔴🔴 Deadline on Sunday 🔴🔴
 
 The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
@@ -6,6 +6,14 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 - Test, debug and polish on the weekend
 - Understand the code and make it look organic when we AI gen it
 - Prototype bare minimum should be just working ig?
+
+## Progress
+
+**Parnil:**
+**Neel:**
+**Adarsh:**
+**Sarthak:** 
+**Namya:**
 
 **Other Stuff**
 - Gemini Chat Link: https://gemini.google.com/share/4c74d3cd4131?skid=061fc2f4-a9ea-4146-90ab-2e81875cd3ce
