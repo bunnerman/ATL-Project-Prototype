@@ -3,6 +3,7 @@
 - Test, debug and polish on the weekend
 - Prototype should be functional
 
+**Other Stuff**
 - Gemini Link: https://gemini.google.com/share/4c74d3cd4131?skid=061fc2f4-a9ea-4146-90ab-2e81875cd3ce
 - 
 
