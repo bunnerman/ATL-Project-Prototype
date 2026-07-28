@@ -9,11 +9,13 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
 ## Progress
 
-**Parnil:**
-**Neel:**
-**Adarsh:**
-**Sarthak:** 
-**Namya:**
+Put approx OR alternatively what's left and what's done
+
+**Parnil:** 0%
+**Neel:** 0%
+**Adarsh:** 0%
+**Sarthak:** 0%
+**Namya:** 0%
 
 **Other Stuff**
 - Gemini Chat Link: https://gemini.google.com/share/4c74d3cd4131?skid=061fc2f4-a9ea-4146-90ab-2e81875cd3ce
