@@ -22,11 +22,11 @@ Put approx OR alternatively what's left and what's done
 
 ### Work Division Summary
 
-**Parnil**: Setting up the repository, handling dependency management, configuring secrets, and managing Streamlit Community Cloud hosting.
-**Neel**: Structuring the case corpus, configuring HuggingFace embedding models, chunking text, and building the vector index.
-**Adarsh**: Building the file uploader component, handling temporary file storage, and executing PyPDF text extraction.
-**Sarthak**: Initializing Gemini 1.5 Flash via LangChain, crafting prompt templates, and executing the timeline extraction chain.
-**Namya**: Connecting the timeline output to the ChromaDB retriever, performing similarity searches, and rendering Streamlit UI outputs.
+- **Parnil**: Setting up the repository, handling dependency management, configuring secrets, and managing Streamlit Community Cloud hosting.
+- **Neel**: Structuring the case corpus, configuring HuggingFace embedding models, chunking text, and building the vector index.
+- **Adarsh**: Building the file uploader component, handling temporary file storage, and executing PyPDF text extraction.
+- **Sarthak**: Initializing Gemini 1.5 Flash via LangChain, crafting prompt templates, and executing the timeline extraction chain.
+- **Namya**: Connecting the timeline output to the ChromaDB retriever, performing similarity searches, and rendering Streamlit UI outputs.
 
 ### Dependencies
 streamlit
