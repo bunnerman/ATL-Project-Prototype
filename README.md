@@ -4,7 +4,7 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
 - **Do majority of the work before Saturday**
 - Test, debug and polish on the weekend
-- Understand the code and make it look organic when we AI gen it
+- Understand the code
 - Prototype bare minimum should be just working ig?
 - Make folders when required (empty folders won't commit)
 
