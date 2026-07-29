@@ -16,11 +16,29 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
 Put approx OR alternatively what's left and what's done
 
-- **Parnil:** Project is up on Streamlit and functioning correctly 
-- **Neel:** 0% 
-- **Adarsh:** 0% 
-- **Sarthak:** 0% 
-- **Namya:** 0% 
+- **Parnil:**
+  - [x] Streamlit Community Cloud
+  - [ ] Gemini API Key + Secrets
+  - [x] Dependencies
+  - [x] Up and Running?
+- **Neel:** 0%
+  - [ ] Structuring Case Corpus
+  - [ ] Configure HuggingFace models
+  - [ ] Text Chunking
+  - [ ] Vector Index
+- **Adarsh:** 0%
+  - [ ] File Uploading Component
+  - [ ] Temporary File Storage
+  - [ ] PyPDF Text Extraction
+- **Sarthak:** 0%
+  - [ ] Langchain
+    - [ ] Gemini 1.5 Flash Setup
+  - [ ] Prompt Templates
+  - [ ] Timeline Extraction Module
+- **Namya:** 0%
+  - [ ] Connecting timeline output to NeonDB
+  - [ ] Similiarity searches
+  - [ ] Rendering Streamlit UI outputs
 
 ### Work Division Summary
 
@@ -28,7 +46,7 @@ Put approx OR alternatively what's left and what's done
 - **Neel**: Structuring the case corpus, configuring HuggingFace embedding models, chunking text, and building the vector index.
 - **Adarsh**: Building the file uploader component, handling temporary file storage, and executing PyPDF text extraction.
 - **Sarthak**: Initializing Gemini 1.5 Flash via LangChain, crafting prompt templates, and executing the timeline extraction chain.
-- **Namya**: Connecting the timeline output to the ChromaDB retriever, performing similarity searches, and rendering Streamlit UI outputs.
+- **Namya**: Connecting the timeline output to the NeonDB retriever, performing similarity searches, and rendering Streamlit UI outputs.
 
 ### Dependencies
 1. streamlit
