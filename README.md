@@ -42,6 +42,8 @@ _**Modify to ur liking as jobs did change abit after that AI msg**_
 
 ### Work Division Summary
 
+_**Modify to be more accurate as jobs did change abit after that AI msg**_
+
 - **Parnil**: Setting up the repository, handling dependency management, configuring secrets, and managing Streamlit Community Cloud hosting.
 - **Neel**: Structuring the case corpus, configuring HuggingFace embedding models, chunking text, and building the vector index.
 - **Adarsh**: Building the file uploader component, handling temporary file storage, and executing PyPDF text extraction.
