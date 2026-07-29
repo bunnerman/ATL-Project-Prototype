@@ -14,7 +14,7 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
 ## Progress
 
-Put approx OR alternatively what's left and what's done
+_**Modify to ur liking as jobs did change abit after that AI msg**_
 
 - **Parnil:**
   - [x] Streamlit Community Cloud
