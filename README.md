@@ -29,15 +29,15 @@ Put approx OR alternatively what's left and what's done
 - **Namya**: Connecting the timeline output to the ChromaDB retriever, performing similarity searches, and rendering Streamlit UI outputs.
 
 ### Dependencies
-streamlit
-langchain
-langchain-google-genai
-langchain-huggingface
-langchain-chroma
-langchain-community
-pypdf
-chromadb
-sentence-transformers
+1. streamlit
+2. langchain
+3. langchain-google-genai
+4. langchain-huggingface
+5. langchain-chroma
+6 langchain-community
+7. pypdf
+8. chromadb
+9. sentence-transformers
 
 **For installation, use** 
 `pip install streamlit fastapi uvicorn langchain langchain-groq langchain-huggingface langchain-chroma pypdf chromadb sentence-transformers python-multipart requests`
