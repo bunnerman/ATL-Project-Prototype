@@ -7,3 +7,5 @@ langchain-community
 pypdf
 chromadb
 sentence-transformers
+matplotlib
+matplotlib.plotly
