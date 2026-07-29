@@ -20,6 +20,8 @@ Put approx OR alternatively what's left and what's done
 
 **Other Stuff**
 - Gemini Chat Link: https://gemini.google.com/share/4c74d3cd4131?skid=061fc2f4-a9ea-4146-90ab-2e81875cd3ce
+- `streamlit-app.py`: https://atl-project-prototype-nhrtbq5lkkmffezqjarzkf.streamlit.app
+- `streamlit-testing.py`: https://atl-project-prototype-3imqmecugmwxpqzuug6v9s.streamlit.app/
 
 ### Work Division Summary
 
