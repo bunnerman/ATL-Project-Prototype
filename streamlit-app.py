@@ -1,4 +1,4 @@
-# The main page for the UI
+from importlib.metadata import files
 import streamlit as st
 
 st.set_page_config(
@@ -7,7 +7,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# Hiding Streamlit default elements
+# Hiding Streamlit normal elements
 st.markdown("""
 <style>
 #MainMenu {visibility: hidden;}
@@ -40,18 +40,41 @@ html, body, [data-testid="stAppViewContainer"] {
 </style>
 """, unsafe_allow_html=True)
 
-# Empty space
+# Chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# Display previous messages
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+        if message["files"]:
+            for file in message["files"]:
+                st.write( file.name,file.size)
+
+# Spacer so messages don't hide behind the input box
 st.markdown("<div style='height:90vh'></div>", unsafe_allow_html=True)
 
-# Bottom textbox
+# User input TextBox
+
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
 user_input = st.chat_input(
-    "Type something..."
+    "Type something...",
+    accept_file="multiple",
+    file_type=["pdf", "docx"]
 )
 
 st.markdown("</div>", unsafe_allow_html=True)
 
-# For testing
+# Save new user message
 if user_input:
-    st.write(user_input)
+    st.session_state.messages.append({
+        "role": "user",
+        "content": user_input.text,
+        "files": user_input.files,
+    })
+
+    # Force the page to redraw with the new message
+    st.rerun()
