@@ -27,7 +27,7 @@ _**Modify to ur liking as jobs did change abit after that AI msg**_
   - [ ] Text Chunking
   - [ ] Vector Index
 - **Adarsh:** 0%
-  - [ ] File Uploading Component
+  - [x] File Uploading Component
   - [ ] Temporary File Storage
   - [ ] PyPDF Text Extraction
 - **Sarthak:** 0%
