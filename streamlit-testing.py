@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 
 # 1. Page setup and titles
-st.title("My First Streamlit App 🚀")
+st.title("My First Streamlit App 🚀 where i modified it lets hope i can see")
 st.write("Welcome! Modify the controls below to update the chart in real time.")
 
 # 2. Interactive user inputs (Widgets)
