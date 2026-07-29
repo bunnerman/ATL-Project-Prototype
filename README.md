@@ -16,7 +16,7 @@ The ATL Project given by them aims to be a AI legal evidence verifier/helper
 
 Put approx OR alternatively what's left and what's done
 
-- **Parnil:** 0% 
+- **Parnil:** Project is up on Streamlit and functioning correctly 
 - **Neel:** 0% 
 - **Adarsh:** 0% 
 - **Sarthak:** 0% 
