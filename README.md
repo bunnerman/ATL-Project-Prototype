@@ -21,21 +21,21 @@ _**Modify to ur liking as jobs did change abit after that AI msg**_
   - [ ] Gemini API Key + Secrets
   - [x] Dependencies
   - [x] Up and Running?
-- **Neel:** 0%
+- **Neel:**
   - [ ] Structuring Case Corpus
   - [ ] Configure HuggingFace models
   - [ ] Text Chunking
   - [ ] Vector Index
-- **Adarsh:** 0%
+- **Adarsh:**
   - [x] File Uploading Component
   - [ ] Temporary File Storage
   - [ ] PyPDF Text Extraction
-- **Sarthak:** 0%
+- **Sarthak:**
   - [ ] Langchain
     - [ ] Gemini 1.5 Flash Setup
   - [ ] Prompt Templates
   - [ ] Timeline Extraction Module
-- **Namya:** 0%
+- **Namya:**
   - [ ] Connecting timeline output to NeonDB
   - [ ] Similiarity searches
   - [ ] Rendering Streamlit UI outputs
