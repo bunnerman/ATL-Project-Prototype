@@ -7,6 +7,7 @@
 [![Testing Dashboard](https://img.shields.io/badge/Streamlit-Testing_Dashboard-007ACC?style=for-the-badge&logo=streamlit&logoColor=white)](https://atl-project-prototype-3imqmecugmwxpqzuug6v9s.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-1C3C3C?style=for-the-badge)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Enabled-2E7D32?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/langgraph)
 [![Gemini](https://img.shields.io/badge/Gemini_3.1_Flash--Lite-Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 
 <p align="center">
@@ -75,7 +76,7 @@
                               │
                               ▼
     ========================================================
-    |      LANGGRAPH AI BACKEND (sarthak_brain.py)        |  (Sarthak)
+    |      LANGGRAPH AI BACKEND (sarthak_brain.py)         |  (Sarthak)
     |------------------------------------------------------|
     |  1. Domain Guardrail & Fact Extraction               |
     |  2. Self-Correcting Retrieval Loop                   | <=== Queries Indexed Case Corpus
