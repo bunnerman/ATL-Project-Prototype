@@ -7,7 +7,7 @@
 [![Testing Dashboard](https://img.shields.io/badge/Streamlit-Testing_Dashboard-007ACC?style=for-the-badge&logo=streamlit&logoColor=white)](https://atl-project-prototype-3imqmecugmwxpqzuug6v9s.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-1C3C3C?style=for-the-badge)](https://langchain.com)
-[![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+[![Gemini](https://img.shields.io/badge/Gemini_3.1_Flash--Lite-Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 
 <p align="center">
   <b>A next-generation AI platform designed to automate legal evidence verification, extract chronological event timelines from case documents, and perform high-precision precedent similarity search.</b>
@@ -51,7 +51,7 @@
 | ⚙️ **Parnil** | **DevOps & Cloud Infrastructure** | Streamlit Community Cloud hosting, repository setup, dependency management, Gemini API secrets. |
 | ⚖️ **Neel** | **Vector Store & Corpus Engine** | Case corpus hierarchy, HuggingFace embeddings (`all-MiniLM-L6-v2`), text chunking & ChromaDB / NeonDB index. |
 | 📄 **Adarsh** | **Document Processing** | Streamlit file uploader, temporary file storage manager, and PyPDF text extraction engine. |
-| 🧠 **Sarthak** | **AI Chains & Timeline Extraction** | LangChain orchestration, Gemini 1.5 Flash integration, legal prompt engineering & timeline extraction module. |
+| 🧠 **Sarthak** | **AI Backend & LangGraph RAG Engine** | `sarthak_brain.py`: Gemini 3.1 Flash-Lite integration, Domain Guardrails, self-correcting ChromaDB retrieval loops, Adversarial Precedent Validator, and IRAC/Timeline Report generation. |
 | 📊 **Namya** | **DB Retrieval & UI Integration** | NeonDB database retriever, vector similarity search execution & Streamlit UI response rendering. |
 
 ---
@@ -59,35 +59,40 @@
 ## 🏗️ System Architecture & Pipeline
 
 ```text
-                  ┌──────────────────────────────┐
-                  │   User PDF Upload (Adarsh)   │
-                  └──────────────┬───────────────┘
-                                 │
-                                 ▼
-                  ┌──────────────────────────────┐
-                  │ PyPDF Text Extractor (Adarsh)│
-                  └──────────────┬───────────────┘
-                                 │
-                                 ▼
-                  ┌──────────────────────────────┐
-                  │ Timeline Extraction Engine   │
-                  │   (LangChain + Gemini 1.5)   │
-                  │           (Sarthak)          │
-                  └──────────────┬───────────────┘
-                                 │
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │              Vector Similarity Search (Namya)              │
-  │  Queries Indexed Case Corpus (Neel: ChromaDB + NeonDB)      │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │
-                                 ▼
-                  ┌──────────────────────────────┐
-                  │ Streamlit Interactive UI     │
-                  │       (Parnil / Namya)       │
-                  └──────────────────────────────┘
+               ┌──────────────────────────────┐
+               │   User PDF / Document Input  │  (Adarsh)
+               └──────────────┬───────────────┘
+                              │
+                              ▼
+               ┌──────────────────────────────┐
+               │ PyPDF Text Extractor Engine  │  (Adarsh)
+               └──────────────┬───────────────┘
+                              │
+                              ▼
+               ┌──────────────────────────────┐
+               │ Streamlit Frontend Controller│  (Parnil / Namya)
+               └──────────────┬───────────────┘
+                              │
+                              ▼
+    ========================================================
+    |      LANGGRAPH AI BACKEND (sarthak_brain.py)        |  (Sarthak)
+    |------------------------------------------------------|
+    |  1. Domain Guardrail & Fact Extraction               |
+    |  2. Self-Correcting Retrieval Loop                   | <=== Queries Indexed Case Corpus
+    |  3. Adversarial Precedent Validator                  |      (Neel: ChromaDB Store)
+    |  4. Timeline & IRAC Synthesis(Gemini 3.1 Flash-Lite) |
+    ========================================================
+                              │
+                              ▼
+               ┌──────────────────────────────┐
+               │ Interactive IRAC UI Display  │  (Parnil / Namya)
+               └──────────────────────────────┘
 ```
 
+
+---
+> **💡 LLM Engine Strategy:**  
+> Our primary pipeline (`sarthak_brain.py`) utilizes **Gemini 3.1 Flash-Lite** (`gemini-3.1-flash-lite`) for ultra-low-latency, cost-effective fact extraction and rapid self-correcting ChromaDB retrieval loops. For complex appellate cases requiring deeper legal reasoning and multi-step IRAC synthesis, our architecture supports seamless routing to **Gemini 3.1 Pro** via simple `.env` model configuration.
 ---
 
 ## ⚙️ Installation & Local Setup
@@ -124,7 +129,7 @@ streamlit run streamlit-app.py
 ---
 
 ## 📄 Module Documentation Links
-
+- 📖 [Sarthak's AI Brain Documentation](./Sarthak_Work.md) — Technical specification for the LangGraph state graph, self-correcting RAG loop, and adversarial precedent validator.
 - 📖 [Neel's Work Document](file:///c:/Users/Neel%20Sonawane/ATL-Project-Prototype/Neel's%20Work%20.md) — Detailed technical specification for the Case Corpus, Text Chunking, HuggingFace Embeddings, and ChromaDB / NeonDB Vector Engine.
 - 📖 [Dataset Documentation](file:///c:/Users/Neel%20Sonawane/ATL-Project-Prototype/data/README.md) — Guide to raw case structuring and metadata mappings.
 
