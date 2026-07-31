@@ -1,13 +1,20 @@
-from importlib.metadata import files
 import streamlit as st
+import tempfile
+import os
+from pdf2image import convert_from_path
+import pytesseract
 
+# Import AI workflow
+from sarthak_brain import ai_brain_app
+
+# Page settings
 st.set_page_config(
     page_title="ATL",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
 
-# Hiding Streamlit normal elements
+# Page styling
 st.markdown("""
 <style>
 #MainMenu {visibility: hidden;}
@@ -22,7 +29,6 @@ html, body, [data-testid="stAppViewContainer"] {
     background: #f3f3f3;
 }
 
-/* Bottom input container */
 .chat-container {
     position: fixed;
     bottom: 25px;
@@ -32,7 +38,6 @@ html, body, [data-testid="stAppViewContainer"] {
     z-index: 999;
 }
 
-/* Remove default spacing */
 .block-container {
     padding-top: 0rem;
     padding-bottom: 0rem;
@@ -40,26 +45,28 @@ html, body, [data-testid="stAppViewContainer"] {
 </style>
 """, unsafe_allow_html=True)
 
-# Chat history
+# Create chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display previous messages
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+# Show old messages
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
 
-        if message["files"]:
-            for file in message["files"]:
-                st.write( file.name,file.size)
+        # Display message
+        st.markdown(msg["content"])
 
-# Spacer so messages don't hide behind the input box
+        # Show uploaded files
+        if msg.get("files"):
+            for file in msg["files"]:
+                st.write(file.name, file.size)
+
+# Keep space for chat box
 st.markdown("<div style='height:90vh'></div>", unsafe_allow_html=True)
-
-# User input TextBox
 
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
+# Chat input
 user_input = st.chat_input(
     "Type something...",
     accept_file="multiple",
@@ -68,13 +75,55 @@ user_input = st.chat_input(
 
 st.markdown("</div>", unsafe_allow_html=True)
 
-# Save new user message
+# Run after sending message
 if user_input:
+
+    # Store user message
     st.session_state.messages.append({
         "role": "user",
         "content": user_input.text,
         "files": user_input.files,
     })
 
-    # Force the page to redraw with the new message
+    # Process uploaded files
+    if user_input.files:
+
+        for file in user_input.files:
+
+            # Save file temporarily
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
+                temp_file.write(file.getvalue())
+                pdf_path = temp_file.name
+
+            # Convert PDF into images
+            with st.spinner(f"Reading {file.name}..."):
+
+                images = convert_from_path(pdf_path)
+                extracted_text = ""
+
+                # Read every page
+                for image in images:
+                    extracted_text += pytesseract.image_to_string(image)
+                    extracted_text += "\n"
+
+            # Remove temp file
+            os.remove(pdf_path)
+
+            # Send text to AI
+            with st.spinner("Generating report..."):
+
+                ai_result = ai_brain_app.invoke({
+                    "pdf_text": extracted_text
+                })
+
+                final_report = ai_result["final_report"]
+
+            # Save AI response
+            st.session_state.messages.append({
+                "role": "assistant",
+                "content": final_report,
+                "files": []
+            })
+
+# Refresh page
     st.rerun()
