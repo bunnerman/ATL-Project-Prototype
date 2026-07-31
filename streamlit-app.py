@@ -1,10 +1,15 @@
 import streamlit as st
-import tempfile
+import fitz
+import io
+from PIL import Image
 import os
-from pdf2image import convert_from_path
 import pytesseract
 
-# Import AI workflow
+tesseract_path = os.getenv("TESSERACT_PATH")
+
+if tesseract_path:
+    pytesseract.pytesseract.tesseract_cmd = tesseract_path
+
 from sarthak_brain import ai_brain_app
 
 # Page settings
@@ -14,19 +19,39 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# Page styling
+# Custom CSS
 st.markdown("""
 <style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: hidden;}
 
-html, body, [data-testid="stAppViewContainer"] {
-    background-color: #f3f3f3;
+html, body, [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+    background-color: #f3f3f3 !important;
 }
 
 [data-testid="stAppViewContainer"] {
-    background: #f3f3f3;
+    background: #f3f3f3 !important;
+}
+
+[data-testid="stChatMessage"] {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-radius: 12px;
+    padding: 14px;
+    margin-bottom: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+[data-testid="stChatMessage"] *,
+[data-testid="stChatMessage"] p,
+[data-testid="stChatMessage"] div,
+[data-testid="stChatMessage"] span,
+[data-testid="stChatMessage"] h1,
+[data-testid="stChatMessage"] h2,
+[data-testid="stChatMessage"] h3,
+[data-testid="stChatMessage"] li {
+    color: #000000 !important;
 }
 
 .chat-container {
@@ -39,8 +64,8 @@ html, body, [data-testid="stAppViewContainer"] {
 }
 
 .block-container {
-    padding-top: 0rem;
-    padding-bottom: 0rem;
+    padding-top: 2rem;
+    padding-bottom: 140px !important;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -49,24 +74,22 @@ html, body, [data-testid="stAppViewContainer"] {
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Show old messages
+# Show previous messages
 for msg in st.session_state.messages:
+
     with st.chat_message(msg["role"]):
 
-        # Display message
         st.markdown(msg["content"])
 
         # Show uploaded files
         if msg.get("files"):
-            for file in msg["files"]:
-                st.write(file.name, file.size)
+            for uploaded_file in msg["files"]:
+                st.write(uploaded_file.name, uploaded_file.size)
 
-# Keep space for chat box
-st.markdown("<div style='height:90vh'></div>", unsafe_allow_html=True)
-
+# Chat input area
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
-# Chat input
+# Input box
 user_input = st.chat_input(
     "Type something...",
     accept_file="multiple",
@@ -75,55 +98,69 @@ user_input = st.chat_input(
 
 st.markdown("</div>", unsafe_allow_html=True)
 
-# Run after sending message
+# Run when user sends message
 if user_input:
 
-    # Store user message
+    # Save user message
     st.session_state.messages.append({
         "role": "user",
         "content": user_input.text,
         "files": user_input.files,
     })
 
-    # Process uploaded files
+    # Check uploaded files
     if user_input.files:
 
-        for file in user_input.files:
+        for uploaded_file in user_input.files:
 
-            # Save file temporarily
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
-                temp_file.write(file.getvalue())
-                pdf_path = temp_file.name
+            # Read PDF
+            with st.spinner(f"Scanning {uploaded_file.name}..."):
 
-            # Convert PDF into images
-            with st.spinner(f"Reading {file.name}..."):
+                pdf = fitz.open(
+                    stream=uploaded_file.getvalue(),
+                    filetype="pdf"
+                )
 
-                images = convert_from_path(pdf_path)
-                extracted_text = ""
+                text = ""
 
                 # Read every page
-                for image in images:
-                    extracted_text += pytesseract.image_to_string(image)
-                    extracted_text += "\n"
+                for page in pdf:
 
-            # Remove temp file
-            os.remove(pdf_path)
+                    pixmap = page.get_pixmap(dpi=200)
+
+                    image = Image.open(
+                        io.BytesIO(pixmap.tobytes("png"))
+                    )
+
+                    text += pytesseract.image_to_string(image)
+                    text += "\n"
+
+                pdf.close()
 
             # Send text to AI
-            with st.spinner("Generating report..."):
+            with st.status("Thinking...", expanded=True) as status:
 
-                ai_result = ai_brain_app.invoke({
-                    "pdf_text": extracted_text
+                st.write("Extracting legal facts and timeline...")
+                st.write("Searching legal database for Supreme Court precedents...")
+
+                result = ai_brain_app.invoke({
+                    "pdf_text": text
                 })
 
-                final_report = ai_result["final_report"]
+                report = result["final_report"]
 
-            # Save AI response
+                status.update(
+                    label="Thinking complete!",
+                    state="complete",
+                    expanded=False
+                )
+
+            # Save AI reply
             st.session_state.messages.append({
                 "role": "assistant",
-                "content": final_report,
+                "content": report,
                 "files": []
             })
 
-# Refresh page
+    # Refresh page
     st.rerun()
