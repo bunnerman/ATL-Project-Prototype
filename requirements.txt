@@ -11,3 +11,6 @@ matplotlib
 pandas
 python-dotenv
 langgraph
+pytesseract
+PyMuPDF
+pdf2image
