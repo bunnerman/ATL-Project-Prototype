@@ -10,3 +10,4 @@ sentence-transformers
 matplotlib
 pandas
 python-dotenv
+langgraph
