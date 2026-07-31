@@ -1,0 +1,61 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal number5886 of 2012  arising out of slp c number10362 of 2007  1 raju jhurani appellant vs. 2 m s germinda pvt.
+limited respondent j u d g m e n t altamas kabir, j. 1. leave granted.
+2. an interesting point has been raised in this appeal as to whether the provisions of order 2 rule 2 of the code of civil procedure  cpc  would have any impact on a proceeding under sections 433, 434 and 439 of the companies act, 1956.
+3. this appeal is directed against the judgment and order dated 14th august, 2006, passed by the calcutta high court in a.c. number54 of 2005 dismissing the appeal on the ground that in the absence of any specific finding whatsoever as to the rate of rent and the period of default committed by the respondent-tenant, the proceedings under the companies act, 1956, for winding-up was not maintainable.
+4. the appellant herein as landlord filed a suit for eviction against the respondent company on the ground of default in making payment of the rents and also on grounds of reasonable requirement, in the city civil court at calcutta, under the provisions of the west bengal premises tenancy act, 1956.
+the same was registered as ejectment suit number201 of 1999.
+the said suit was decreed only on the ground of default, but only upon recording that notice under section 13 6  of the aforesaid act had been duly served and that the ground of default had been proved, the trial court decreed the suit.
+there was no finding whatsoever as to the period of default in the said judgment.
+5. after the passing of the decree, as the respondent did not hand over vacant possession of the suit premises, the appellant put the decree into execution and pursuant thereto vacant possession of flat number10-d in the 10th floor and car parking space number4 in the ground floor of the premises number28-b, shakespeare sarani, calcutta, was made over to the appellant through court bailiff on 22nd february, 2002.
+having obtained vacant possession of the suit premises, the appellant issued notice to the respondent company demanding payment of arrears of rent, corporation taxes, etc.
+but without yielding any result.
+consequently, the appellant had no other option, but to file a winding-up petition before the concerned company court for payment of arrears of rent amounting to rs.7,22,381/- from the month of june, 1998, till august, 2004 at the rate of rs.12,650/- per month, together with interest amount of rs.8,92,211/- at the rate of 18 per annum.
+the learned single judge  company affairs  dismissed the winding-up petition on the ground of the alleged bar of order 2 rule 2 cpc as well as the observations made that the appellant could approach any other appropriate forum with regard to the claim raised by him in the winding-up petition and that no summary order could be passed since the relationship between the parties had already been terminated.
+6. the division bench dismissed the appeal filed by the appellant herein on the ground that the winding-up petition was not maintainable as there was no admitted arrears of rent for any particular period and there was no ascertained amount due in respect of which a winding-up order could be passed.
+the appellate court, however, also observed that the appellant as the petitioning creditor would be entitled to claim the amount of arrears claimed by him in an appropriate proceeding before the appropriate forum.
+7. questioning the said order of the division bench dismissing the appeal, learned advocate, ms. shobha, urged that both the learned single judge, as well as the division bench, proceeded on an erroneous interpretation of the provisions of order 2 rule 2 cpc and sections 433, 434 and 439 of the companies act, 1956.
+ms. shobha contended that the eviction suit had been decreed only on the ground of default, since under the west bengal premises tenancy act, 1956, there is no provision for a decree for recovery of rents.
+in fact, in the absence of any provision in the act, the court could not have made any decree towards the rents payable by the respondent-tenant to the appellant-landlord.
+however, although, the default period or the rate of rent had not been computed by the trial court, the trial court had found that the respondents had defaulted in payment of rent from the month of june, 1998.
+it was submitted that in order to ascertain the dues on the basis of the aforesaid finding, was only a matter of calculation and mathematics and could be easily ascertained.
+a proceeding for winding-up would, therefore, be maintainable in respect of the debts, which the company was unable to pay.
+8. on the question of the bar under order 2 rule 2 cpc, ms. shobha submitted that the same relates to suits which were required to include the whole of the claim which the plaintiff was entitled to make in respect of the cause of action, with liberty to relinquish any portion of his claim to bring the suit within the jurisdiction
+
+--- JUDGMENT BODY ---
+
+of any court, but having so relinquished such claim or portion thereof, the plaintiff would no longer be entitled to sue in respect of the portion so omitted or relinquished.
+ms. shobha also pointed out that clause  3  of rule 2 of order 2 also prohibits a person from suing for any relief which may have been omitted by the plaintiff, except with the leave of the court.
+in contradistinction to the above, the provisions of section 439 of the companies act, 1956, provide for an application to be made to the court for the winding-up of the company to be presented by a petition, subject to the provisions indicated in the section.
+ms. shobha pointed out that the proceedings under section 439 not being a suit, but a petition, the provisions of order 2 rule 2 cpc would not be attracted since the bar indicated therein is with regard to suits.
+on the basis of such distinction, ms. shobha submitted that the learned single judge had wrongly interpreted the provisions of order 2 rule 2 cpc in holding that the winding-up petition filed by the appellant for recovery of its arrear rents dues was not maintainable in law.
+9. on the question of the findings of the division bench that in the absence of any finding regarding the rate of rent and the arrears due, a procedure under section 439 of the companies act was not maintainable, ms. shobha urged that such an interpretation was erroneous and based on an incorrect understanding of the provisions of section 439 of the companies act, 1956, in relation to order 2 rule 2 cpc.
+ms. shobha reiterated that once it had been held by the court that the respondent-tenant had defaulted in payment of rent for a particular month, viz.
+june 1998, it was only a matter of calculation and mathematics to ascertain the dues which were payable by the respondent-tenant to the appellant-landlord.
+the relief in the winding-up petition being ascertainable, the division bench of the high court erred in law in holding otherwise.
+10.
+ms. shobha further submitted that recognizing the fact that the respondent-tenant was in default of payment of rent since the month of june, 1998, the division bench had observed that the appellant would be at liberty to enforce his rights to the arrear rentals before the appropriate forum.
+in other words, according to ms. shobha, the division bench recognized the right of the appellant to recover its dues from the respondent-tenant, though not by means of a winding-up petition under section 439 of the companies act, 1956.
+11. on the other hand, mr. gaurav mitra, learned advocate, appearing for the respondent company, reiterated the submissions which had found favour both with the learned single judge as also the division bench of the high court.
+it was reiterated that the appellant-landlord ought to have included all the reliefs in the eviction suit and having omitted to sue for the arrear rents, he was no longer entitled to claim the same on account of the bar imposed under order 2 rule 2 cpc.
+mr. mitra also supported the view expressed by the division bench of the high court holding that a winding-up proceeding was not a proper remedy for the recovery of undetermined dues, particularly when so many different criteria were involved in ascertaining the amount due and or payable by the respondent- tenant to the appellant-landlord.
+learned counsel submitted that the judgment and order of the learned single judge and the division bench of the calcutta high court did not require any interference and the appeal was, therefore, liable to be dismissed.
+12.
+having considered the submissions made on behalf of the respective parties, we are inclined to accept ms. shobhas submissions as far as the provisions of order 2 rule 2 cpc are concerned.
+order 2 cpc deals with the frame of suits and the various rules contained therein also refer to suits for obtaining the reliefs of a civil nature.
+on the other hand, a proceeding under sections 433, 434 and 439 of the companies act, 1956, is not a suit, but a petition which does not attract the provisions of order 2 rule 2 cpc, which deals with suits.
+ms. shobha has submitted that the west bengal premises tenancy act, 1956, does not make any provision for recovery of arrear rents and provision has only been made under the provisions of section 17 for deposit of the arrear rents which are admitted by the tenant at the time of entering appearance and filing written statement in the suit for eviction.
+provision has also been made for payment of such arrears in instalments, but there is no provision for recovery of the arrear rents for which a separate suit has to be filed, as has been indicated by the division bench of the calcutta high court.
+13.
+viewed in the context of what has been stated hereinabove, we are unable to accept the second limb of ms. shobhas submissions.
+there are various stages involved in deciding the amount of rents payable and the periods of default and also the amount to be ultimately calculated on account of such default and the same cannot be tried in a summary way, without adducing proper evidence.
+it is, therefore, necessary that such issues be heard and tried in a properly constituted suit for recovery of such dues, in which the issue relating to the actual dues payable by the respondent-tenant to the appellant-landlord can be decided.
+14.
+we, therefore, set aside the findings of the learned single judge, as also the division bench, in regard to the application of the provisions of order 2 rule 2 cpc to a winding-up proceeding under the companies act that may be filed for recovery of the dues payable by the respondent-tenant to the appellant-landlord.
+we are, however, ad idem with the division bench that the relief of the appellant-landlord, if any, in this case, will not lie in a winding-up petition, but in a suit filed for the said purpose, particularly when the said relief is not available under the rent laws which only deal with protection of tenants from eviction and the right of the landlords to recover the tenanted premises on the grounds specified therein.
+15.
+the appeal is, therefore, allowed in part to the aforesaid extent.
+16.
+having regard to the facts of the case, the parties shall bear their own costs throughout.
+j.  altamas kabir  j.  j. chelameswar  new delhi dated16.8.2012 -----------------------

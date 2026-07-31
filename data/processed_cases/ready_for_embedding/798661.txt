@@ -1,0 +1,179 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner modi industries limited, modinagar etc. etc. vs. respondent commissioner of income tax, delhi and anr.
+etc.
+
+--- JUDGMENT BODY ---
+
+etc. date of judgment15/09/1995 bench jeevan reddy, b.p. j bench jeevan reddy, b.p. j sen, s.c. j majmudar s.b. j citation 1995 scc 6 396 jt 1995 6 549 1995 scale 5 362 act headnote judgment j u d g m e n t - - - - - - - - a seemingly simple expression, regular assessment, occurring in section 214 of the income tax act has given rise to an endless conflict as to its meaning among the several high courts in the country.
+the first decision interpreting the expression was rendered as far back as 1957 by the bombay high court with reference to sub-section 5 of section 18a of the 1922 act.
+thereafter almost every high court has pronounced upon the question expressing varying shades of opinion.
+legislative background ----------------------- prior to 1944, income tax was payable by the assessee only on an assessment being made by the assessing officer.
+though the levy charge was created by the indian income tax act, 1922, the tax became payable only when it was ascertained in accordance with the provisions of the act.
+in 1944, however, section 18a was introduced providing for the payment of tax in advance, i.e., even prior to the making of the assessment.
+section 18a incorporated the principle pay as you earn.
+the advance tax was payable on prescribed dates during the financial year preceding the relevant assessment year.
+sub-section 5 , as originally introduced, provided for payment of simple interest at two percent per annum on the entire amount paid by way of advance tax. the rate of tax was raised to four percent with effect from april 1, 1995. the interest was payable from the date of payment to the date of the provisional assessment made under section 23-b or if no such assessment has been made to the date of the ------------------------------------------------------------ section 23-b providing for provisional assessment was inserted in 1950.
+assessment hereinafter called the regular assessment made under section 23 of the income, profits and gains of the previous year .
+by indian income tax amendment act, 1953, second proviso to sub-section 5 was inserted in section 18-a with effect from april 1, 1952.
+by virtue of this proviso, interest became payable only on the amount by which the aggregate sum of any instalments paid during any financial year in which they are payable under this section exceeds the amount of the tax determined on regular assessment calculated as hereunder interest thus became payable only on the amount paid in excess of the tax determined on regular assessment and not upon the entire amount.
+the expression regular assessment was not defined in the 1922 act.
+clause 40 of section 2 of the income tax act, 1961 defines the expression regular assessment to mean the assessment made under section 143 or section 144.
+the 1961 act contains a whole lot of sections dealing with advance tax, commencing from section 207 to section 219, under the sub-heading c--advance payment of tax in chapter-xvii which chapter deals with collection and recovery of tax.
+these sections have been undergoing amendments from time to time which it is not necessary to trace for the purposes of this case.
+it would suffice to indicate broadly the scheme of the said sections.
+section 207 provides that advance tax shall be payable during the financial year in respect of the total income derived by the assessee during the accounting year relevant to the assessment year.
+section 208 prescribes that every assessee deriving income above a particular limit shall be liable to pay advance tax.
+section 209, which has undergone a good number of amendments over the years, provides the manner in which the advance tax payable shall be computed.
+the advance tax may be paid by an assessee of his own accord or it may be paid pursuant to the orders of the assessing officer.
+section 211 provides the dates on which instalments of advance tax are payable.
+sections 214 and 215, which may broadly be characterized as complimentary to each other, provide for payment of interest in certain situations.
+section 214 1 provides that the central government shall pay simple interest at 9 p.a.
+on the amount by which the aggregate sum of any instalments of advance tax paid during any financial year in which they are payable under sections 207 to 213 exceeds the amount of the tax determined on regular assessment from the first day of april next following the said financial year to the date of the regular assessment for the assessment year immediately following the said financial year the rate of tax has been changing from time to time.
+it is now 15.
+further, with effect from april 1, 1985, the words tax determined or regular assessment have been substituted by the words assessed tax. the date from which interest is payable has been changed under the 1961 act.
+instead of date of payment under the 1922 act, it is the first day of the relevant assessment year.
+sub-section 2 of section 214, as originally enacted, corresponded to the first proviso to section 18a 5 of the 1922 act.
+section 215, in turn, provides for payment of interest by the assessee in case the advance tax paid by him falls short of the prescribed percentage of the tax assessed.
+with effect from april 1, 1968, section 214 underwent certain changes.
+a proviso was appended to sub-section 1 saying that in respect of any amount refunded on a provisional assessment under section 141a, no interest shall be paid for any period after the date of such provisional assessment.
+sub-section 1a was inserted which read 1a where on completion of the regular assessment the amount on which interest was paid under sub-section 1 has been reduced, the interest shall be reduced accordingly and the excess, if any, paid shall be deemed to be tax payable by the assessee and the provisions of this act shall apply accordingly.
+with effect from april 1, 1985, sub-section 1a was substituted.
+it reads 1a where as a result of an order under section 147 or section 154 or section 155 or section 250 or section 254 or section 260 or section 262 or section 263 or section 264, the amount on which interest was payable under sub- section 1 has been increased or reduced, as the case may be, the interest shall be increased or reduced accordingly, and in a case where the interest is reduced, the income tax office - shall serve on the assessee, a notice of demand in the prescribed form specifying the amount of the excess interest payable and requiring him to pay such amount and such notice of demand shall be deemed to be a notice under section 156 and the provisions of this act shall apply accordingly.
+with effect from april 1, 1985, explanations 1 and 2 were also added which run as follows explanation 1.-- in this section, assessed tax shall have the same meaning as in sub-section 5 of section 215.
+explanation 2.-- where, in relation to an assessment year, an assessment is made for the first time under section 147, the assessment so made shall be regarded as a regular assessment for the purposes of this section.
+further amendments have been effected in section 214 with effect from april 1, 1989 but which it may not be necessary to refer for the purpose of this case.
+how does the question arise?
+---------------------------- we shall now indicate how the controversy relating to the meaning of the expression regular assessment arises an assessee pays advance tax according to his estimate of his income during the financial year relevant to the particular assessment year.
+he then files a return and an assessment is made under section 143.
+it is found that he has paid more amount by way of advance tax than the amount of tax assessed.
+he will be refunded the extra amount with interest calculated from the first day of april of that assessment year to the date of assessment.
+no difficulty arises in such a case.
+the difficulty arises in the following situation indeed it is one of the many situations - not satisfied with the order of assessment, the assessee files an appeal.
+the appeal is allowed as a consequence of which, the assessment order is revised.
+as a result of such revised assessment made pursuant to the appellate order, the tax refundable to the assessee becomes larger - say whereas, according to the original assessment he was entitled to refund of rs.10,000/-, he becomes entitled to a total refund of rs.15,000/- as a result of revised assessment made pursuant to the appellate order.
+the question is - on what amount and upto which date is the interest payable?
+on being elaborated, the question yields the following sub-questions a is the interest payable only on rs.
+10,000/- and if so, whether the interest is payable till the date of first original assessment or till the date of the revised assessment? b is the interest payable on rs.15,000/- and if payable, is it payable only till the date of first original assessment or till the date of the revised assessment?
+a large number of high courts including bombay, kerala, allahabad, punjab and haryana, andhra pradesh and gauhati have taken the view that the interest is payable only upto the date of the first original assessment and not upto the date of the revised assessment made pursuant to the appellate revisional order which may perhaps mean, on the amount of rs.10,000/- only in the illustration given in the preceding para.
+it also means that if according to the first original assessment, it is found that advance tax paid is not in excess of the tax assessed but as a result of the revised assessment it is found that there is an excess payment, no interest would be payable under this provision to the assessee at all.
+they interpreted the words regular assessment in the section as meaning and as referring to the first original assessment.
+on the other hand, several other high courts including calcutta, gujarat, rajasthan, karnataka and madras have taken the view that the words regular assessment mean and refer to the revised assessment made pursuant to the appellate order.
+the delhi high court has adopted an approach which partly agrees with one view and partly with the other.
+we may clarify that in the immediately preceding discussion, the words appellate order are used compendiously to denote appellate, revisional and reference orders.
+now, both section 143 and section 144 use the expression assessment.
+they do not use the expression regular assessment.
+clause 40 of section 2, no doubt, defines regular assessment as an assessment made under section 143 and section 144 but the fact remains that whether it is the original first assessment or the revised assessment made pursuant to the appellate order, they are relatable to section 143 alone - and where it is a best- judgment assessment, to section 144.
+of course, where section 147 is resorted to, the order of assessment re- assessment will be made under that section but here again the procedural provisions contained in section 143 and section 144 do apply.
+if so, one may ask why was the expression regular assessment used?
+is it merely in contra-distinction to provisional assessment or has it got any specific connotation?
+before we proceed to answer the question, it would be appropriate to refer to a few more relevant provisions.
+against the orders of the assessing authority made under the sections specified, appeal is provided by section 246.
+section 251 specifies the powers of the first appellate authority.
+he is empowered to confirm, reduce, enhance or annul the assessment.
+he is also empowered to set aside the assessment and refer the case back to the assessing officer for making a fresh assessment in accordance with the directions given by him and after making such further enquiries, as may be directed or as may be found necessary.
+section 252 provides a further appeal second appeal to the appellate tribunal.
+section 254 1 says that the appellate tribunal may, after giving both the parties to the appeal opportunity of being heard, pass such orders thereon as it thinks fit.
+section 256 provides for reference to the high court on questions of law whereas section 257 provides for statement of a case to supreme court directly in certain situations.
+after the receipt of the opinion of the high court of supreme court, as the case may be, the appellate tribunal shall have to pass orders as are necessary to dispose of the case in conformity with the judgment of the high court supreme court.
+section 263 vests suo motu power of revision in the commissioner to be exercised in certain situations.
+the commissioner is empowered to pass such order thereon as circumstances of the case justify, including an order enhancing or modifying the assessment or cancelling the assessment and directing a fresh assessment.
+section 264 vests the power of revision in the commissioner which can be exercised either suo motu or on the application of the assessee in certain situations.
+under this section, the commissioner is entitled to pass such order as he thinks fit.
+he can direct such further enquiry as he thinks appropriate or may himself cause such enquiry to be made.
+chapter-xix contains provisions relating to refund.
+until october 1, 1975 when sub-section 1a was introduced in section 244 by the taxation laws amendment act, 1975, the provisions in this chapter section 237 onwards provided only for post-assessment interest.
+section 240 provides that where as a result of any order passed in appeal or other proceeding under the act, refund of any amount becomes due to the assessee, the assessing officer shall refund that amount to the assessee without his having to make a claim therefor.
+section 244 1 provides that where refund is due to the assessee in pursuance of an order referred to in section 240, and such refund is not granted within three months from the end of the month in which such order is passed, the central government shall pay interest thereon at the rate of fifteen percent per annum with effect from the date of the expiry of the three months aforesaid to the date on which the refund is granted.
+by virtue of sub- section 1a , however, interest is now payable on the amount found to have been paid in excess as a result of the appellate revisional order from the date of payment made in pursuance of any order of assessment or penalty upto the date on which refund is granted provided such payment is subsequent to march 31, 1975.
+it would be appropriate to set out sub-section 1a of section 244 in full 244. 1a where the whole or any part of the refund referred to in sub- section 1 is due to the assessee, as a result of any amount having been paid by him after the 31st day of march, 1975, in pursuance of any order of assessment or penalty and such amount or any part thereof having been found in appeal or other proceeding under this act to be in excess of the amount which such assessee is liable to pay as tax or penalty, as the case may be, under this act, the central government shall pay to such assessee simple interest at the rate specified in sub-section 1 on the amount so found to be in excess from the date on which such amount was paid to the date on which the refund is granted.
+provided that where the amount so found to be in excess was paid in instalments, such interest shall be payable on the amount of each such instalment or any part of such instalment, which was in excess, from the date on which such instalment was paid to the date on which the refund is granted provided further that no interest under this sub-section shall be payable for a period of one month from the date of the passing of the order in appeal or other proceeding provided also that where any interest is payable to an assessee under this sub-section, no interest under sub- section 1 shall be payable to him in respect of the amount so found to be in excess.
+decisions of high courts ------------------------- coming to the decided cases, the first one which considered the meaning of the expression regular assessment is of the bombay high court in sarangpur cotton manufacturing company limited v. commissioner of income tax 31 i.t.r.698 .
+it related to the assessment year 1947-48, which means that the matter was governed by section 18a before its amendment in 1952.
+according to the said provision, interest was payable on the whole of the amount paid by way of advance tax from the date of payment till the date of assessment hereinafter called the regular assessment under section 23 .
+during the financial year relevant to the said assessment year, the assessee paid advance tax in a sum of rs.12,95,508/- in three equal instalments.
+an assessment was made hereinafter referred to as the original assessment order on march 30, 1948, according to which the assessee became liable to pay a further tax of rs.6,00,000/- in addition to the advance tax amount already paid.
+he paid it and preferred an appeal to the appellate assistant commissioner against the order of assessment.
+the appellate assistant commissioner set aside the assessment and directed the income tax officer to make a fresh assessment.
+accordingly, the income tax officer made a fresh assessment on january 25, 1954 hereinafter referred to as the revised assessment order according to which the total assessable income was substantially reduced.
+the tax now payable was less than the amount of tax paid as advance tax.
+the income tax officer refunded the excess amount of tax paid.
+the assessee laid a claim for interest on the excess amount of advance tax paid as well as on the amount of rs.6,00,000/- paid pursuant to the original assessment order from the respective dates of payment till the date of refund. before the high court, the assessee gave up his claim for interest on the sum of rupees six lakhs. so far as the claim for interest on excess advance tax paid is concerned, his case was that once the original order of assessment was set aside by the appellate authority and a revised assessment order was made pursuant to the appellate order, it is that assessment which is the regular assessment for the purposes of section 18a 5 and, therefore, he is entitled to interest till that date, viz., january 25, 1954.
+this contention was rejected by chagla, c.j., speaking for the division bench.
+the learned chief justice gave two reasons for rejecting the assessees contention.
+the first reason reads thus when one looks at the matter a little more closely, it becomes clear that, when the income-tax officer made the order on the 30th of march, 1948, under provisions of this section, interest ceased to run.
+at that date the order made by the income-tax officer was the only effective and valid assessment.
+can it be said that, if interest had ceased to run, the running of interest was revived when that order of assessment was set aside and a different terminus was fixed for the calculation of interest?
+it seems to us that what the legislature contemplated in using the expression the date of the assessment was the factual date of the assessment and it was not considering the legality or the validity of the assessment made.
+it wanted to fix two terminii for the calculation of interest.
+with regard to one terminus there was no difficulty that was the date of payment of advance tax by the assessee.
+the other terminus had to be fixed and the other terminus was the date when the regular assessment was made.
+that terminus having been fixed, it could not be altered by any subsequent event or by the vicissitudes through which the assessment order might pass.
+if there had been no appeal and if the assessment order had not been set aside, obviously this would have been the only terminus.
+the legislature did not contemplate that the terminus should be altered because the assessee chose to appeal and because the appellate assistant commissioner set aside the order. emphasis added the second reason, probably a more substantial one, reads let us look at this order from another point of view.
+when the order of assessment was made, it was competent to the taxing authorities to recover the tax, and the liability to refund would only arise when the assessment order was set aside.
+but the taxing department would have the use of the assessees money from the date when the amount was paid till the taxing authorities chose to refund the money.
+could it be suggested that the position would be different with regard to advance payment of tax?
+the liability to pay the tax arose as soon as the assessment order was made and that liability would cover not only the advance tax already paid, but also any additional amount that might have to be paid by the assessee.
+in this very case, the assessee paid an additional amount of rs.6 lakhs.
+although it put forward a claim for interest on this amount also, that claim was ultimately abandoned.
+therefore, if we were to give the construction to section 18a as suggested by mr. palkhivala, then the advance tax would stand on a different footing from the payment of rs.6 lakhs, which was paid by the assessee under the order of assessment.
+the scheme of the section seems to be that interest is payable for the period during which there is no liability to pay upon the assessee.
+but once the order of assessment is made, the liability to pay arises, and even though the order may be subsequently set aside, there is no obligation upon the department to pay any interest in respect of the amounts which they recovered as tax under the original assessment order.
+prior to 1944, it may be recalled, tax was payable only after and in pursuance of an order of assessment.
+it was only by virtue of section 18a 5 introduced in 1944 that tax became payable in advance of the assessment.
+but once an assessment is made - according to this reasoning - the advance nature of the tax ceases.
+it becomes relatable and referable to the assessment order just as the amount paid under and in pursuance of the assessment order.
+actually, in the above case, besides the advance tax paid during the relevant financial year, the assessee had also paid a sum of rupees six lakhs pursuant to the original assessment order.
+if the assessee says that he is entitled to interest on the excess amount paid by way of advance tax upto the date of the revised assessment order, points out chagla, c.j., there is no reason why he should not be entitled to claim interest on rupees six lakhs paid pursuant to original assessment order from the date of its payment till the date of the revised assessment order.
+at that time, it must be remembered, there was no provision under which interest could be claimed on the said amount of rupees six lakhs.
+chagla, c.j. points out the inequity or illogicality in paying interest on the excess amount of advance tax from the date of payment till the date of revised assessment order and in denying any interest on the amount of rupees six lakhs paid pursuant to the original assessment order.
+the learned chief justice accordingly held that when section 18a 5 spoke of the date of the assessment hereinafter called the regular assessment made under section 23, it referred to the original order of assessment.
+the above decision was followed by a division bench of the allahabad high court in sir shadilal sugar and general mills limited v. union of india 85 i.t.r.363 , which is the subject-matter of civil appeal number 1395 of 1974 before us.
+the assessment year concerned in this case is 1960-61 and, therefore, governed by the indian income tax act, 1922.
+r.s. pathak, j., as he then was speaking for the bench gave an additional reason in support of the view taken in sarangpur cotton.
+the learned judge referred to sub-section 6 of section 18a corresponding to section 215 of the present act and pointed out that by virtue of the third proviso to the said sub-section, where the amount on which interest is payable by the assessee is reduced as a result of appeal or revision or reference, as the case may be the interest will be reduced accordingly and the excess interest will be refunded together with the amount of income tax refundable but that a similar provision was not found in section 214.
+the learned judge pointed out, the express enactment of this provision points it to the conclusion that in its absence, the computation of the interest would ordinarily have to be made by reference to the date of the original assessment order.
+the third judgment in the sequence - taking a contrary view - is of the calcutta high court rendered by a learned single judge, sabyasachi mukharji, j., in chloride india limited v. commissioner of income tax, west bengal 106 i.t.r.38 .
+the assessment year concerned was 1964-65 and thus governed by the 1961 act.
+the assessee paid certain amount by way of advance tax.
+the appeal preferred against the order of assessment was allowed in part, pursuant to which the income tax officer revised the original assessment.
+according to the revised assessment order, a sum of rs. 4,28,260.40p. was found refundable to the assessee.
+the amount was refunded but interest was refused by the income tax officer as well as by the commissioner under section 264.
+the assessee questioned the said refusal by way of a writ petition.
+the learned judge held that the regular assessment referred to in section 214 means the revised assessment order and not the original order of assessment.
+the learned judge relied upon the earlier bench decision of that court in kooka sidhwa company v. commissioner of income tax 54 i.t.r.54 wherein it was held that an order of assessment made by the income tax officer pursuant to an appellate order is yet an order of assessment within the meaning of section 23 and appealable as such.
+the learned judge pointed out that for all purposes, the revised assessment order is the order of regular assessment and not the original assessment order which has indeed ceased to exist.
+mukharji, j. distinguished the decisions of the bombay and allahabad high courts in sarangpur cotton and sir shadilal sugar mills respectively as having been rendered under the provisions of the 1922 act which, said the learned judge, were different from those in the present act.
+the revenue urged before the learned judge that when the parliament enacted the 1961 act and used the expression regular assessment in section 214, it must be presumed to be aware and approved of the interpretation placed thereon by the two high courts, bombay and allahabad.
+the learned judge declined to accede to the said contention holding that the expression construed by the said high courts was not the expression regular assessment but the words assessment hereinafter called the regular assessment .
+we may next refer to the decision of the madras high court in commissioner of income tax, tamil nadu v. rajalakshmi mills 125 i.t.r.141 .
+the assessment year concerned was 1968-69.
+it was a case where the original assessment order was rectified by the income tax officer under section 154.
+the division bench held that the original assessment order as rectified is the regular assessment order or the correct assessment order, as it may be called.
+on that basis, it held that the assessee was entitled to grant of interest on the advance tax refunded upto the date of the rectified assessment order.
+the same view was re- affirmed in triplicane urban society v. commissioner of income tax, madras 126 i.t.r.125 .
+this was, however, a case where the assessment order was modified, i.e., revised pursuant to the appellate order.
+reference may now be made to the decision of the delhi high court in national agricultural cooperative marketing federation of india limited v. union of india 130 i.t.r.928 .
+the assessment year concerned therein was 1973-74.
+the assessee paid advance tax during the relevant financial year but contended during the course of assessment proceeding that by virtue of section 80p of the act, its income was not liable to tax.
+the income tax officer rejected the contention.
+on appeal, the appellate assistant commissioner upheld the assessees contention, in pursuance of which, a revised assessment order was made by the income tax officer substantially reducing the amount of tax.
+the assessee claimed interest on the excess amount of tax paid upto the date of refund both under section 214 as well as section 244.
+meanwhile, sub-section 1a of section 244 had also come into force with effect from october 1, 1975.
+s. ranganathan, j., speaking for the bench, held a the payment of advance tax has material significance only till the initial regular assessment is made.
+thereafter, it has no separate existence by itself but gets merged in the tax demand payable by the assessee pursuant to the assessment order b the expression regular assessment in section 214 should be construed as referring only to the original assessment and not to subsequent modifications thereof, pursuant to appeal or revision.
+there is no change in the meaning of the expression regular assessment from the 1922 act to the present act c the fact that earlier no interest was provided on the amount refunded as a result of appeal revision and the further fact that section 244, even when enacted, did not provide for interest from the date of payment or date of original assessment, but only after expiry of a reasonable period after the passing of order which entitles the assessee to refund should induce the court to hold that interest is payable under section 214 only upto the original assessment order d by interpreting the expression regular assessment as referring to original assessment, no anamoly will result it is consistent with the scheme of the provisions relating to advance tax e the words regular assessment in sub-section 1a of section 214 carry a different meaning than the meaning the said words carry in sub-section 1 f the expression regular assessment should carry the same meaning in both sections 214 and 215 it cannot be different g inasmuch as the advance tax as well as the tax, if any, paid pursuant to the assessment order - or otherwise - get merged into one tax, payable under and referable to the assessment order, the assessee is entitled to interest on the amount refunded as a result of the revised assessment order made pursuant to the appellate, revisional or reference order from the date of payment till the date of refund.
+it would thus be seen that this decision while affirming the basic premise of sarangpur cotton and sir shadilal sugar, seeks to place the amount paid by way of advance tax also within the purview of sub-section 1a of section 244.
+the learned judge held that the introduction of sub-section 1a in section 244 has altered the previous position and that it entitles the assessee to get interest on the tax paid by him in pursuance of the original assessment provided the said payment was after march 31, 1975.
+the learned judge held that the tax paid by the assessee pursuant to original assessment includes, by fiction, advance tax as well.
+once a fiction is so created, the learned judge held, it must be given its full effect.
+support was sought for this proposition from the language of section 219.
+in trustees of h.e.
+nizam religious endowment trust v. income tax officer 131 i.t.r.239 , a bench of the andhra pradesh high court followed the decision of the bombay and allahabad high courts and dissented from the view taken by the calcutta high court.
+a full bench of the bombay high court considered the question once again in commissioner of income tax v. carona sahu company limited 146 i.t.r.452 . bharucha, j., speaking for the full bench, reviewed all the decisions of the high courts rendered till then and affirmed the following propositions a interest is compensatory in character but there is no right to receive interest except under a statute.
+the right to receive interest, therefore, depends upon the construction of the relevant statute. b section 215 is a counter-part of section 214 and, therefore, its interpretation is of cardinal significance in the matter of interpreting section 214.
+the absence of a provision in section 214 corresponding to the provision contained in sub- section 3 of section 215 indicates that the words regular assessment in both section 214 and section 215 mean only the original assessment and not the last operative order or the assessment made pursuant to an appellate revisional order.
+the full bench affirmed the view taken by that court in sarangpur cotton.
+it dissented from the contrary view taken by the calcutta and other high courts.
+a full bench of the gujarat high court considered the very issue in bardolia textile mills v. income tax officer 151 i.t.r.38

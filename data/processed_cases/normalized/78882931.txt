@@ -1,0 +1,218 @@
+--- PREAMBLE & CASE INFO ---
+
+case number appeal civil 3255 of 1984 petitioner mafatalal industries limited etc. etc. respondent union of india etc. etc. date of judgment 19/12/1996 bench a.m.ahmadi cji jagdish saran verma s.c.agrawal b.p.jeevan reddy a.s.anand b.l.hansaria s.c.sen k.s.paripoornan b.n.kirpal judgment judgment judgement delivered by a.m.ahmadi cji b.p.jeevan reddy k.s.paripoornan, jj.
+b.l. hansaria s.c.
+sen, jj. a.m.ahmadi, cji i have had the benefit of studying the judgments of my learned brothers reddy, sen and paripoornan, jj.
+pursuant to the discussions that i have had with them and with all my other learned brothers on this bench, i find myself to be broadly in agreement with the conclusions recorded by reddy, j., subject to the two aspects on which i have recorded my views hereunder the first of these is the issue regarding the extent to which the jurisdiction of ordinary courts is ousted in respect of claims for refund of taxes illegally levied and collected.
+in my view, it would be incorrect to hold, as reddy, j. has done, that every claim for refund of illegal or unauthorised levy tax is necessarily required to be made in accordance with the provisions of the central excise act, 1944 hereinafter called the excise act .
+the leading authority governing this issue is the decision of this court in dhulabhai and others vs. state of madhya pradesh and another, 1968 3 s.c.r.
+662. in this case, after analysing the leading decisions in the field, this court laid down the following propositions with a view to determining the extent to which the jurisdiction of civil courts can be ousted 1 where the statute gives a finality to the orders of the special tribunals the civil courts jurisdiction must be held to be excluded if there is adequate remedy to do what the civil courts would normally do in a suit.
+such provision, however, does not exclude those cases where the provisions of the particular act have not been complied with or the statutory tribunal has not acted in conformity with the fundamental principles of judicial procedure.
+2 where there is an express bar of the jurisdiction of the court, an examination of the scheme of the particular act to find the adequacy or the sufficiency of the remedies provided may be relevant but is not decisive to sustain the jurisdiction of the civil court.
+where there is no express exclusion the examination of the remedies and the scheme of the particular act to find out the intendment becomes necessary to see if the statute creates a special right or a liability and provides for the determination of the right or liability and further lays down that all questions about the said right and liability shall be determined by the tribunals so constituted, and whether remedies normally associated with actions in civil courts are prescribed by the said statute or not.
+3 challenge to the provisions of the particular act as ultra vires cannot be brought before tribunals constituted under that act.
+even the high court cannot go into that question on a revision or reference from the decision of the tribunals.
+4 when a provision is already declared unconstitutional or the constitutionality of any provision is to be challenged, a suit is open.
+a writ of certiorari may include a direction for refund if the claim is clearly within the time prescribed by the limitation act but it is not a compulsory remedy to replace a suit lies.
+5 where the particular act contains no machinery for refund of tax collected in excess of constitutional limits or illegally collected a suit lies.
+6 questions of the correctness of the assessment apart from its constitutionality are for the decision of the authorities and a civil suit does not lie if the orders of the authorities are declared to be final or there is an express prohibition in the particular act.
+in either case the scheme of the particular act must be examined because it is a relevant enquiry.
+7 an exclusion of the jurisdiction of the civil court is not readily to be inferred unless the conditions above set down apply.
+in view of these propositions, which have been reiterated by this court on several occasions and thus constitute sound law, it is clear that actions by way of suits of petitions under article 226 of the constitution cannot be completely eliminated.
+the claims for refund can arise under three broad classes and issue of ouster of jurisdiction of civil courts can be understood by focussing on the parameters of these classes which are as follows class i unconstitutional levy-- where claims for refund are founded on the ground that the provision of the excise act under which the tax was levied is unconstitutional.
+cases falling within this class are clearly outside the ambit of the excise act.
+in such cases assessees can either file a suit under section 72 of the contract act, 1872 hereinafter called contract act or invoke the writ jurisdiction of the high court under article 226 of the constitution.
+class ii illegal levy-- whe
+
+--- JUDGMENT BODY ---
+
+re claims for refund are founded on the grounded that there is misinterpretation misapplication erroneous interpretation of the excise act and the rules framed thereunder.
+ordinarily, all such claims must be preferred under the provisions of the exercise act and the rules framed thereunder by strictly adhering to the stipulated procedure.
+however, in cases where the authorities under the excise act arrogate to themselves jurisdiction even in cases where there is clear want of jurisdiction, the situation poses some difficulty .
+reddy, j. has held that in all cases, except where unconstitutionality is alleged, the remedy is to be pursued within the framework of the excise act.
+this is a dangerous proposition for it will not cater to situations where the authorities under the excise act assume authority in cases where there is an inherent lack of jurisdiction.
+this is because, if one were to follow reddy, j.s reasoning , the authorities under the act will have the final say over situations in which they totally lack inherent jurisdiction in cases which are ultra vires the excise act but intra vires the constitution.
+to that extent, i would hold that in cases where the authorities under the excise act initiate action though lacking in inherent jurisdiction, the remedy by way of a suit under section 72 of the contract act or a writ under article 226 of the constitution, will lie.
+such a conclusion will not frustrate the exclusion of jurisdiction of civil courts by the excise act because the areas where an authority acting under a statute is said to lack inherent jurisdiction have been clearly demarcated by several decisions of this court.
+class iii mistake of law -- where claims for refund are initiated on the basis of a decision rendered in favour of another assessee holding the levy to be 1 unconstitutional or 2 without inherent jurisdiction.
+ordinarily, no assessee can be allowed to reopen proceedings that have been finally concluded against him on the basis of a favourable decision in the case of another assessee.
+this is because an order which has become final in the case of an assessee will continue to stand until it is specifically recalled or set aside in his own case.
+in cases where the levy of a tax has been held to be 1 unconstitutional or 2 void for want of inherent jurisdiction as explained in class ii , it is open for the assessees to take advantage of the declaration of the law so made and claim refunds on the ground that they paid the tax under a mistake of law.
+this is because such claims are outside the ambit of the excise act.
+in such cases, the limitation period applicable will be that specified in section 17 1 c of the limitation act.
+reddy, j. has moulded an exception to the above stated principle.
+he has held that where a person approaches the high court or the supreme court challenging the constitutional validity of a provision but fails, he cannot take advantage of the declaration of unconstitutionality obtained by another person on another ground this is for the reason that so far as he is concerned , the decision has become final and cannot be ignored or put aside as if it did not exist on the basis of the decision in another persons case.
+however, in my opinion, since the levy of tax has been held to be unconstitutional which would lead to the conclusion that it should never have been levied in the first place such an interpretation would be unfair to an assessee who had the foresight to discern the unconstitutionality of the provision albeit on a different ground but was unfortunate in not being able to convince the concerned court of the unconstitutionality of the provision.
+considering the gravity of the case, in my opinion, it should be left open to such an assessee to use such legal remedy as may be available to him to have the earlier order reviewed or recalled on the basis of the order made in the subsequent case.
+if he succeeds, well and good if he fails he must take the consequence of an adverse order against him.
+on the issue of the retrospective application of the amended provisions of the excise act, i wish to emphasise one practical difficulty that may arise.
+reddy, j. has held that in respect of proceedings that have been finally culminated, there is no question of reopening proceedings, and retrospectively applying the amended section 11b.
+however, in respect of decrees and orders that have become final but have not been executed, the non obstante clause, section 11b 3 , provides as follows 3 notwithstanding anything to the contrary contained in any judgment, decree, order or direction of the appellate tribunal or any court or in any other provision of this act or the rules made thereunder or any other law for the time being in force, no refund shall be made except as provided in sub-section 2 . emphasis added it is, therefore, clear that in respect of such decrees and orders, the procedure and conditions prescribed in section 11b will have to be complied with.
+however, under the scheme of the amended excise act, the application for refund which is a pre-requisite for invoking section 11b 2 , is required to be made within six months from the payment of duty.
+it is obvious that this requirement cannot be complied with in respect of pending decrees and orders.
+but it must at the same time be realised that in such a case, the assessee was protesting against the recovery of the excise duty from him for which he had even initiated legal proceedings.
+it would therefore be in order to assume that he had paid the duty even though he was protesting its recovery.
+to ensure that such orders and decrees are not frustrated, its must be deemed that the duties of excise in such cases were paid under protest within the meaning of the second proviso to clause 1 of section 11b.
+this would enable the assessees in such cases to file fresh applications under section 11b 2 , thereby complying with the scheme of the amended excise act.
+subject to the above, i agree with the rest of the conclusions reached by reddy, j. b.p.jeevan reddy article 289 1 of the constitution of india declares that the property and income of a state shall be exempt from union taxation.
+the question in this batch of appeals is whether the properties of the states situated in the union territory of delhi are exempt from property taxes levied under the municipal enactments in force in the union territory of delhi.
+the delhi high court has taken the view that they are.
+that view is challenged in these appeals preferred by the new delhi municipal corporation and the delhi municipal corporation.
+leave granted in the special leave petitions.
+prior to 1911-12, a large part of the territory now comprised in the union territory of delhi was a district of the province of punjab.
+by a proclamation dated september 17, 1912, the governor general took the said territory under his immediate authority and management, to be administered as a separate province to be known as the province of delhi.
+this was in connection with the decision to shift the capital from calcutta to delhi.
+in the same year, the delhi laws act, 1912 1912 act was enacted.
+it came into force on and with effect from the ist day of october, 1912.
+schedule- a to the act defined the territory covered by the new province.
+sections 2 and 3 of the 1912 act provided inter alia that the creation of the new province of delhi shall not effect any change in the territorial application of any enactment.
+one of the acts so applying to the territory comprised in the new province of delhi was the punjab municipal act, 1911.
+in the year 1915, another act called the delhi laws act, 1915 1915 act was enacted.
+under this enactment, certain areas formerly comprised in the united provinces of agra and oudh were included in and added to the province of delhi with effect from ist april, 1915.
+section 2 of the 1915 act also contained a saving clause similar to section 2 of the 1912 act.
+in the constitution of india, 1950, as originally enacted, the first schedule contained four categories of states, viz., part a, part b, part c and part d. part d comprised only of andaman and nicobar islands.
+the chief commissioners province of delhi was one of the part c states.
+by virtue of the part c states laws act, 1950, the laws in force in the erstwhile chief commissioners province of delhi were continued in the part c state of delhi.
+this act came into force on the 16th day of april, 1950.
+in the year 1951, the parliament enacted the government of part c states act, 1951.
+this act contemplated that there shall be a legislature for each of the part c states specified therein which included delhi.
+section 21 stated that the legislature of a part c state shall have the power to make laws with respect to any of the matters enumerated in list-ii and list-iii of the seventh schedule to the constitution.
+in the case of delhi legislature, however, it was provided that it shall not have power to make laws with respect to matters specified therein including the constitution and powers of municipal corporations and other local authorities, of improvement trusts and of water supply, drainage, electricity, transport and other public utility authorities in delhi or in new delhi.
+section 22 provided that any law made by the legislature of a partc state shall, to the extent of repugnancy with any law made by parliament, whether enacted earlier or later, be void.
+it is necessary to notice the two distinctive features of the legislatures of part c states not only were they created under an act made by parliament, the laws made by them even with respect to any of the matters enumerated in list-ii were subject to any law made by the parliament.
+in case of repugnancy, the law made by legislature was to be of no effect.
+so far as delhi is concerned, the parliament placed certain additional fetters referred to in section 26.
+it is stated that in the year 1952, a legislature was created for delhi which functioned upto november 1, 1956 when the government of part c states act, 1951 was repealed by section 130 of the states reorganisation act, 1956.
+while repealing the government of part c states act, 1951, the states reorganisation act, 1956 did not provide for the creation or continuance of legislatures for the part c states.
+the legislature constituted for delhi thus came to an end.
+by constitution seventh amendment act, 1956, some of the part c states ceased to exist, having been merged in one or the other state while some others continued - designated as union territories.
+the categorisation of the states into parts a,b,c and d was done away with.
+in its place, the first schedule came to provide only two categories, viz., i the states and ii the union territories.
+the seventh amendment act specified six union territories, viz., delhi, himachal pradesh, manipur,tripura, andaman and nicobar islands and laccadiv minicoy and amindivi islands.
+delhi thus became a union territory.
+with the inclusion of goa and other former portugese territories in the union, the number of union territories grew to eight by 1962.
+in that year, the constitution fourteenth amendment act, 1962 was enacted.
+pondicherry was added as a union territory as s1.no.9.
+more important, the said amendment act introduced article 239-a. the new article provided that parliament may by law create for any of the union territories of himachal pradesh, manipur, tripura, goa, daman and diu and pondicherry, a body, whether elected or partly nominated, and partly elected to function as a legislature for the union territory, or a council of ministers, or both with such constitutional powers and functions in each case, as may be specified in the law emphasis added.
+it is significant to note that the said article did not provide for creation of a legislature or a council of ministers, as the case may be, for the union territory of delhi.
+pursuant to article 239-a, parliament enacted the government of union territories act, 1963 1963 act.
+obviously, this act applied only to those union territories as were referred to in article 239-a. it did not apply to delhi.
+this act provided for creation of legislative assemblies for the union territories mentioned in article 239-a and the extent of their legislative power.
+section 3 1 declared that there shall be a legislative assembly for each union territory whereas section 18 1 provided that subject to the provisions of this act, the legislative assembly of a union territory may make laws for the whole or any part of the union territory with respect to any of the matters enumerated in the state list or the concurrent list in the seventh schedule to the constitution insofar as any such matter is applicable in relation to union territories.
+sub-section 2 of section 18 read with section 21, however, conferred over-riding power upon the parliament to make any law with respect to any matter for a union territory or any part thereof.
+in case of inconsistency between a law made by parliament and a law made by the legislature of any of these union territories, the latter was to be void to the extent of repugnancy, notwithstanding whether the parliamentary law was earlier or subsequent in point if time.
+section 19 of the act exempted the property of the union from all taxes imposed by or under any law made by the legislative assembly of a union territory except insofar as is permitted by a law made by parliament.
+by the constitution sixty ninth amendment act, 1991, article 239-aa was introduced in part-viii of the constitution .
+this article re-named the union territory of delhi as the national capital territory of delhi and provided that there shall be a legislative assembly for such national capital territory.
+the legislative assembly so created was empowered by clause 3 of the said article to make laws for the whole or any part of the national capital territory with respect to any of the matters enumerated in the state list or in the concurrent list, insofar as any such matter is applicable to union territories, except, matters with respect to entries 1,2 and 18 of the state list and entries 64,65 and 66 of that list insofar as they relate to the said entries 1, 2 and 18.
+clause 3 further provided that the power conferred upon the legislative assembly of delhi by the said article shall not derogate from the powers of the parliament to make laws with respect to any matter for a union territory or any part thereof.
+it further provided that in the case of repugnancy, the law made by parliament shall prevail, whether the parliamentary law is earlier or later to the law made by the delhi legislative assembly.
+the parliament is also empowered to amend, vary or repeal any law made by the legislative assembly.
+article 239-aa came into force with effect from february 1, 1991.
+pursuant to the article, the parliament enacted the government of national capital territory of delhi act, 1991.
+it not only provided for constitution of a legislative assembly but also its powers as contemplated by article 239-aa.
+this act too came into force on february 1, 1991.
+the subordinate status of the delhi legislature is too obvious to merit any emphasis.
+so far as the municipal laws governing the territory of delhi is concerned, the following is the position by delhi laws act, 1912, referred to supra, the punjab municipal act continued to govern the territory comprised in the chief commissioners province of delhi.
+the act is stated to have been extended to part c state of delhi under a notification issued under part c state laws act, 1950.
+in the impugned judgment, the high court has stated the following facts the various punjab enactments which were then in force in the territory of delhi continued to be in force by virtue of the delhi laws act of 1912 and later by the part c states laws act of 1950 and the union territories laws act of 1950.
+the application and the later extension of this law to the union territory of delhi was, therefore, not by the authority of the state legislature but that of the central legislature, that is, the central legislature under the government of india act followed by the central legislature under the constitution of india, that is, the parliament of india .
+the delhi laws act 1912, the union territories laws act, 1950 as indeed the part c states laws act, 1950 were all central statutes and when a provincial act or an act which may be treated as a provincial act or state act was extended to a territory by a particular legislature, it would be deemed to be the enactment of such a legislature and this principle is clearly recognised by the supreme court in the case of mithan lal v. the state of delhi and another, 1959 s.c.r.445 it is thus clear that on the extension of the act to the union territory of delhi by the various central legislative enactments referred to above, it became a central act or an act of parliament as if made by virtue of power of parliament to legislate for the union territory of delhi by virtue of clause 4 of article 246 of the constitution of india.
+the correctness of the above factual statement has not been disputed by anyone before us.
+indeed, the contention of sri p.p. rao, who led the argument on behalf of the respondents-state governments was to the same effect.
+he contended that inasmuch as the punjab municipal act has been extended to part c state of delhi under the part c state laws act, 1950 with effect from april 16, 1950, it is a post-constitutional enactment made by parliament and hence the taxes levied thereunder constitute union taxation.
+he placed strong reliance upon the decision in mithan lal v. the state of delhi anr.
+1959 s.c.r.445 and also certain observations in t.m. kanniyan v. income tax officer, pondicherry anr.
+1968 2 s.c.r.103 in that behalf.
+it is obvious that this was also the case of the state governments before the delhi high court.
+we, therefore, proceed on the basis that the punjab municipal act was extended to part c state of delhi under and by virtue of the part c state of delhi under and by virtue of the part c states laws act, 1950 which came into of the force on april 16, 1950.
+by virtue of the constitution seventh amendment act, 1956, the part c state of delhi was designated as a union territory.
+the punjab municipal act continued to govern the union territory of delhi.
+in the year 1957, the parliament enacted the delhi municipality act, 1957.
+the first schedule to the act specified the boundaries of new delhi within which area the punjab municipal act continued to be in force.
+the remaining area was designated as the delhi municipal corporation area and the delhi municipal corporation act, 1957 was made applicable to it.
+in the year 1994, the parliament enacted the new delhi municipal corporation act, 1994 repealing punjab municipal act, 1911.
+this act has been brought into force with effect from may 25, 1994.
+it is, however, confined in its application to the area comprised in the new delhi municipal corporation.
+delhi and new delhi are thus governed by different municipal enactments.
+the delhi municipal corporation act and new delhi municipal corporation act are, without a doubt, post- constitutional laws enacted by parliament.
+part - ii article 1 1 of the constitution of india declares that india, i.e., bharat, shall be a union of states.
+as amended by the constitution seventh amendment act, clauses 2 and 3 article 1 read 2 the states and the territories thereof shall be as specified in the first schedule. 3 the territory of india shall comprise-- a the territories of state b the union territories specified in the first schedule and c such other territories as may be acquired.
+clause 30 in article 366 defines the union territory in the following words union territory means any union territory specified in the first schedule and includes any other territory comprised with the territory of india but not specified in that schedule.
+the expression state is not defined in the constitution.
+it is defined in the general clauses act, 1397 which is made applicable to the interpretation of the constitution by article 367.
+as on the date of the commencement of the constitution, clause 58 in section 3 of the general clauses act defined state in the following words 58 .
+state shall mean a part a state, a part b state or a part c state.
+the said definition was amended by the adaptation of laws order number1 of 1956 issued by the president in exercise of the power conferred upon him by article 372-a of the constitution introduced by the constitution seventh amendment act.
+the amended definition reads thus 58 states-- a as respects any period before the commencement of the constitution seventh amendment act, 1958, shall mean a part a state, a part b state or a part c state and b as respects any period after such commencement, shall mean a state specified in the first schedule to the constitution and shall include a union territory.
+the definitions in the general clauses act, it is necessary to remember, have to be read and applied subject to the opening words in section 3, viz., unless there is anything repugnant in the subject or context part-xi of the constitution contains provision governing relations between the union and the states.
+this part is divided into two chapters, viz., chapter-i containing articles 245 to 255 and chapter-ii containing articles 256 to 263.
+chapter-i carries the title legislative relations while chapter-ii is called administrative relations.
+article 245, which carries the heading marginal note the extent of laws made by parliament and the legislature of states contains two clauses.
+clause 1 says that subject to the provisions of this constitution, parliament may make laws for the whole or any part of the territory of india and the legislature of a state may make laws for the whole or any part of the state.
+article 246 is of crucial relevance herein and must, therefore, be set out in its entirety 246.
+subject-matter of laws made by parliament and by the legislatures of states.- 1 notwithstanding anything in clauses 2 and 3 , parliament has exclusive power to make laws with respect to any of the matters enumerated in list i of the seventh schedule to the constitution referred to as the union list . 2 notwithstanding anything in clause 3 , parliament, and, subject to clause 1 the legislature of any state also, have power to make laws with respect to any of the matters enumerated in list iii in the seventh schedule to the constitution referred to as the concurrent list . 3 subject to clauses 1 and 2 , the legislature of any state .has exclusive power to make laws for such state or any part thereof with respect to any of the matters enumerated in list ii in the seventh schedule to the constitution referred to as the state list . 4 parliament has power to make laws with respect to any matter for any of the territory of india not included in a state notwithstanding that such matter is a matter enumerated in the state list.
+emphasis added it is relevant to point out that in clauses 2 and 3 , as originally enacted - and upto the seventh amendment act - the expression state was followed by the words specified in part-a or part-b of the first schedule.
+similarly, the words, in a state in clause 3 , were followed by the words in part-a or part-b of the first schedule.
+in other words, clauses 2 and 3 of article 246 expressly excluded part c and part d states from their purview.
+the position is no different after the constitution seventh amendment act, which designated the part-c states as union territories.
+they ceased to be states.
+as rightly pointed out by a constitution beach of this court in t.m. kanniyan, the context of article 246 excludes union territories from the ambit of the expression state occurring therein.
+as a matter of fact, this is true of chapter-i of part-xi of the constitution as a whole.
+it may be remembered that during the period intervening between the constitution seventh amendment act, 1962, there was no provision for a legislature for any of the union territories.
+article 239-a in part-vii - the union territories - which before the seventh amendment was entitled the states in part-c of the first schedule introduced by constitution fourteenth amendment act did not itself create a legislature for union territories it merely empowered the parliament to create them for certain specified union territories excluding delhi and to confer upon them such powers as the parliament may think appropriate.
+thus, the legislatures created for certain union territories under the 1963 act were not legislatures in the sense used in chapter-iii of part-iv of the constitution, but were mere creatures of the parliament - some sort of subordinate legislative bodies.
+they were unlike the legislatures contemplated by chapter-iii of part- vi of the constitution which are supreme in the field allotted to them, i.e., in the field designated by list-ii of the seventh schedule.
+the legislatures created by the 1963 act for certain union territories owe their existence and derive their powers from the act of the parliament and are subject to its over-riding authority.
+in short, the state legislatures contemplated by chapter-i of part-xi are the legislatures of states referred to in chapter-iii of part-vi and not the legislatures of union territories created by the 1963 act.
+union territories are not states for the purposes of part-xi chapter-i of the constitution.
+article 248 confers the residuary legislative power upon the parliament.
+the said power includes the power to make any law imposing a tax not mentioned in either list-ii or list-iii.
+articles 249, 250, 252 and 357 confer upon the parliament power to make laws with respect to matters enumerated in list-ii in certain exceptional situations, which may, for the sake of convenience, be called a case of substitute legislation.
+it would be enough to refer to the marginal headings of these four articles.
+they read 249.
+power of parliament to legislate with respect to a matter in the state in the national interest.
+250. power of parliament to legislate with respect to any matter in the state list if a proclamation of emergency is in operation.
+252.
+power of parliament to legislate for two or more states by consent and adoption of such legislation by any other state.
+357.
+exercise of legislative powers under proclamation issued under article 356.
+we may now set out article 285 and 289 285.
+exemption of property of the union from state taxation.-- 1 the property of the union shall, save in so far as parliament may by law otherwise provide, be exempt from all taxes imposed by a state or by an authority within a state. 2 nothing in clause 1 shall, until parliament by law otherwise provides, prevent any authority within a state from levying any tax on any property of the union to which such property was immediately before the commencement of this constitution liable or treated as liable, so long as that tax continues to be levied in that state.
+289.
+exemption of property and income of a state from union taxation.-- 1 the property and income of a state shall be exempt from union taxation. 2 nothing in clause 1 shall prevent the union from imposing or authorising the imposition of, any tax to such extent, if any, as parliament many by law provide in respect of a trade or business of any kind carried on by, or on behalf of, the government a state, or any operations connected therewith, or any property used or occupied for the purposes of such trade or business or any income accruing in connection therewith. 3 nothing in clause 2 shall apply to any trade or business, or to any class of trade or business, which parliament may by law declare to be incidental to the ordinary functions of government.
+a federation pre-supposes two coalescing units the federal government centre and the states provinces.
+each is supposed to be supreme in the sphere allotted it them.
+power to tax is an incident of sovereignty.
+basic premise is that one sovereign cannot tax the other sovereign.
+article 285 and 289 manifest this mutual regard and immunity but in a manner peculiar to our constitutional scheme.
+while the immunity created in favour of the union is absolute, the immunity created in favour of the states is a qualified one.
+we may elaborate article 285 says that the property of the union shall be exempt from all tax imposed by a state or by any authority within a state unless, of course, parliament itself permits the same and to the extent permitted by it.
+clause 2 of article 285 saves the existing taxes until the parliament otherwise provides, but this is only a transitional provision.
+the ban, if it can be called one, is absolute and emphatic in terms.
+there is no way a state legislature can levy a tax upon the property of the union.
+so far as article 289 is concerned, the position is different.
+clause 1 , had it stood by itself, would have been similar to clause 1 of article 285.
+it says that the property-and income-of a state shall be exempt from union taxation.
+but it does not stand alone.
+it is qualified by clause 2 and clause 3 is an exception to clause 2 .
+but before we refer to clause 2 , a word with respect to the meaning and ambit of the expression property occurring in this article.
+expression property is wide enough to take in all kinds of property.
+in re.
+the bill to amend section 20 of the sea customs act, 1878 and section 3 of the central excises and salt act, 1944 1964 3 s.c.r.787, all the learned judges both majority and dissenting were agreed that the expression must be understood in its widest sense.
+there is no reason to put a restricted construction thereon.
+indeed, there is no controversy about this proposition before us.
+coming to clause 2 , it says that the ban imposed by clause 1 shall not prevent the union from imposing or authorising the imposition of any tax to such extent, if any, as the parliament may by law provide, in respect of a trade or business of any kind carried on by or on behalf of the government of a state or b any operations connected with such trade or business or c any property used or occupied for the purposes of such trade or business or d any income accruing or arising in connection with such trade or business.
+the inspiration for this provision may perhaps be found in certain united states decision on the question of the power of the units of a federal polity to tax each others properties.
+clause 3 empowers the parliament to declare, by law, which trade or business or any class of trades or businesses is incidental to the ordinary functions of the government, whereupon the trades businesses so specified go out of the purview of clause 2 .
+it would be appropriate at this state to notice the ratio of two judgments of this court dealing with article 289.
+in re sea customs act, a special bench of nine learned judges, by a majority, laid down the following propositions a clause 1 of article 289 provides for exemption of property and income of the states only from taxes imposed directly upon them it has no application to indirect taxes like duties of excise and customs b duties of excise and customs are not taxes on property or income they are taxes on manufacture production of goods and on import export of goods, as the case may be, and hence, outside the purview of clause 1 of article 239.
+the other decision in andhra pradesh state road transport corporation v. the income tax office 1964 7 s.c.r.17 is the decision of a constitution bench.
+the main holding in this case is that income of the a.p.s.r.t.c.
+is not the income of the state of andhra pradesh since the former is an independent legal entity and hence, article 289 1 does not avail it.
+at the same time, certain observations are made in the decision regarding the scheme of article 289.
+it is held that clause 2 is an exception of a proviso to clause 1 and as such whatever is included in clause 2 must be deemed to be included in clause 1 .
+in other words, the trading and business activities referred to in clause 2 are included in clause 1 and precisely for this reason the exception in clause 2 was provided.
+clause 3 , it was held, is an exception to clause 2 .
+in the words of the constitution bench the scheme of art.289 appears to be that ordinarily, the income derived by a state both from government and non-governmental or commercial activities shall be immune from income-tax levied by the union, provided, of course, the income in question can be said to be income of the state.
+this general prop

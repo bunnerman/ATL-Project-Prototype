@@ -1,0 +1,123 @@
+--- PREAMBLE & CASE INFO ---
+
+case number appeal civil 1625 of 2008 petitioner commissioner of income tax, chennai respondent m s bilahari investment p ltd date of judgment 27/02/2008 bench s. h. kapadia b. sudershan reddy judgment j u d g m e n t civil appeal no 1625 of 2008 arising out of s.l.p.
+c number 9801/07 with civil appeal number 1626 /08 arising out of slp c number 9804/07, civil appeal number 1627 /08 arising out of slp c number 9818/07, civil appeal number 1628 /08 arising out of slp c number 14048/07, civil appeal number 1629 /08 arising out of slp c number 14522/07, civil appeal number 1630 /08 arising out of slp c number 14579/07, civil appeal number 1631 /08 arising out of slp c number 14046/07 and civil appeal number 1632 /08 arising out of slp c number 21572/07.
+kapadia, j. leave granted.
+2. this batch of civil appeals filed by the department is directed against judgment of the division bench of the madras high court dated 19.6.2006 in which it has been held that in the matter of chit transaction, the completed contract method of accounting adopted by the respondents-assessees was erroneously rejected by the department and that the tribunal had erred in directing the discount to be spread over the balance period of the chit on a proportionate basis.
+in other words, the controversy arising in the present appeals is whether the completed contract method followed by the assessees and accepted by the revenue in the past needed to be substituted by percentage of completion method as contended by the ao.
+3. we are concerned with assessment years 1991-1992 to 1997-1998.
+4. assessees are private limited companies subscribing to chits as their business activities.
+they were maintaining their accounts on mercantile basis and they were computing profit loss, as the case may be, at the end of the chit period following completed contract method, which was earlier accepted by the department over several years.
+5. chit funds are basically saving schemes in which certain number of subscribers join together and each contributes a certain fixed sum each month, the total number of months being equal to the total number of subscribers.
+the subscriptions are paid to the manager of the fund by a certain prescribed date each month and the total subscriptions to the fund are auctioned each month amongst the subscribers.
+at each auction, the lowest bidder is paid the amount of his bid and the balance received from out of the total subscriptions received is distributed equally amongst other subscribers, as premium.
+the manager is paid a certain percentage of the collections each month on account of expenses and charges for conducting the auction.
+in the auction, a maximum amount, which the highest bidder agrees to forego, is the amount, which is distributed to the other members, subject to deduction of the managers commission.
+6. in this case, we are concerned with the tax treatment of the difference between the amount contributed and the amount received.
+in other words, in this case, we are concerned with allowability of the claim for discount under the income-tax act, 1961 1961 act in order to arrive at income under that act.
+7. as stated hereinabove, assessees herein have been following completed contract method over the years, which was accepted by the department.
+however, for the assessment years under consideration, the ao came to the conclusion that the completed contract method was not accurate in recognizing identifying income under the 1961 act, and according to him, therefore, in the context of the chit discount, the correct method was deferred revenue expenditure calculated on proportionate basis.
+in other words, the ao has preferred percentage of completion method as the basis for recognizing identifying income under the 1961 act in substitution of completed contract method.
+8. according to the department, chit dividend had to be subjected to tax on accrual basis as the assessees were following the mercantile system of accounting.
+according to the department, income accrued to the assessees in the form of chit dividend during the year whereas liability arose in the form of chit discount over the relevant period depending upon the remaining number of instalments to be paid.
+9. as far as the chit dividend is concerned, the department rejected the completed contract method as suggested by the assessees, which has been accepted by the tribunal and the high court.
+however, in the matter of chit discount, the high court, overruling the tribunal, has held that the completed contract method of accounting adopted by the assessees was valid and that the department had erred in spreading the discount over the remaining period of the chit on proportionate basis.
+10. in the matter of chit dividend, assessees have accepted the view of the tribunal and the high court that the completed contract method was not correct.
+therefore, to that extent, the controversy is settled.
+11.
+the limited controversy is whether the completed cont
+
+--- JUDGMENT BODY ---
+
+ract method of accounting adopted by the assessees as method of accounting for chit discount is required to be substituted by percentage of completion method.
+12.
+in this connection, it is the case of the assessees that, profits loss accrued to the assessees only when the dividends exceeded the discount paid and that difference could be known only on the termination of the chit when the total figure of dividend received and discount paid would be available.
+that, it would be possible for the assessees to make profits only when the sum total of the dividend received exceeded the sum total of discounts suffered which is debited to p l account.
+according to the assessees, the department has all along been accepting the completed contract method and, therefore, there was no justification in law or in facts for deviating from the accepted practice.
+according to the assessees, a chit transaction has been treated by the various courts as one single scheme running for the full period and, therefore, according to the assessees, the completed contract method adopted by it over the years was not required to be substituted by any other method of accounting.
+13.
+before us, shri parag p. tripathi, learned additional solicitor general, relied on the judgment of the bombay high court in the case of taparia tools limited v. joint commissioner of income-tax reported in 2003 260 itr 102 in which the matching principle has been discussed threadbare.
+we quote hereinbelow the said concept from the judgment, which reads as follows the mercantile system of accounting is based on accrual.
+basically, it is a double entry system of accounting.
+under the mercantile system of accounting, profits arising or accruing at the date of the transaction are liable to be taxed notwithstanding the fact that they are not actually received or deemed to be received under the act.
+under the mercantile system of accounting, therefore, book profits are liable to be taxed.
+the profits earned and credited in the books of account constitute the basis of computation of income.
+the system postulates the existence of tax insofar as monies due and payable by the parties to whom they are debited see keshav mills limited v. cit 1953 23 itr 230, 239 sc .
+therefore, under the mercantile system of accounting, in order to determine the net income of an accounting year, the revenue and other incomes are matched with the cost of resources consumed expenses.
+under the mercantile system of accounting, this matching is required to be done on accrual basis.
+under this matching concept, revenue and income earned during an accounting period, irrespective of actual cash in-flow, is required to be compared with expenses incurred during the same period, irrespective of actual out-flow of cash.
+in this case, the assessee is following mercantile system of accounting.
+this matching concept is very relevant to compute taxable income particularly in cases involving dre.
+it has been recognised by numerous judgments.
+in the case of calcutta company limited v. cit 1959 37 itr 1 sc the facts were as follows the assessee bought lands and sold them in plots.
+when the plots were sold the purchasers paid only a portion of the purchase price and undertook to pay the balance in instalments.
+the assessee, in turn, agreed to develop the plots within six months.
+in the relevant accounting year, the assessee actually received only rs. 29,392 towards sale price of the lands, but, in accordance with the mercantile system of accounting followed by the assessee, it credited in its accounts rs.
+43,692 representing the full sale price of the lands.
+at the same time, it also debited rs. 24,809 as expenditure for the development it had undertaken even though, no part of that amount was actually spent.
+the department, therefore, disallowed the expenditure of rs. 24,809 on the ground that the amount was not actually spent.
+the assessee ultimately succeeded in the supreme court.
+it was held by the supreme court that the expression profits or gains in section 10 1 of the income-tax act, 1922 should be understood in its commercial sense and there can be no computation of such profits and gains until the expenditure, which is necessary for the purposes of earning the receipts is deducted therefrom.
+accordingly, the supreme court took the view, that since the assessee was following mercantile system of accounting and since the assessee had credited the full sale price of lands in its accounts amounting to rs. 43,692, the assessee was entitled to estimate the expenditure because, without such estimation of expenditure, it was not possible to compute profits and gains.
+this concept is also applied by the supreme court in the case of madras industrial investment corporation limited 1997 225 itr 802 under following observations headnote ordinarily, revenue expenditure which is incurred wholly and exclusively for the purpose of business must be allowed in its entirety in the year in which it is incurred.
+it cannot be spread over a number of years even if the assessee has written it off in his books, over a period of years.
+however, the facts may justify an assessee who has incurred expenditure in a particular year to spread and claim it over a period of ensuing years.
+in fact, allowing the entire expenditure in one year might give a very distorted picture of the profits of a particular year.
+issuing debentures is an instance where, although the assessee has incurred the liability to pay the discount in the year of issue of debentures, the payment is to secure a benefit over a number of years.
+there is a continuing benefit to the business of the company over the entire period.
+the liability should, therefore, be spread over the period of the debentures.
+therefore, the matching concept, which we have referred to is well recognised by various judgments of the supreme court.
+in this case, the issue is whether the entire expenditure distorts the profits of a particular year.
+14.
+further, learned asg has also placed reliance on the judgment of this court in the case of j.k. industries limited anr.
+v. union of india ors.
+reported in 2007 13 scale 204.
+paragraphs 82 and 83 of the said judgment are reproduced hereinbelow 82.
+matching concept is based on the accounting period concept.
+the paramount object of running a business is to earn profit.
+in order to ascertain the profit made by the business during a period, it is necessary that revenues of the period should be matched with the costs expenses of that period.
+in other words, income made by the business during a period can be measured only with the revenue earned during a period is compared with the expenditure incurred for earning that revenue.
+however, in cases of mergers and acquisitions, companies sometimes undertake to defer revenue expenditure over future years which brings in the concept of deferred tax accounting.
+therefore, today it cannot be said that the concept of accrual is limited to one year.
+83.
+it is a principle of recognizing costs expenses against revenues or against the relevant time period in order to determine the periodic income.
+this principle is an important component of accrual basis of accounting.
+as stated above, the object of as 22 is to reconcile the matching principle with the fair valuation principles.
+it may be noted that recognition, measurement and disclosure of various items of income, expenses, assets and liabilities is done only by accounting standards and not by provisions of the companies act.
+15. recognition identification of income under the 1961 act is attainable by several methods of accounting.
+it may be noted that the same result could be attained by any one of the accounting methods.
+completed contract method is one such method.
+similarly, percentage of completion method is another such method.
+16.
+under completed contract method, the revenue is not recognised until the contract is complete.
+under the said method, costs are accumulated during the course of the contract.
+the profit and loss is established in the last accounting period and transferred to p l account.
+the said method determines results only when contract is completed.
+this method leads to objective assessment of the results of the contract.
+17.
+on the other hand, percentage of completion method tries to attain periodic recognition of income in order to reflect current performance.
+the amount of revenue recognised under this method is determined by reference to the stage of completion of the contract.
+the stage of completion can be looked at under this method by taking into consideration the proportion that costs incurred to date bears to the estimated total costs of contract.
+18.
+the above indicates the difference between completed contract method and percentage of completion method.
+19. in the judgment of the bombay high court in taparia tools limited supra it has been held that in every case of substitution of one method by another method, the burden is on the department to prove that the method in vogue is not correct and it distorts the profits of a particular year.
+under the mercantile system of accounting based on the concept of accrual, the method of accounting followed by the assessees is relevant.
+in the present case, there is no finding recorded by the ao that the completed contract method distorts the profits of a particular year.
+moreover, as held in various judgments, the chit scheme is one integrated scheme spread over a period of time, sometimes exceeding 12 months.
+we have examined computation of tax effect in these cases and we find that the entire exercise is revenue neutral, particularly when the scheme is read as one integrated scheme spread over a period of time.
+20. as stated above, we are concerned with assessment years 1991-1992 to 1997-1998.
+in the past, the department had accepted the completed contract method and because of such acceptance, the assessees, in these cases, have followed the same method of accounting, particularly in the context of chit discount.
+every assessee is entitled to arrange its affairs and follow the method of accounting, which the department has earlier accepted.
+it is only in those cases where the department records a finding that the method adopted by the assessee results in distortion of profits, the department can insist on substitution of the existing method.
+further, in the present cases, we find from the various statements produced before us, that the entire exercise, arising out of change of method from completed contract method to deferred revenue expenditure, is revenue neutral.
+therefore, we do not wish to interfere with the impugned judgment of the high court.
+21.
+before concluding, we may point out that under section 211 2 of the companies act, accounting standards as enacted by the institute of chartered accountants have now been adopted see judgment of this court in j.k. industries case supra .
+shri tripathi, learned counsel for the department, has placed reliance on as 22 as the basis of his argument that the completed contract method should be substituted by deferred revenue expenditure spreading the said expenditure on proportionate basis over a period of time .
+he also relied upon the concept of timing difference introduced by as 22.
+it may be stated that all these developments are of recent origin.
+it is open to the department to consider these new accounting standards and concepts in future cases of chit transactions.
+we express no opinion in that regard.
+suffice it to state that, these new concepts and accounting standards have not been invoked by the department in the present batch of civil appeals.
+22.
+subject to above, we see no reason to interfere with the impugned judgment of the high court and accordingly the civil appeals are dismissed with no order as to costs.

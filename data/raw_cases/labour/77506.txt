@@ -1,0 +1,154 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner bharat iron works vs. respondent bhagubhai balubhai patel ors.
+
+--- JUDGMENT BODY ---
+
+date of judgment10/10/1975 bench goswami, p.k. bench goswami, p.k. alagiriswami, a. untwalia, n.l. citation 1976 air 98 1976 scr  2  280 1976 scc  1  518 citator info d 1984 sc 505  19  act industrial disputes act, 1947-victimisation-tests for determining-labour tribunal-jurisdiction u s. 33.
+headnote ordinarily a person is vitimised if he is made a vitim or a scapegoat and is subjected to persection, prosecution or punishment for no real fault or guilt of his own.
+if actual fault or guilt meriting punishment is established, such action will be rid of the taint of victimisation.
+283f victimisation may partake of various types, as for example, pressurising an employee to leave the union or union activities, treating an employee in a discriminatory manner or inflicting a grossly monstrous punishment which no rational person would impose upon an employee and the like.
+victimisation is a serious charge by an employee against an employee and, therefore, it must be properly and adequately pleaded.
+the charge must not be vague or indefinite.
+the fact that there is a union espousing the cause of the employees in legitimate trade union activity and an employee is a member or active office-bearer thereof, is per se no crucial instance.
+283g the onus of establishing a plea of victimisation will be upon the person pleading it.
+since a charge of victimisation is a serious matter reflecting to a degree, upon the subjective attitude of the employer evidenced by acts and conduct, these have to be established by safe and sure evidence.
+mere allegations, vague suggestions and insinuations are not enough.
+all particulars of the charge brought out, if believed, must be weighed by the tribunal and a conclusion should be reached on totality of the evidence produced.
+284c-d victimisation must be directly connected with the activities of the concerned employee inevitably leading to the penal action without the necessary proof of valid charge against him.
+284d if in the opinion of the tribunal gross misconduct is established as required on legal evidence either in a fairly conducted domestice enquiry or before the tribunal on merits, the plea of victimisation will not carry the case of the employee any further.
+a proved misconduct is antithesis of victimisation as understood in industrial relations.
+this is not to say that the tribunal has no jurisdiction to interfere with an order of dismissal on proof of victimisation.
+284g in the instant case the appellant charged the respondent workmen with assaulting three new workers of the company who were employed by it after a lay off of the permanent workers.
+in the domestic inquiry the respondents pleaded victimisation on the part of the employer for their trade union activities.
+they were, however, dismissed from service.
+since an industrial dispute was pending before the tribunal the appellant made applications under ss.
+33 2  and  3  of the industrial disputes act, 1947.
+three of the respondents were protected workmen.
+even after finding that the domestic inquiry was in order the tribunal came to the conclusion that the findings of the inquiry officer were perverse and not bona fide.
+on the refusal of the tribunal to grant approval and permission for the dismissal of the workmen the appellant moved the high court under art.
+226 of the constitution, which petition was summarily dismissed by the high court.
+allowing the appeal to this court, 281 held the high court was not correct in dismissing, writ application in limine.
+the tribunal committed an error of jurisdiction in not allowing the applications made by the appellant.   1  on the principles of law laid down by this court, even though there was no defect in the domestic inquiry the tribunal was entitled to examine the evidence in the domestic inquiry in order to find out whether a prima facie case was made out or if the findings were perverse.
+the tribunal was however, not competent to re-appreciate or reappraise the evidence.
+the tribunal had no jurisdiction in this case to act as a court of appeal as if in a criminal case and to interfere with the findings of the domestic inquiry.
+in view of the one way to evidence against the respondents with regard to the incident and in the absence of any denial by them by examining themselves before the inquiry officer and offering themselves for cross- examination by the management, it is manifestly perverse finding on the part of the tribunal to hold that there was not even a prima facie case made out against the workmen or that the findings of the inquiry were not bona fide.
+285g 287a-b  2  the tribunals interference with the findings of the domestic inquiry could have been justified if it was right in its conclusion that a case of victimisation had been made out.
+287c  3  in accepting the plea of victimisation the tribunal took into consideration an extraneous factor about the justifiability or otherwise of the lay off.
+the lay off was beyond the scope of inquiry under s. 33 and the tribunal went wrong by unnecessarily arriving at a conclusion against the management that the lay off was unjustified.
+this conclusion largely influenced it to hold the management guilty of victimisation.
+287f judgment civil appellate jurisdiction civil appeal number 835 of 1375.
+appeal by special leave from the judgment and order dated the 25th november, 1974 of the gujarat high court at ahmedabad in special civil application number 1404 of 1974.
+m. c. bhandare, g. bhandare for the appellant.
+b. c. shah, m. v. goswami and ambrish kumar for respondents 4, 5 and 9.
+the judgment of the court was delivered by goswami, j.-in a long line of decisions of this court the ambit of section 33, industrial disputes act, 1947,is now well-established.
+there is also no difference in principle of the law applicable to a case under section 10, industrial disputes act and that under section 33.
+to put it clearly, it is this when an application under section 33 whether for approval or for permission is made to a tribunal it has initially a limited jurisdiction only to see whether a prima facie case is made out in respect of the misconduct charged.
+this is, however, the position only when the domestic enquiry preceding the order of dismissal is free from any defect, that is to say, free from the vice of violation of the principles of natural justice.
+if on the other hand, there is violation of the principles of natural justice, the tribunal will then give opportunity to the employer to produce evidence, if any, and also to the workman to rebut it if he so chooses.
+in the latter event the tribunal will be entitled to arrive at its own conclusion on merits on the evidence produced before it with regard to the proof of the misconduct charged, and the tribunal, then, will not be confined merely to consider whether a prima facie case is established against the employee.
+in other words, in such an, event, the employers findings in the domestic enquiry will lapse and these will be substituted by the independent conclusions of the tribunal on merits.
+there is a two-fold approach to the problem and if lost sight of, it may result in some confusion.
+firstly, in a case where there is no defect in procedure in the course of a domestic enquiry into the charges for misconduct against an employee, the tribunal can interfere with an order of dismissal on one or other of the following conditions -  1  if there is no legal evidence at all recorded in the domestic enquiry against the concerned employee with reference to the charge or if no reasonable person can arrive at a conclusion of guilt on the charge levelled against the employee on the evidence recorded against him in the domestic enquiry.
+this is what is known as a perverse finding.   2  even if there is some legal evidence in the domestic enquiry but there is no prima facie case of guilt made out against the person charged for the offence even on the basis that the evidence so recorded is reliable.
+such a case may overlap to some extent with the second part of the condition number 1 above.
+a prima facie case is not, as in a criminal case, a case proved to the hilt.
+it must be made clear in following the above principles, one or the other, as may be applicable in a particular case, the tribunal does not sit as a court of appeal, weighing or reappreciating the evidence for itself but only examines the finding of the enquiry officer on the evidence in the domestic enquiry as it is, in order to find out either whether there is a prima facie case or if the findings are perverse.
+secondly, in the same case i.e. where there is no failure of the principles of natural justice in the course of domestic enquiry, if the tribunal finds that dismissal of an employee is by way of victimisation or unfair labour practice, it will then have complete jurisdiction to interfere with the order of dismissal passed in the domestic enquiry.
+in that event the fact that there is no violation of the principles of natural justice in the course of the domestic enquiry will absolutely lose its importance or efficacy.
+whether and under what facts and circumstances a tribunal will accept the plea of victimisation against the employer will depend upon its judicial discretion.
+what is victimisation is again a multi-headed monster to tackle with.
+the word victimisation is not defined in the industrial disputes act.
+an attempt to describe unfair practices by employers by a deeming definition was made under section 28k in chapter iii b of the indian trade unions  amendment  act 1947  act xlv of 1947  but we understand, it has not yet been brought into force.
+the concept of victiminisation is to a large extent brought out under section 28k of that unenforced law and it may be worthwhile to quote the same as it throws sufficient light on the topic and will offer guidance to tribunals in adjudicating a ticklish issue of this nature section 28k.
+unfair practices by employers.- the following shall be deemed to be unfair practices on the part of employer, namely-  a  to interfere with, restrain or coerce his workmen in the exercise of their rights to organize, form, join or assist a trade union and to engage in concerted activities for the purpose of mutual aid or protection  b  to interfere with the formation or administration of any trade union or to contribute financial or other support to it  c  to discharge or otherwise discriminate against, any officer of a recognised trade union because of his being such officer  d  to discharge or otherwise discriminate against any workman because he has made allegations or given evidence in an enquiry or proceeding relating to any matter such as is referred to in sub-section  1  of section 28-f  e  to fail to comply with the provisions of section 28-f provided that the refusal of an employer to permit his workmen to engage in trade union activities during their hours of work shall not be deemed to be an unfair practice on his part.
+section 28-f provides for rights of recognised trade unions.
+ordinarily a person is victimised, if he is made a victim or a scapegoat and is subjected to persecution, prosecution or punishment for no real fault or guilt of his own, in the manner, as it were, of a sacrificial victim.
+it is, therefore, manifest that if actual fault or guilt meriting the punishment is established, such action will be rid of the taint of victimisation.
+it is apparent that victimisation may partake of various types, to cite one or two only, for example, pressurising an employee to leave the union or union activities treating an employee unequally or in an obviously discriminatory manner for the sole reason of his connection with union or his particular union activity inflicting a grossly monstrous punishment which no rational person would impose upon an employee and the like.
+a word of caution is necessary.
+victimisation is a serious charge by an employee against an employer, and, therefore, it must be properly and adequately pleaded giving all particulars upon which the charge is based to enable the employer to fully meet them.
+the charge must not be vague or indefinite being as it is an amalgam of facts as well as inferences and attitudes.
+the fact that there is a union espousing the cause of the employees in legitimate trade union activity and an employee is a member or active office-bearer thereof, is, per se, no crucial instance.
+collective bargaining being the order of the day in a democratic social welfare state, legitimate trade union activity which must shun all kinds of physical threats, coercion or violence, must march with a spirit of tolerance, understanding and grace in dealings on the part of the employer.
+such activity can flow in healthy channel only on mutual cooperation between employer and employee and cannot be considered as irksome by the management in the best interest of the concern.
+dialogues with representatives of a union help striking a delicate balance in adjustment and settlement of various contentious claims and issues.
+the onus of establishing a plea of victimisation will be upon the person pleading it.
+since a charge of victimisation is a serious matter reflecting, to a degree, upon the subjective attitude of the employer evidenced by acts and conduct, these have to be established by safe and sure evidence.
+mere allegations, vague suggestions and insinuations are not enough.
+all particulars of the charge brought out, if believed, must be weighed by the tribunal and a conclusion should be reached on a totality of the evidence produced.
+again victimisation must be directly connected with the activities of the concerned employee inevitably leading to the penal action without the necessary proof of a valid charge against him.
+the question to be asked is the reason for the punishment attributable to a gross misconduct about which there is no doubt or to his particular trade union activity which is frowned upon by the employer ?
+to take an example, suppose there is a tense atmosphere prevailing in a company because of a strike consequent upon raising of certain demands by the union, each party calling the other highly unreasonable or even provocative, the tribunal will not readily accept a plea of victimisation as answer to a gross misconduct even when an employee, be he an active office beal earer of the union, commits assault, let us say, upon the manager, and there is reliable legal evidence to that effect.
+in such a case the employee, found guilty, cannot be equated with a victim or a scapegoat and the plea of victimisation as a defence will fall flat.
+this is why once, in the opinion of the tribunal a gross misconduct is established, as required, on legal evidence either in a fairly conducted domestic enquiry or before the tribunal on merits, the plea of victimisation will not carry the case of the employee any further.
+a proved misconduct is antithesis of victimisation as understood in industrial relations.
+this is not to say that the tribunal has no jurisdiction to interfere with an order of dismissal on proof of victimisation.
+after clearing the grounds on principles, coming to the facts of the present case the eight respondents were charged for misconduct in that they along with other outsiders, in all numbering about twenty-five persons, assaulted three temporary workers of the company, namely, ratilal nathubhai chowdhari, vasant babulal patil and jivanbhai eddas patel, on october 11, 1972, as they were coming out of hotel menisha, a public hotel, where they went to take their midday meal with coupons from the company.
+the hotel was about one or two furlongs away from the factory.
+the assault was of some significance, as those who were assaulted were new workers employed by the company after its decision to discharge the temporary employees and to lay off the permanent workers.
+it was not as if the incident was absolutely unconnected with work or service in the company.
+it is stated in course of the evidence in the domestic enquiry that two persons threatened the assaulted workers saying why we were going on work, go away from here immediately leaving the work or else you would be beaten.
+assault followed this threat.
+the respondents were charged by the management on october 28, 1972, and they denied the charges as false and pleded victimisation on account of trade union activity.
+a domestic enquiry was held on december 24, 1972.
+orders of dismissal were passed on march 12, 1973 and as certain industrial dispute was apparently pending the management made the eight requisite applications under section 33 2  and 33 3 , industrial disputes act.
+three of the workmen were protected workmen.
+the tribunal did not find any defect in the domestic enquiry.
+since the workmen repeated the plea of victimisation before the tribunal, evidence of both parties was recorded only with regard to that plea.
+evidence was not given before the tribunal with regard to the actual incident.
+a large number of documents were filed by the union.
+the management filed the proceedings of the domestic enquiry and also certain other documents.
+the tribunal after examining the evidence of the domestic enquiry held that no prima facie case was made out against the workmen concerned and that the findings of the enquiry officer were perverse and not bona fide.
+the tribunal further held on the evidence produced before it that it was a case of victimisation for trade union activity.
+the tribunal, therefore, refused to grant approval and permission prayed for by the management.
+the management filed an application under article 226 of the constitution in the high court of gujarat which was summarily dismissed.
+leave to appeal to this court was refused by the high court and hence this appeal by special leave.
+on the principles of law laid down by this court even though there was no defect in the domestic enquiry the tribunal was entitled to examine the evidence in the domestic enquiry in order to find out whether a prima facie case was made out or if the findings are perverse.
+the tribunal was not, however, competent to reappreciate or reappraise the evidence.
+the tribunal referred to the evidence of the three witnesses recorded in the enquiry with regard to the incident.
+two of the three persons, viz., ratilal nathubhai chowdhari and vasant babulal patil, were the assaulted workmen and the third witness, gokulkumar devidas, was a permanent worker of the company.
+the tribunal extracted the material part of the evidence from the domestic enquiry and we may now refer to the same.
+the case appears to be that two unnamed persons, who are not chargesheeted, first threatened the assaulted workers and a little later about 25 persons came and gave them fist blows.
+the assaulted workers were newly employed after a lay off of the permanent workers had been raised.
+ratilal nathubhai chowdhari joined the company in october, 1972 i.e only a few days before the assault when the workmen concerned were admittedly not working in the company.
+ratilal nathubhai chowdharis evidence recorded in the domestic enquiry is as follows that he does not know these workers .that when he came out at that time workers from bharat iron works assaulted him and other workers with him and were beaten by fist blows.
+vasant babulal patil, who was working in the company from october 6, 1972- deposed that he does not know if the workers present at the enquiry are companys workers that on 11-10-1972 at noon in the recess the five persons were going to manisha hotel for lunch, that they were sitting in the hotel.
+that persons of the union were present there.
+these chargesheeted workers were present there in the crowd.
+that two persons came and threatened us as to why we were going on work, go away from here immediately leaving the work or else you would be beaten.
+that when he came out after lunch the persons of the union beat him and other persons with him were also beaten, that the persons who were beaten with him were ratilal nathu, jivan iddas, eknath ramesh.
+they were also beaten by the workers who are here at present, that then they came to the company and informed the clerk.
+he also stated that 20 to 25 persons had come to beat him but he did not know all.
+he further deposed that he complained against the persons of the union, who are not present here  at the enquiry  but from those 25 persons of crowd these persons present at enquiry were there .
+gokulkumar devidas pandey is a permanent worker who is expected to recognise the workers charged.
+his evidence in the enquiry as recorded in the report is as follows - that after while when we came out the workers of lmp and bharat iron works were beaten.
+that at that time he  sic  was at a little distance.
+that these persons who are present now were there among the persons who had assaulted workers.
+that other persons were also there whom he did not know.
+the third assaulted person was not examined.
+on the above state of the evidence the enquiry officer held both of them  meaning the witnesses assaulted  have identified them  meaning the chargesheeted workmen  that they were among the assailants .i, therefore, hold that the incident has occurred.
+the point to be decided is whether any one of the workers facing this inquiry was among the assailants . .
+i also hold that it is proved that these workers have beaten the workers of the factory.
+on the above state of the one way evidence against the respondents with regard to the incident and in the absence of any denial by them by examining themselves before the enquiry officer and offering themselves for cross- examination by the management, it is manifestly a perverse finding on the part of the tribunal to hold that there is not even a prima facie case made out against the workmen or, worse than it, that the findings of the enquiry officer are not bona fide.
+the tribunal had no jurisdiction in this case to act as a court of appeal as if in a criminal case and to interfere with the findings of the domestic enquiry.
+lastly, the tribunals interference with the findings of the domestic enquiry could have been justified if it was right in its conclusion that a case of victimisation has been made out.
+we may, therefore, refer to that part of the tribunals order where it is found that the plea of victimisation was justified.
+ordinarily we would not go into such a question of fact in an application under article 136 and that again when there is no direct appeal from the order of the tribunal.
+if the finding of the tribunal that it was a case of victimisation is correct, the tribunal could interfere with the orders of dismissal.
+on the test laid down above with regard to victimisation, it is found that the tribunal by wrongly holding that no prima facie case was established naturally fell into an error.
+if the tribunal held, as it should have righly held, that the offence was established, no question of victimisation could arise.
+such an incident may be an unholy spark and aberration out of certain prevailing confrontation but cannot have the protective umbrella of legitimate trade union activity.
+besides, the tribunal in accepting the plea of victimisation took into consideration an extraneous factor, namely, about the justifiability or otherwise of the lay off.
+lay off was beyond the scope of the enquiry under section 33 and the tribunal went wrong by unnecessarily arriving at a conclusion against the management that lay off was unjustified.
+this conclusion of the tribunal largely influenced it to hold the management guilty of victimisation.
+we are, therefore, clearly of opinion that in this case there is a manifest error of law on the part of the tribunal in coming to the conclusion that the management was guilty of victimisation.
+the tribunal made two serious errors, firstly by holding that the offence was not established, prima facie and secondly, by allowing it to be influenced by an extraneous finding with regard to the lay off.
+since it is a jurisdictional fact and the tribunals correct finding about victimisation would entitle it to interfere with the order of the management a wrong decision regarding victimisation resulted in an error of jurisdiction on the part or the tribunal in not allowing the applications under section 33.
+the high court was, therefore, not correct in dismissing the writ application in limine.
+in the result the appeal is allowed and the order of the high court as well as the orders of the tribunal are set aside.
+the tribunal committed an error of jurisdiction in not allowing the applications.
+the tribunal is, therefore, directed to record appropriate orders allowing the applications under section 33.
+the appellant will however, pay the costs of the respondent as already ordered.
+cmp number 5579 of 1975 of the appellant praying for condonation of delay in filing additional documents is rejected.
+p.b.r. appeal allowed.

@@ -1,0 +1,172 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal number 5677 of 2017 dushyant n. dalal and another appellants versus securities and exchange board of india respondent with civil appeal numbers 10410-10412 of 2017 judgment r.f. nariman, j. 1.
+
+--- JUDGMENT BODY ---
+
+the present appeals raise an interesting question under signature not verified section 28a of the securities and exchange board of india act, digitally signed by r.natarajan date 2017.10.04 165326 ist reason 1992 sebi act , namely, as to whether interest can be recovered on orders of penalty issued under the act and or orders of disgorgement of unlawful gains, when the said amounts have remained unpaid.
+in the penalty cases, it is sebi who is before us as appellant, whereas in the disgorgement case, it is private individuals who are before us.
+2. first, the facts in c.a. 5677 of 2017, the disgorgement case.
+by an order dated 21.7.2009, passed by a whole-time member of sebi, the noticees, namely shri dushyant n. dalal and mrs. puloma d. dalal, were found to have manipulated the demand for shares in the retail individual investor category rii and thereby distorted the integrity of the market.
+by doing this, they denied other riis of allotment of their legitimate shares in initial public offers ipos of various companies and made an unlawful gain of rs.4,05,61,579/- to the detriment of other riis.
+the conclusion, therefore, was that they had employed fraudulent, deceptive and manipulative practices to garner shares meant for riis in the aforesaid ipos and hence violated section 12a a , b and c of the sebi act, and regulations 3 and 4 1 of the securities and exchange board of india prohibition of fraudulent and unfair trade practices relating to securities markets regulations, 2003 pfutp regulations .
+given this, the following directions were issued a the noticees mr. dushyant natwarlal dalal pan aaapd 5859q and mrs. puloma dushyant dalal pan aaepd 2909b shall not buy, sell or deal in the securities market in any manner whatsoever or access the securities market, directly or indirectly, for a period of 45 days from the date of this order and b the noticees shall disgorge the unlawful gain of rs.4.05 crores rounded off from rs. 4,05,61,579 .
+c the noticees shall also pay rs.1.95 crores rounded off from rs. 1,94,69,558 , being the simple interest at the rate of 12 per annum for 4 years 2005-09 on the unlawful gain rs. 4,05,61,579.
+d the noticees shall pay the above amount of rs.6 crores rupees six crores within 45 forty five days from the date of this order by way of crossed demand draft drawn in favour of securities and exchange board of india, payable at mumbai.
+e in case the aforesaid amount rs.6 crores is not paid within the specified time, the noticees shall be restrained from buying, selling or dealing in securities market in any manner whatsoever or accessing the securities market, directly or indirectly, for a further period of seven years, without prejudice to sebis right to enforce disgorgement.
+an appeal from this order was dismissed by the securities appellate tribunal sat on 12.11.2010.
+an appeal from the order of the sat to this court met with the same fate on 21.2.2011.
+3. by a notice of demand dated 25.9.2013, rs. 6 crores, along with interest payable within 15 days of the receipt of the notice, was demanded, failing which recovery was to be made under section 28a of the sebi act.
+by a second demand notice dated 12.12.2013, stated to be in continuation of the first demand notice, interest was demanded at 13 per annum from 21.7.2009 upto 12.12.2013 amounting to rs.2,13,30,000/-.
+the appellants before us replied to the aforesaid notices of demand by a letter dated 13.1.2014, stating that the said amount of interest was not payable in law.
+this was turned down by an order dated 16.1.2014, passed by the recovery officer, sebi, in which the objections of the appellants were rejected and bank accounts of the appellants were attached.
+by an interim order dated 6.9.2016, the sat noticed that the appellants had already undergone the full debarment period and hence, attachment levied on their demat accounts, except account number40333429, was released.
+by the impugned judgment dated 10.3.2017, the sat ultimately found that, with effect from 18.7.2013, section 28a read with section 220 of the income tax act, 1961 empowered sebi to collect interest, but that so far as the appellants were concerned, it was held that interest payable by the appellants could not be quantified at the time of passing the order dated 21.7.2009 and, therefore, it was held in appeal number 41 of 2014 the directions given by the wtm of sebi on 21.07.2009 was to disgorge the unlawful gain of rs. 4.05 crores with interest 12 per annum quantified at rs. 1.95 crores up to 21.07.2009 within 45 days from 21.07.2009 failing which, the appellants were debarred from entering the securities market for a period of 7 years without prejudice to the right of sebi to recover the unlawful gain with interest till payment.
+since the order passed by the wtm of sebi on 21.07.2009 contained an obligation to pay interest 12 per annum on the unlawful gain of rs. 4.05 crores till payment, the ro was justified in demanding interest on the unlawful gain of rs. 4.05 crores from 21.07.2009 till payment.
+accordingly, appeal number 41 of 2014 is dismissed.
+4. insofar as the penalty orders are concerned, the facts are similar.
+in sebi v. ashok panchariya, c.a. 10410 of 2017, a penalty order dated 13.11.2009 was passed for a sum of rs. 25 lakhs under section 15ha of the sebi act, which was made payable within 45 days of the receipt of the said order.
+this was because it was found that wrongful and misleading disclosures were made by the respondents to the bombay stock exchange, by which investors were deprived of important information at the relevant point of time.
+this was an unfair trade practice for which the respondents were held liable, inasmuch as regulations 3 a to 3 d , 4 1 and 4 2 a of the pfutp regulations had been breached by the respondents.
+an appeal was carried against the aforesaid order, which was dismissed by the sat on 6.5.2010.
+by a recovery certificate dated 30.5.2014, the aforesaid amount of rs. 25 lakhs was demanded, together with interest, under section 28a of the sebi act.
+on 3.6.2014, the amount of rs. 25 lakhs was deposited by the respondents, by way of demand drafts, with the sebi.
+acting on the basis of a show cause notice dated 10.7.2014, an order was passed by the recovery officer, sebi on 19.8.2014 directing the respondents to pay interest at 12 per annum for the period of 13.11.2009 till 3.6.2014, amounting to rs. 13,66,849/-.
+5. in an appeal to the sat against the order of the recovery officer, the sat held that interest was payable on and from 18.7.2013 i.e. the date of introduction of section 28a by way of ordinance , but held that since the awarding of interest belongs to the realm of substantive and not procedural law, the aforesaid provision could not be held to be retrospective, and that, therefore, interest demands that were prior to this date were set aside.
+it is against this part of the order that sebi has appealed.
+6. shri subramonium prasad, learned counsel appearing on behalf of the appellants in c.a.5677 of 2017, has argued before us that, on his facts, it was clear that the order dated 21.7.2009 had, while awarding interest for the years 2005 to 2009, not expressly awarded any future interest and that this was done deliberately inasmuch as if the amount of rs. 6 crores was not paid within 45 days from the date of the order, the consequence was specified as being debarment for a further period of 7 years which was so severe that further future interest was deliberately not found necessary to be awarded.
+he brought to our notice certain other orders passed by the same whole-time member of the sebi in which, in similar circumstances, future interest was also provided.
+he pointed out that by an order dated 6.12.2013 passed by the sat, the appellants were permitted to sell their shares, as a result of which they were able to make the payment of rs. 6 crores on 6.1.2014.
+he further argued that their case should not have been segregated from the penalty cases by the sat and that, along with the other individuals in these cases, they should have been made to pay interest only on the unpaid amount from 18.7.2013 and not otherwise.
+on law, shri prasad argued that equity cannot override written law but can only supplement it and cited raghunath rai bareja and another v. punjab national bank and others, 2007 2 scc 230 at 241-242, paragraphs 29-33.
+he also relied upon the principle that an executing court cannot go behind a decree or add to it and that since future interest was expressly not provided for in his case, the sat was in error in going behind the order dated 21.7.2009.
+he also argued that casus omissus cannot be filled by courts, but only by the legislature.
+7. shri arvind datar, on the other hand, argued that in the order dated 21.7.2009, the debarment for a period of 7 years was without prejudice to sebis right to enforce disgorgement, which would necessarily include future interest.
+he added that section 28a belongs to the realm of procedural law, and when section 220 2 of the income tax act gets attracted, because of section 28a, such interest belonging to the realm of procedural law would necessarily be payable.
+even otherwise, according to learned counsel, interest is payable in equity.
+considering the larger public interest of disgorgement amounts and penalty amounts not being paid within the stipulated time, interest would certainly attach as public interest demands that such amounts be made payable to the public exchequer.
+he referred to section 15ja of the sebi act, which makes it clear that all amounts realized by way of penalties by sebi are to be credited to the consolidated fund of india and would, therefore, be public monies which can be utilized as such by the government.
+he cited a number of judgments to show that even though there may be no direct statutory provision in the sebi act enabling sebi to charge interest for the past period, interest may yet be awarded in equity.
+he also referred to various authorities on the law of restitution, to submit that interest is payable under this law because the defendant has received a benefit unjustly, which the defendant is not entitled to, and should, therefore, pay for the use of this unjust benefit by way of interest.
+8. having heard learned counsel for both sides, it is first important to underline the genesis of section 28a.
+the said section was first inserted by an ordinance dated 18.7.2013.
+as it then stood, section 28a did not refer to section 220 of the income tax act but only referred to sections 221 to 227, 228a and 229, 231 and 232 along with the second and third schedules to the said act.
+since this ordinance lapsed, a second ordinance was promulgated on 16.9.2013, re-enacting the same provision.
+the second ordinance also lapsed and a third ordinance dated 28.3.2014 was then promulgated with the same section.
+9. however, the bill which led to the amendment of the sebi act, and which inserted section 28a, eventually included section 220 of the income tax act as well.1 10.
+ultimately, section 28a was enacted by the securities laws amendment act of 2014 by which this section was section 220 is an important provision, in that under sub-section 2 thereof, interest is leviable in the circumstances mentioned therein.
+brought into force, with effect from the date of the first ordinance i.e. with effect from 18.7.2013.
+section 28a reads as follows 28a.
+recovery of amounts. 1 if a person fails to pay the penalty imposed by the adjudicating officer or fails to comply with any direction of the board for refund of monies or fails to comply with a direction of disgorgement order issued under section 11b or fails to pay any fees due to the board, the recovery officer may draw up under his signature a statement in the specified form specifying the amount due from the person such statement being hereafter in this chapter referred to as certificate and shall proceed to recover from such person the amount specified in the certificate by one or more of the following modes, namely a attachment and sale of the persons movable property b attachment of the persons bank accounts c attachment and sale of the persons immovable property d arrest of the person and his detention in prison e appointing a receiver for the management of the persons movable and immovable properties, and for this purpose, the provisions of sections 220 to 227, 228a, 229, 232, the second and third schedules to the income-tax act, 1961 43 of 1961 and the income-tax certificate proceedings rules, 1962, as in force from time to time, in so far as may be, apply with necessary modifications as if the said provisions and the rules made thereunder were the provisions of this act and referred to the amount due under this act instead of to income-tax under the income-tax act, 1961.
+explanation 1. for the purposes of this sub- section, the persons movable or immovable property or monies held in bank accounts shall include any property or monies held in bank accounts which has been transferred directly or indirectly on or after the date when the amount specified in certificate had become due, by the person to his spouse or minor child or sons wife or sons minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the persons aforesaid and so far as the movable or immovable property or monies held in bank accounts so transferred to his minor child or his sons minor child is concerned, it shall, even after the date of attainment of majority by such minor child or sons minor child, as the case may be, continue to be included in the persons movable or immovable property or monies held in bank accounts for recovering any amount due from the person under this act.
+explanation 2.
+any reference under the provisions of the second and third schedules to the income- tax act, 1961 43 of 1961 and the income-tax certificate proceedings rules, 1962 to the assessee shall be construed as a reference to the person specified in the certificate.
+explanation 3.
+any reference to appeal in chapter xviid and the second schedule to the income-tax act, 1961 43 of 1961 , shall be construed as a reference to appeal before the securities appellate tribunal under section 15t of this act. 2 the recovery officer shall be empowered to seek the assistance of the local district administration while exercising the powers under sub-section 1 . 3 notwithstanding anything contained in any other law for the time being in force, the recovery of amounts by a recovery officer under sub-section 1 , pursuant to non-compliance with any direction issued by the board under section 11b, shall have precedence over any other claim against such person. 4 for the purposes of sub-sections 1 , 2 and 3 , the expression recovery officer means any officer of the board who may be authorised, by general or special order in writing, to exercise the powers of a recovery officer.
+11.
+a number of judgments have held that interest belongs to the field of substantive and not procedural law.
+foremost among these judgments is j.k. synthetics limited v. commercial taxes officer 1994 4 scc 276 at 291, in which a constitution bench held 16.
+it is well-known that when a statute levies a tax it does so by inserting a charging section by which a liability is created or fixed and then proceeds to provide the machinery to make the liability effective.
+it, therefore, provides the machinery for the assessment of the liability already fixed by the charging section, and then provides the mode for the recovery and collection of tax, including penal provisions meant to deal with defaulters.
+provision is also made for charging interest on delayed payments, etc.
+ordinarily the charging section which fixes the liability is strictly construed but that rule of strict construction is not extended to the machinery provisions which are construed like any other statute.
+the machinery provisions must, no doubt, be so construed as would effectuate the object and purpose of the statute and not defeat the same. see whitney v. irc 1926 ac 37 42 tlr 58, cit v. mahaliram ramjidas 1940 8 itr 442 air 1940 pc 124 67 ia 239, india united mills limited v. commissioner of excess profits tax, bombay 1955 1 scr 810 air 1955 sc 79 1955 27 itr 20 and gursahai saigal v. cit, punjab 1963 3 scr 893 air 1963 sc 1062 1963 48 itr 1 .
+but it must also be realised that provision by which the authority is empowered to levy and collect interest, even if construed as forming part of the machinery provisions, is substantive law for the simple reason that in the absence of contract or usage interest can be levied under law and it cannot be recovered by way of damages for wrongful detention of the amount. see bengal nagpur railway company limited v. ruttanji ramji air 1938 pc 67 65 ia 66 67 clj 153 and union of india v. a.l. rallia ram 1964 3 scr 164, 185-90 air 1963 sc 1685 .
+our attention was, however, drawn by mr. sen to two cases.
+even in those cases, cit v. m. chandra sekhar 1985 1 scc 283 1985 scc tax 85 1985 151 itr 433 and central provinces manganese ore company limited v. cit 1986 3 scc 461 1986 scc tax 601 1986 160 itr 961, all that the court pointed out was that provision for charging interest was, it seems, introduced in order to compensate for the loss occasioned to the revenue due to delay.
+but then interest was charged on the strength of a statutory provision, may be its objective was to compensate the revenue for delay in payment of tax.
+but regardless of the reason which impelled the legislature to provide for charging interest, the court must give that meaning to it as is conveyed by the language used and the purpose to be achieved.
+therefore, any provision made in a statute for charging or levying interest on delayed payment of tax must be construed as a substantive law and not adjectival law.
+so construed and applying the normal rule of interpretation of statutes, we find, as pointed out by us earlier and by bhagwati, j. in the associated cement company case 1981 4 scc 578 1982 scc tax 3 1981 48 stc 466 , that if the revenues contention is accepted it leads to conflicts and creates certain anomalies which could never have been intended by the legislature.
+12.
+this judgment has been repeatedly followed and the law reiterated in a number of judgments.
+we need refer to only one such judgment, which is india carbon limited v. the state of assam, 1997 6 scc 479 at 482-483.
+13.
+we were also referred to purbanchal cables conductors pvt.
+limited v. assam state electricity board another, 2012 7 scc 462 at 484, where this court dealt with the interest on delayed payments to small scale and ancillary industrial undertakings act, 1993, as follows- 51.
+there is no doubt about the fact that the act is a substantive law as vested rights of entitlement to a higher rate of interest in case of delayed payment accrues in favour of the supplier and a corresponding liability is imposed on the buyer.
+this court, time and again, has observed that any substantive law shall operate prospectively unless retrospective operation is clearly made out in the language of the statute.
+only a procedural or declaratory law operates retrospectively as there is no vested right in procedure.
+52. in the absence of any express legislative intendment of the retrospective application of the act, and by virtue of the fact that the act creates a new liability of a high rate of interest against the buyer, the act cannot be construed to have retrospective effect.
+since the act envisages that the supplier has an accrued right to claim a higher rate of interest in terms of the act, the same can only be said to accrue for sale agreements after the date of commencement of the act i.e. 23-9-1992 and not any time prior.
+14.
+however, shri arvind datar brought to our notice several judgments in which interest in equity could be awarded if the fact circumstance so warranted.
+the first of these judgments is clariant international limited and another v. securities and exchange board of india, 2004 8 scc 524 at 539, where after noticing that regulation 44 of the 1997 sebi regulations was substituted with effect from september 2002 so that interest could be statutorily charged, this court stated that interest could be awarded on equitable considerations as follows 30.
+interest can be awarded in terms of an agreement or statutory provisions.
+it can also be awarded by reason of usage or trade having the force of law or on equitable considerations.
+interest cannot be awarded by way of damages except in cases where money due is wrongfully withheld and there are equitable grounds therefore, for which a written demand is mandatory.
+15.
+he also referred us to tahazhathe purayil sarabi ors.
+v. union of india another, 2009 7 scc 372 at 380-381, in the context of death caused by a rail accident.
+the court noticed that the railway acts do not grant any substantive power to levy interest, but went on to state that interest could be awarded on principles contained in section 3 of the interest act, 1978 and section 34 of the code of civil procedure.
+the court held 30.
+as we have indicated hereinbefore, when there is no specific provision for grant of interest on any amount due, the court and even tribunals have been held to be entitled to award interest in their discretion, under the provisions of section 3 of the interest act and section 34 of the civil procedure code.
+xxx xxx xxx 35.
+though, both the two aforesaid cases were in relation to awards having been made under the arbitration act, a principle has been enunciated that in cases where a money award is made, the principles of section 34 of the civil procedure code and section 3 of the interest act could be invoked to award interest from the date of the award till the realisation thereof.
+shri datar then referred to ferro alloys corpn.
+limited v. a.p. state electricity board and another, 1993 supp 4 scc 136 at 178-181, paragraphs 128-133 where, according to him, the court upheld interest payable in equity as a principle of law, though on the facts of that case, equity was not attracted so as to enable electricity boards to charge interest on security deposits.
+he also sought to rely upon ntpc limited v. m.p. seb 2011 15 scc 580, in which interest was not awarded on equitable grounds only because, on facts, it was held that it cannot be said that ntpc held on to excess amounts in an unjust way, so as to justify the claim of electricity boards for interest on these amounts.
+shri datar also cited south eastern coalfields limited v. state of m.p.
+and others, 2003 8 scc 648, indian council for enviro-legal action v. union of india, 2011 8 scc 161 and union of india v. tata chemicals limited, 2014 6 scc 335 at 350, paragraphs 38- 39 to buttress his submission that interest can always be granted on equitable considerations.
+16.
+we are of the view that an examination of the interest act, 1978 would clearly establish that interest can be granted in equity for causes of action from the date on which such cause of action arose till the date of institution of proceedings.
+17. section 1 of the old interest act, 1839 read as follows- power of court to allow interest.
+it is, therefore, hereby enacted that, upon all debts or sums certain payable at a certain time or otherwise, the court before which such debts or sums may be recovered may, if it shall think fit, allow interest to the creditor at a rate not exceeding the current rate of interest from the time when such debts or sums certain were payable, if such debts or sums be payable by virtue of some written instrument at a certain time or if payable otherwise, then from the time when demand of payment shall have been made in writing, so as such demand shall give notice to the debtor that interest will be claimed from the date of such demand until the time of payment provided that interest shall be payable in all cases in which it is now payable by law.
+18.
+the judgment of the privy council in bengal nagur railway company limited v. ruttanji ramji and others, air 1938 pc 67 at 70, while referring to section 1 proviso held the interest act however contains a proviso that interest shall be payable in all cases in which it is now payable by law.
+this proviso applies to cases in which the court of equity exercises jurisdiction to allow interest.
+as observed by lord tomlin in maine and new brunswick electrical power company v. hart 1929 ac 631 in order to invoke a rule of equity, it is necessary in the first instance to establish the existence of a state of circumstances which attracts the equitable jurisdiction, as, for example, the non-performance of a contract of which equity can give specific performance.
+19.
+this view of the law has since been followed in a number of judgments.
+in satinder singh v. amrao singh, 1961 3 scr 676 at 697, this court held as under the power to award interest on equitable grounds or under any other provisions of the law is expressly saved by the proviso to s. 1.
+this question was considered by the privy council in bengal-nagpur railway company limited v. ruttanji ramji 65 ia 66 sc air 1938 pc 67.
+referring to the proviso to s. 1 of the act the privy council observed this proviso applies to cases in which the court of equity exercises its jurisdiction to allow interest.
+20. in hirachand kothari v. state of rajasthan, 1985 supp scc 17 at 25-26, this court held it was further held in amrao singh case air 1961 sc 908 1961 3 scr 676 1961 2 scj 372 that the court had ample power under proviso to section 1 of the interest act, 1839 to award interest on equitable grounds.
+21.
+the 63rd law commission on the interest act, 1839 went into the aspect of grant of interest from the date of cause of action till the date of institution of proceedings in great detail.
+after setting out section 1, together with the proviso, of the 1839 act, the law commission recommended in paragraph 4.4a as under 4.4a.
+but, in general, proceedings, other than suits would be outside the section.
+we are of the view that the section should be widened to cover proceedings other than suits.
+the discretion to award interest is as much needed in relation to other proceedings, as in relation to an ordinary civil suit.
+we are recommending an amendment of the section for the purpose.
+22.
+after examining the proviso to section 1, the law commission found that 7.2 broadly speaking, courts have, in cases decided in reliance on the proviso to section 1, awarded interest where the equity of the case so required.
+for example, where immovable property is purchased or acquired, and the price or compensation as the case may be has not yet been paid, there is readiness to award interest.
+same is the position where there is a duciary relationship.
+7.3.
+the supreme court has observed 2, with reference to the words interest shall be payable in all cases in which it is now payable by law, occurring in the proviso to section 1, that the proviso applies to cases in which the courts of equity exercised jurisdiction to allow interest.
+xxx xxx xxx 7.5.
+a similar approach is illustrated by a nagpur case3, where it was stated we are of opinion that we are exercising equitable powers in maintenance cases where a charge has been created by a decree.
+xxx xxx xxx 7.8.
+having carefully considered this aspect of the matter, we have come to the conclusion that it would be just and fair to provide for certain particular situations, without, of course, impairing the generality of the power preserved by the proviso.
+a few important situations are, accordingly, considered below.
+xxx xxx xxx 7.15.
+interest may also be recovered in equity in some other cases for example, where a particular relationship exists between the creditor and the debtor, such as, mortgagor and mortgagee, obligor and obligee on a bond, executor and beneciary, principal and agent, principal and surety, trustee and cestui que trust, vendor and purchaser, or in the case of arrears and annuities.
+these cases need mahabir prasad v. durga dutt, 1961 3 scr 639 air 1961 sc 990.
+sitaram v. wamurad, air 1948 nagpur 49, 50 para 6. not be provided for by specic provisions.
+the general provision in the proviso to section 1 will continue to take care of them.
+xxx xxx xxx 7.17 this concludes consideration of points of substance as to the power to award interest under the proviso.
+we now deal with a verbal point arising from the words now payable by law.
+we are of the view that the word now should be omitted from the proviso.
+the word is confusing, and, from the point of view of drafting, inaccurate.
+we, therefore, recommend its deletion.
+we also recommend that the words enactment or other rule of law or usage having the force of law should be substituted for the word law, in this part of the proviso. emphasis supplied 23.
+parliament accepted the recommendation of the law commission and enacted the interest act of 1978.
+section 2 a reads as under section 2 definitions in this act, unless the context otherwise requires,- a court includes a tribunal and an arbitrator the act has, therefore, been expanded to cover not merely civil courts but tribunals as well.
+24.
+we are directly concerned with section 4 of the act which reads as follows- section 4 - interest payable under certain enactments 1 notwithstanding anything contained in section 3, interest shall be payable in all cases in which it is payable by virtue of any enactment or other rule of law or usage having the force of law. 2 notwithstanding as aforesaid, and without prejudice to the generality of the provisions of sub- section 1 , the court shall, in each of the following cases, allow interest from the date specified below to the date of institution of the proceedings at such rate as the court may consider reasonable, unless the court is satisfied that there are special reasons why interest should not be allowed, namely- a where money or other property has been deposited as security for the performance of an obligation imposed by law or contract, from the date of the deposit b where the obligation to pay money or restore any property arises by virtue of a fiduciary relationship, from the date of the cause of action c where money or other property is obtained or retained by fraud, from the date of the cause of action d where the claim is for dower or maintenance, from the date of the cause of action.
+by section 6 1 , the interest act of 1839 was repealed.
+25.
+this court in life insurance corporation of india and another v. smt.
+s. sindhu, 2006 5 scc 258 at 263-264, while considering the changes made by the interest act, 1978, stated as follows 15.
+even assuming that interest can be awarded on grounds of equity, it can be awarded only on the reduced sum to be quantified and paid from the date when it becomes due under the policy that is on the date of death of the assured and not from any earlier date.
+we do not propose to examine the question as to whether interest can be awarded at all, on equitable grounds, in view of the enactment of the interest act, 1978 making a significant departure from the old interest act 32 of 1839 .
+the present act does not contain the following provision contained in the proviso to section 1 of the old act interest shall be payable in all cases in which it is now payable by law.
+how far the decisions of this court in satinder singh v. amrao singh 1961 3 scr 676 air 1961 sc 908 and hirachand kothari v. state of rajasthan 1985 supp scc 17 and the decision of the privy council in bengal nagpur rly.
+company limited v. ruttanji ramji 1937-38 65 ia 66 air 1938 pc 67 holding that interest can be awarded on equitable grounds, all rendered with reference to the said proviso to section 1 of the old interest act act of 1839 , will be useful to interpret the provisions of the new act act of 1978 may require detailed examination in an appropriate case.
+26.
+the important question which has to be answered in the present case is as to whether the expression other rule of law contained in section 4 1 would enable the court to continue with the position as it was under the proviso to section 1 of the 1839 act namely, whether this expression would subsume interest being awarded in equity.
+27.
+we find that a learned single judge of the bombay high court has, in prabhavati ramgarib b. v. divisional railway manager, 2010 4 mah lj 691 at 702-703, specifically held as follows 35.
+the petitioners claim for interest would fall within the ambit of the words or other rule of law in section 4 1 .
+the other rule of

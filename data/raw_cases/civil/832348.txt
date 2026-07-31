@@ -1,0 +1,205 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner rohtas industries limited anr.
+vs. respondent rohtas industries staff union and ors.
+
+--- JUDGMENT BODY ---
+
+date of judgment18/12/1975 bench krishnaiyer, v.r. bench krishnaiyer, v.r. chandrachud, y.v. gupta, a.c. citation 1976 air 425 1976 scr  3  12 1976 scc  2  82 citator info r 1980 sc1896  80  r 1988 sc1340  7  d 1990 sc1426  31  act constitution of india article 226 and 226 1a -powers of high court to issue writ against arbitrators under section 10a of industrial disputes act- arbitration act-error apparent on the face of the record-speaking award- error of law.
+industrial disputes act, 1947-secs.
+2 k  10-a, 23, 24, 33c- whether employers can be awarded compensation for loss of profit due to illegal strike under industrial disputes act-industrial dispute-enforcement of special rights created by special statute whether confined to remedies provided by the statute.
+headnote during the year 1948, the respondent, workmen working with both the appellants went on illegal strike on account of trade union rivalry.
+the workmen were not paid wages for the strike period and the appellants lost their profit during the period.
+the employers and the workmen entered into an agreement during the pendency of the conciliation proceedings and referred the claims of workmen for salaries during the strike period and the claims of the employers for compensation for loss due to the strike to the joint arbitration of two retired high court judges and one retired member of a labour appellate tribunal under section 10-a of the industrial disputes act 1947.
+the arbitrator delivered their award and held that the workmen participating in the strike were not entitled to wages for the strike period.
+the arbitrators however, awarded huge compensation to the employers against the workmen for the losses incurred by the employers during the strike period.
+the workmen challenged the award as illegal and void by filing two writ petitions in the high court.
+the high court upheld that part of the award which directed that the workmen participating in tho strike were not entitled to wages.
+the high court however, quashed the part of the award which directed payment of compensation by the workers to the management.
+in appeal by special leave under article 136, the appellants contended- 1.
+the award under section 10-a of the act savours of a private arbitration and is not amenable to correction under article 226 of the constitution.
+2. the award of compensation by the arbitrators suffers from no vice which can be regarded as recognised grounds for the high court interference.
+held  1  the expansive and extraordinary powers of the high court under article 226, as wide as the amplitude of the language used, indicates and so can affect any person, even a private individual and be available for any other purpose, even one for which another remedy may exist.
+the insertion of article 226 1a  reiterates that writ power can be exercised against any person by reference to the residence of such person.
+it is one thing to affirm the jurisdiction and another to authorise free exercise.
+this court has spelt out wise and clear restraints on the use of this extraordinary remedy and high courts will not go beyond those wholesome inhibitions except where the monstrosity of the situation or other exceptional circumstances cry for timely judicial interdict or mandate.
+17c-e 2. an arbitrator exercising powers under section 10a can bind even those who are not parties to the reference or agreement and the whole exercise under section 10a as well as the source of the force of the award on publication derive from the statute.
+it is legitimate to regard such an arbitrator now as part of the methodology of the sovereigns dispensation of justice, thus falling within the rainbow of statutory tribunals amenable to judicial review.
+the award in the present case is not beyond the legal reach of article 226. 18b-c 13 3.
+the answer to the question whether the high court should have exercised its powers under article 226 in the present case will depend upon whether the arbitrator has tied himself down to obviously unsound legal proposition in reaching his verdict appearing from the face of the award.
+the arbitrator may not state the law such, even- then such cute silence confers no greater or subtler immunity on the award than plain speech.
+the need for speaking order, where considerable numbers are affected in their substantial rights, may well be a facet of natural justice or fair procedure although in this case we do not have to go so far.
+the law sets no premium on juggling with drafting the award or hiding the legal error by balancing out.
+the inscrutable face of the sphinx has no better title to invulnerability than a speaking face which is a candid index of the mind.
+19d.
+20f-h 4. according to the arbitrators, the strike was illegal being in violation of section 24 of the act.
+the illegal strike was animated by inter-union power struggle and that it inflicted loss on the management by forced closure and that the loss flowing from the strike was liable to be recompensed by award of damages.
+in this chain of reasoning the question of law whether an illegal strike causing loss of profit justifies award of damages is necessarily involved.
+the arbitrator held in the affirmative and according to us it is an unhappy error of law.
+in the present case the arbitrators have made a sufficiently speaking award both on facts and on law.
+after coming to the conclusion that the strike was illegal they held that compensation necessarily follows based on the rule of english common law.
+the english cases laying down the rule of common law were a response to the requirement of industrial civilization of the 19th century england.
+trade and industry on the laissez faire doctrine flourished and the law of torts was shaped to serve the economic interests of the trading and industrial community.
+whatever the merits of the norms, violation of which constituted conspiracy in english law, it is a problem for creative indian jurisprudence to consider how far a mere combination of men working for furthering certain objective can be prohibited as a tort according to the indian value system.
+our constitution guarantees the right to form associations, not for gregarious pleasure, but to fight effectively for the redressal of grievances.
+our constitution is sensitive to workers rights.
+english history, political theory and life style being different from indian conditions where the father of the nation organised boycotts and mass satyagrahas we cannot incorporate english conditions without any adaptation into indian law.
+21b-c, 22a, b-c, d 5. even in england, till recently it could not be said with any certainty that there was any such tort as conspiracy.
+the tort is unusual because it emphasizes the purpose of the defendants rather than the result of their conduct.
+even when, there are mixed motives liability will depend on ascertaining which is the predominant object of the true motive or the real purpose of the defendant.
+the motive of an illegal strike may be to advance the workers interest or steal a march over a rival union but never or rarely to destroy or damage the industry.
+however if some individuals destroy the plant and machinery willfully to cause loss to the employer such individuals will be liable for the injury so caused.
+sabotage is no weapon in workers legal armoury.
+it is absolutely plain that the tort of conspiracy necessarily involves advertence to the object of the combination being the infliction of damage on the plaintiff.
+the strike may be illegal but if the object is to bring the employer to terms with the employees or to bully the rival trade union into submission there cannot be an actionable combination in tort.
+in the present case, the arbitrators did not investigate the object of the strike.
+the arbitrators assumed that if the strike is illegal the tort of conspiracy is made out.
+the counsel for the appellants fairly conceded that the object of the strike was inter-union rivalry.
+there is thus a clear lapse in the law on the part of the arbitrators manifest on the face of the award.
+22f, 231b-c, e, h. 24a-b 6.
+it is common case that the demand for the wages during the strike period constitutes an industrial dispute within section 2 k  of the act.
+it is agreed by both the sides that section 23 read with section 24 makes the strike in question illegal.
+an illegal strike is the creation of the statute and the remedy for the illegal strike and its fall, out has to be sought within the statute and not de hors 14 it.
+no other relief outside the act can be claimed on general principles of jurisprudence.
+the case of premier automobiles followed.
+25 b-c 7. the enforcement of a right or obligation under the act must be by a remedy provided in the statute.
+the right of the management to claim compensation is not provided by the act, and, therefore, the arbitrators committed an ex facie legal error.
+the consent of the parties cannot create arbitral jurisdiction under the industrial disputes act.
+the claim for compensation cannot be a lawful subject for arbitration because it is not covered within the definition of industrial disputes in section 2 k .
+we are unable to imagine a tort of liability or compensation based on loss of business being regarded as an industrial dispute as defined in the act.
+section 33 provides for speedy recovery of money due to a workman from an employer under a settlement or award.
+it does not provide for recovery of money by the employer from the workman.
+obviously because the workman belongs to the weaker section.
+claims by employers against the workmen on grounds of tortious liability have not found a place in the pharmacopeia of indian industrial law.
+26 d, 27a, c, d-e judgment civil appellate jurisdiction civil appeals numbers 1721- 1728 of 1969.
+appeals by special leave from the judgment and order dated the 2nd may 1962 of the patna high court of judicature at patna, in m.j.c.
+numbers 475 and 498 of 1959.
+a. b. n. sinha, b. p. maheshwari and suresh sethi for the appellants  in both the appeals .
+b. c. ghose, s. s. jauhar, d. n. pandey, a. sinha and d. p. mukherjee for respondent 1  in c.a. 1727  and respondents 1-3  in ca 1728 .
+d. p. singh, s. c. agarwal and v. j. francis for respondents 7 and 8  in ca 1727 and respondent 4 in  1728/69 .
+the judgment of the court was delivered by krishna iyer, j.-we permit ourselves a few preliminary observations disturbingly induced by the not altogether untypical circumstances of these two appeals, before proceeding to state the facts, set out the submissions and decide the points.
+industrial law in india has not fully lived up to the current challenges of industrial life, both in the substantive norms or regulations binding the three parties- the states, management and labour-and in the processual system which has baulked, by dawdling dysfunction, early finality and prompt remedy in a sensitive area where quick solution is of the very essence of real justice.
+the legislative and judicial processes have promises to keep if positive industrial peace, in tune with distributive economic justice and continuity of active production, were to be accomplished.
+the architects of these processes will, we hopefully expect, fabricate creative changes in the system, normative and adjectival.
+the two appeals before us, passported by special leave under art.
+136, relate to an industrial dispute with its roots in 1948, meandering along truce union rivalry and the like, into strikes and settlements, the last of which led to an arbitration award in 1959 which, in turn, prompted two writ petitions before the high court.
+after a spell of a few years they ripened into a judgment.
+appeals to this court followed and, after long gestation of six years for preparation of papers and a like period the cases are ready for final hearing or parturition, in all 12 years after the grant of leave.
+by this cumulative lapse of time the generation of workers who struck work two decades ago have themselves all but retired, the representative union itself which sponsored the dispute has, the other side faintly states, ceased to command representative character, the managements themselves have, out of many motives, disclaimed the intention to recover the huge sums awarded to them by the arbitrators and the only survival after death, as it were, is a die-hard litigation tied up to a few near-academic, but important, legal points for adjudication by the highest bench on this elegiac note we will enter the relevant area of facts and law since we must decide cases brought before us, however stale the lis.
+at this stage we may mention our strong feeling that where the superior courts, after hearing full arguments, are clearly inclined to, affirm the judgment under appeal for substantially similar reasons as have weighed with the lower court, there is no need to give lengthy reasons for dismissing the appeal.
+brevity, except in special cases, may well fill the bill where the fate is dismissal.
+on this score we are disposed to make short shrift of the appeals with stating but the necessary facts and focusing on the larger legal facets.
+nevertheless, the significance and plurality of the points pressed have defeated condensation.
+d the facts two connected managements of industries in the same locality, who figure as appellants before us, had a running industrial dispute with their workers, which has had a long history moving in a zigzag course and sicklied over by alleged internecine trade-union strife.
+there were two trade unions which were perhaps of competitive strength and enjoying recognition.
+one of them, the rohtas industries mazdoor sangh  for short, the mazdoor sangh  was the representative union during the relevant period while the other, the rohtas industries seva sangh  for brevity, the seva sangh  is not a party before this court and so we are not concerned with it except for the purpose of noticing its presence in the settlement of the dispute which starts the story so far as the litigation is concerned.
+there was a strike in the industry  for our purposes this expression embraces both the appellants  which came to an end by virtue of a memorandum of agreement dated october 2, 1957, to which not merely the management but also the two registered unions aforementioned and the two unregistered unions which had a lesser following, were party.
+the terms of the said agreement provided inter alia that the employees claim for wages and salaries for the period of strike and the companys claim for compensation for losses due to strike shall be submitted for arbitration of sri j. n. majumdar and sri r. c. mitter, ex-high court judges and ex members of the labour appellate tribunal of india as joint arbitrators and their decisions on the two questions shall be final and binding on all the parties.   clause 7 of agreement  this agreement was admittedly arrived at during conciliation proceedings contemplated by the industrial disputes act, 1947  for short, the act  and the reference to arbitration spelt out in clause 7 directly and. admittedly fell under s. 10a of the act.
+it is apparent that the arbitrators were seized of two questions  a  the claim of the workers for wages for the period of strike and  b  the claim of the management for compensation for its losses flowing from the strike.
+the board of arbitrators, two retired judges of the calcutta high court-held extensive hearings spread over a year and a half, made a lengthy award marshalling the evidence, adducing the reasons, discussing the law and recording its decision on the two vital issues.
+at the end of the detailed and reasoned record of conclusions, the award runs thus our award accordingly is-   1  that the workmen participating in the strike are not entitled to wages and salaries for the period of the strike.   2  that the company do recover from the workmen participating in the strike, compensation assessed at rs. 80,000 rupees eighty thousand .   3  that the workmen jointly and severally do pay to the company one eighth of the total costs of the arbitration.
+in default of payment the company will be at liberty to recover the same in such manner as it thinks fit.
+subject to this the parties do bear their respective costs.
+the workmen were deprived of their wages during the period of the.
+strike on the score that it was an illegal strike.
+both sides seem to have accepted this finding after an unsuccessful challenge in the high court and happily industrial peace is said to be prevailing currently.
+what did hurt the mazdoor sangh more and what the management did try to have and to hold as a bonanza was the second finding that the strikers, apart.
+from forfeiting wages, do pay compensation in the huge sum of rs. 6,90,000/- in one case and rs. 80,000/- in the other, for the loss of profits suffered by the manufacturing business of the management, a pronouncement unusual even according to counsel for the appellant, although sustainable in law, according to him.
+for the workers this unique direction of industrial law is fraught with ominous consternation and dangerous detriment.
+the mazdoor sangh challenged the award as illegal and void by filing two writ petitions but the high court quashed that part of the award which directed payment of compensation by the workers to the management and, as earlier pointed out, both sides have chosen to abide by the award in relation to the denial of wages during the strike period.
+the main points urged the short but important issue, which has projected some serious questions of law, is as to whether the impugned part of the award has been rightly voided by the high court.
+we may as well formulate them but highlight the only major submission that merits close examination, dealing with the rest with terse sufficiency.
+in logical order, counsel for the appellant urged that  1   a  an award under s. 10a of the act savours of a private arbitration and is not amenable to correction under art.
+226 of the constitution.   b  even if there be jurisdiction, a discretionary desistance from its exercise is wise, proper and in consonance with the canons of restraint this court has set down.   2  the award of compensation by the arbitrators suffers from no vice which can be regarded as a recognised ground for the high courts interference.   3  the view of law taken by the high court on  1  the supposed flaw in the award based on mixed motives for the offending strike  ii  the exclusion of remedies other than under s. 26 of the act and  iii  the implied immunity from all legal proceedings against strikers allegedly arising from s. 18 of the trade unions act, 1926 is wrong.
+a few other incidental arguments have cropped up but the core contentions are what we have itemised above.   1 - a   b  the expansive and extraordinary power of the high courts under art.
+226 as wide as the amplitude of the language used indicates and so can affect any person-even a private individual-and be available for any  other  purpose- even one for which another remedy may exist.
+f the amendment to art.
+226 in 1963 inserting art.
+226 1a  reiterates the targets of the writ power as inclusive of any person by the expressive reference to the residence of such person.
+but it is one thing to affirm the jurisdiction, another to authorise its free exercise like a bull in a china shop.
+this court has spelt out wise and clear restraints on the use of this extra-ordinary remedy and high courts will not go beyond those wholesome inhibitions except where the monstrosity of the situation or other exceptional circumstances cry for timely judicial interdict or mandate.
+the mentor of law is justice and a potent drug should be judiciously administered.
+speaking in critical retrospect and portentous prospect, the writ power has, by and large, been the peoples sentinel on the qui vive and to cut back on or liquidate that power may cast a peril to human rights.
+we hold that the award here is not beyond the legal reach of art.
+226, although this power must be kept in severely judicious leash.
+many rulings of the high courts, pro and con, were cited before us to show that an award under s. 10a of the act is insulated from interference under art.
+226 but we respectfully agree with the observations of gajendragadkar j.,  as he then was  in engineering mazdoor sabha v. hind cycles ltd 1  which nail the argument against the existence of jurisdiction.
+the learned judge clarified at p. 640 article 226 under which a writ of certiorari can be issued in an appropriate case, is, in a sense, wider than art.
+136, because the power conferred on the high courts to issue certain writs is not conditioned or limited by the requirement that the said writs can be issued only against the orders of courts or tribunals.
+under art.
+226 1 , an appropriate writ can  1  1963 supp.
+i s.c.r.
+625. be issued to any person or authority, including in appropriate cases any government, within the territories prescribed.
+therefore even if the arbitrator appointed under section 10a is not a tribunal under art.
+136 in a proper cases, a writ may lie against his award under art.
+226.   p. 640  we agree that the position of an arbitrator under s. 10a of the act  as it then stood  vis a vis art.
+227 might have been different.
+today, however, such an arbitrator has power to bind even those who are not parties to the reference or agreement and the whole exercise under s. 10a as well as the source of the force of the award on publication derive from the statute.
+it is legitimate to regard such an arbitrator now as part of the methodology of the sovereigns dispensation of justice, thus falling within the rainbow of statutory tribunals amenable to judicial review.
+i this observation made en passant by us is induced by the discussion at the bar and turns on the amendments to s. 10a and cognate provisions like s. 23, by act xxxvi of 1964.
+should the court invoke this high prerogative under art.
+226 in the present case ?
+that depends.
+we will examine the grounds on which the high court has, in the present case, excised a portion of the award as illegal, keeping in mind the settled rules governing judicial review of private arbitrators awards.
+suffice it to say, an award under s. 10a is not only not invulnerable but more sensitively susceptible to the writ lancet being a quasi-statutory bodys decision.
+admittedly, such an award can be upset if an apparent error of law stains its face.
+the distinction, in this area, between a private award and one under s. 10a is fine, but real.
+however it makes slight practical difference in the present case in other cases it may.
+the further grounds for invalidating an award need not be considered as enough unto the day is the evil thereof.   2  thus, we arrive at a consideration of the appellants second submission, perhaps the most significant in the case, that the high court had no legitimate justification to jettison the compensation portion of the award.
+even here, we may state that counsel for the appellants, right at the outset, mollified possible judicial apprehensions springing from striking workers being held liable for loss of managements profits during the strike period by the assurance that his clients were inclined to abandon realisation of the entire compensation, even if this court up held that part of the award in reversal of the judgment of the high court a generous realism.
+he fought a battle for principle, not pecunia.
+we record this welcome fact and proceed on that footing.
+the relevant law which is beyond controversy now has been clearly stated in halsburys laws of england thus error of law on the face of award an arbitrators award may be set aside for error of law appearing on the face of it, though the jurisdiction is not lightly to be exercised. . .
+the jurisdiction is one that exists at common law independently of statute.
+in order to be a ground for setting aside the award, an error in law on the face of the award must be such that there can be found in the award, or in a document actually incorporated with it, some legal proposition which is the basis of the award and which is erroneous.
+.where the question referred for arbitration is a question of construction, which is, generally speaking, a question of law, the arbitrators decision cannot be set aside only be cause the court would itself have come to a different conclusion but if it appears on the face of the award that the arbitrator has proceeded illegally, as for instance, by deciding on evidence which was not admissible, or on principles of construction which the law do s not countenance, there is error in law which may be ground for setting aside the award.   para 623, p. 334, vol. 2, fourth edn  we adopt this as sound statement of the law.
+not that english law binds us but that the jurisprudence of judicial review in this branch is substantially common for indian and anglo-american systems and so halsbury has considerable persuasive value.
+the wider emergence of common canons of judicial review is a welcome trend towards a one world public law.
+indeed, this court has relied on the leading english decisions in several cases.
+we may content ourselves with adverting to bungo steel furniture 1  and to the unreported decision babu ram 2 .
+in simple terms, the court has to ask itself whether the arbitrator has not tied himself down to an obviously unsound legal proposition in reaching his verdict as appears from the face of the award.
+bhargava j., speaking for the majority, in bungo steel 1  stated the law it is now a well-settled principle that if an arbitrator, in deciding a dispute before him, does not record his reasons and does not indicate the principles of law on which he has proceeded, the award is not on that account vitiated.
+it is only when the arbitrator proceeds to give his reasons or to lay down principles on which he has arrived at his decisions that the court is competent to examine whether he has proceeded contrary to law and is entitled to interfere if such error in law is apparent on the face of the award itself.   p. 640-641  in bharat barrel drum manufacturing company  8  dealing with a private award and the conditions necessary for exercise of writ jurisdiction to correct an error of law apparent on the record, did not lay down the law differently from what we have delineated.
+in one of the leading english cases champsey bhara company  4  followed in india, lord dunedin defined error of law on the face of the award as where the question of law necessarily arises on the face of the award or upon some paper accompanying and forming part of the award and said that then only the error of law therein would warrant judicial correction.
+the law lord expressed himself lucently when he stated an error in law on the face of the award means, in their lordships view, that you can find in the award . . .
+some legal  1  1967 1 s.c.r.633.  2  c.a.107 of 1966 decided on 5-12-68.   3  a.i.r 1967 s.c.
+361.  4  50 i.a. 324. proposition which is the basis of the award and which you can, then say is erroneous.
+williams j., in the case of hodkinson v. verne 1  hit the nail on the head by using the telling test as firmly established, viz., where the question of law necessarily arises on the face of the award.
+in this view the enquiry by the court before venturing to interfere is to ascertain whether an erroneous legal proposition is the basis of the award.
+nay, still less.
+does a question of law  not even a proposition of law  necessarily arise on the award followed by a flawsome finding explicit or visibly implicit?
+then the court can correct.
+tucker j., in james clark  2  formulates the law to mean that if the award were founded on a finding which admits of only one proposition of law as its foundation and that law is erroneous on its face, the court has the power and, therefore, the duty to set right.
+while the judge cannot explore, by changing subterranean routes or ferret out by delving deep what lies buried in the unspoken cerebration of the arbitrator and interfere with the award on the discovery of an error of law by such adventure, it is within his purview to look closely at the face of the award to discern the law on which the arbitrator has acted if it is transparent, even translucent but lingering between the lines or merely wearing a verbal veil.
+if by such an intelligent inspection of the mien of the award-which is an index of the mind of the author-an error of law forming the basis of the verdict is directly disclosed, the decision is liable to judicial demolition.
+in james clark  2 , the issue was posed with considerable clarity and nicety.
+if, at its face value, the award appears to be based on an erroneous finding of law alone, it must fail.
+the clincher is that the factual conclusion involving a legal question must necessarily be wrong in point of law.
+even though the award contains no statement of the legal proposition, if the facts found raise a clear point of law which is erroneous on the face of it, the court may rightly hold that an error of law on the face of the award exists and invalidates.
+let us put the proposition more expressively and explicitly.
+what is important is a question of law arising on the face of the facts found and f its resolution ex facie of sub silentio.
+the arbitrator may not state the law as such.
+even then such cute silence confers no greater or subtler immunity on the award than plain speech.
+the need for a speaking order, where considerable numbers are affected in their substantial r t rights, may well be a facet of natural justice or fair procedure, although, in this case, we do not have to go so far.
+if, as here, you find an erroneous law as the necessary buckle between the facts found and the conclusions recorded, the award bears its condemnation on its bosom.
+not a reference in a narrative but a clear legal nexus between the facts and the finding.
+the law sets no premium on juggling with drafting the award or hiding the legal error by blanking out.
+the inscrutable face of the sphinx has no better title to invulnerability than a speaking face which is a candid index of the mind.
+we may, by way aside, express hopefully the view that a minimal judicialisation by statement, laconic or lengthy, of the essential law that guides the decision, is not only reasonable and desirable but has, over the ages, been observed by arbitrators and quasi-judicial tribunals as a norm of processual justice.
+we  1  1857 3 c.b.  n.s.  189,  2  19441 k.b. 566.
+do not dilate on this part of the argument as we are satisfied that be the test the deeply embedded rules to issue certiorari or the traditional grounds to set aside an arbitration award thin partition do their bounds divide on the facts and circumstances of the present case.
+the decisive question now comes to the fore.
+did the arbitrators commit an error of law on the face of the award in the expanded sense we have explained ?
+the basic facts found by the arbitrators are beyond dispute and admit of a brief statement.
+we summarise the fact situation succinctly and fairly when we state that according to the arbitrators, the strike in question was in violation of s. 24 of the act and therefore illegal.
+this illegal strike animated by inter-union power struggle, inflicted losses on the management by forced closure.
+the loss flowing from the strike was liable to be recompensed by award of damages.
+in this 2chain of reasoning is necessarily involved the question of law as to whether an illegal strike causing loss of profit is a delict justifying award of damages.
+the arbitrators held, yes.
+we hold this to be an unhappy error of law-loudly obtrusive on the face of the award.
+we may as well set out, for the sake of assurance, the simple steps in the logic of the arbitrators best expressed in their own words which we excerpt  a  it is argued that strike is a legitimate weapon in the hands of workmen for redressal of their grievances and if they are made liable for loss on account of strike then the basic idea of strike as a means for having the grievances redressed will be taken away.
+the fallacy in this argument is that it presupposes the strike not to be illegal and unjustified.
+in the pre sent case we found the strike to be otherwise.
+the workmen have got no right of getting their grievances redressed by resorting to illegal means which is an offence.   b  it has been argued that the claim for compensation is not an industrial dispute as defined in the industrial disputes act.
+considering the issue of compensation in a water-tight compartment the argument might appear to be attractive.
+but, in our opinion, in this case the claim for compensation by the company is a consequence flowing from an admitted industri

@@ -1,0 +1,27 @@
+--- PREAMBLE & CASE INFO ---
+
+order 1.
+
+--- JUDGMENT BODY ---
+
+the short question which arises for determination in this civil appeal filed by the assessee is as follows whether the assessee was entitled to the benefit of the proviso to section 80hhc 3 of the income tax act, 1961 as it stood at the relevant time ?
+2. in this civil appeal we are concerned with the assessment year 1992-93.
+assessee is a cashew exporter.
+it had made direct and indirect exports for the assessment year 1992-93 and had claimed total deduction of an amount of rs. 97,54,515 under section 80hhc 1 and section 80hhc 1a of the income tax act.
+the assessing officer granted deduction under sections 80hhc 1 and 80hhc 1a in respect of direct and indirect exports in all amounting to rs. 91,10,306.
+as against the claim of rs. 97,54,515.
+however, while granting deduction under the proviso to section 80hhc 3 the assessing officer excluded sales to export houses from export turnover and he reworked the relief at rs. 12,63,532.
+3. aggrieved by the said order the assessee took up the matter before commissioner appeals .
+the order of the assessing officer was upheld on the ground that export turnover included only direct exports since section 80hhc 3 dealt with quantification of deduction in the case of direct exports and the quantum of deduction had to be computed only on the basis of direct export turnover.
+the commissioner appeals also took note of the deduction separately granted on indirect exports under section 80hhc 1a of the act.
+however, when the assessee carried the matter in appeal to the tribunal took the view that in the case of eastern leather products p limited v. dy. cit 1999 68 itd 358 del-trib the assessing officer should recompute the income of the assessee and allow benefits admissible to the export house if such export house had issued a disclaimer certificate.
+aggrieved by the said decision the department moved the high court by way of appeal under section 260a of the income tax act.
+the decision of the tribunal was however set aside by the high court which took the view that since section 80hhc 1 read with section 80hhc 3 provided for computation and deduction of profit and direct exports only the assessee was not entitled to the benefit in that regard qua indirect exports made through the export house.
+the high court also proceeded on the basis that the sales turnover from sales effected by the assessee to the export houses did not answer the description of export turnover and therefore the assessee was not entitled to take the indirect exports into account while calculating sales turnover in the formula mentioned in section 8 hhc 3 .
+4. in the present ease we are of the view that for the following reasons the matter needs to be remitted to the assessing officer.
+firstly, in this case there is non-factual finding recorded by the high court as to whether the sales made through the export houses by the assessee is supported by a disclaimer certificate from such export houses.
+under the provisions of section 80hhc 1a if the assessee is a supporting manufacturer on has producing such disclaimer certificate the assessee would be entitled to claim the benefit of deduction under the said section.
+secondly, fresh computation is now required to be done in view of three subsequent judgments, namely, the judgment of this court in the case or cit v. k. ravindranathan nair pronounced on 13-11-2007 in c.a. slp c number 24617/2003 reported in 2007 213 ctr sc 227 a.m.
+moosa v. cit and the judgment of the special bench of the tribunal delhi in the case of lalsons enterprises v. cit 2004 89 itd 25 del-trib sb .
+accordingly, the impugned judgment is set aside and the, matter is remitted for fresh computation by the assessing officer in terms of the above judgments.
+the appeal is accordingly allowed with no order as to costs.

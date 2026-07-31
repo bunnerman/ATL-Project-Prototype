@@ -1,0 +1,179 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner corporation bank vs. respondent d.s.
+
+--- JUDGMENT BODY ---
+
+godwa date of judgment20/06/1994 bench ahmadi, a.m.  j  bench ahmadi, a.m.  j  agrawal, s.c.   j  citation 1994 scc  5  213 jt 1994  7  87 1994 scale  3 46 act headnote judgment the judgment of the court was delivered by ahmadi, j.- these appeals brought by the aforementioned banks by special leave raise certain important questions of law touching the business activities of the banks in the matter of grant of loans advances and recovery thereof which may be formulated as under 1 .
+whether the bank is entitled to claim interest with periodical rests, e.g., a monthly rest, a quarterly rest, a six-monthly rest, or a yearly rest, or compound interest in any other manner, from a borrower who has obtained a loan or an advance for agricultural commercial purposes, as the case may be?
+2. whether the banks are bound to follow the directives circulars issued by the reserve bank of india in exercise of power conferred by section 21 of the banking regulation act, 1949 prescribing the structure of interest to be charged on loans advances made from time to time, and if yes, to what extent?
+3. whether in view of the insertion of section 21-a in the banking regulation act, 1949 by banking loans  amendment  act, 1983  act number 1 of 1984 , courts are precluded from subjecting transactions entered into between the banks and borrowers from scrutiny under the provisions of the usurious loans act, 1918 or any other similar state law, with a view to giving relief thereunder, and, if yes, whether relief under such laws is wholl y impermissible?
+and 4. whether the directives circulars issued by the reserve bank of india under section 21 of the banking regulation act, 1949 can be termed as a special circumstance within the meaning of explanation 1 to section 3 of the mysore usurious loans act, 1923  mysore act number ix of 1923 ?
+if yes, what is its effect?
+these questions which have a bearing on the day to day transactions of loan advance entered into by the banks arise in the following background.
+2. in bank of india v. rao saheb krishna rao desai1, the bank had advanced a loan for purchasing a tractor to improve the agricultural land.
+the borrower executed a promissory note as also a hypothecation deed whereby he agreed to repay the said sum on demand with interest at 4.5 per annum over the reserve bank rate, minimum being 9.5 per annum with quarterly rests.
+the original rate fixed was 10.5 per annum.
+on the failure of the borrower to adhere to the terms of the loan, the bank instituted a suit for recovery of the loan wherein it claimed compound interest on the strength of the term with quarterly rests.
+the suit was decreed by the trial court with future interest at 10.5 per annum.
+the claim for compound interest was rejected.
+feeling aggrieved, the bank preferred the aforesaid appeal which was heard by a division bench of the karnataka high court.the division bench referred to pagets law of banking, 8th edn.  1972 , chapter v, wherein under the caption interest it was stated there is no common law right to charge even simple interest on an overdraft but the claim could be supported on the ground of universal custom of bankers or on the basis of implied agreement.
+where the customer has acquiesced in the system under which the interest is charged, that also would justify the claim.
+such acquiescence will justify the charging compound interest or interest with periodical rests, so long as the relation of banker and customer exists, and the relationship is not changed into that of mortgagee and mortgagor.
+the taking of a mortgage or a charge by way of legal mortgage to secure the fluctuating balance of an account is not, however, inconsistent with the relation of banker and customer so as to preclude compound interest.
+the effect of the practice of bankers in debiting interest to an overdrawn current account periodically and thereby increasing the capital sum was considered in yourell v. hibernian bank in which lord atkinson said the bank, by taking the account with these half-yearly rests,secured for itself the benefit of compound interest.
+this is a usual and perfectly legitimate mode of dealin g between banker and customer.
+in holder v. irc3 the court of appeal approved the statement of lord cowan in reddie v. williamson4 that the periodical interest at the end of each year is a debt to be then paid, and which must be-held to have been paid when placed to the 1  1980  2 kar lj 495 2 1918 ac 372 3 1932 all er 265 1932 ac 624 4  1863  1 macph  ct. of sess.   228 debit of the account as an additional advance by the bank for the convenience of the obligations.
+3. relying on the above passage, the division bench observed that the custom of charging compound interest by banks would be normally applicable in the matter of overdraft facilities only and that too, when there exists relationship of banker and customer, which relationship has not been transformed into that of mortgagee and mortgagor.
+sabhahit, j., speaking for the bench, observed compound interest or the practice of quarterly or half-yearly rest is something strange to agricultural financing where the loans are either short-term, middle-term or long-term.
+short-term financing is done for growing the annual crops.
+they are termed as crop loans.
+middle-term financing is done for improvements in the lands and the period would be about three years to five years.
+long-term financing is given for clearing off of old debts and for the long-term investments.
+that being so, in agricultural financing, the question of the normal commercial banking conditions as in overdrafts would not come into play and the bank custom and habits which are usual in the case of commercial banking cannot be smuggled into agricultural financing.
+4. on facts, the court found that the parties understood, if at all, quarterly rest to mean that interest is to be paid every quarter and nothing more.
+it was also noticed that the loan advanced was in fact a mortgage transaction and therefore the usual practice and custom prevailing in the case of overdrafts would have no application.
+the court, therefore, held that the clause quarterly rests used in the printed form was never intended to burden the borrower with the obligation to pay compound interest.
+hence the division bench held that the clause which was noted by the parties at its inception and execution to permit the bank to recover compound interest must be deemed to be void in the eye of law and cannot be allowed to be enforced by the bank.
+we have referred to this decision even before we refer to the decisions impugned in these appeals as it has a direct bearing on the subsequent decisions.
+5. the decision of the division bench of the karnataka high court impugned in civil appeal number 4214 of 1982 is reported as d.s. gowda v. corporation bank.
+d.s. gowda who was allotted a building site by the bangalore development authority, had approached the bank for financial help to construct residential flats on the said site.
+the bank acceded to his request and granted overdraft facility up to rs 2,50,000.
+the borrower accepted the facility and commenced construction at the site.
+however, it was soon realised that the sanctioned facility was insufficient and so he approached the bank for additional finance.
+since he had failed to pay interest installments his financial indebtedness had risen.
+on 26-11-1973, he executed an irrevocable power of attorney authorising the bank manager to supervise and or to put up construction according to the sanctioned plan and 1 air 1983 kant 143  1982  2 kant lj 490 to induct tenants and recover rents from them in repayment of the loan and interest due to the bank.
+unfortunately for him, the building could not be completed and by 1975 the outstanding loan and interest had swollen to over rs 4 lakhs.
+the bank then felt the need for adequate security whereupon on 10-10-1975, the borrower executed a deed of equitable mortgage by deposit of title deeds for rs 5 lakhs.
+the bank gave him further accommodation on the execution of the said document.
+under the terms of the mortgage, the borrower covenanted to repay the mortgage loan of rs 5 lakhs with interest at 16.5 per annum subject to such rate of interest as may be prescribed within a period of two years.
+it was further agreed by the mortgagor that he will pay interest on the mortgage amount at the end of each calendar month without default and in the event of default, overdue interest may be charged.
+on 7-11-1975, he at the instance of the bank executed a promissory note by way of collateral security undertaking to pay rs 5 lakhs with interest at 16.5 per annum with quarterly rests.
+by 1-3-1978, the amount payable with penal interest, service charges, etc., stood at rs 7,56,934.17 paise.
+the bank instituted a suit for recovering the said amount with future interest and costs by the sale of mortgaged property under order xxxiv of the code of civil procedure.
+the borrower admitted the execution of the equitable mortgage deed and the promissory note, but contended that the promissory note was executed as a collateral security and the provision of quarterly rest provided therein was not one of the conditions of the loan granted to him.
+he further contended that the amount actually borrowed under the mortgage was rs 4 lakhs but the bank got the mortgage deed executed for rs 5 lakhs by including the interest due on rs 4 lakhs.
+he, therefore, contended that he was not liable to pay compound interest or penal interest since such a liability did not arise under the loan transaction.
+in any event he contended that the interest charged was exorbitant, the transaction was substantially unfair and, therefore, he was entitled to relief under the provisions of the mysore act.
+6. it was urged on behalf of the borrower that there was no banking practice to charge interest with monthly or quarterly rests and in the absence of statutory sanction from the reserve bank of india, the bank could not collect compound interest.
+counsel for the bank however submitted that there was a banking practice to charge compound interest by providing for monthly or quarterly rests as also to charge penal and service charges from the defaulter.
+the minimum lending rate of 12.5 prescribed by the reserve bank of india did not preclude the bank from charging interest at 16.5 with quarterly rests.
+he, therefore, submitted that there was nothing substantially unfair in the transaction to attract the provisions of the mysore act.
+the trial court decreed the suit holding that the borrower was initially given rs 4,22,000 as loan and rs 78,000 were added thereto by way of accrued interest making a total of rs 5 lakhs for which he executed the equitable mortgage.
+the trial court further held that the borrower had not proved that he was not liable to pay interest with quarterly rests and hence the bank was justified in charging interest as claimed in the suit.
+lastly, the trial court stated that the borrower had not established that the loan transaction was substantially unfair or that the interest charged was excessive to entitle him to relief under the mysore act.
+the trial court, therefore, directed that a preliminary decree be drawn up for the suit claim along with costs and future interest at 16.5 per annum to be realised by sale of the mortgaged property if not paid within six months.
+feeling aggrieved the borrower appealed to the high court.
+the division bench of the high court formulated two principal questions for consideration, namely,  1  whether the terms of the mortgage deed providing for payment of interest at 16.5 with monthly rests are valid under statutory directives of the reserve bank of india or could be supported by banking practice, and  2  whether the interest charged by the bank including penal interest and service charges was excessive and whether the court could call into aid the provisions of the mysore act to mitigate the rigour of the loan transaction, and if so, what relief defendant is entitled to?
+the division bench thereafter examined the provisions of the reserve bank of india act, 1934, the banking regulation act, 1949 and the banking companies  acquisition and transfer of undertakings  act, 1970 as amended from time to time and noticed the various directives circulars issued by the reserve bank in exercise of power conferred by section 21 of the banking regulation act, 1949 and concluded as under it is thus clear that the ordinary practice or custom of banks was only to charge interest with yearly or half-yearly rests and that too only on overdraft amounts and unsecured loans.
+the monthly and quarterly rests, therefore, does not appear to be the recognised baking practice.
+the division bench next examined whether the reserve bank of india while prescribing quarterly rests under its directive of 13-3-1976 had recognised any such banking practice.
+taking note of the background material in this behalf, the division bench concluded as under from the above narration, one thing becomes very clear that the reserve bank of india did not pay adequate attention to the question of rests or the compound interest to be charged by banks on loans, advances and other facilities save those connected with agriculture.
+relying on section 3 1  of the mysore act the court held that the directives of the reserve bank of india cannot by themselves constitute a special circumstance under the explanation to section 3 1  and therefore since the bank had charged compound interest as well as penal interest, there can be no doubt that a presumption arose that the transaction was substantially unfair and the burden of rebutting the presumption that the interest charged was not excessive squarely lay on the bank which it had to discharge.
+the division bench, therefore, held that the borrower was entitled to relief and sliced down the interest rate to 12.5 per annum with annual rest.
+as to the levy of penal interest, the division bench pointed out that there was no stipulation in the agreement to support it.
+in regard to the service charges, it noticed that the reserve bank by circular dated 15-11-1976 had directed that banks in their discretion could charge at a flat rate from january 1978 at 1/20th of 1 up to a maximum of rs 25,000 on a once for all basis as processing fees.
+the division bench, therefore, allowed the bank to recover rs 25,000 by way of processing fees.
+in the above view, the appeal was allowed and the matter was remitted to the trial court for working out the dues in the light of the above decision.
+it is this decision which is assailed in civil appeal number 4214 of 1982.
+7. next is the case of h.p. krishna reddy v. canara bank6.
+the facts of the case show that the suit filed by the bank for recovery of money due under an equitable mortgage and promissory note was contested mainly on the ground that the banks claim to interest at the rate of 13 per annum with quarterly rest was unsustainable.
+that claim was laid on the rules of business, trade, usage and custom.
+this claim was based on a circular of the reserve bank dated 17-8-1978 which in turn referred to an earlier circular of 5-10-1974.
+by the time this decision was rendered section 21-a was introduced in the banking regulation act, 1949 which reads as follows 21-a. rates of interest charged by banking companies not to be subject to scrutiny by court.- notwithstanding anything contained in the usurious loans act, 1918, or any other law related to indebtedness in force in any state, a transaction between a banking company and its debtor shall not be reopened by any court on the ground that the rate of interest charged by the banking company in respect of such transaction is excessive.
+the division bench came to the conclusion that the loan in question was for agricultural purposes and, therefore, under the reserve banks circulars the bank was precluded from recovering interest with quarterly rests.
+on the question whether the contractual rate of 13 was excessive, the division bench ruled against the borrower.
+however, on the question of applicability of section 21-a it observed that the said provision had no bearing on the question of courts jurisdiction to give relief to an aggrieved party if the bank in any particular case has charged interest in excess of the limits prescribed by the reserve bank, since that would render the bank liable to penalty under the banking regulation act.
+therefore, it was observed that if in any case it is shown that the bank had charged interest in disobedience of the reserve bank directive, the court would be justified in granting relief to the borrower notwithstanding section 21-a extracted earlier.
+as regards the grant of interest pendente life, the rate of interest at 6 per annum was justified in view of the constraints of explanations 1 and 2 to proviso to section 34 of the civil procedure code since the loan was admittedly for agricultural purposes.
+we have referred to this decision at this stage to indicate the trend of the said high court.
+8. the judgment impugned in civil appeal number 544 of 1986 has been reported as bank of india v. kamam ranga rao.
+the said matter arises out of the suit instituted by the bank for recovery of rs 30,564,  principal sum 6 air 1985 kant 228 7 air 1986 kant 242 being rs 10,000  borrowed for raising sugar cane crop.
+under the documents executed by and between the parties the borrowers were liable to pay interest at the rate of 4 above the rate prescribed by the reserve bank subject to a minimum of 13 per annum with quarterly rests.
+the bank, however, had charged only half-yearly rests and had claimed at the same rate in the suit.
+the borrowers while admitting the fact of having taken the loan denied their liability to pay interest with quarterly rests on the ground that the loan was for agricultural purposes and it was settled practice that the bank should not charge interest with periodical rests i.e. compound interest.
+the trial court held that it was well settled that for agricultural loans in india charging of compound interest was not permissible.
+the bank was, therefore, directed to submit a revised statement which it did determining the dues at rs 19,851.66.
+the trial court decreed the suit for the said amount with future interest at 6 per annum.
+feeling aggrieved by the said decree the bank approached the high court in appeal.
+since the question raised in appeal related to the banks right to charge compound interest on agricultural advances and since in a number of matters pending before the court the same question was involved, the court thought it advisable to issue notice under order 1 rule 8 of the code of civil procedure as also to the reserve bank of india with a direction to inspect the accounts and submit a report.
+accordingly the report came to be submitted on 7-6-1985.
+that report disclosed that the bank had debited interest to the crop loan account thrice with half-yearly rest before the due date of payment of the loan and had also compounded the interest.
+the division bench observed as under the bank, however, could add interest outstanding to the principal and compound the interest when the crop loan becomes overdue keeping in view what has been stated in the circular dated 14-3-1972.
+as such the bank compounding of interest at half-yearly intervals after the loan amount has become overdue cannot be questioned.
+reference was made to as many as six circulars issued by the reserve bank between 14-3-1972 and 15-9-1984.
+the division bench held that banks were bound to follow the directives or circulars issued by the reserve bank prescribing the structure of interest to be charged on loans and any interest charged in excess of the prescribed limit would be illegal and void.
+following its earlier decisions it was further held that banks could not charge interest with quarterly rests on agricultural advances.
+it was pointed out that agricultural advances could not be equated with commercial loans in the matter of compounding of interest.
+in the case of agricultural loans it was pointed out that since farmers did not have any regular source of income other than the sale proceeds of their crops, they received income once in a year and were, therefore, not in a position to pay interest at fixed rests and hence in such transactions the parties could never be taken to have intended that the interest should be compounded quarterly or half-yearly.
+on the question of applicability of section 21-a of the banking regulation act it was said that unless it is proved that the interest charged by the banks is not in conformity with the rates prescribed by the reserve bank, the court would be precluded from reopening the transaction.
+however, if the rate charged is in violation of the reserve banks circular, the excess rate of interest can be chopped off as illegal and void.
+on this line of reasoning the banks appeal was dismissed.
+9. at this stage it would be convenient to notice two decisions of the andhra pradesh high court which have a bearing on some of the points under consideration.
+in k. c. venkateswarlu v. syndicate bank, the division bench held that the newly added section 21-a of the banking regulation act made the provisions of the usurious loans act, 1918, inapplicable to a transaction of loan between a bank and a borrower.
+the division bench recorded its conclusion in paragraph 5 of the judgment thus it is clear that the said provision makes the provisions of usurious loans act inapplicable to any transaction between a banking company and its debtor.
+the courts power to reopen the transaction under the provisions of the usurious loans act on the ground that the rate of interest charged is excessive is no longer available.
+it is not disputed that it affects the pending proceedings also though the act came into force on 15-2-1984.
+thus it is clear that the usurious loans act is no longer applicable to any debt due to a banking company.
+it is important to note that it was not disputed before the court that restriction imposed on the courts power by section 21-a extended to pending proceedings as well.
+10. in state bank of india, eluru, re9, a learned single judge of the said high court, however, held that section 21- a cannot have overriding effect over the usurious loans act, 1918, as amended by the madras amendment act number viii of 1937, in its application to agriculturists.
+according to the learned judge, the use of the generic word debtor in section 21-a was not intended to refer to agriculturists.
+the learned judge also held section 21-a ultra vires the power of parliament on the ground that it was not a law relating to banking but was intended to deny relief to agriculturists from indebtedness which was beyond the legislative competence of parliament.
+he felt that the said provision could not be saved by the application of even the pith and substance doctrine.
+further, the learned judge found section 21-a ultra vires article 14 on the plea that a law which requires or compels courts to implement harsh, unequal and unconscionable transactions providing for payment of compound interest or usurious rates of interest by depriving the debtors of their right to claim relief under the provisions of the usurious loans act or similar state laws would offend article 14 inasmuch as it permits discrimination against hapless debtors.
+holding that the provision of section 21-a was arbitrary, partisan and offensive to our sense of equity and equality, the learned judge refused to apply it in the facts of the case.
+it may, however, be mentioned that the attention of the learned single judge was not invited to the division bench decision in the case of 8 air 1986 ap 290 9 air 1986 ap 291 venkateswarlu8 which was rendered only a few days before.
+however, in the appeals before us neither parliaments competence to enact section 21 -a nor its constitutional validity based on article 14 has been challenged.
+we are, therefore, not required to go into these questions.
+11.
+before we notice the circulars directives issued by the reserve bank of india, it would be advantageous to briefly capitulate the functions of this countrys central bank.
+it was established under the reserve bank of india act with effect from 1-4-1935 and was nationalised immediately after independence in 1948.
+amongst others, its functions are to act as a banker to the government, regulate the issue of currency in india, act as a banker to other commercial banks, exercise control over the volume of credit of commercial banks to maintain price stability, to control advances granted by commercial banks and to prescribe the rates of interest on which advances may be granted.
+one of the ways it employs to control the volume of bank credit is through the fluctuations in the bank rate, i.e., the rate of interest at which it discounts bills of exchange from commercial banks.
+by the increase or decrease of the bank rate it reduces or increases the volume of credit with the commercial banks.
+section 21 of the banking regulation act enables the reserve bank to give directions to all other banks in regard to loan policies with a view to control credit facilities and curb speculative activities.
+this is clearly a matter of public interest.
+this provision authorises the reserve bank to give directions to other banks inter alia in regard to the rate of interest to be charged on advances financial accommodation.
+the newly added section 21-a restricts the court from reopening a transaction between a banking company and its debtor on the ground that the rate of interest charged is excessive, the usurious loans act or any other similar state act, notwithstanding.
+if any of the directions given by the reserve bank are violated, apart from the punishment that can be imposed on the officers, section 47-a empowers the reserve bank to penalise the banking company also.
+these, in brief, are the powers and functions of the reserve bank.
+12.
+we may now notice the directives circulars issued by the reserve bank relating to charging of interest on advances.
+the first circular, by far the most important, is dated 14-3-1972.
+it takes note of the fact that agricultural finance stands on a different footing for the reason that agriculturists do not have any regular source of income other than the sale proceeds of their crops.
+they would, therefore, be in a position to pay interest only when they receive the sale proceeds of their crops.
+taking note of the said position, the circular proceeds to state as under having regard to the special characteristics of agricultural finance, banks are advised to bear in mind the following principles in the matter of application of interest on such advances.   i  repayment period of agricultural advances, whether shortterm or medium-term, should be so fixed as to coincide with the period when the farmer is fluid, i.e., after harvesting and marketing of his crops.
+payment of interest should also be insisted upon only at the time of repayment of loan installment so fixed.   ii  interest on current dues should not be compounded.   iii  when crop loans or installments under medium-term loans become overdue, banks can add interest outstanding to the principal amount and compound the interest keeping in view what has been stated in paragraph 1 above.
+the circular further says that banks may adopt suitable accounting procedures in the matter of charging interest on agricultural loans.
+in paragraph 1 of the circular it is stated that there is at present no uniformity in the matter of charging interest on various types of agricultural advances and although interest is compounded at monthly, quarterly or half-yearly rests on advances, such a system of compounding in the case of agricultural advances may not be suitable.
+thus the aforesaid circular recognises the fact that agriculturists have to be treated differently from other loanees for the reason that they do not have any regular source of income other than the sale proceeds of their crops.
+that is why it advised the banks to fix the repayment period of agricultural advances, short-term or medium-term, in such a manner as to coincide with the period when the farmer is fluid, meaning thereby, when the farmer gets money on the sale of his crops.
+it is at that point of time that payment of interest should be insisted upon.
+the second circular is dated 5-10-1974.
+by this circular the reserve bank reiterates that interest on current dues in respect of agricultural advances should not be compounded.
+it has, therefore, advised all banking institutions to advise their branches to follow the first mentioned circular.
+the third circular dated 13-3-1976 is general in nature and prescribes that the rate of interest should not be more than 16.50 per annum with quarterly rests.
+it, however, permits recovery of penal interest in addition to normal interest even if both put together exceed the prescribed ceiling.
+the fourth circular dated 17-8-1976 addressed to all scheduled commercial banks in regard to the method of charging interest on agricultural advances states please refer to our directive dated 13-3- 1976 stipulating the maximum rate of interest that could be charged on loans, advances, etc., by scheduled commercial banks.
+it has been stated therein that interest shall be charged with quarterly rests.
+it is clarified that this aspect of the directive will not apply to agricultural advances in respect of which the instructions issued in our letters dated 14-3-1972 and dated 5-10-1974 will continue to prevail.
+in other words, payment of interest on agricultural advances should be insisted upon only at the time of repayment of principal installment of principal and interest on current dues should not be compounded.
+- this circular makes it clear that the circular dated 13-3- 1976 would not apply to agricultural advances which would continue to be governed by the first two circulars dated 14- 3-1972 and 5-10-1974.
+the fifth circular dated 28-2-1978 was issued in supersession of the third circular dated 13-3- 1976.
+by this circular the maximum rate of interest prescribed under the third circular was reduced from 16.5 to 15.
+in regard to compounding of interest it is directed that interest shall be charged with quarterly or longer rests.
+the sixth circular dated 15-9-1984 restates the general guidelines laid down in the previous circulars in regard to the procedure for charging interest on loan accounts and adds that banks can charge interest on loan accounts at quarterly or longer rests.
+in respect of agricultural advances it says that banks should not compound the interest in the case of current dues, i.e., crop loans and instalments not fallen due in respect of term loans, as the agriculturists do not have any regular source of income other than the sale proceeds of their crops.
+therefore, when crop loans or instalments under term loans become overdue, banks can add interest outstanding to the principal.
+it further adds that where the default is due to genuine reasons banks should extend the period of loan or reschedule the instalments under term loan.
+once such a relief is extended the overdues become current dues and banks should not compound interest.
+this reveals the concern of the reserve bank towards agriculturist-loanees.
+13. from the above circulars issued by the reserve bank from time to time it is evident that the procedure for charging interest on loans advanced to agriculturists, be they short-term or middle-term loans, was different from loans advanced to other borrowers.
+the first and the second circulars in terms refer to charging of interest on agricultural advances.
+there is nothing equivocal or ambiguous about it.
+the third circular is general in nature and prescribes the ceiling for the recovery of interest with the qualification that if there is an agreement permitting charging of penal interest it will be permissible to charge the same for the default period in addition to the interest rate regardless of the fact that normal interest and penal interest may cross the ceiling.
+as the third circular was likely to raise doubts in regard to the applicability of the first and second circulars, it was clarified by the fourth circular that it  third circular  shall have no application to agricultural advances.
+the fifth circular superseded the third circular thereby revising the prescribed ceiling to 15 with effect from 1-3-1978, with quarterly or longer rests.
+the proviso further reduces the ceiling in case of term loans within a maturity of not less than three years.
+this circular is once again a general circular.
+the sixth circular while providing that banks can charge interest on loan

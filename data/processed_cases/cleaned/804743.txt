@@ -1,0 +1,241 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner qudrat ullah vs. respondent municipal board, barelly date of judgment29/11/1973 bench krishnaiyer, v.r. bench krishnaiyer, v.r. palekar, d.g. sarkaria, ranjit singh citation 1974 air 396 1974 scr  2  530 1974 scc  1  202 citator info rf 1975 sc1758  27  rf 1975 sc2299  607  r 1976 sc1860  9  rf 1988 sc 184  10  r 1988 sc1845  11  rf 1990 sc 678  6,7,8  r 1992 sc1239  22  act u.p.  temporary  control of rent and eviction act, 1947- whether contract was alease or licence or a composite one-interpretation-repeal and replacement of an earlier act by a later act-whether right under the temporary act outlives the act itself.
+headnote the appellants father had been collecting tahbazari dues under a contract from the municipal board.
+under the terms of the contract the contractor had the right of use of sheds and shops as enjoyed by the municipal board as proprietor and the contractor was empowered to let them to sub-tenants on rent.
+in addition, the contract granted certain other strips which were the flanks of the central road strip running between the stalls.
+in 1951, the municipal board filed a suit against the contractor praying that the board be put in absolute proprietary possession over certain sheds, passages and some shops on the ground that the contract was a licence.
+the contractor pleaded the status and protection of a tenant under the u. p.  temporary  control of rent eviction act  u. p. act 3 of 1947 .
+the trial court dismissed the suit, having regard to the then existing rent control law.
+the high court held that the contract was a combination of a lease and licence, a lease with respect to sheds and shops and licence as regards patois or footpaths adjoining the roads that a pavement could not be said to be accommodation as defined in the rent control eviction act and that the contractor was a mere licensee with respect to the pavements.
+both the parties appealed to this court.
+additional ground was urged by the board that the 1947 act having been revealed by the uttar pradesh urban buildings  regulations of letting, rent and eviction  act, 1972, the board was entitled to an ejectment decree even if the contract was a lease.
+held  1  there is no simple litmus test to distinguish a lease as defined in s. 105, transfer of property act from a licence as defined in s. 52, easements act, but the character of the transaction turns on the operative intent of the parties.
+if an interest in immovable property entitling the transferor to enjoyment is created, it is a lease if permission to use land without right to exclusive possession is alone granted, a licence is the legal result.
+533h in the instant case, though the purpose of the transactions was not to grant regular leases of land but to make over to the contractor the right to collect municipal market dues only, it is not possible to ignore the effect of clear recitals transferring to the contractor more rights than a mere licence implies.
+the shops and sheds referred to in the contract are the subject matter of a lease not licence only.
+the contract presupposes the application of the act which is compatible only with the creation of a lease.
+associated hotels case, 1959 s.c.r.
+265, followed.  
+2 the high court was not right in holding that the agreement was a mere licence as regards the patris or footpaths adjoining the roads.
+the earlier contract says that those in yellow colour shall remain in possession of the first party.
+further the bazar dues constitute a benefit arising out of the land and may be immovable property which can be leased out.
+536h 537e ramjiwan v. hanoman parshad, i. l. r. 16 lucknow 191, referred to.  
+3 by definition accommodation includes gardens, grounds and outhouses, if any, appurtenant to such building or part of a building.
+while the pavements were appurtenant to the shops or sheds leased, the paths and walks are separate entities and not in fact or law attached to them.
+these are no appendages, no adjuncts, no space so bound to the use of the buildings as to be treated as belonging 531 to them.
+since the patris and pavements were not appurtenances, they fell outside the contours of accommodation let out and constitute the subject of a distinct, though connected demise incorporated in the same documents.
+every nexus is not an appurtenance.
+the law connotes principal and subsidiary items integrated by use which is absent in the present case.
+since the contract covers one of the leases which is protected by the act, ejectment in respect of the unprotected lease must follow.
+the decree for eviction granted by the high court, except for certain portions of the pavement, was correct.
+538 a-c  4 the general principle regarding the consequence of repeal of a statute is that the enactment which is repealed is to be treated, except as to transactions past and closed, as if it had never existed.
+the operation of this principle is subject to any savings which may be made expresly or by implication by tyhe repealing enact-p
+
+--- JUDGMENT BODY ---
+
+ast transactiopn it is this provisioon that will determine the liability under the repealed enactment survives or it is extinguished.
+section 6 of the uttar pradesh general clauses act applies generallly in the absence of a fresh saving provision in the repealing statute.
+where a repeal is followed fresh legislation on the object the court has to look to the provisions of the new act to see whether they indicate a differentintention.
+sec.
+43  2   h  makes it clear that even if the power forrecovery of possession be one under the earlier rent control law the later act will apply and necessary amendments in the pleadings can be made.
+this in dicates that it is the later act that must govern pending proceedings for recovery of possession or recovery or fixation of rent.
+in the instant case the suit was not even one under the act but proceeds on the footing that the contractor was only a licensee and so none of the savings clauses in s. 43  2  applies.
+539 b 540 a-d haripadapal ghosh v. tofajaddi ijardar, 601.
+l. r. 1933 cal. 1438 and boddington v. wisson, 1951 1 all e.r. 166 169, referred to.
+the nature of the 1947 act being temporary the right comes to an end when the temporary act expires at least by efflux of time, if not by premature repeal.
+the so called right is short lived and its longevity, where it is derived under a temporary statute, cannot exceed the duration of the statute itself.
+541f even if it was assumed that s. 3 of the 1947 act has conferred a right on the tenant, the survival of the right or the continuation of the operation of the act to the pro- ceedings is all that is ensured, not the expansion or extension of that right.
+the dispossession of the tenant was permissible only if the grounds in s. 2 were satisfied by landlord.
+this right was circumscribed in content to conditions set out and limited in duration to the period beyond which the act did not exit.to hold otherwise would be to give more quantum of right to the party enjoyed had the repeal not been made.
+not to affect the previous not be converted into sanctioning subsequent operation.
+to read postpartum operation into a temporary act because of premature repeal of it was wrong.
+on this footing the right, if any, that thee contractor claimed terminated with the expiration of that temporary statute.
+541 g-h thus  a  the disability of the municipal board to enforce its cause of action under the ordinary law might not necessarily be transmuted into a substantive right in the contractor  b  the rights of a statutory tenant created under a temporary statute go to the extent of merely preventing the eviction so long as the temporary statute lasts  c  the provisions of s.43 did not preserve, subsequent to repeal, any right to rebuff the boards claim for eviction and  d  s. 6 of the u.p. general clauses act did not justify anything larger or for any time longer than s. 2 of the 1947 act confers or lasts.
+543 bc indira sohanlal v. custodian of evacuee property, delhi and others, a.i.r. 1956 s. c., 77 at 84, lachmeshwar prasad shukul and others v. keshwar lal chaudhuri and others, a. i. r. 1941 federal court vol. 28, p. 5 at 6, state of orissa v. bhupendra kumar, a. i. r. 1962 s.c., 945, referred to.
+judgment civil appellate jurisdiction civil appeal numbers 1727-1728 of 1968.
+appeal from the judgement and order dated the 29th september 1964 of the allahabad high court in first appeal number 320 of 1955.
+a.k.
+sen, yogesh war prasad, r. c. jaiswal, s. k. bagga, s. bagga, for the appellant  in c.a. 1727/68  and respondent  in c.a. 1728/68 .
+sarjoo prasad and c. p. lal, for the respondent  in c.a. 1727/68  and appellant  in c.a. number 1728/68 .
+the judgment of the court was delivered by- krishna iyer, j.-this litigation, started in 1951, has lived long, although the main point on which the fate of the case rests is the contraction of a contract between the municipal board, bareilly  the respondent in civil appeal number 1727 of 1968  and the the kedar under it of the municipal market, one habibullah  the father of the appellant in civil appeal number 1727 of 1968 .
+the present appellant is the legal representative of the defendant and has himself filed an appeal  c.a. number 1728 of 1968  where the board is the sole respondent.
+instant or early justice seems impossible without radical reorientation and systematic changes in the judicial process, as these two appeals, which have survived two decades, sadly illustrate.
+now, a brief narration of the facts.
+although the canvass has been spread out, the relevant dispute lies in a narrow compass, and can be resolved by a close look at the terms of ex. 1  substantially repeated in ex. 4  and by applying settled rules which tell off a lease from a licence when the deed is ambiguous.
+it is unfortunate that legal drafting by the respondents lawmen has left the key documents in a blurred.
+state, so much so, the trial judge and the learned judges in appeal have had to diverge in their conclusions, and before us long arguments have been hopefully addressed to help us designate the contract with certitude a lease or license.
+the defendant  the appellants father  had for several years been collecting tahbazari dues from the market in patelganj under contracts from the municipal board, the last of which, according to the plaintiff, was executed on 19-11- 44  ex. 1 .
+the defendants case is that on the expiration of the term of ex. 1, a fresh contract dated 31-12-47, ex. 4 was entered into between the parties, substantially repeating the same terms and conditions.
+on the basis that ex. 4 had not materialised into a binding contract for want of government approval, the plaintiff ineffectually demanded of the defendant, by notice ex. 6 of 1951, to desist from realising the market dues and followed it up with a suit praying for many reliefs of which the crucial one runs thus  a  the plaintiff may be put in absolute proprietary possession after dispossessing the defendants over the sheds and passage shown in to 28 and 31 and 32 situate in bazar patelganj known as cambellgunj sabzimandi bareilly as shown in the map attached to the plaint.
+the plaintiff claims ex. 1 to be a licence which, if correct, undoubtedly entitles him to the relief while the defendant pleads the status and protection of a tenant under the u.p.  temporary  control of rent and eviction act  u.p. act of 1947   hereinafter referred to as the act .
+the decision of this case largely depends on ex. 1 being a lease or a licence.
+we are satisfied from the evidence on record that the finding of the courts below that ex. 4 is binding on the plaintiff is sound but since the effect of both the documents is fairly the same we may as well proceed to interpret them straightaway.
+in this court, however, an additional ground has been urged by the respondent that the act having been repealed by the uttar pradesh urban buildings  regulation of letting, rent and eviction .act, 1972  act of 1972   for short, called the later act , the board is entitled to an ejectment decree even if exs. 1 and 4 are leases.
+the trial court held that ex. 1 and 4 were demises of the municipal market and dismissed the suit having regard to the rent control law then extant which did not exempt municipal buildings from the operation thereof.
+the high court expressed its view that on going through the entire document, we have come to the conclusion that ex. 1 is a combination of a lease and a license.
+it is a lease with respect to the sheds and eleven shops.
+but the agreement was a mere license as regards the parties or footpaths adjoining the roads.
+holding ex. 1 to be a composite deed, the learned judges declined ,the relief relating to the shops and sheds but put a different construction on the pavements and patois included in the ex. 1 the court observed - a pavement cannot be said to be an accommodation as defined by section 2 of the rent control eviction act.
+we have held that the defendant was merely a licensee with respect to the pavements.
+so the requirements of section 106 transfer of property act do not came into play as regards the plaintiffs claim for ejectment from the patois.
+neither the rent control and eviction act, nor section 106 transfer of property act saves the defendant as regards plaintiffs claim for ejectment from the patris.
+consequent modifications in the monetary part of the decree were also made, following upon a decree for possession to the limited extent of patris and pavements.
+both sides have appealed but we have proceeded, for the sake of convenience, to treat the parties as appellant and respondent as in civil appeal, number 1727 of 1968.
+the primary bone of contention is the lease-licence controversy but even if we decide in favour of ex. 1 and 4, being settings, the question of the impact of the later act remains to be decided.
+there is no simple litmus test to distinguish a lease as defined in s. 105 transfer of property act from a licence as defined in s. 52, easements act, but the character of the transaction turns on the operative intent of the parties.
+to put it pithily, if an interest in immovable property, entitling the transferees to enjoyment, is created, it is a lease if permission to use land without right to exclusive possession is alone granted, a licence is the legal result.
+marginal variations to this broad statement are possible and ex. 1 and 4 fall in the gray area of unclear recitals.
+the law on the point has been stated by this court in the associated hotels case 1 .
+in halsburys laws of england, volume 23, the distinctive flavor, the deceptive labels and the crucial considerations in a lease- versus licence situation have been stated and excepts therefrom may serve as guidelines  see pages 427, 428 and 429  1022.
+principles for determining whether agreement creates lease or licence.
+in determining whether an agreement creates between the parties the relationship of landlord and tenant or merely that of licenser and licensee the decisive consideration is the intention of the parties.
+the parties to an agreement cannot, however, turn a lease into a licence merely by stating that the document is to be deemed a licence or describing it as such the relationship of the parties is determined by law on a consideration of all relevant provisions of the agreement nor will the employment of words appropriate to a lease prevent the agreement from conferring a licence only if from the whole document it appears that it was intended merely to confer a licence.
+in the absence of any formal document the intention of the parties must be inferred from the circumstances and the conduct of the parties.
+1023.
+nature of grant of exclusive posses- sion.
+the fact that the agreement grants a right of exclusive possession is not in itself conclusive evidence of the existence of a tenancy, but it is a consideration of the first importance.
+in deciding whether a grantee is entitled to exclusive possession regard must be had to the substance of the agreement.
+to give exclusive possession there need not be express words to that effect it is sufficient if the nature of the acts to be done by the grantee requires that he should have exclusive possession.
+the grant of an exclusive right to a benefit can, however, be inferred only from language which is clear and explicit.
+if an exclusive right of possession is subject to certain reservations or to a restriction of the purposes for which the premises may be used, the reservations or restriction will not necessarily prevent the grant operating as a lease.
+1024.
+when grant conferring exclusive possession operates merely as licence.
+a grant which confers the right to exclusive possession may operate as a licence in the following circumstances which negative the intention to create a lease,  1  1959 s.c.r.
+265.
+1025.
+instances of agreements creating licences.
+a licence is normally created where a person is granted the right to use premises without becoming entitled to exclusive possession thereof, or the circumstances and conduct of the parties show that all that was intended was that the grantee should be granted a personal privilege with no interest in the land.
+if the agreement is merely for the use of the property in a certain way and on certain terms while the property remains in the possession and control of the owner, the agreement will operate as a licence, even though the agreement may employ words appropriate to a lease.
+not so much the law as the figment of the terms of a deed into the, legal could makes the forensic essay none too easy.
+decisions are legion to prove the relevant propositions we have indicated above,.
+but we do not think it necessary to cite them all except to mention that apart from mrs. clubwalas case  2  referred to by the high court,.
+a few more cases were also referred to at the bar.
+with these factual-legal background, we may formulate the points we are called upon to decide, ignoring minor matters which do not deflect the ultimate issue one way or the other.   1  is ex 1  or ex, 4  a lease or only a licence or a composite one ?   2  if lease, does it embrace a demise of an accommodation as defined in the act, or more ?
+if it covers more than an accommodation, is the portion of the deed dealing with non- accommodation severable so is to warrant a. decree for possession confined to that portion ?
+similarly,.
+if ex. 1 is in part a licence as the high court has held, what is the relief the court can grant to the plaintiff ?   3  if ex. 1 is a lease wholly of an accommodation, can the, plaintiff claim possession based on the repeal of the act by the later act during the pendency of the pre- sent appeal ?
+before proceeding to discuss these matters, it is proper to state that the maps attached to ex.1 and ex. 4 are integrated into the deeds we may also indicate that legal attention and cartographic precision appear to have gone into the preparation of the two the kanamas.
+while it is fair to infer that the purpose of these transactions was not to grant regular leases of land but to make over the right to collect municipal market dues only, even so, it is not possible to ignore the effect of clear recitals transferring more rights than a mere licence implies, to the the kadar.
+clause 1 itself is tell-tale,clause 2 clinches and clause 4 virtually designates the transaction relating to the shops and sheds as letting they speak for themselves thus  1  1964 madras law journal reports, supreme court section, p. 83.
+during the entire period of theka, the first party shall have all the rights and powers, as per conditions laid down in the auction sale and agreement in respect of use of sheds and shops as enjoyed by the second party as proprietor on possession of the said property.
+the first party shall have possession of the sheds aforesaid detailed in the said map and 11 shops aforesaid.
+in all the eleven shops included in the theka, i, the thekadar , would be empowered to let them to the subtenants on rents mutually settled between us.
+all these provisions relate to the shops and sheds only.
+shri sarjoo prasad, appearing for the respondent board, drew our attention to the controls and regulations vested in the board.
+these marginal restrictions cannot cancel the effect of the clauses already read which cannot be reconciled with a straightforward grant of a mere right to realise market fees.
+the municipal mind.
+, if we may say so, went beyond the area of prudence if a licence was the intent.
+we are satisfied that the shops and sheds in ex. 1 and as reconstructed by the time of ex. 4 are the subject matter of a lease, not licence only.
+it is not without significance that ex. 4 presupposes, when making reference to the expiry of the term, the application of the act, which is compatible only with the creation of a lease.
+these two deeds, however, cover other areas, and there is the rub.
+the thekanama relates to patris  sidewalks  and footpaths.
+out of the totality of space mapped out in the attached plans the municipal board excluded 2 categories from the transaction viz.
+the red and blue coloured portions i.e. the roads, the meat market and the shop buildings let out to others.
+ex. 1 expressly granted to the appellants father i.e. the first party in ex. 1, the yellow portions which were made up of two categories viz.
+shops and sheds, and strips marked 4, 7, 8 and 9 which were really the flanks of the red coloured central strips running between the stalls.
+it is clear that the width of these internal roads was originally 9 feet but only a middle ribbon of 31 was now left open for free passage, the belts of 31 on either side marked yellow being converted into walks and vending sites.
+one question on which there was divergence of findings between the courts below was as to whether these yellow belts were leased out or only licensed for collection of tahbazari.
+the high court argued - admittedly, the public has right of passage over roads indicated in the map in red colour.
+footpaths in question are situate between shops and the public road.
+it is unlikely that the agreement was intended to interfere with the right of the public to pass over the footpaths adjoining the road.
+and concluded that the agreement was a mere licence as regards the patris or footpaths adjoining the roads.
+we do not agree.
+maybe it was reasonable, having regard to the nature of these yellow strips and their use, not to grant leases thereof maybe there are stricter regulations regarding the rates of fees to be levied from vendors and pedlars using those spaces maybe the municipal board had the right to construct gates or chabutras  i.e. minor structures which are a facility for the display of wares   maybe it was not wise to part with possession over pavements and paths.
+but no legal bar to giving a lease, imprudent- though it be, was pointed out to us.
+we would have been reluctant, having regard to the social consequences, to read more than a licence into ex. 1 and 4 but for compelling grounds already referred to.
+the map or the deed does not make any distinction as between yellow sheds and shops on the one hand and yellow partris on the other.
+those in yellow colour shall remain in possession of first party says,.
+ex. 1. the very need for a recital that the thekadar will have no objection to the municipality, constructing chabutras and iron gates implies the formers possession, not mere use.
+the reference in the map to the green pavements and roads 2 and 3 as land leased out but public has got right of easement over it has a clear demise impact over the extra space beyond the shops and sheds.
+it may be mentioned that there was a fire in the market place which gutted many structures on extensive reconstruction some yellow strips and the green roads 2 and 3 were obliterated and yet these reconstructed buildings were made over to the contractor.
+there are other features pressed by one side or, the other, but the over-all effect is that the green and yellow portions outside the shops and buildings in ex. 1 were also leased out.
+the green areas though not expressly specified in ex. 1 or ex. 4 are clearly covered by the lease, for the reference at the foot of the map.
+and the circumstance that on reconstruction after the fire the roads numbers 2 and 3 marked green were built upon and made over to the thekedar are sufficient to hold that way.
+internal, connecting walks within a market or a park or entertainment complex cannot be equated with public streets and highways but have a quasi-private touch although vested in a public body.
+the bazar dues constitute a benefit arising out of the land and may be immovable property which can be leased out  vide s. 3  26  general clauses act, 1897 and  ram jiwan.
+v. hanoman pershad the further point is whether the terms of ex. 1 and 4 warrant the-lease of the whole as too integrated to be severable or sufficiently individualised that we can spell out a lease of the pavements and pathways as a separate item.
+if these were possible the next consideration is about the concept of accommodation, in the act and the liability to eviction of the non-accommodation segment of the composite deed.
+the built-up area and the open spaces are dealt with differently in regard to both the lessors control over the lessee and the latters,rights vis-a-vis the temporary occupants.
+moreover, the two parts, are not so enmeshed or inter-dependent as to be treated as unun quid.
+while the green pavements are appurtenant to the shops or sheds leased, the paths and walks are separate entities and not in fact or law attached to them.
+these are no appendages, no adjuncts, no space so bound to the use of the buildings as to be treated as belonging to them.
+such being the sense of appurtenance, we have to examine whether.
+these open areas are part of the accommodation, let out to the defendant.
+by definition accommodation includes gardens, grounds  1  i.l.r.
+16 lucknow 191. and out-houses if any, appurtenant to such building or part of a building.
+since we have held that the patris and pavements marked yellow and not rebuilt upon by the time of ex. 4, are not appurtenances, they fall outside the contours of the accommodation let out and constitute the subject of a distinct, though connected, demise incorporated in the same document ex. 1  and ex. 4 .
+every nexus is not an appurtenance.
+the latter connotes principal and subsidiary items integrated by use, absent in the present case.
+holding, as we do, that the thekaname covers a couple of leases as it were and further that only one of them is protected by the act, ejectment in respect of the unprotected lease must follow.
+even on the defendants case, it expired in 1952 and obviously the suit for recovery having been instituted  earlier , there was no holding over.
+the result is that though on a different basis the decree for eviction granted by the high court, except for the green coloured pavements, is correct.
+now comes the additional ground taken before us based on the passage of the later act.
+it is admitted that, by frequent amendments, the duration of the act was extended from time to time till at last it was to expire on september 30, 1972.
+some time before this date the later act, a permanent statute, was put on the statute book which by s. 43 repealed the act of 1947 and by s. 2 excluded from the scope of the protection of the act accommodation belonging to local bodies.
+it is useful to extract ss.
+2 and 43 at this stage 2 exemptions from operation of act.- 1  nothing in this act shall apply to-  a  any building belonging to or vested in the state government or the government of india or any local authority or 43. repeal and savings.- 1  the united provinces  temporary  control of rent and eviction act, 1947  u. p. act number iii of 1947  is hereby repealed.   2   notwithstanding such repeal- we havein this case a temporary act which would have died a natural death by the end of september, 1972 but before its life had run out was extinguished by statutory repeal on 22nd july, 1972 on which date the later act came into force.
+surely, there has been a repeal of the act which was relied upon successfully by the defendant and his legal representative the appellant, throughout the litigation.
+but now that defence or protection is no longer available.
+however, counsel for the appellant contends that a right has accrued to him under the act which cannot be taken away by its repeal since the later act is not in terms a retrospective one.
+actually, it is correct to say that, s. 43 has not been made retrospective.
+even so, the counsel for the respondent submits that, on the repeal of the act, the disability which his clients suffered has disappeared and he is entitled to enforce his cause of action.
+according to him, the, act did not confer any right on the tenant but imposed a disability on the landlord in enforcing his right to evict and that a mere defence cannot be described as a right in the defendant.
+according to him, the right referred to under s. 6 of the general clauses act or s. 43 of the repealing act is a substantive right and not a defensive plea.
+we have to examine these rival positions in some detail.
+certain propositions are clear regarding the consequence of repeal of a statute.
+the general principle is that an enactment which is repealed is to be treated, except as to transactions past and closed, as if it had never existed.
+however, the operation of this principle is subject to any savings which may be made, expressly or by implication by the repealing enactment  vide halsburys laws of england, vol.
+36 paragraph 714 .
+the u. p. general clauses act  act 1 of 1904  provides for the consequences of a repeal under s. 6, the relevant parts of which may be reproduced here 6.
+effect of repeal.-where any  uttar pradesh  act repeals any enactment hitherto made or thereafter to be made, then, unless a different intention appears, the repeal shall not-  b  affect the previous operation of any enactment so repealed or anything duly done or suffered thereunder or  c  affect any right, privilege, obligation or liability acquired, accrued or incurred under any enactment so repealed or  e  affect any remedy, or any investigation or legal proceeding commenced before the repealing act shall have come into operation in respect of any such right, privilege, obligation, liability penalty, forfeiture or punishment as aforesaid and any such remedy may been forced and any such in investigation or legal proceeding may be continued and concluded, and any such penalty, forfeiture or punishment imposed as if the repealing act had not been passed.
+if a contrary intention appears from the repealing statute, that prevails.
+it was pointed out to us that s. 2 of the later act specifically states that nothing in this act shall apply to-  a  any building belonging to or vested in  any local authority.
+even so, we have to read this provision in conformity with s. 43 which repealed the act viz.
+u. p. act number 3 of 1947.
+section 43 2  is the savings clause.
+if the repealing enactment, as in this case, makes a special provision regarding pending or past transactions it is this provision that will determine whether the liability arising under the repealed enactment survives or is extinguished.   see i. l. r. 1955 cuttack, 529, i. l. r. 1963  1  kerala, 402 and a.i. r. 1960 cal.,388 .
+section 6 of the general clauses act applies generally in the absence of a special saving provision in the repealing statute, for when there is one then a different intention is indicated.
+in any case where a repeal is followed by a fresh legislation on the subject, the court has to look to the provisions of the new act to see whether they indicate a different intention.
+section 43  2   h  states that notwithstanding the repeal of the earlier act any court before which any suit or other proceeding relating to the eviction from any building is pending immediately before the commencement of this act may, on an application being made to it within 60 days from such commencement, grant leave to any party to amend its pleadings in consequence of the pro-.
+visions of this act.
+it is, therefore, clear that even if the statute for recovery of possession be one under the earlier rent control law the later act will apply and necessary amendments in the pleadings can be made.
+this definitely indicates that it is the later act that must govern pending proceedings for recovery of possession or recovery or fixation of rent.
+however, the suit with which we are concerned is not even one under the act, but proceeds on the footing that the defendant is only a licensee.
+so much so, none of the savings clauses in s. 43  2  applies.
+the result is that the application of the old act is repelled by the general rule that on repeal a statute is deemed not to have been on the statute book at all.
+let us assume that s. 6 of the general clauses act applies.
+even so, what is preserved is  a  the previous operation of the repealed enactment,  b  rights, privileges, obligations and liabilities acquired, accrued or incurred under the enactment repealed and  c  investigations, legal proceedings and remedies in respect of any such right, privilege, obligation or liability.
+according to shri sarjoo prasad for the respondent, the defendant had no right or privilege under the repealed act, since s. 3 is only a procedural restriction and does not create a substantive right.
+all that s. 3 therein laid down was that - no suit shall, without the permission of the district magistrate, be filed in any civil court against a tenant for his, eviction from any accommodation except on one or more of the following grounds .
+it is more a procedural disability that is cast, not a substantive cause of action that is created.
+citing the authority in haripada pal ghosh v. tofajaddi ijardar  1 , he argued that by operation of the repeal,.
+the restriction on his right is removed and so he can now support his present action even if previously the act had barred it.
+it is true that a division bench of the calcutta high court in the case cited, dealing with a situation where an act had been repealed by another, observed-- the disability, which was imposed by the previous law having been removed, there was nothing that stood in the way of the plaintiffs recovering rent at the contract rate, when  1  60 i.l.r.
+1933 cal.
+1438.
+the cause of action for the same arose.
+the effect of substitution of the new section 48 for the old section 48 by section 31 of act iv of 1928, was that the old section was repealed.
+the effect of repeal of a statute in the absence of saving clauses is that it has to be considered as if the statute, so repealed, had never existed.
+there is force in this submission.
+a ruling which lends more support to the position we take may be referred to here.
+boddington v. wisson  1  dealt with a case where the landlord of a holding served on the tenant a notice to quit without the consent in writing of the minister of agriculture and fisheries, as required by regulation 62  4a  of the defence  general  regulations, 1939.
+before the period of notice expired, the defence regulations order, 1948 revoked the earlier regulation.
+dealing with s. 38 of the interpretation act, 1889, which corresponds to s. 6 of the general clauses act, evershed, m. r. disposed of the contention of the tenant that the repeal would not affect anything duly done under another statute thus .
+nor do i think that the tenants protection under the regulation could be fairly described in the words of sub-s.  2   c  as a right or privilege, or the.
+limitation of the landlords right be fairly described as an obligation or liability, nor do i think that it is a penalty or a punishment in respect of an offence within para  d .
+the court eventually concluded that the notice to quit was valid since the regulation requiring consent had been revoked and the landlord was entitled to possession.
+moreover, the nature of the act being temporary, the right, if we can attribute that quality to a disability of the other party to enforce his right unless additional grounds were made out, comes to an end when the temporary act expires at least by efflux of time, if not by premature repeal.
+the so-called right is short-lived and its longevity, where it is derived under a temporary statute, cannot exceed the duration of the statute itself.
+let us assume for arguments sake that s. 3 of the act has conferred a right on the tenant in which case it survives by virtue of s. 6 of the general clauses act.
+what follows ?
+the survival of the right or the continuation of the operation of the act to the proceedings is all that is ensured, not the expansion or extension of that right.
+for the normal life of the act i.e. till september 30, 1972, the dispossession of the tenant is permissible only if the grounds in s. 2 are satisfied by the landlord.
+this right is circumscribed in content to conditions set out and limited in duration to the period beyond which the act does not exist.
+to hold otherwise would be to give more quantum of right to the party than he would have enjoyed had the repeal not been made.
+not to affect the previous operation cannot be converted into sanctioning subsequent operation.
+to read postmortem operation  1  1951 1 all e.r. 166 169.
+602 sup ci/74 into a temporary.
+act because of a premature repeal of it is wrong.
+to adopt the words jagannadhadas, j. in indira sohanlal v. custodian of evacuee property, delhi and others  1  has observed - what in effect, learned counsel for the appellant contends for is not the previous operation of the repealed law but the future operation of the previous law.
+on this footing the right, if any, th

@@ -1,0 +1,171 @@
+--- PREAMBLE & CASE INFO ---
+
+order n.p. sawant, j. 1.
+
+--- JUDGMENT BODY ---
+
+the question that falls for consideration in these matters is whether the medical representatives as they are commonly known, are workmen according to the definition of workman under section 2 s of the industrial disputes act, 1947 the id act .
+the definition under this section has undergone changes since its first enactment.
+it is necessary to keep in mind the said changes since the decisions of the court delivered on the point from time to time are based on the definition, as it stood at the relevant time.
+the definition, as it stood originally when the id act came into force w.e.f. 1.4.1947, read as follows s workman means any person employed including an apprentice in any industry to do any skilled or unskilled manual or clerical work for hire or reward and includes, for the purposes of any proceeding under this act in relation to an industrial dispute, but does not include any person employed in the naval, military, or air service of the crown.
+it was amended by amending act 36 of 1956 which came into force from 29th august, 1956 to read as follows s workman means any person including an apprentice employed in any industry to do any skilled or unskilled manual, supervisory technical or clerical work for hire or reward, whether the terms of employment be express or implied, and for the purposes of any proceeding under this act in relation to an industrial dispute, includes any such person who has been dismissed, discharged or retrenched in connection with, or as a consequence of, that dispute, or whose dismissal discharge, or retrenchment has led to that dispute, but does not include any such person - i who is subject to the army act, 1950, or the air force act, 1950, or the navy discipline act, 1934 or ii who is employed in the police service or as an officer or other employee of a prison or iii who is employed mainly in a managerial or administrative capacity or iv who, being employed in a supervisory capacity, draws wages exceeding five hundred rupees per mensem or exercises, either by the nature of the duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature.
+the change brought about by this amendment was that the persons employed to do supervisory and technical work were also included in the definition for the first time by this amendment, although those who were employed in a supervisory capacity were so included in the definition provided their monthly wage did not exceed rs.500.
+the definition of workman was further amended by amending act 46 of 1982 which was brought into force w.e.f.
+21.8.1984.
+it read as s workman means any person including an apprentice employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward, whether the terms of employment be express or implied, and for the purposes of any proceeding under this act in relation to an industrial dispute, includes any such person who has been dismissed, discharged or retrenched in connection with, or as a consequence of, that dispute, or whose dismissal discharge, or retrenchment has led to that dispute, but does not include any such person - i who is subject to the air force act, 1950 45 of 1950 , or the army act, 1950 46 of 1950 , or the navy act, 1957 62 of 1957 ii who is employed in the police service or as an officer or other employee of a prison or iii who is employed mainly in a managerial or administrative capacity or iv who, being employed in a supervisory capacity, draws wages exceeding one thousand six hundred rupees per mensem or exercises, either by the nature of the duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature.
+the first change brought about by this amendment was that whereas earlier only those who were doing unskilled or skilled manual work were included in the said definition, now those who did any unskilled or skilled work, whether manual or not, came to be included in it.
+the second and the most important change that was brought about was that those persons who were employed to do operational work were also brought within the fold of the said definition.
+we are not referring to the other changes which the definition of workman underwent, after its enactment in 1947 since they are not relevant for our purpose.
+what is further necessary to remember is that the amending act 46 of 1982 simultaneously brought about a change in the definition of wages under section 2 rr of the id act and for the first time included the following in the said definition iv any commission payable on the promotion of sales or business or both it is also instructive to point out, in this connection, that along with the change in the definition of wages, the definition of industry under section 2 j has also been amended.
+the relevant part of the amended definition reads as follows j industry means any systematic activity carried on by co-operation between an employer and his workmen whether such workmen are employed by such employer directly or by or through any agency, including a contractor for the production, supply of distribution of goods or services with a view to satisfy human wants or wishes not being wants or wishes which are merely spiritual or religious in nature , whether or not, - i any capital has been invested for the purpose of carrying on such activity or ii such activity is carried on with a motive to make any gain or profit, and includes - a any activity of the dock labour board established under section 5-a of the.
+dock workers regulation of employment act, 1948 9 of 1948 b any activity relating to the promotion of sales or business or both carried on by an establishment, but does not include - x x x x x x x x x x x x x x x x it will be seen that by the amended definition of industry, an activity relating to the promotion of sales or business of both, carried on by any establishment is for the first time sought to be brought within the said definition.
+however, the amended definition of industry has not till date come into force.
+in the light of the amended definitions of workman, and wages, and that of industry which has not yet become operative, we may now refer to the decisions of this court on the subject.
+2. a three-judge bench of the court in may baker india limited v. their workmen 1961 2 llj 94 had to deal directly with the question as to whether the medical representative of the company, who was discharged from service, was a workman under the id act and the order of the reinstatement passed by the industrial tribunal was, therefore, valid.
+the court referred to the undisputed nature of the duties of the employee, and found that his main work was that of canvassing sales.
+any clerical or manual work that he had to do, was incidental to the said main work, and could not take more than a small fraction of the time for which he had to work.
+in the circumstances, the court held that the tribunals conclusion that the employee was a workman under the id act, was incorrect.
+the court also observed that the tribunal in that case seemed to have been led away by the fact that the employee had no supervisory duties and had to work under the direction of his superior officers.
+the court held that would not necessarily mean that the employees duties were mainly manual or clerical.
+the court held that from what the tribunal itself had found, it was clear that the employees duties were mainly neither clerical nor manual and, therefore, he was not a workman.
+hence the court set aside the tribunals direction for reinstating the employee.
+it is thus obvious from the decision that the contention on behalf of the workman before the industrial tribunal as well as before this court was that the employee was doing either manual or clerical work, and that not only he had no supervisory duties but he was doing his work under the direction of his superiors and, therefore, he was a workman within the meaning of the definition of workman as it stood then.
+the dispute in question had arisen prior to 6th january, 1956.
+the definition of workman at the relevant time included only those persons who were employed to do any skilled or unskilled manual or clerical work.
+hence the relevant contention on behalf of the workman which was negatived by this court.
+an inference from this decision is also possible, viz., that if the employees work was mainly manual or clerical, he would have, even as the definition stood then, been covered by it.
+the next decision is also of the same three-judge bench in western india match company limited v. their workmen .
+the dispute there was whether the workmen employed by the sales-office of the company were entitled to production bonus as were those employed in the factory and the factory-office.
+the incidental question which arose in this case was whether the sales-office was entirely independent of the factory or was a department of the one and the same unit of production, and whether inspectors, salesmen and retail salesmen of the sales-office were workmen within the meaning of the u.p. industrial disputes act.
+the workman was defined under the act to mean any person to do any manual, supervisory, technical or clerical work for hire or reward which definition was the same as under as under the central act, viz., the id act.
+this dispute was referred by the state government for adjudication to the industrial tribunal on 18th august, 1961.
+the tribunal had accepted the evidence of the workmen that the writing work of the inspectors, salesmen and retail salesmen took 75 percent of the time.
+this court accepted the said finding.
+on the question whether the sales office and the factory and factory-office formed one and the same unit of the industrial establishment, the court held that all those growing or making articles as well as those transporting them and also those ultimately completing the process by bringing them to the ultimate consumer, were engaged in the activity of producing wealth.
+it would, therefore, be unreasonable to say that those who made the matches were producing and those who sold them were not.
+the functional integrality, interdependence or community of financial control and management community of manpower and of its control, recruitment and discipline the manner in which the employer has organised the different activities whether he has treated them as independent of one another or as interconnected and interdependent, are some of the tests to find out whether the two units are part of one and the same establishment.
+the court further held that the difference in the rules and practice in connection with their recruitment, control and discipline, in the standing orders applicable to them, and in the maintenance of their muster rolls made no difference to the situation.
+so also the fact that the sales-office was playing rent to the factory for the area occupied by it.
+it would thus appear that this decision mainly turned on the nature of the work done by the said salesmen, viz., 75 per cent clerical work.
+we have referred to the other aspect, viz., the integrality of the sales-office and the other parts of the establishment to emphasise that sales is as much an essential part of an undertaking which is established for the manufacture and sale of a product.
+it must be mentioned that there is no reference in this decision to the earlier decision of the same bench in may baker case supra .
+in burmah shell oil storage distribution company of india v. burmah shall management staff association and ors.
+, the dispute, among others, was whether the sales engineering representatives and district sales representatives employed in the company were workmen within the meaning of the id act.
+the dispute had arisen prior to 29th october, 1967.
+the argument on behalf of the workmen was that the definition of the workman which at the relevant time also included persons doing supervisory and technical work was all comprehensive and contemplated that all persons employed in an industry must necessarily fall in one or other of the four classes mentioned in the main body of the definition, viz., those doing skilled or unskilled manual work, supervisory work, technical work or clerical work, and consequently the court should proceed on the assumption that every person is a workman unless he fell under one of the four exceptions to the definition.
+the court rejected this contention.
+the court referred to its earlier decision in may baker case supra and pointed out that the court had held that since duties of the employees there were not mainly manual or clerical the employee was not a workman.
+the court also pointed out that although that decision was based on the definition as it stood then, when the words supervisory and technical did not occur there, if every employee of an industry was to be a workman except those mentioned in the four exceptions, the four classifications, viz., manual, supervisory, technical and clerical need not have been mentioned in the definition, and the workman could have been defined so as to include every person employed in an industry except where he was covered by one of the exceptions.
+the specification of the four types of work, according to the court, was obviously intended to lay down that an employee was to be a workman only if he was employed to do work of one of those types.
+there may be employees who do not do any such work and hence would be out of the scope of the definition.
+the court then gave an example of such workman who would be outside the definition of workman even if he did not fall in any of the exceptions.
+coincidentally, the example given was that of a person employed in canvassing sales for an industry.
+according to the court, he may not be required to do any paper work nor may he be required to have any technical knowledge.
+he may not be supervising the work of any other employees, nor would he be doing any skilled or unskilled manual work.
+even if he is an employee of the industry, he would not be a workman because the work for which he is employed is not covered by the four types mentioned in the definition and not because he would be taken out of the definition being under one of the exceptions.
+the court then referred to a case where employees are employed to do work of more than one of the types mentioned in the definition, and pointed out that in such cases the principle was well-settled that a person must be held to be employed to do that work which is the main work he is required to do, even though he may be incidentally doing several types of work.
+referring in this connection to the may baker case supra , the court pointed out at that case, it was noticed that the employees duties were mainly neither clerical nor manual although his duties did involve some clerical and manual work and hence he was held not to be a workman.
+the court then referred to the nature of duties of sales engineering representatives and the district sales representatives with whom, among others, the court was concerned there.
+with regard to the sales engineering representative, the court approved of the finding of the tribunal that he was not employed on a supervisory work, but found fault with the tribunal for not proceeding further to examine whether he was employed on any other work of such a type that he could be brought within the definition of workman.
+the court then itself examined the said question.
+since there was no suggestion at all that he was employed on clerical or manual work and all that was canvassed was that he was doing technical work, the court found that the amount of technical work that he did was of ancillary nature to his chief duty of promoting sales and giving advice.
+the mere fact that he was required to have technical knowledge for such a purpose did not make his work technical.
+according to the court the work of advising and removing complaints so as to promote sales remains outside the scope of technical work.
+consequently, the tribunals finding that the sales engineering representative was workman was set aside.
+referring to the district sales representatives, the court held that they were not doing clerical work, and that they were principally employed for the purpose of promoting sales of the company.
+their main work was canvassing and obtaining orders.
+in that connection, of course they had to carry on some correspondence, but that correspondence was incidental to the main work of pushing sales of the company.
+in connection with promotion of sales, they had to make recommendations for selection of agents and dealers extension or curtailment of credit facilities to agents, dealers and customers investments of capital and revenue in the shape of facilities at agents premises or retail outlets and selection of suitable sites for retail outlets to maximise sales and negotiations for terms of new sites.
+on these facts, the court held that the work they were doing was neither manual nor clerical nor technical nor supervisory, and further added that the work of canvassing and promoting sales could not be included in any of the said four classifications and the decision given by the tribunal that they were not workmen was valid.
+in s.k. verma v. mahesh chandra and anr.
+, the dispute was whether development officers of the life insurance corporation of india lic were workmen.
+the dispute arose on account of the dismissal of the appellant-development officer w.e.f. 8th february, 1969.
+the court noticed that the change in the definition of workman brought about by the amending act 36 of 1956 which, as stated above, added to the originally enacted definition, two more categories of employees, viz., those doing supervisory and technical work.
+the three-judge bench of this court did not refer to the earlier decisions in may baker, wimco and bunnah shall cases supra .
+the bench only referred to the decision of this court in workmen of indian standards institution v. management of indian standards institution where which considering whether isi was an industry of not, it was held that since the id act was a legislation intended to bring about peace and harmony between management and labour in an industry, the test must be so applied as to give the widest possible connotation to the term industry and, therefore, a broad and liberal and not a rigid and doctrinaire approach should be adopted to determine whether a particular concern was an industry or not.
+the court, therefore, held that to decide the question whether the development officers in the lic were workmen or not, it should adopt a pragmatic and not a pedantic approach and consider the broad question as to on which side of the line the workman fell, viz., labour or management, and then to consider whether there were any goods reasons for moving them over from one side to the other.
+the court then noticed that the lic staff regulations classified the staff into four categories, viz., i officers, ii development officers, iii supervisors and clerical staff, and iv subordinate staff.
+the court pointed out that development officers were classified separately both from officers on the one hand and supervisor and clerical staff on the other and that they as well as class iii and class iv staff other then superintendents were placed on par inasmuch as their appointing and disciplinary authority was the divisional manager whereas that of officers, was zonal manager.
+the court also referred to their scales of pay and pointed out that the appellation development officer was no more than a glorified designation.
+the court then referred to the nature of duties of the development officers and pointed out that a development officer was to be a whole-time employee and that his operations were to be restricted to a defined area and that he was liable to be transferred.
+he had not authority whatsoever to bind the corporation in any way.
+his principal duty appeared to be to organise and develop the business of the corporation in the area allotted to him, and for that purpose, to recruit active and reliable agents, to train them, to canvass new business and to render post-sale service to policy- holders.
+he was expected to assist and inspire the agents.
+even so, he had not the authority either to appoint them of to take disciplinary action against them.
+he did not even supervise the work of the agents though he was required to train them and assist them.
+he was to be a friend, philosopher and guide of the agents working within his jurisdiction and no more.
+he was expected to stimulate and excite the agents to work while exercising no administrative control over them.
+the agents were not his subordinates.
+he had no subordinate staff working under him.
+the court, therefore, held that it was clear that the development officer could not by any stretch of imagination be said to be engaged in any administrative or managerial work and, therefore, he was a workman within the meaning of the id act.
+accordingly, the order of the industrial tribunal and the judgment of the high court holding that he was not a workman was set aside.
+as has been pointed out above, this decision did not refer to the earlier three decision in may baker, wimco and burma shell cases supra and obviously proceeded on the basis that if an employee did not come within the four exceptions to the definition, he should be held to be a workman.
+this basis was in terms considered and rejected in burmah shell case supra by a coordinate bench of three-judges.
+further no finding is given by the court whether the development officer was doing clerical or technical work.
+he was admittedly not doing manual work.
+we may have, therefore, to treat this decision as per in-curiam.
+ved prakash gupta v. delton cable india p limited was decided by the same three-judge bench which decided the s.k. verma case supra .
+the question there was whether the security inspector at the gate of the factory was a workman within the meaning of the id act.
+the dispute had arisen on account of his dismissal from service on 13th september, 1979.
+the court referred to the nature of duties performed by the employee and found that a substantial part of the work of the employee consisted of looking after the security of the factory and its property by deputing the watch working under him to work at the factory gate or sending them to watch-tower or around the factory or to accompany visitors to the factory and making entries in the visitors register and also making entries regarding the material entering in and going out of the premises of the factory.
+no written list of duties was given to the employee.
+the appellant was also doing other items or work such as signing identity cards of workmen, issuing some small items of stores like-calls to his subordinate watchmen and filling up application forms of other workmen and counter-signing them or recommending advances and loans or for promotion of his subordinates.
+he could not appoint or dismiss any workman or order any enquiry against any workman.
+he was working under the security officer and various other heads of departments of the management.
+he was also performing the duties of a chowkidar when one of the chowkidars left the place temporarily for taking tea etc.
+he was also accompanying accounts branch people as a guard whenever they carried money.
+on these facts, the court held that the substantial duty of the employee was that of a security inspector at the gate of the factory and it was neither managerial nor supervisory in nature in the sense in which those terms were understood in industrial law.
+the court, therefore, held that he was workman under the id act.
+this decision also did not refer to the earlier decisions in may baker, wimco and bunnah shell cases supra and instead followed the ratio of the earlier decision in s.k. verma case supra .
+what is further, the decision turned on the facts of the case.
+in arkal govind raj rao v. ciba geigy of india limited, bombay 1985 supp.
+1 scr .282, the employee was first appointed as stenographer-cum-accountant and later as assistant.
+his services were terminated on 10th october, 1982 which formed the subject matter of an industrial dispute.
+one of the preliminary points raised on behalf of the employer before the labour court was whether he was a workman within the meaning of the id act.
+the court accepted the finding of the labour court that primarily the duties of the employee were of a clerical nature and held that he was a workman.
+the court also referred to the earlier decisions in s.k. verma and delton cable cases, supra .
+miss a. sundarambal v. government of goa, daman diu and ors.
+was a case of a teacher in a school conducted by a private society.
+her services were terminated on 25th april, 1975 which gave rise to the industrial dispute.
+two questions raised were whether the school was an industry and whether the teacher was a workman under the id act.
+we are not concerned with the first question in this case.
+while answering the second question, the court considered the meaning of the words skilled or unskilled manual, supervisory, technical, or clerical work in the definition of workman under the id act and held that if an employee is not a person engaged in doing work falling in any of the said categories, he would not be a workman at all even though he is employed in an industry.
+for this purpose, the court relied on may baker case supra and further held that a teacher employed by educational institutions whether they are imparting primary, secondary, graduate or post-graduate education, cannot be called a workman.
+imparting of education which is the main function of a teacher cannot be considered as unskilled or skilled manual or supervisory or technical or clerical work.
+the clerical work a teacher does is only incidental to his principle work of teaching.
+the court did not accept the suggestion that having regard to the object of the id act, all employees in an industry except those falling under the four exceptions to the definition should be treated as workmen.
+the court held that to accept the said argument would render the words to do any skilled or unskilled manual, supervisory, technical or clerical work meaningless.
+the court held that a liberal construction as suggested would have been possible only in the absence of the said words.
+the court, therefore, upheld the decision of the high court that the appellant was not a workman though the school was an industry.
+it is thus obvious from this decision given as late as in 1988 that the court reiterated the earlier decision in may baker case supra and insisted that before a person could qualify to be a workman within the meaning of the id act, he had to satisfy that he did work of any of the four types mentioned in the main body of the definition and that it was not enough that he did not fall within any of the four exceptions in the definition.
+a still later decision of a two-judge bench of this court in t.p. srivastava v. national tobacco company of india limited and ors.
+by referring to the decision in burmah shell case supra has also reiterated the law laid down in may baker case supra .
+there the employee concerned was a section salesman of the company whose services were terminated w.e.f. 12th july, 1973.
+the court held that in order to come within the definition of workman under the id act the employee had to be employed to do the work of one of the types referred to in the main body of the definition.
+the court also referred to the sales promotion employees conditions of service act, 1976 and pointed out that the provisions of that act were not made applicable to the employees of the company.
+the court further pointed out that the object of the said act would show that persons employed for sales promotion normally would not come within the definition of workman under the id act.
+the court accordingly upheld the decision of the labour court that the employee was not a workman within the meaning of the id act.
+3. the legal position that arises from the statutory provisions and from the aforesaid survey of the decisions may be summarised as follows till 29th august, 1956 the definition of workman under the id act was confined to skilled and unskilled manual or clerical work and did not include the categories of person who were employed to do supervisory and technical work.
+the said categories came to be included in the definition w.e.f. 29th august, 1956 by virtue of the amending act 36 of 1956.
+it is, further, for the first time that by virtue of the amending act 46 of 1982, the categories of workmen employed to do operational work came to be included in the definition.
+what is more, it is by virtue of this amendment that for the first time those doing non-manual unskilled and skilled work also came to be included in the definition with the result that the persons doing skilled and unskilled work whether manual or otherwise, qualified to become workman under the id act.
+the decision in may baker case supra was delivered when the definition did not include either technical or supervisory or operational categories of workmen.
+that is why the contention on behalf of the workmen had to be based on the manual and clerical nature of the work done by the sales representatives in that case.
+the court had also, therefore, to decide the category of the sales representative with reference to whether the work done by him was of a clerical or manual nature.
+the courts finding was that the canvassing for sale was neither clerical nor manual, and the clerical work done by him formed a small fraction of his work.
+hence, the sales representative was not a workman.
+in wimco case supra , the dispute had arisen on 18th august, 1961 under the u.p. industrial disputes act and at the relevant time the definition of the workman in that act was the same as under the central act, i.e., the id act which had by virtue of the amending act 36 of 1956 added to the categories of workmen, those doing supervisory and technical work.
+however, the argument advanced before the court was not on the basis of the supervisory or technical nature of the work done by the concerned employees, viz., inspectors, salesmen and retail sales men.
+the argument instead, both before the industrial tribunal and this court was based on the clerical work put in by them, which was found to be 75 per cent of their work.
+this court confirmed the finding of the tribunal that the employees concerned were workmen because 75 per cent of their time was devoted to the writing work.
+the incidental question was whether the sales-office and the factory and the factory-office formed part of one and the same industrial establishment or were independent of each other.
+the court observed that it would be unreasonable to say that those who were producing matches were workmen and those who sold them were not.
+in other words, the court did hold that the work of selling matches was as much an operational part of the industrial establishment as was that of manufacturing.
+in burmah shell case supra the workmen involved were sales engineering representatives and district sales representatives.
+the dispute had arisen on 28th october, 1967 when the categories of workmen doing supervisory and technical work stood included in the definition of workman.
+the court found that the work done by the sales engineering representatives as well as district sales representatives was neither clerical nor supervisory nor technical.
+an effort was made on behalf of the workmen to contend that the work of sales engineering representatives was technical.
+the court repelled that contention by pointing out that the amount of technical work that they did was ancillary to the chief work of promoting sales and the mere fact that they possessed technical knowledge for such purpose, did not make their work technical.
+the court also found that advising and removing complaints so as to promote sales remained outside the scope of the technical work.
+as regards the district sales representatives, the argument was that their work was mainly of clerical nature which was negatived by the court by pointing out that the clerical work involved was incidental to their main work of promoting sales.
+what is necessary further to remember in this case is that the court relied upon its earlier decision in may baker case supra and pointed out that in order to qualify to be a workman under the id act, a person concerned had to satisfy that he fell in any of the four categories of

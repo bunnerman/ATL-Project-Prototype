@@ -8,3 +8,5 @@ pypdf
 chromadb
 sentence-transformers
 matplotlib
+pandas
+python-dotenv

@@ -1,0 +1,83 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner state of tamil nadu vs. respondent kannan devan mills produce company limited date of judgment07/10/1971 bench grover, a.n. bench grover, a.n. hegde, k.s. citation 1972 air 375 1972 scr  1 1016 citator info f 1988 sc1435  32  act madras agricultural income-tax act, 1955-rules 7 and 8 made under s. 6-whether tea grown in madras but manufactured in kerala corns within the scope of the said rules.
+headnote the respondent-assessee is a limited company carrying on the business of tea planting.
+a part of its tea estates was situated in kerala and the other part was in tamil nadu.
+according to the assessee, the estate in question was working as one unit with one,factory and common accounts were maintained for the whole estate.
+for the assessment years 1956-57, 1957-58 and 1958-59, the agricultural income-tax officer, tamil nadu, computed the agricultural income in accordance with the assessment made by the central income-tax officer and took 60 of the income computed by the central income-tax officer for the purpose of computation of agricultural income.
+for the assessment year 1960-61, however, the agricultural income-tax officer felt that since the kerala area of the estate yielded only 656 lbs.
+of tea per acre whereas the yield of madras portion was 799 lbs.
+per acre, he took the valuation of the produce from the madras portion as the gross receipt wherefrom he deducted the expenditure allowed by the central income-tax officer and recalculated it from the madras portion on the basis of acreage thereby showing a profit from the madras portion and made his assessment accordingly.
+the computation of the central income-tax officer, however, showed a loss for the entire estate.
+the assistant commissioner of agricultural income-tax upheld the order of agricultural income-tax officer but the tribunal set- aside the assessment, and remanded the case to assistant commissioner for certain matters.
+the departments further sought to reassess the assessee for the earlier 3 years also and issued notices.
+the assessee, thereupon, filed writ petitions challenging the order of reopening the assessment.
+a tax revision was also filed against the order of agricultural income-tax appellate tribunal in respect of the assessment for the year 1960-61.
+the writ petitions and the revision were allowed by the high court and the order of reopening the assessment was quashed.
+as regards the assessment for the year 1960-61, the agricultural income-tax officer was directed to make a revised assessment on the basis of the central incometax officers computation which was considered by the high court to be the proper basis for assessment of agricultural income-tax for the year 1960-61. on appeal, the revenue strongly relied on s. 6 of the madras agricultural income-tax act and rules 7 and 8 framed under that act.
+dismissing the appeals, held  1  rules 7 and 8 made under s. 6 of the madras agricultural income-tax act have no application in the present case because r. 7 deals with agricultural income from tea grown and manufactured in the state of madras.
+in the present case, though tea is grown in madras, it is manufactured in kerala which is outside that state.
+therefore, r. 7 does not apply.
+similarly r. 8 does not cover the case of tea which is manufactured in another state and not in the state of madras tea leaves 1017 alone can be the produce of a particular state but as such they have no value.
+they become valuable only after they are subjected to a special process, which takes place in kerala.
+therefore r. 8 has no applicability to manufactured tea.
+1020 f  ii a very small area of the estate is in the state of madras and even though that area is more fertile and gives much more yield than the area in kerala, the entire estate has to be assessed as a whole and the high court has rightly thought that agricultural income-tax officer should accept the computation of the central income-tax officer which is the only satisfactory basis for computation of agricultural income-tax in respect of the estate, especially when, the agricultural income-tax officer has not given satisfactory reasons for not accepting the central income-tax officers computation.
+1020 h anglo american direct tea trading company limited v. commissioner of agricultural income-tax, kerala, 64 i.t.r.
+667, referred to.
+judgment civil appellate jurisdiction civil appeals numbers 11751178 of 1970.
+appeals from the judgment and order dated december 9, 1964, of the madras high court in tax case number 146 of 1963 and writ petitions numbers 698 to 700 of 1963.
+s.t. desai and a. v. rangam, for the appellant  in both the appeals .
+m.c. chagla, b. d. datta, j. b. dadachanji, 0.
+c. mathur, ravinder narain and jay jesepp, for the respondent  in all the appeals .
+the judgment of the court was delivered by grover, j.-these appeals from a common order of the high court of madras are by certificate.
+the assessee, who is the respondent is a limited company carrying on business of te
+
+--- JUDGMENT BODY ---
+
+a planting.
+it owns several tea estates in the states of tamil nadu, kerala and assam.
+its head office is in munnar in the state of kerala.
+one of the tea estates owned by the assessee is called chittavurai tea estate and comprises 1043 -acres of tea plantations.
+out of this an area of 1006.60 acres is situate in kerala and the remaining 36.40 acres, in tamil nadu.
+according to the assessee chittavurai estate is working as one unit.
+there is only one factory manufacturing tea grown in the madras and kerala portion of the estate.
+the expenses are incurred for the maintenance of the whole estate as one unit and common accounts are maintained for it, there being no separate account for the madras portion.
+section 2 1  of the indian income tax act 1922 hereinafter called the income tax act defines agricultural income.
+the 119sup.
+cl/72 per acre.
+according to him apportionment of expenditure by treating the whole of chittavurai estate as one unit had resulted in a loss for the madras portion and a profit for the kerala portion.
+as pointed out by the high court the computation by the central, income tax officer showed a loss for the entire chittavurai estate.
+it is not necessary to go into details of how the computation was made by the agricultural income tax officer.
+the net result, however, was that whereas the central income tax officer had worked out the loss for the purpose of the income.
+tax act treating the chittavurai estate as one unit, the agricultural income tax officer took the valuation of the produce from the madras portion as the gross receipt.
+he deducted from it the.expenditure allowed by the central income tax officer and recalculated it from the madras portion on the basis of acreage.
+that led to a profit from the madras portion.
+learned counsel for the revenue has drawn our attention to s. 6 of the agricultural income tax act and rules 7 and 8 framed under that act.
+section 6 provides that where agricultural income is derived from land situated partly within the state and partly without the state agricultural income tax shall be levied-  i where the portion of such income attributable, to the land situated within the state can be determined from the accounts maintained by the assessee, on the portion so determined  ii where the portion of the income so attributable cannot be determined by the method specified in clause   i , on such portion as may be determined in the prescribed manne r. rules 7and 8 are as follows- r.7 computation of income from tea.-in respect of agricultural income from tea grown and manufactured by the seller in the state of madras, the portion of the income worked out under the indian income tax act and left unassessed as being agricultural shall be assessed under the act after allowing such deductions under the act and-the rules made thereunder provided that the computation made by the indian income tax officer shall ordinarily be accepted by the agricultural income tax officer who may, for his satisfaction under sections 16 and 16 of the act, obtain further details from the assessee or from the indian income tax officer but shall not without the previous sanction of the assistant commissioner of agricultural.
+income-tax require under section 3 9, the production of account books already examined by the indian income tax officer for determining the agricultural income from tea grown and manufactured in the state of madras or refuse to accept the computation of the indian income tax officer provided further r.8 computation of income derived from lands situated partly within the state and partly without.-where an agricultural.
+income is derived from lands situated partly within the state and partly without the state and the-income attributable to the lands situated within the state cannot be determined by the assessee but where the value of the produce grown within or without the state can be separately determined from the accounts maintained by the assessee such income shall be computed in proportion to the value of the respective quantity of produce raised within or without the state.
+in other cases such income shall be computed in proportion to the respective cultivated acreage of the crop lying within and without the state if the crop grown is the same, subject to such modifica- tions as may be necessary with reference to the yield per acre, the quality of the produce and the price fetched within and without the state.
+the high court rightly pointed out that r. 7 is applicable only to agricultural income from tea grown and manufactured in the state of madras.
+it can have no applicability in the present case where even though tea is grown inside that state but it is manufactured in kerala which is outside that state., as regards r. 8 it is a moot point whether the same would be applicable to tea.
+so far as tea is concerned the tea leaves alone can be the produce but as such they have no value.
+they become valuable only after they are subjected to a special process from which emerge various brands of tea.
+rule 7 has specifically been framed for ,computation of income from tea.
+therefore, r. 8 can have no applicability particularly when the language employed in it cannot cover the case of tea.
+we are unable to see how these two rules can be of any avail or assistance to the agricultural income tax officer in the present case.
+it must be remembered that chittavurai estate being of tea falls in a special class.
+it is only a very small area of that estate which is in madras even though that is more fertile and gives much more yield.
+than the area in kerala but the unit has to be assessed as a whole and the high court, in our opinion, rightly thought that the rule that the agricultural income tax officer should accept the computation of the central income tax officer furnishes the only satisfactory basis for computation of agricultural income tax in respect of chittavurai estate.
+it is noteworthy that even in the first proviso to r. 7 the agricultural income tax officer has been enjoined to ordinarily accept the computation made, by the central income tax officer.
+moreover the high court which went into the facts and figures of the various assessments came to the conclusion that the. agricultural income tax officer had not given sufficient reasons for not accepting the central income tax officers computation.
+that court, therefore, declined to give a finding on thequestion whether the central income tax officers computation should be held to be legally binding in all cases and in all circumstances on the agricultural income tax officer.
+our attention has been invited on behalf of the assessee to a decision of this court in anglo-american direct tea trading company limited etc. etc.
+v. commissioner of agricultural income tax kerala 1 .
+in that case it was held that agricultural income taxable under the kerala agricultural income tax act 1950 was 60 of the income computed under the income tax act after deducting therefrom the allowances authorised by s. 5 of the kerala act insofar as the same had not been allowed in the assessment under the income tax act.
+there was no provision in the kerala act or the rules authorising the agricultural income tax officer to disregard the computation of the tea income made under the income tax act.
+if, therefore, an assessment had been made by the central income tax officer before the assessment of income by the agricultural income tax officer the latter was bound to accept the computation of the income made by the central income tax authorities.
+the principle which has been applied in the present case by the high court is on the same lines and it is unnecessary for us to express any opinion on the question whether in every case the agricultural income tax officer is bound to accept the computation made by the central income tax authorities and only allow additional deduction which may be permissible under the agricultural income tax act.
+the appeals fail and are dismissed with costs.
+hearing fee, one set.
+s.n.c.   1 69 i.t.r.
+667.
+appeal dismissed.

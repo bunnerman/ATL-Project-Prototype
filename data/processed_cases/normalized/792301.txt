@@ -1,0 +1,127 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner bhogilal chunilal pandya vs. respondent the state of bombay date of judgment 04/11/1958 bench wanchoo, k.n. bench wanchoo, k.n. bhagwati, natwarlal h. subbarao, k. citation 1959 air 356 1959 scr supl.
+1 310 citator info f 1966 sc 40 5 act evidence-notes of attendance prepared by solicitor- admissibility of for corroborating solicitor --statement if communication to another necessary for admissibility indian evidence act, 1872 1 of 1872 s. 157.
+headnote the appellant, a cashier of a company, was charged with committing criminal breach of trust.
+when the defalcation was discovered certain conversations took place between the chairman and secretary of the company and the appellant in the presence of a solicitor.
+soon afterwards, the solicitor prepared notes of attendance of these conversations.
+at the trial these notes were produced to corroborate the testimony of the solicitor.
+the appellant objected that these notes were not admissible under s. 157 of the evidence act.
+he contended that the word statement in s. 157 required the communication of the statement by the maker to another person and that it did not include any writing or memorandum made by a person for his own use when it was not communicated to another person.
+311 held, that the notes of attendance were admissible under s. 157.
+the word statement in s. 157 means only something that is stated and the element of communication is not necessary before something that is stated becomes a statement under that section.
+the king v. nga myo, a.i.r.
+1938 rang.
+177
+, bhogilal bhikachand v. the royal insurance company limited, a.i.r.
+1928 p.c. 54, referred to.
+judgment criminal appellate jurisdiction criminal appeal number 31 of 1958.
+appeal by special leave from the judgment and order dated august 8, 1957, of the bombay high court in criminal reference number 129 of 1957, arising out of the order of reference to the high court dated december 1, 1956, of the court of session for greater bombay in case number 82 of 1956.
+purshottam tricumdas, g. r. ganatra and 1. n. shroff, for the appellant.
+c. k. daphtary, solicitor-general of india and r. h. dhebar, for the respondent.
+1958.
+november 4.
+the judgment of the court was delivered by wanchoo, j.this appeal by special leave is limited to the question of admissibility in evidence of a certain document in a criminal trial.
+the brief facts of the case necessary for elucidation of the question are these bhogilal chunilal pandya appellant was tried for committing criminal breach of trust in respect of rs. 4,14,750 and the trial was with the aid of a jury.
+he was the cashier in the employment of messrs. morarji gokuldas spinning and weaving company limited, bombay.
+as such he was entrusted with the funds of the company.
+the charge against him was that between july 1 and december 1, 1954, he embezzled the amount mentioned above.
+among the witnesses for the prosecution were gopikisan, chairman, modi, secretary, and santook, a solicitor of the company.
+when the defalcation was discovered, certain conversations took place between gopikisan, modi and santook who was consulted in this connection, and the appellant, between january 21 and 27, 1955.
+santook prepared what are called notes of attendance of these conversations soon afterwards.
+in his evidence in court, santook deposed to what has taken place between him and these persons on those dates.
+the notes of attendance marked ex. v were also produced to corroborate the testimony of santook.
+an objection was taken before the trial judge to the admissibility of these notes oil two grounds, namely 1 that they could not be admitted in evidence as ,copies had not been supplied to the accused under s. 173 of the code of criminal procedure, and 2 that they could not be given in evidence under s. 157 of the evidence act hereinafter called the act as corroboration of santooks evidence.
+the trial judge negatived both these contentions and admitted the notes in evidence.
+he referred to them in his charge to the jury.
+eventually, however, the jury returned a verdict of not guilty by a majority of 5 3.
+the trial judge thereupon made a reference to the high court under s. 307 of the code of criminal procedure.
+the high court went through the entire evidence, including ex.
+v., found the case proved, and convicted the appellant.
+learned counsel for the appellant has given up the attack on the admissibility of these notes on the basis of s. 173 of the code of criminal procedure in view of the decision of this court in narayan rao v. the state, of andhra pradesh 1 .
+he has, however, strenuously contended that the notes cannot be admitted in evidence under s. 157 of the act.
+section 157 is in these terms- in order to corroborate the testimony of a wit.
+ness, any former statement made by such witness relating to the same fact, at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved.
+the cont
+
+--- JUDGMENT BODY ---
+
+ention is that the words statement made by in this section require that there must be a communication of the statement by the maker of it to another person and that a statement within the meaning of s. 157 does not include any writing or 1 1958 s.c.r.
+283.
+memorandum made by a person for his own use when it is not communicated to, any other person.
+it is said that such a writing may be used to refresh the memory of a, witness, under s. 159 but it does not become admissible in evidence unless the other party crossexamines the witness on the, document under s 161.
+in this there, was no question of cross-examination upon the document as the prosecution itself produced the notes, during, the examination-in-chief of santook in order to corroborate him, in short, the contention, of the, learned counsel is that such a writing, can only, be used under s. 159 and cannot be called.a statement within the meaning of s. 157, for the word statement used in s. 157 implies that it must have been communicated to ,another person.
+now, the word statement is not defined in the act.
+we have, therefore to go to the dictionary meaning of the word, in order to discover what it means.
+assistance may also be taken from the use of the word statement in other parts of the act to discover in what sense it has been used therein.
+the primary meaning of the word i statement to be found in shorter oxford engligh dictionary and websters new world dictionary is i something that is stated.
+another meaning that is given in the shorter oxford english dictionary is i written or oral communication.
+there is no doubt that a statement may be made to some one in the sense of a communi- cation.
+but that is not its primary meaning, unless, therefore, there is something in s. 157 or in the other provisions of the act, which.compels us to depart from the primary meaning of the word statement, there is no reason to hold that communication to another person is of tile essence and there can be no statement within the meaning of s. 157 without such communication.
+the word statement has been used in a number of sections of the act in its primary meaning of something that is stated and that meaning should be given to it under s. 157 also unless there i s, something that cuts down that meaning for the purpose of that section words are generally used in the same sense throughout in a statute unless there is something repugnant in the context.
+the first group of sections in the act in which the word i statement occurs, are ss. 17 to 21, which deal with admissions.
+section 17 defines the word i admission ss.
+18 to 20 lay down what statements are admissions, and s. 21 deals with the proof of admissions against persons making them.
+the words used in ss. 18 to 21 in this connection are i statements made by.
+it is not disputed that statements made by persons may be used as admissions against them even though they may not have been communicated to any other person.
+for example, statements in the account books of a person showing that he was indebted to another person are admissions which can be used against him even though these statements were never communicated to any other person.
+illustration b of s. 21 also shows that the word statement used in these sections does not necessarily imply that they must have been communicated to any other person.
+in the illustration in question entries made in the book kept by a ships captain in the ordinary course of business are called statements, though these entries are not communicated to any other person.
+an examination, therefore, of these sections show that in this part of the act the word i statement has been used in its primary meaning, namely, something that is stated and communication is not necessary in order that it may be a statement.
+the next section to which reference may be made is s. 32 of the act.
+it deals with statements made by persons who are dead, or cannot be found or who become incapable of giving evidence or whose attendance cannot be procured without an amount of delay or expense which appears to the court unreasonable.
+subsection 2 in particular shows that any entry or memorandum made in books kept in the ordinary course of business or in the discharge of professional duty is a statement, though there is no question of communicating it to another person.
+similarly, sub-section 6 shows that statements relating to the existence of an relationship made in any will or deed relating to the affairs of the family, or in any family pedigree, or upon any tombstone, or family portrait are statements though there is no question of their communication to another person.
+again, s. 39 shows that a statement may be contained in a document which forms part of a book.
+in this case also there is no question of any communication of that statement to another person in order to make it a statement.
+then, there is s. 145, which lays down that a witness may be cross-examined as to previous statements made by him in writing or reduced into writing for the purpose of contradicting him.
+under this section a witness may be contradicted by statements in a diary kept by him, though there is no question of any communication of those statements to another person.
+then comes s. 157, which we have already set out above.
+here also the words used are ,statement made by.
+we see no reason why the word statement should not have been used in its primary meaning in this section also.
+there is nothing in the section which in any way requires that an element of communication to another person should be imported into the meaning of the word statement used therein.
+it was urged that if we do not imply communication to another person in the meaning of the word statement in this section, it would result in a witness corroborating himself by producing some writing made by him and kept secret and that this would be very dangerous.
+now, a distinction must be made between admissibility of such a writing and the value to be attached to it.
+section 157 makes previous statements even of this type admissible but what value should be attached to a corroboration of this nature is a different matter to be decided by the court in the circumstances of each case,.
+the witness who is sought to be corroborated is produced in the witness-box and is liable to cross-examination.
+the cross-examiner may show that no reliance should be placed on such an earlier statement.
+the danger, therefore, which the learned counsel for the appellant emphasized is really no danger at all for the witness is subject to cross- examination.
+the main evidence is the statement of the witness in the witness box and a document of this nature is only used to corroborate him.
+if the main evidence is shaken by cross-examination, corroboration by such a document would be of no use.
+there is, thereforeno reason to give a different meaning to the word -statement in this section because of this alleged danger, which really does not exist-.
+learned counsel for the appellant particularly referred to s. 159 of the act to show that notes like ex. v can only be used for refreshing memory and can be evidence under the conditions prescribed under s. 161.
+he does not suggest that what comes under s. 159 is necessarily excluded from the meaning of the word statement under s. 157.
+for example, a man may write a letter to another referring to certain facts at or about the him when they took place and may use it to refresh his memory.
+a letter is a communication- to another person it would even according to the learned counsel for the appellant, be a statement within the meaning of s. 157 and be admissible for purposes of corroboration.
+therefore, it cannot be said that because a document call be used to refresh memory under s. 159 it cannot be a statement within the meaning of s. 157.
+section 159 deals with a particular sot of cir- cumstances and the word statement does not appear therein at all.
+section 159 is, in our opinion, - of no help in deciding what the word statement means in s. 157.
+refreshing memory under s. 159 is confined to statements in writing made under the conditions mentioned in that section, while corroboration under s. 157 may be by statements in writing or even by oral statements.
+that is why there is difference in language of ss.
+157 and 159.
+but that difference does not, in our opinion, lead to any conclusion which would cut down the meaning of the word statement, under s. 157 to those statements only which are communicated to an, other person.
+on a consideration, therefore, of the primary meaning of the word statement and the various sections of the act we come to the conclusion that, statement under s. 157 means only something that is stated and the element of communication to another person is not necesssary before something that is stated becomes a statement under that sections in this view of the matter the notes of attendance would be statements within the meaning of.
+157 and would be admissible to corroborate s antooks evidence under s. 157.
+let us now turn to the cases cited at the bar.
+in the, king v. nga myo 1 , a full bench of the rangoon high court was considering questions relating to the nature of corroboration and the circumstances in which it should be sought when a person is accused of a. crime and the evidence against him is partly or wholly that of an accomplice or accomplices.
+the point, therefore, which is specifically raised before us was not before the rangoon high court.
+in passing, the learned judges referred to s. 157 of the act and stated that it was settled law that a person cannot corroborate himself.
+in making these observations, the learned judges must be referring to the settled law in england before the amendment by the english evidence act.
+1938.
+a change was, however, introduced in the english law by the evidence, act, 1938, i ,2 geo. 6, c. 28 .
+that act provides that in any civil proceeding where direct oral evidence of a fact would be admissible, any statement made by a person in a document and tending to establish that fact shall on production of the original document, be admissible as evidence of that fact, if the maker of, the statement had personal, knowledge of the matters dealt with by the statement and if lie. is called as a witness in the proceeding.
+thus notes of an interview prepared by a solicitor similar to ex., v are now admissible as statements in a document under certain conditions in england. see in re. powe deceased powe v. barclays bank ltd 2 .
+for this reason and also because the judgment does not consider the specific question raised before us it is of no help.
+the next case is bhogilal bhikachand v. the royal lnsurance company limited 3 .
+reliance is placed on the observations of their lordships of the privy council it p. 63 in these words- 1 a.i.r. 1938 rang.
+177. 2 1955 3 all e.r. 448. 3 a.i.r. 1928 p. c. 54, 63.
+,,the second matter on which their lordships feel it desirable to observe is the tendering and reception in evidence of the letter written by bhattacharjee to his official chief on 30th june, 1923.
+this letter was tendered and received under s. 157, evidence act, their lordships desire emphatically to say that the letter was not, under that section, properly receivable for any purpose.
+these observations do not in our opinion help the learned counsel for the appellant.
+his contention throughout has been that a statement within the meaning of s. 157 has to be communicated to another person.
+these observations show that the letter which their lordships were rejecting was certainly a statement which was communicated to another person.
+therefore, when their lordships rejected the letter it could not be on the ground that the statement was not communicated to another person it must be due to the value of the evidence of bhattacharjee, which was considered in the previous paragraph.
+it is clear, therefore, the word i statement used in s. 157 of the act means ,something that is stated and the element of communication to another person is not -included in it.
+as such the notes of attendance prepared by santook were statements within the meaning of s. 157 and admissible in evidence.
+the result is that the appeal fails and is hereby dismissed.
+appeal dismissed.

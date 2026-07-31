@@ -1,0 +1,98 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner srikant k. jituri vs. respondent corpn .
+
+--- JUDGMENT BODY ---
+
+of the city of bengauam date of judgment05/10/1994 bench jeevan reddy, b.p.  j  bench jeevan reddy, b.p.  j  venkatachalliah, m.n. cj  ahmadi, a.m.  j  citation 1995 air 288 1994 scc  6  572 jt 1994  6  496 1994 scale  4 447 act headnote judgment the judgment of the court was delivered by b.p. jeevan reddy, j.- in this appeal preferred against the judgment of the karnataka high court, the question that arises is whether the suit filed by the appellants in the civil court questioning the revision of property tax in the year 1984 is not barred by virtue of rule 25 contained in part 1 of schedule iii of the karnataka municipal corporations act, 1976?
+the suit was initially instituted by three persons.
+while plaintiffs 1 and 3 are two of the house-owners within belgaum municipal corporation, the second plaintiff is an association of house-owners within the said corporation limits.
+subsequently, fourteen other individuals owning houses within the said corporation limits joined as plaintiffs.
+the relief asked for in the plaint is for a declaration that the revision of property tax effected by the defendant corporation in the year 1984 is arbitrary, unreasonable and illegal and should not be enforced against the owners of the houses in belgaum.
+the trial court dismissed the suit as not maintainable in civil court by virtue of rule 25 aforesaid.
+on appeal, however, the first appellate court took a contrary view.
+it held that the suit is maintainable and, accordingly, remitted the matter to the trial court for disposal on merits.
+the order of the appellate judge was questioned by the municipal corporation by way of miscellaneous civil appeal which has been allowed by a learned single judge of the high court.
+2. sub-section  2  of section 108 of the karnataka municipal corporations act, 1976 provides for levy of property tax.
+it fixes a certain ceiling beyond which the tax cannot be levied.
+sub-section  3  provides that for the purposes of assessing the property tax, the rateable value of any building or land shall be determined by the commissioner.
+section 109 prescribes the method of assessment of property tax.
+it also prescribes the method in which the rateable value of a building or land shall be determined.
+section 117 empowers the commissioner to ask for an information, and also to enter upon premises for the purpose of collecting information, to enable him to make a proper assessment.
+section 147 says that the rules and tables embodied in schedule iii shall be read as part of chapter x  chapter x deals with the levy of property tax and its assessment among other matters .
+section 148 provides that the corporation shall revise any tax imposed by it once in every five years or whenever such enhancement is found necessary.
+3. schedule iii contains the taxation rules.
+the rules provide for the commissioner preparing and keeping assessment books containing necessary particulars which shall be open for inspection by the taxpayers  rule 1 .
+it is for the commissioner to determine the tax to which each property or person is liable  rule 2 .
+the assessment books shall have to be completely revised by the commissioner once in every five years and an assessment once made shall continue until it is revised  rules 5 and 6 .
+rule 7 prescribes the procedure when assessment books are prepared for the first time or whenever a general revision of the books is completed.
+it provides for giving a public notice containing the prescribed particulars.
+rule 8 says that the commissioner may after giving notice to the parties concerned and after hearing the objections, if any, amend the books by making the necessary amendments and alterations.
+any person aggrieved by the assessment of property tax is entitled to file an appeal before the taxation appeals committee  rule 18 .
+a second appeal lies to district court as provided by rule 20.
+there is, however, a condition attached to this right of second appeal, viz., that the tax is to be paid within the period prescribed.
+rule 19 confers a suo motu power of revision on the divisional commissioner of the revenue division to be exercised in cases where any assessment or an order is prejudicial to the interests of revenues of the corporation.
+rule 22 empowers the district court to state a question of law for the opinion of the high court in an appropriate case.
+rule 25 then says that subject to any order of the district court or the divisional commissioner or the decision of the taxation appeals committee or the orders passed by the commissioner, the assessment or demand of any tax shall be final.
+4. in the present case, the property tax was revised earlier in the year 1979.
+after a lapse of five years, the impugned revision was made.
+the plaintiffs did not file the appeal as provided by the rules but came forward with this representative suit.
+we shall now notice the allegations in the plaint to determine whether the said allegations bring the suit within the purview of the civil court notwithstanding the bar contained in rule 25.
+the main allegations of the plaintiffs are that the valuation of the properties within the corporation limits has risen from rs 2.5 crores in 1979 to rs 9 crores in 1984 and that the tax has gone up from rs 50 lakhs per annum to rs 1.8 crores per annum.
+this enhancement is termed as arbitrary, unreasonable and illegal.
+it is stated that the enhancement in some cases is 10 to 20 times or more.
+it is submitted that according to the decisions of this court, property tax must be determined on the basis of fair rent and, therefore, there cannot be any increase of property tax from 1979 to 1984 since no additions or alterations have been effected to any house within the corporation limits.
+plaintiffs also complain that the assessors inspected the houses and took measurements of the plinth area of the buildings, without giving prior notice to the owners.
+the measurements so taken stealthily, they said, cannot form the basis of revision of property tax.
+the plaintiffs alleged that according to their information the assessors were pressurised to increase the property tax to the maximum extent, i.e., at least by four to five times over the existing tax.
+5.the allegation that between 1979 and 1984, no alterations or additions have been effected and the further ambiguous assertion that the assessors were pressurised to enhance the taxes by 4 to 5 times are too general and sweeping to merit any consideration.
+it is not also alleged who pressurised the assessors.
+6.these are all the allegations in the plaint.
+it is apparent that there is no allegation that there has been a non-compliance with any of the provisions of the statute let alone non-compliance with any of the fundamental provisions of the statute.
+no reasons are given as to why they did not file appeals before the taxation appeals committee.
+it is also not stated why they could not have urged the grounds now taken in the plaint in appeals.
+the only reason stated for approaching the civil court is that if appeals have to be filed, their numberwould be in thousands and that it is not a practicable proposition.
+7. the principles relating to jurisdiction of civil court in the case of acts and orders taken under special enactments is well-known.
+after considering several indian and english cases, hidayatullah, c.j., had stated the relevant principles in dhulabhai v. state of m.p i, in the following words  scr p. 682   1  where the statute gives a finality to the orders of the special tribunals the civil courts jurisdiction must be held to be excluded if there is adequate remedy to do what the civil courts would normally do in a suit.
+such provision, however, does not exclude those cases where the provisions of the particular act have not been complied with or the statutory tribunal has not acted in conformity with the fundamental principles of judicial procedure.   2 where there is an express bar of the jurisdiction of the court, an examination of the scheme of the particular act to find the adequacy or the sufficiency of the remedies provided may be relevant but is not decisive to sustain the jurisdiction of the civil court.
+where there is no express exclusion the examination of the remedies and the scheme of the particular act to find out the intendment becomes necessary and the result of the inquiry may be decisive.
+in the latter case it is necessary to see if the statute creates a special right or a liability and provides for the determination of the right or liability and further lays down that all questions about the said right and liability shall be determined by the tribunals so constituted, and whether remedies 1  1968  scr 662air 1969 sc 7822 stc 416 normally associated with actions in civil courts are prescribed by the said statute or not.   3 challenge to the provisions of the particular act as ultra vires cannot be brought before tribunals constituted under that act.
+even the high court cannot go into that question on a revision or reference from the decision of the tribunals.   4 when a provision is already declared unconstitutional or the constitutionality of any provision is to be challenged, a suit is open.
+a writ of certiorari may include a direction for refund if the claim is clearly within the time prescribed by the limitation act but it is not a compulsory remedy to replace a suit.   5 where the particular act contains no machinery for refund of tax collected in excess of constitutional limits or illegally collected a suit lies.   6 questions of the correctness of the assessment apart from its constitutionality are for the decision of the authorities and a civil suit does not lie if the orders of the authorities are declared to be final or there is an express prohibition in the particular act.
+in either case the scheme of the particular act must be examined because it is a relevant enquiry.   7 an exclusion of the jurisdiction of the civil court is not readily to be inferred unless the conditions above set down apply.
+this court further clarified that non-compliance with the provisions of the statute meant non-compliance with such fundamental provisions of the statute as would make the entire proceedings before the appropriate authority illegal and without jurisdiction.
+the court also stressed the relevance and significance of the machinery provided by the relevant special statute for rectifying any errors and irregularities.
+8.
+the principles enunciated in this decision have since been followed uniformly in various decisions, the last of which is in shiv kumar chadha v. municipal corpn.
+of delhi2, where again the entire case-law on the subject has been reviewed and principles reaffirmed.
+9. applying the above principles, it must be held that the present suit, on the allegations contained in the plaint itself - let alone the findings of the court is not maintainable in a civil court.
+none of the grounds on which an assessment made under the karnataka act can be challenged in a civil court, is even alleged in the plaint, as pointed out hereinbefore.
+in other words, none of the grounds indicated in dhulabhai case1, upon which such an assessment can be questioned is alleged in the plaint.
+all that is complained of is that the enhancement is excessive.
+that by itself is not enough.
+similarly, the allegation that enhancement is arbitrary or unreasonable is per se not sufficient to override the express statutory bar.
+2  1993  3 scc 161 the high court was, therefore, right in holding that the said suit is not maintainable in civil court.
+10.shri tarkunde, the learned counsel for the appellants submitted that inasmuch as the right of second appeal to the district court is coupled with an onerous condition, viz., deposit of the entire property tax - neither the appellate authority nor any other authority, it is stated, is empowered to relax that condition, either partly or wholly, whatever be the circumstances - the said remedy of appeal cannot be called an adequate or efficacious remedy.
+for this reason, the learned counsel submitted, the suit is maintainable.
+learned counsel contended that if a writ petition is maintainable without filing the second appeal provided by rule 20, a suit is equally maintainable.
+in our opinion, the said contention is based upon a misconception.
+such an onerous provision may be a ground for entertaining a writ petition on the ground that the alternative remedy provided by the statute is not an adequate or efficacious remedy  see himmatlal harilal mehta v. state of m.p3  but that can never be a ground for maintaining a civil suit.
+both the jurisdictions are different and are governed by different principles.
+article 226 provides a constitutional remedy.
+it confers the power of judicial review on high courts.
+the finality clause in a statute is not a bar to the exercise of this constitutional power whereas the jurisdiction of a civil court arises from another statute, viz., section 9 of the code of civil procedure.
+in such a case, the bar arising from an express provision like rule 25 or arising by necessary intendment can be overridden only in cases and situations pointed out in dhulabhai case1.
+the jurisdiction of the civil court in such matters is governed by the principles aforestated and the ground now urged by shri tarkunde is not one of the grounds recognised for invoking the jurisdiction of the civil court.
+it is not correct to say that whatever is good for article 226 is good for suit as well.
+11.before parting with this appeal, we feel compelled to express our doubts as to the soundness and continuing relevance of the view taken by this court in several earlier decisions that the property tax must be determined on the basis of fair rent alone regardless of the actual rent received.
+fair rent very often means the rent prevailing prior to 1950 with some minor modifications and additions.
+property tax is the main source of revenue to the municipalities and municipal corporations, to compel these local bodies to levy and collect the property tax on the basis of fair rent alone, while asking them at the same time to perform all their obligatory and discretionary functions prescribed by the statute may be to ask for the impossible.
+the cost of maintaining and laying roads, drains and other amenities, the salaries of staff and wages of employees - in short, all types of expenditure have gone up steeply over the last more than forty years.
+in such a situation, insistence upon levy of property tax on the basis of fair rent alone - disregarding the actual rent received - is neither justified nor practicable.
+none of the enactments says so expressly.
+the said principle has 3 air 1954 sc 403 1954 scr 1122  1954  1 mlj 690 been evolved by courts by a process of interpretation.
+probably a time has come when the said principle may have to be reviewed.
+in this case, however, this question does not arise at this stage and, therefore, it is not necessary to express a final opinion on the said issue.
+12.
+the appeal accordingly fails and is dismissed.
+no costs.

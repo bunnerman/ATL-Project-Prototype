@@ -1,0 +1,202 @@
+--- PREAMBLE & CASE INFO ---
+
+1 reportable in the supreme court of india civil appellate jurisdiction civil appeal number 20854 of 2017 arising out of special leave petition civil number4565 of 2015 deputy commissioner of income-tax, circle 11 1 , bangalore appellant versus m s. ace multi axes systems limited respondents with civil appeal number 20856 of 2017 arising out of special leave petition civil number8331 of 2016 with civil appeal number 20857 of 2017 arising out of special leave petition civil number3323 of 2016 with civil appeal number 20855 of 2017 arising out of special leave petition civil number148 of 2016 judgment adarsh kumar goel, j. civil appeal number 20854 of 2017 special leave petition civil number4565 of 2015 1. leave granted.
+this appeal has been preferred against the judgment and order dated 28th july, 2014 of the high court of signature not verified karnataka at bangalore in income tax appeal number477 of 2013.
+the digitally signed by high court framed the following question of law for consideration mahabir singh date 2017.12.05 153621 ist reason when once the eligible business of an assessee is given the benefit of deduction under section 80 ib on the assessee satisfying the conditions mentioned in sub-sec.
+2 of section 80 ib, can the assessee be denied the benefit of the said deduction on the ground that during the said 10 consecutive years, it ceases to be a small scale industry?
+2. the high court answered the question in the negative and in favour of the assessee.
+the revenue has questioned the said view.
+3. the respondent assessee is engaged in manufacture and sale of components parts of cnc lathes and similar machines.
+its income was assessed for the assessment year 2005-2006 at rs.1,79,82,653/-.
+however, the commissioner of income tax, interfered with the assessment under section 263 to the extent it allowed deduction under section 80 ib 3 of the income tax act, 1961 the act and directed fresh decision on the said issue vide order dated 16th january, 2009.
+thereafter, the assessing authority on 14th december, 2009 disallowed the claim of rs.75,81,910/- towards deduction under section 80 b 3 .
+the same was upheld by the commissioner in appeal and the income tax appellate tribunal in second appeal.
+however, the high court has reversed the said orders and upheld the claim.
+4. the relevant section is as follows 80-ib.
+deduction in respect of profits and gains from certain industrial undertakings other than infrastructure development undertakings - 1 where the gross total income of an assessee includes any profits and gains derived from any business referred to in sub-sections 3 to 11 , 11a and 11b
+such business being hereinafter referred to as the eligible business , there shall, in accordance with and subject to the provisions of this section, be allowed, in computing the total income of the assessee, a deduction from such profits and gains of an amount equal to such percentage and for such number of assessment years as specified in this section.
+2 this section applies to any industrial undertaking which fulfils all the following conditions, namely i it is not formed by splitting up, or the reconstruction, of a business already in existence provided that this condition shall not apply in respect of an industrial undertaking which is formed as a result of the re-establishment, reconstruction or revival by the assessee of the business of any such industrial undertaking as is referred to in section 33b, in the circumstances and within the period specified in that section ii it is not formed by the transfer to a new business of machinery or plant previously used for any purpose iii it manufactures or produces any article or thing, not being any article or thing specified in the list in the eleventh schedule, or operates one or more cold storage plant or plants, in any part of india provided that the condition in this clause shall, in relation to a small scale industrial undertaking or an industrial undertaking referred to in sub-section 4 shall apply as if the words not being any article or thing specified in the list in the eleventh schedule had been omitted.
+explanation 1.for the purposes of clause ii , any machinery or plant which was used outside india by any person other than the assessee shall not be regarded as machinery or plant previously used for any purpose, if the following conditions are fulfilled, namely a such machinery or plant was not, at any time previous to the date of the installation by the assessee, used in india b such machinery or plant is imported into india from any country outside india and c no deduction on account of depreciation in respect of such machinery or plant has been allowed or is allowable under the provisions of this act in computing the total income of any person for any period prior to the date of the installation of the machinery or plant by the assessee.
+explanation 2.where in the case of an industrial undertakin
+
+--- JUDGMENT BODY ---
+
+g, any machinery or plant or any part thereof previously used for any purpose is transferred to a new business and the total value of the machinery or plant or part so transferred does not exceed twenty per cent of the total value of the machinery or plant used in the business, then, for the purposes of clause ii of this sub-section, the condition specified therein shall be deemed to have been complied with iv in a case where the industrial undertaking manufactures or produces articles or things, the undertaking employs ten or more workers in a manufacturing process carried on with the aid of power, or employs twenty or more workers in a manufacturing process carried on without the aid of power. 3 the amount of deduction in the case of an industrial undertaking shall be twenty-five per cent or thirty per cent where the assessee is a company , of the profits and gains derived from such industrial undertaking for a period of ten consecutive assessment years or twelve consecutive assessment years where the assessee is a co-operative society beginning with the initial assessment year subject to the fulfilment of the following conditions, namely i it begins to manufacture or produce, articles or things or to operate such plant or plants at any time during the period beginning from the 1st day of april, 1991 and ending on the 31st day of march, 1995 or such further period as the central government may, by notification in the official gazette, specify with reference to any particular undertaking ii where it is an industrial undertaking being a small scale industrial undertaking, it begins to manufacture or produce articles or things or to operate its cold storage plant not specified in sub-section 4 or sub-section 5 at any time during the period beginning on the 1st day of april, 1995 and ending on the 31st day of march, 2002. 4 to 13 xxx xxx xxx 14 for the purposes of this section, a built-up area means the inner measurements of the residential unit at the floor level, including the projections and balconies, as increased by the thickness of the walls but does not include the common areas shared with other residential units aa cold chain facility means a chain of facilities for storage or transportation of agricultural produce under scientifically controlled conditions including refrigeration and other facilities necessary for the preservation of such produce ab convention centre means a building of a prescribed area comprising of convention halls to be used for the purpose of holding conferences and seminars, being of such size and number and having such other facilities and amenities, as may be prescribed b hilly area means any area located at a height of one thousand metres or more above the sea level c initial assessment year i in the case of an industrial undertaking or cold storage plant or ship or hotel, means the assessment year relevant to the previous year in which the industrial undertaking begins to manufacture or produce articles or things, or to operate its cold storage plant or plants or the cold chain facility or the ship is first brought into use or the business of the hotel starts functioning ii in the case of a company carrying on scientific and industrial research and development, means the assessment year relevant to the previous year in which the company is approved by the prescribed authority for the purposes of sub-section 8 iii in the case of an undertaking engaged in the business of commercial production or refining of mineral oil referred to in sub-section 9 , means the assessment year relevant to the previous year in which the undertaking commences the commercial production or refining of mineral oil iv in the case of an undertaking engaged in the business of processing, preservation and packaging of fruits or vegetables or in the integrated business of handling, storage and transportation of foodgrains, means the assessment year relevant to the previous year in which the undertaking begins such business v in the case of a multiplex theatre, means the assessment year relevant to the previous year in which a cinema hall, being a part of the said multiplex theatre, starts operating on a commercial basis vi in the case of a convention centre, means the assessment year relevant to the previous year in which the convention centre starts operating on a commercial basis vii in the case of an undertaking engaged in operating and maintaining a hospital in a rural area, means the assessment year relevant to the previous year in which the undertaking begins to provide medical services d north-eastern region means the region comprising the states of arunachal pradesh, assam, manipur, meghalaya, mizoram, nagaland, sikkim and tripura da multiplex theatre means a building of a prescribed area, comprising of two or more cinema theatres and commercial shops of such size and number and having such other facilities and amenities as may be prescribed e place of pilgrimage means a place where any temple, mosque, gurdwara, church or other place of public worship of renown throughout any state or states is situated f rural area means any area other than i an area which is comprised within the jurisdiction of a municipality whether known as a municipality, municipal corporation, notified area committee, town area committee or by any other name or a cantonment board and which has a population of not less than ten thousand according to the preceding census of which relevant figures have been published before the first day of the previous year or ii an area within such distance not being more than fifteen kilometres from the local limits of any municipality or cantonment board referred to in sub-clause i , as the central government may, having regard to the stage of development of such area including the extent of, and scope for, urbanisation of such area and other relevant considerations specify in this behalf by notification in the official gazette g small-scale industrial undertaking means an industrial undertaking which is, as on the last day of the previous year, regarded as a small-scale industrial undertaking under section 11b of the industries development and regulation act, 1951 65 of 1951 .
+5. before we consider the issue of correct interpretation of the above provision, it may be necessary to note the observations of the statutory authorities and the high court on the issue.
+6. the assessment order dated 14th december, 2009, disallowing the deduction is as follows the same is not acceptable on the ground that the value of plant and machinery has exceeded rs.1 crores as per the depreciation schedule annexed to the 3cd report which do not come under the purview of the definition of small scale industry for the year ending 04-05 a.y.05-06 .
+in view of the above, i am constrained to hold that the assessee company is not eligible for claim of 80ib 3 deduction amounting to rs.75,81,910/- and hence same is disallowed.
+7. the commissioner of income tax appeals in order dated 15 th february, 2011 observed i agree with the learned cit who while passing the order u s 263 has pointed out that the industrial undertaking, here initially ssi unit, has to fulfil all conditions in each of the block years of its entitlement or otherwise such claim has to be denied.
+he rightly points out that section 80 ib 3 only forms the basis of entitlement and its scope.
+the first condition is that it must be a ssi unit in the year of claim and entitlement section 80 ib 14 g defines what is a ssi and an exact date has been prescribed therein so that ao can examine whether on that date it is an ssi or not.
+the date is the last day of the relevant previous year in this case 31.03.2005 and such date is exclusively for the purpose of this section only.
+admittedly the investment in plant and machinery on 31.03.2005 was i.e., rs.4,05,21,730/- which was more than the prescribed limit of that year i.e., 1 crore.
+hence it no longer remains a ssi and hence the disallowance has to be held justified.
+xxx xxx xxx 17.
+summary section 80 ib is an incentive provision.
+it stipulates deduction in respect of profits and gains from certain industrial undertakings.
+within this section a plethora of industries and business types have been given the benefit of such deduction if they fulfill the conditions mentioned in the concerned sub section of section 80ib of the act.
+some of such concerns industries are ship, hotel multiplex, theatres, housing projects etc.
+sub-section 2 of section 80ib provides such conditions for industrial undertakings including cold storage and cold chain facility and also small scale industrial undertakings in short henceforth ssiu .
+all the four conditions mentioned in section 80ib 2 must be fulfilled to make the industrial undertaking eligible for the benefit of the claim u s 80ib of the i.t. act.
+condition number1 is that the industrial undertaking must not have been formed by splitting up or reconstruction of a business already in existence with an exception that in case of units specified u s 33b of the i.t. act this condition will not apply.
+the second condition is that such undertaking must not have been formed by transfer of machinery or plant previously used with the exception that the value of such machinery and plant previously used must not exceed 20 of the value of the total cost of the plant and machinery of such industrial undertaking.
+the third condition is that the industrial undertaking must produce or manufacture any article or thing other than any article or thing specified in the eleventh schedule.
+exception to this third condition is that an ssiu can avail the 80ib benefit even if manufactures or produces articles or things specified in eleventh schedule.
+the fourth condition is that the industrial undertaking running with the aid of power must not have less than 10 employees and if it is run without power, the number of employees must be more than 20 employees.
+thus all the four conditions narrated above must be fulfilled if the industrial undertaking desires to avail benefit u s 80ib of the i.t. act.
+for a ssiu there is also an extra condition i.e., it must be an ssi unit as per explanation g given in 80ib 14 of i.t. act which refers to section 11b of the idr act 1951 which in turn prescribes a limit for investment in plant and machinery to designate the industrial undertaking as ssi unit.
+thus out of these five conditions, the first two conditions may be called static or unchangeable.
+in other words if in the initial year of manufacture or production it is substantiated that it has fulfilled these two conditions the a.o. cannot on this ground in subsequent eligible years of the block period deny the benefit u s 80ib.
+the rest three conditions are volatile and unstable.
+the industrial undertaking must show in each subsequent year of claim that these three conditions have not been violated.
+such claims of the assessee has to face the analysis and scrutiny of the a.o. thus, since each a.y. is separate and independent, the revenue authorities had every power to examine and analyse the facts and figures as well as relevant law points of each year to find out whether all these three conditions are fulfilled or not.
+it is also the ratio of the cited case of natraj stationery 312 itr 22 delhi vide page 14 supra.
+it has been stated in that case that the first two conditions have already been satisfied and it is assumed that the fourth condition has been fulfilled in that year and hence the relief.
+the same is also the ratio in the case of m s. janak dehydration p limited vs. asst.
+cit 2010 134 ttj ahd.
+d-trib-1.
+the facts of that case was that the assessee was allowed deduction u s 80ib from 1993-94 to 2002-03 but in the a.y. 2003-04 the claim was disallowed on the ground that in the initial year the industrial unit has been formed by reconstruction or splitting up of the existing unit.
+the itat held that it is not open to the a.o. to doubt the earlier acceptance of the department in respect of reconstruction and splitting up to deny the claim in subsequent year because that violates the principles of consistency.
+but it also laid down that under the i.t. act each year is a separate unit of assessment and taxable income as well as tax liability are to be determined keeping in view of the facts prevailing in that year and the law as applicable in that year.
+in the light of the above legal matrix as elaborated in para 15 above it can be palpably seen that the appellant has violated, the mandatory fifth condition.
+it is not doubted that in the initial a.y. the appellant was an ssi unit, but in the a.y. 2005-06 the investment in plant and machinery has admittedly exceeded the prescribed limit of rs.1 crore.
+therefore, it cannot be held as an ssiu.
+thus the fifth condition being violated openly and admittedly by the appellant, the relief sought for has to be denied in the a.y. 2005-06.
+18. in view of the above, addition disallowance is upheld.
+appeal is dismissed.
+8. the itat in its order dated 24th may, 2013 observed 5.3.6.
+taking into account all the facts and circumstances of the issue as discussed in the foregoing paragraphs and also, as rightly highlighted by the ao, the value of plant and machinery had exceeded rs.1 crore during the year under consideration which incidentally deprive the assessee to call itself as a small scale industry, we are of the considered view that the authorities below were justified in denying the assessees claim for deduction u s 80-ib 3 of the act.
+it is ordered accordingly.
+9. considering the question framed by it, the high court held 5. in the entire provision, there is no indication that these conditions had to be fulfilled by the assessee all the 10 years.
+when once the benefit of 10 years, commencing from the initial year, is granted, if the undertaking satisfy all these conditions initially, the undertaking is entitled to the benefit of 10 consecutive years.
+the argument that, in the course of 10 years, if the growth of the industry is fast and it acquires machinery and the total value of the machinery exceeds rs.1 crore, it ceases to have the said benefit, do not follow from any of the provisions.
+it is true that there is no express provision indicating either way, what would be the position if the small scale industry ceases to be a small scale industry during the said period of 10 years.
+because of that ambiguity, a need for interpretation arises.
+if we keep in mind the object of the legislature providing for these incentives and when a period of 10 years is prescribed, that is the period, probably, which is required for any industry to stabilize itself.
+during that period the industry not only manufactures products, it generates employment and it adds to the wealth of the country.
+merely because an industry stabilizes early, makes profits, makes future investment in the said business, and it goes out of the definition of the small scale industry, the benefit under sec.
+80ib cannot be denied.
+if such a literal interpretation is placed on the said provision, it would run counter to the very object of granting incentives.
+it would kill the industry.
+therefore, keeping in mind the object with which these provisions are enacted, keeping in mind the industrial growth which is required to be achieved, if two interpretations are possible, the courts have to lean in favour of extending the benefit of deduction to an assessee who has availed the opportunity given to him under law and has grown in his business.
+therefore we are of the view, if a small scale industry, in the course of 10 years, stabilizes early, makes further investments in the business and it results in its going outside the purview of the definition of a small scale industry, that should not come in the way of its claiming benefit under sec.80ib for 10 consecutive years, from the initial assessment year.
+therefore, the approach of the authorities runs counter to the scheme and the intent of the legislature.
+thereby they have denied the legitimate benefit, an incentive granted to the assessee.
+both the said orders cannot be sustained.
+therefore the substantial question of law is answered in favour of the assessee and against the revenue. emphasis in quotations is ours 10.
+section 80 ib is in chapter vi a of the act which provides for deductions to be allowed from total income which is to be computed under the relevant provisions.
+the scheme is to provide incentives for purposes mentioned in different provisions of the said chapter.
+section 80 ib provides for deductions of specified percentage from the profits and gains of the specified industrial undertakings other than infrastructure development undertakings which are separately dealt with under section 80 ia .
+the clause relevant for purposes of this appeal is clause 2 which makes the deductions permissible in respect of industrial undertakings fulfilling the conditions specified therein.
+the scheme applies to small scale industrial undertakings as defined in clause 14 g which in terms refers to section 11 b of the industries development and regulation act, 1951.
+the extent of deduction permissible is mentioned in clause 3 which is 25 30 in the case of a company of the profits and gains derived from such industrial undertakings for 10 consecutive assessment years beginning with the initial assessment.
+the initial assessment year is defined in clause 14 c as the year in which manufacturing production commences.
+11. as already noted, the question for consideration is whether deduction under clause 3 for 10 consecutive assessment years remains permissible irrespective of compliance of conditions subject to which the said deduction is permitted in the relevant assessment years.
+for purposes of deduction, the industrial undertakings covered by section 80 ib are of different categories.
+under the second proviso to clause 2, disqualification applicable to industrial undertaking, other than small scale industrial undertakings, i.e., not being in 8th schedule is not applicable.
+the small scale industrial undertakings eligible are only those which begin manufacture or produce, articles or things during the beginning of 1st day of april, 1995 and ending on 31 st day of march, 2002 clause 3 ii .
+for other categories of industrial undertakings, different periods are prescribed, e.g. under sub-clause i of clause 3 .
+12.
+the scheme of the statute does not in any manner indicate that the incentive provided has to continue for 10 consecutive years irrespective of continuation of eligibility conditions.
+applicability of incentive is directly related to the eligibility and not de hors the same.
+if an industrial undertaking does not remain small scale undertaking or if it does not earn profits, it cannot claim the incentive.
+no doubt, certain qualifications are required only in the initial assessment year, e.g. requirements of initial constitution of the undertaking.
+clause 2 limits eligibility only to those undertakings as are not formed by splitting up of existing business, transfer to a new business of machinery or plant previously used.
+certain other qualifications have to continue to exist for claiming the incentive such as employment of particular number of workers as per sub-clause 4 i of clause 2 in an assessment year.
+for industrial undertakings other than small scale industrial undertakings, not manufacturing or producing an article or things specified in 8th schedule is a requirement of continuing nature.
+13.
+on examination of the scheme of the provision, there is no manner of doubt that incentive meant for small scale industrial undertakings cannot be availed by industrial undertakings which do not continue as small scale industrial undertakings during the relevant period.
+needless to say, each assessment year is a different assessment year, except for block assessment 14.
+the observations in the impugned order are that the object of legislature is to encourage industrial expansion which implies that incentive should remain applicable even where on account of industrial expansion small scale industrial undertakings ceases to be small scale industrial undertakings.
+we are unable to appreciate the logic for these observations.
+incentive is given to a particular category of industry for a specified purpose.
+an incentive meant for small scale industrial undertaking cannot be availed by an assessee which is not such an undertaking.
+it does not, in any manner, mean that the object of permitting industrial expansion is defeated, if benefit is not allowed to other undertakings.
+on this logic, incentive must be given irrespective of any condition as the incentive certainly helps further expansion by reducing the tax burden.
+the concept of vertical equity is well known under which all the assessees need not be uniformally taxed.
+progressive taxation is a well known element of tax policy.
+higher slabs of tax or higher tax burden on an assessee having higher income or higher capacity cannot in any manner, be considered unreasonable.
+15.
+we may now refer to some of the decisions which have been cited at the bar.
+it is submitted on behalf of the assessee that a provision relating to incentive should be construed liberally to advance the objective of the provision.
+reliance has been placed on bajaj tempo limited versus cit1.
+therein the assessee claimed exemption meant for a new industrial undertaking which had not been formed by transfer of earlier business in terms of section 15c of the income tax act, 1922.
+after recording a finding of fact that the assessee was a genuine new industrial undertaking, it was observed that a provision of a taxing statute granting incentive for promoting growth and development should be construed liberally.
+1 1992 196 itr 188 sc 1992 3 scc 78 the judgment is distinguishable.
+construing liberally does not mean ignoring conditions for exemption.
+the main issue considered in the said judgment was that though the undertaking was a genuine new industrial undertaking which was the qualification for the exemption, a nominal part of the undertaking was out of the existing undertaking and building of an existing undertaking was taken on lease.
+the relevant observations are 9. initial exercise, therefore, should be to find out if the undertaking was new.
+once this test is satisfied then clause i should be applied reasonably and liberally in keeping with spirit of section 15-c 1 of the act.
+while doing so various situations may arise for instance the formation may be without anything to do with any earlier business.
+that is the undertaking may be formed without splitting up or reconstructing any existing business or without transfer of any building material or plant of any previous business.
+such an undertaking undoubtedly would be eligible to benefit without any difficulty.
+on the other extreme may be an undertaking new in its form but not in substance.
+it may be new in name only.
+such an undertaking would obviously not be entitled to the benefit.
+in between the two there may be various other situations.
+the difficulty arises in such cases.
+for instance a new company may be formed, as was in this case a fact which could not be disputed, even by the income tax officer.
+but tools and implements worth rs 3,500 were transferred to it of previous firm.
+technically speaking it was transfer of material used in previous business.
+one could say as was vehemently urged by the learned counsel for the department that where the language of statute was clear there was no scope for interpretation.
+if the submission of the learned counsel is accepted then once it is found that the material used in the undertaking was of a previous business there was an end of inquiry and the assessee was precluded from claiming any benefit.
+words of a statute are undoubtedly the best guide.
+but if their meaning gets clouded then courts are required to clear the haze.
+sub-section 2 advances the objective of sub-section 1 by including in it every undertaking except if it is covered by clause i for which it is necessary that it should not be formed by transfer of building or machinery.
+the restriction or denial of benefit arises not by transfer of building or material to the new company but that it should not be formed by such transfer.
+this is the key to the interpretation.
+the formation should not be by such transfer.
+the emphasis is on formation not on use.
+therefore it is not transfer of building or material but the one which can be held to have resulted in formation of the undertaking.
+in textile machinery corporation limited v. cit 1977 2scc 368 this court while interpreting section 15-c observed scc p.375, para 18 the true test, is not whether the new industrial undertaking connotes expansion of the existing business of the assessee but whether it is all the same a new and identifiable undertaking separate and distinct from the existing business.
+no particular decision in one case can lay down an inexorable test to determine whether a given case comes under section 15-c or not.
+in order that the new undertaking can be said to be not formed out of the already existing business, there must be a new emergence of a physically separate industrial unit which may exist on its own as a viable unit.
+an undertaking is formed out of the existing business if the physical identity with the old unit is preserved.
+even though this decision was concerned with the clause dealing with reconstruction of existing business but the expression not formed was construed to mean that the undertaking should not be a continuation of the old but emergence of a new unit.
+therefore even if the undertaking is established by transfer of building, plant or machinery but it is not formed as a result of such transfer the assessee could not be denied the benefit.
+16.
+the principle of law considered in bajaj tempo supra is certainly a valid principle of interpretation where there is ambiguity or absurdity or where conditions of eligibility are substantially complied.
+in the present case, the scheme of the statute is clear that the incentive is applicable to a small scale industrial undertaking.
+the intention of legislature is in no manner defeated by not allowing the said incentive if the assessee ceases to be the class of industrial undertaking for which the incentive is provided even if it was eligible in the initial year.
+each assessment year is a separate unit.
+17.
+in citizen cooperative society limited versus assistant commissioner of income tax, circle-9 1 , hyderabad 2 this court considered the incentive under section 80-p meant for a primary agricultural credit society or a primary cooperative agricultural and rural development bank.
+the assessee was held not to be entitled to the said incentive as business of the assessee was held to be finance business to which the incentive was not 2 391 itr 1 2017 9 scc 364 admissible even though the principle of liberal interpretation in terms of bajaj tempo supra was applied.
+18. in state of haryana versus bharti teletech limited3, eligibility of an assessee to get benefit of exemption from tax was an issue.
+it was observed that while the exemption notification should be liberally construed, the beneficiary must fall within the ambit of the exemption and fulfill the conditions thereof.
+in case such conditions are not fulfilled, the issue of application of the notification does not arise.
+the principle of interpretation in the judgment in bajaj tempo supra and other judgments was dealt with as follows 22.
+we will be failing in our duty if we do not address a submission, albeit the last straw, of mr. jain that any provision relating to grant of exemption, be it under a rule or notification, should be considered liberally.
+in this regard, we may profitably refer to the decision in hansraj gordhandas v. cce and customs air 1970 sc 755 wherein it has been held as follows air p. 759, para 5 5.
+it is well established that in a taxing statute there is no room for any intendment but regard must be had to the clear meaning of the words.
+the entire matter is governed wholly by the language of the notification.
+if the tax-payer is within the plain terms of the exemption it cannot be denied its benefit by calling in aid any supposed intention of the exempting authority.
+if such intention can 3 2014 3 scc 556 be gathered from the construction of the words of the notification or by necessary implication therefrom, the matter is different.
+23.
+in cst v. industrial coal enterprises 1999 2 scc 605, after referring to cit v. straw board mfg.
+company limited 1989 supp. 2 scc 529 and bajaj tempo limited v. cit, the court ruled that an exemption notification, as is well known, should be construed liberally once it is found that the entrepreneur fulfils all the eligibility criteria.
+in reading an exemption notification, no condition should be read into it when there is none.
+if an entrepreneur is entitled to the benefit thereof, the same should not be denied.
+24. in this context, reference to t.n. electricity board v. status spg. mills limited 2008 7 scc 353 would be fruitful.
+it has been held therein scc p. 367, para 32 32.
+it may be true that the exemption notification should receive a strict construction as has been held by this court in novopan india limited v. cce and customs 1994 supp 3 scc 606, but it is also true that once it is found that the industry is entitled to the benefit of exemption notification, it would received a broad construction. see tisco limited v. state of jharkhand 2005 4 scc 272 and a.p. steel re-rolling mill limited v. state of kerala 2007 2 scc 725. a notification granting exemption can be withdrawn in public interest.
+what would be the public interest would, however, depend upon the facts of each case.
+25.
+from the aforesaid authorities, it is clear as crystal that a statutory rule or an exemption notification which confers benefit on the assessee on certain conditions should be liberally construed but the beneficiary should fall within the ambit of the rule or notification and further if there are conditions and violation thereof are provided, then the concept of liberal construction would not arise.
+exemption being an exception has to be respected regard being had to its nature and purpose.
+there can be cases where liberal interpretation or understanding would be permissible, but in the present case, the rule position being clear, the same does not arise.
+19. same view was taken in commissioner of customs versus m. ambalal company4 as follows 16.
+it is settled law that the notification has to be read as a whole.
+if any of the conditions laid down in the notification is not fulfilled, the party is not entitled to the benefit of that notification.
+the rule regarding exemptions is that exemptions should generally be strictly interpreted but beneficial exemptions having their purpose as encouragement or promotion of certain activities should be liberally interpreted.
+this composite rule is not stated in any particular judgment in so many words.
+in fact, majority of judgments emphasise that exemptions are to be strictly interpreted while some of them insist that exemptions in fiscal statutes are to be liberally interpreted giving an apparent impression that they are contradictory to each other.
+but this is only apparent.
+a close scrutiny will reveal that there is no real contradiction amongst the judgments at all.
+the synthesis of the views is quite clearly that the general rule is strict interpretation while special rule in the case of beneficial and promotional exemption is liberal interpretation.
+the two go very well with each other because they relate to two different sets of circumstances.
+20. in state of jharkhand versus ambay cements5, the question was whether exemption for newly set up industrial units was applicable to the assessee therein.
+the high court having 4 2011 2 scc 74 5 2005 1 scc 368 allowed the benefit even though the assessee did not qualify for the same, this court reversed the view of the high court and held that the conditions for grant of exemption from tax are mandatory and in absence thereof exemption could not be granted.
+distinguishing the judgments of this court in bajaj tempo supra , it was observed 23.
+mr bharuka further submitted that in taxing statutes, provision of concessional rate of tax should be liberally construed and in respect of the above submission, he cited the judgment of this court in cst v. industrial coal enterprises 1992 3 scc 78 and in the case of bajaj tempo limited v. cit.
+we are unab

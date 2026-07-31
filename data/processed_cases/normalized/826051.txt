@@ -1,0 +1,75 @@
+--- PREAMBLE & CASE INFO ---
+
+commissioner of central excise, indore v. m s. grasim industries limited civil appeal number 3159 of 2004 july 30, 2009 d.k. jain and asok kumar ganguly, jj. 2009 12 scr.
+
+--- JUDGMENT BODY ---
+
+204 the following order of the court was delivered order 1.
+this batch of appeals, by the revenue, under section 35l b of the central excise act, 1944 for short the act is directed against the orders passed by the customs, excise service tax appellate tribunal for short the tribunal .
+by the impugned orders, the tribunal has held that despite insertion of amended section 4 of the act w.e.f. 1st july, 2000 introducing the concept of transaction value in section 4 1 a of the act, the ratio of the decision of this court in the case of collector of central excise, madras vs. m s indian oxygen limited, 1988 4 scc 139, still holds the field.
+therefore, the charges recovered by the assessees from their customers for providing them the containers and or canisters etc. for supply of gases or other items etc., manufactured by them are not to be added to the price of the goods etc., for the purpose of determination of the assessable value under section 4 of the act, as substituted by section 94 of finance act of 2000.
+2. the factual position in regard to the nature and design of the containers, canisters etc., in each of the appeals being different, for the purpose of this order, we refrain from narrating the facts obtaining in each of the cases.
+however, in order to appreciate the controversy involved, a brief reference to the common and admitted factual background may be necessary.
+3. the period of assessment involved in all the appeals is post 1st july, 2000.
+4. the respondents-assessees in these appeals are manufacturers of dissolved and compressed industrial gases etc. post mix concentrates pom and some other products.
+these gases are transported and supplied to the customers in tonners, cylinders, carboys, paper cones and hdpe bags, bibs, pipeline and canisters.
+tonners, cylinders and pipelines etc., are specially designed as per the given specifications.
+canisters are specially designed containers to be used in the vending machines.
+the cylinders etc., are either provided by the assessees or the customers bring their own cylinders etc., at the factory gates of the assessees.
+for providing cylinders, gas lines etc., the assessees collect certain amounts from their customers under different heads, viz., packing charges, wear and tear charges, facility charges, service charges, delivery and collection charges, rental charges, repair and testing charges.
+these amounts are not shown in the sale invoices for the purpose of computing the assessable value.
+however, the assessees treat the amounts so received as their income from ancillary or allied ventures.
+5. the question for consideration in all these appeals is whether such charges recovered by the assessees from the buyers for being provided with cylinders, tonners, canisters etc., are to be taken into consideration for determination of value of excisable goods in terms of section 4 of the act as substituted for purposes of charging of duty of excise on the excisable goods.
+6. section 3 of the act inter alia provides that there shall be levied and collected in such manner as may be prescribed, a duty of excise to be called the central value added tax cenvat on all excisable goods which are produced or manufactured in india as, and at the rates, set forth in the first schedule to the central excise tariff act, 1985.
+section 4 of the act provides for valuation of excisable goods for the purposes of charging of duty of excise.
+7. section 4 of the act was substituted by a new section w.e.f. 01.07.2000 by section 94 of the finance act, 2000.
+prior to substitution, section 4 1 a inter alia read as under 4. valuation of excisable goods for purposes of charging of duty of excise.-- 1 where under this act, the duty of excise is chargeable on any excisable goods with reference to value, such value, shall, subject to the other provisions of this section, be deemed to be-- a the normal price thereof, that is to say, the price at which such goods are ordinarily sold by the assessee to a buyer in the course of wholesale trade for delivery at the time and place of removal, where the buyer is not a related person and the price is the sole consideration for the sale.
+section 4 1 a , as it stands after the substitution with effect from 01.07.2000 provides as under 4. valuation of excisable goods for purposes of charging of duty of excise.-- 1 where under this act, the duty of excise is chargeable on any excisable goods with reference to their value, then, on each removal of the goods, such value shall-- a in a case where the goods are sold by the assessee, for delivery at the time and place of the removal, the assessee and the buyer of goods are not related and the price is the sole consideration for the sale, be the transaction value 8.
+the expression transaction value, for the purposes of section 4, has been defined in clause d of sub-section 3 thereof and the said definition reads as under d transaction value means the prices actually paid or payable for the goods, when sold, and includes in addition to the amount charged as price, any amount that the buyer is liable to pay to, or on behalf of, the assessee, by reason of, or in connection with the sale, whether payable at the time of the sale or at any other time, including, but not limited to, any amount charged for, or to make provision for, advertising or publicity, marketing and selling organization expenses, storage, outward handling, servicing, warranty, commission or any other matter but does not include the amount of duty of excise, sales tax and other taxes, if any, actually paid or actually payable on such goods.
+9. the scope and purport of section 4 prior to the substitution was considered by a three judges bench of this court in union of india ors.
+vs. bombay tyre international limited ors., 1984 1 scc 467.
+in the said judgment, while considering the relationship between section 3 and section 4, it was inter alia held as under section 3 of the central excises and salt act provides for the levy of the duty of excise.
+it creates the charge, and defines the nature of the charge.
+that it is a levy on excisable goods, produced or manufactured in india, is mentioned in terms in the section itself.
+section 4 of the act provides the measure by reference to which the charge is to be levied.
+the duty of excise is chargeable with reference to the value of the excisable goods, and the value is defined in express terms by that section.
+it has long been recognized that the measure employed for assessing a tax must not be confused with the nature of the tax.
+it is apparent, therefore, that when enacting a measure to serve as a standard for assessing the levy the legislature need not contour it along lines which spell out the character of the levy itself.
+viewed from this standpoint, it is not possible to accept the contention that because the levy of excise is a levy on goods manufactured or produced the value of an excisable article must be limited to the manufacturing cost plus the manufacturing profit.
+we are of opinion that a broader based standard of reference may be adopted for the purpose of determining the measure of the levy.
+any standard which maintains a nexus with the essential character of the levy can be regarded as a valid basis for assessing the measure of the levy.
+in our opinion, the original section 4 and the new section 4 of the central excises and salt act satisfy this test.
+as we have said, it was open to the legislature to specify the measure for assessing the levy.
+the legislature has done so.
+in both the old section 4 and the new section 4, the price charged by the manufacturer on a sale by him represents the measure.
+price and sale are related concepts, and price has a definite connotation.
+the value of the excisable article has to be computed with reference to the price charged by the manufacturer, the computation being made in accordance with the terms of section 4.
+a contention was raised for some of the assessees, that the measure was to be found by reading section 3 with section 4, thus drawing the ingredients of section 3 into the exercise.
+we are unable to agree.
+we are concerned with section 3 1 , and we find nothing there which clothes the provision with a dual character, a charging provision as well as a provision defining the measure of the charge. emphasis supplied by us 10.
+the principles enunciated in the case of bombay tyre supra were reaffirmed in government of india ors.
+vs. madras rubber factory limited ors., 1995 4 scc 349.
+11.
+the new section 4 substituted with effect from 01.07.2000 came up for consideration before a three-judge bench of this court in commissioner of central excise vs. acer limited, 2004 8 scc 173.
+while considering the relationship between sections 3 and 4 of the act and particularly the effect of definition of transaction value in section 4 3 d , it has been held as under it may be true that the definition of transaction value which is incorporated in clause d of sub-section 3 of section 4 for the purpose of said section states that the price actually paid or payable for the goods, when sold, would include in addition to the amount charged as price, any amount that the buyer is liable to pay to, or on behalf of, the assessee, by reason of, or in connection with the sale.
+only because the expressions by reason of, or in connection with the sale have been used in the definition of transaction value, the same by itself would not take away the rigours of sub-section 1 of section 4 as also the requirement of charging section as contained in section 3.
+it must be borne in mind that central excise duty cannot be equated with sales tax.
+they have different connotations and apply in different situations.
+central excise duty is chargeable on the excisable goods and not on the goods which are not excisable.
+thus, a goods which is not excisable if transplanted into a goods which is excisable would not together make the same excisable goods so as to make the assessee liable to pay excise duty on the combined value of both.
+excise duty, in other words, would be leviable only on the goods which answer the definition of excisable goods and satisfy the requirement of section 3. a machinery provision contained in section 4 and that too the explanation contained therein by way of definition of transaction value can neither override the charging provision nor by reason thereof a goods which is not excisable would become an excisable one only because one is fitted into the other, unless the context otherwise requires.
+in other words, computers and softwares are different and distinct goods under the said act having been classified differently and in that view of the matter, no central excise duty would be leviable upon determination of the value thereof by taking the total value of the computer and software.
+so far as the valuation of goods in terms of transaction value thereof, as defined in section 4 3 d of the act is concerned, suffice it to say that the said provision would be subject to the charging provisions contained in section 3 of the act as also sub- section 1 of section 4.
+the expressions by reason of sale or in connection with the sale contained in the definition of transaction value refer to such goods which is excisable to excise duty and not the one which is not so excisable.
+section 3 of the act being the charging section, the definition of transaction value must be read in the text and context thereof and not de hors the same. emphasis by us 12.
+thus, in acer supra , it has been held that section 4 is a machinery provision and that the said machinery provision as well as the definition of transaction value contained therein would be subject to the charging provision of section 3. 13.
+with utmost respect to the learned judges constituting the bench in acer supra , we feel that the interpretation of sections 3 and 4 of the act after the substitution of section 4 is not in conformity with the scheme of the act prima facie, for the reasons that i section 3 is a charging section providing for levy of excise duty on excisable goods, whereas section 4 provides for the measure for valuation of excisable goods with reference to which the charge of excise duty is to be levied, ii both operate in their independent fields even though there may be a link between the two and iii in the case of bombay tyre supra , a three-judge bench , the contention of the assessees that the measure was to be found by reading section 3 with section 4, thus drawing the ingredients of section 3 into the exercise was specifically rejected.
+besides, we also have reservation with the observation in acers case supra that the definition of transaction value must be read in the text and context of section 3 of the act.
+in our prima facie view, this would amount to diluting the width of transaction value as defined in the substituted provision.
+14.
+since the issues arising in these appeals are of seminal importance and are likely to have serious ramifications on the question of determination of assessable value of the excisable goods for the purpose of levy of duty of excise, we are of the view that the following issues require consideration by a larger bench 1.
+whether section 4 of the central excise act, 1944 as substituted with effect from 01.07.2000 and the definition of transaction value in clause d of sub- section 3 of section 4 are subject to section 3 of the act?
+2. whether sections 3 and 4 of the central excise act, despite being interlinked, operate in different fields and what is their real scope and ambit?
+3. whether the concept of transaction value makes any material departure from the deemed normal price concept of the erstwhile section 4 1 a of the act?
+15.
+accordingly, we direct the registry to place this order before honble the chief justice of india for appropriate directions.

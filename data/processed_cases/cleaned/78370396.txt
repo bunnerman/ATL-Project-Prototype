@@ -1,0 +1,82 @@
+--- PREAMBLE & CASE INFO ---
+
+order thomas, j. 1. leave granted.
+2. in a land acquisition case a division bench of the high court of andhra pradesh enhanced land value to rupees seventy five thousand and odd per acre over and above the market value fixed by the reference court.
+for making the aforesaid enhancement the division bench of the high court took into consideration two sale-deeds the copy of which were marked without examining anybody connected with the transaction recorded in the instruments.
+appellant is actually the state of andhra pradesh though in the cause-title it is shown as the land acquisition officer concerned of the state.
+appellant contended that the high court should not have taken into account the sale price shown in the above mentioned two sale-deeds as the claimant did not examine the vendee or the vendor or anybody else connected with the sale.
+there are two decisions of this court which propounded a legal position consistent with the above stand of the appellant state.
+they are inder singh vs. uoi and p.ram reddy vs. land acquisition officer, hyderabad .
+3. as the said decisions were rendered by two judges bench a plea was made before us by sri vidya sagar, learned counsel arguing for the respondent that the aforesaid legal position may be reconsidered.
+learned counsel submitted that section 51a has been incorporated in the land acquisition act 1894  for short the the la act  specifically for obviating the insistence for examination of anyone connected with the transactions mentioned in such sale-deeds if the court has to consider such transactions as evidence in the case.
+4. the facts are very simple.
+a land having an extent of 7.35 acres at bheemagal town has been acquired under the l.a. act for a public purpose.
+notification under section 4 1  of the said act was issued on 11.5.1984.
+the land acquisition officer estimated the price of the said land as rs.17,200/- per acre.
+the district court, on reference being made under section 18 of the la act, enhanced the land value to rs.65,762/- per acre.
+before the reference court, the landowner relied on ex.a1 to a4, which are certified copies of registered sale-deeds relate to similar lands and therefore the value of the land mentioned in such documents can be used as guidance for fixing up the market value of the acquired land.
+5.
+ex.
+a1 is the copy of sale-deed dated 28.8.1983, in respect of 0.02 guntas of land.
+pw2 the vendor shown in the said sale deed was examined before the reference court.
+ex. a3 is the copy of the sale-deed dated 2.1.1984 in respect of three guntas of land, for which pw3, the vendee, was examined by the claimant.
+6. ex.a2 and ex.a4 are the copies of sale-deed dated 15.11.1983 and 24.3.1984 respectively, which are said to be the instruments relating to small plots of land situated in the vicinity of the acquired land.
+the reference court did not take into account those two sale-deeds on the ground that nobody connected with the transaction involved in those deeds had been examined as a witness.
+but the division bench of the high court expressed that the reference court should have taken into consideration those two sale deeds also for fixing the land value of the acquired land.
+the high court took them into consideration and finally reached the conclusion that the value of the acquired land could have been rs.75,000/- per acre as on the date of the notification issued under section 4 1  of the l.a.act.
+7. smt.
+k. amreshwari, learned senior counsel for the appellant state contended that the high court ought not have taken into consideration any of those documents as nobody connected with the transaction mentioned therein had been examined.
+on the other hand sri vidya sagar, learned counsel for the respondent submitted that section 51a of the act is intended to enable the court to consider the transaction evidenced by the sale deeds.
+that section reads thus 51a acceptance of certified copy as evidence - in any proceeding under this act, a certified copy of a document registered under the registration act, 1908  16 of 1908 , including a copy given under section 57 of that act, may be accepted as evidence of the transaction recorded in such document.
+8. smt.
+amreshwari cited the two decisions  supra  in which this court held that mere marking of the copy of the sale-deed would not help the court to consider the transaction therein as evidence.
+in inder singh vs. uoi 1993  3  scc 340 the two judge bench  k. ramaswamy and rm sahai, jj  pointed out that no witness was examined in respect of four documents in that case in proof of the sale transaction referred to therein.
+after referring to section 51a of the l.a. act learned judges pointed out that the proposition of law settled is that examination of witnesses is necessary to find out whether the sale transactions are bona fide or genuine as between the vendee and the vendor.
+learned judges then observed thus in view of the above-settled legal position and the circumstances, the documentary evid
+
+--- JUDGMENT BODY ---
+
+ence of sale transactions or in the mutation entries on either side are clearly not admissible and therefore, they cannot be looked into, and are accordingly excluded from consideration.
+9. in p.ram reddy vs. land acquisition officer, hyderabad a bench of two judges  k. ramaswamy and n. venkatachala, jj  again considered the position under section 51a of the l.a. act.
+speaking for the bench venkatachala j. had stated thus however, the mere fact that a certified copy of the document is accepted as evidence of the transaction recorded in such documents does not dispense with the need for a party relying upon the certified copies of such documents produced in court in examining witnesses connected with documents to establish their genuineness and the truth of their contents.
+therefore, the certified copies of the registered documents, though accepted as evidence of transactions recorded in such documents, the court is not bound to act upon the contents of those documents unless persons connected with such documents give evidence in court as regards them and such evidence is accepted by the court as true.
+10.
+before the introduction of section 51a in the l.a. act the courts have, invariably, taken the view that unless at least one person, having direct knowledge about the transaction mentioned in the sale-deed, is examined the mere marking of the copy of the document was insufficient for the court to consider the details mentioned in the document as evidence.
+this court has also approved the said position as legally correct vide the collector raigarh vs. dr. harisingh thakur - .
+11.
+if the only purpose served by section 51a is to enable the court to admit the copy of the document in evidence there was no need for a legislative exercise because even otherwise the certified copy of the document could have been admitted in evidence.
+section 64 of the evidence act says that documents must be proved by primary evidence except in the cases hereinafter mentioned.
+section 65 mentions the cases in which secondary evidence can be given of the existence, condition or contents of a document.
+one of the cases included in the list is detailed in clause  f  of the section which reads thus when the original is a document of which a certified copy is permitted by this act, or by any other law in force in india, to be given in evidence.
+12. section 57 of the registration act 1908 enables anyone to apply for copy of the entries in book number1  the said book is meant for keeping the register of the documents as well as non-testamentary documents relating to immovable property .
+when any person applies for a copy of it the same shall be given to him.
+sub-section  5  of section 57 of that act says that all copies given under this section shall be signed and sealed by the registering officer and shall be admissible for the purpose of proving the contents of the original document.
+13.
+if the position regarding admissibility of the contents of a document which is a certified copy falling within the purview of section 57 5  of the registration act was as adumbrated above, even before the introduction of section 51a in the l.a.act, could there be any legislative object in incorporating the said new provision through act 68 of 1984?
+it must be remembered that the state has the burden to prove the market value of the lands acquired by it for which the state may have to depend upon the prices of lands similarly situated which were transacted or sold in the recent past, particularly those lands situated in the neighbouring areas.
+the practice had shown that for the state officials it was a burden to trace out the persons connected with such transactions mentioned in the sale-deeds and then to examine them in court for the purpose of proving such transactions.
+it was in the wake of the aforesaid practical difficulties that the new section 51a was introduced in the l.a. act.
+when the section says that certified copy of a registered document may be accepted as evidence of the transaction recorded in such document it enables the court to treat what is recorded in the document, in respect of the transactions referred to therein, as evidence.
+14.
+the words may be accepted as evidence in the section indicate that there is no compulsion on the court to accept such transaction as evidence, but it is open to the court to treat them as evidence.
+merely accepting them as evidence does not mean that the court is bound to treat them as reliable evidence.
+what is sought to be achieved is that the transactions recorded in the documents may be treated as evidence, just like any other evidence, and it is for the court to weigh all the pros and cons to decide whether such transaction can be relied on for understanding the real price of the land concerned.
+15.
+there are similar enabling provisions in other statutes by which the courts are allowed to treat the facts stated in certain documents as evidence.
+in the code of criminal procedure section 293 is incorporated to enable the court to use the report of a government scientific expert as evidence in any inquiry, trial or proceeding under the said code, even without examining any person as a witness in court for that purpose.
+similarly, section 13 of the prevention of food adulteration act  pertaining to the report of a public analyst  contains sub-section  5  which says that any document purporting to be a report signed by a public analyst may be used as evidence of the facts stated therein in any proceeding under this act.
+dealing with the scope of that provision a constitution bench of this court has held in mangaldas vs. state of maharashtra that the sub-section clearly makes the contents of the report of public analyst admissible in evidence and the prosecution cannot fail solely on the ground that the public analyst had not been examined in the case, but what value is to be attached to such report must necessarily be for the court to consider and decide.
+16.
+in the case of section 51a of the la act also the position cannot be different, as it is open to the court to act on the documents regarding the transaction recorded in such documents.
+however, this will not prevent any party who supports or opposes the said document or the transaction recorded therein to adduce other evidence to substantiate their stand regarding such transactions.
+but it is not possible to hold that even after the introduction of section 51a the position would remain the same as before.
+17.
+in the light of the above discussion we are unable to concur with the observations made by the two judge bench in the decisions in inder singh vs. uoi 1993  3  scc 340 and p. ram reddy vs. land acquisition officer, hyderabad  supra  that even in spite of section 51a of the act certified copies of the sale-deed could not be considered without examining persons connected with the transactions mentioned therein.
+18.
+the high court cannot therefore be faulted for relying on the transactions recorded in ex.a2 and a4 though no one was examined for proving such transactions.
+no evidence had been adduced by the state for creating any doubt regarding the bona fides or genuineness of the transactions mentioned therein.
+it is true that the area of lands involved in those sale-deeds were relatively very small.
+nonetheless, learned judges persuaded themselves to consider the sale price indicated therein along with the prices shown in other transactions mentioned in ex.a1 and a3 also, for reaching the conclusion that the market value of the acquired land should have been rs.75,000/- per acre.
+the increase made by the high court is not so substantial as to warrant interference from this court.
+19.
+for the aforesaid reasons we dismiss this appeal.

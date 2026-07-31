@@ -1,0 +1,174 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india criminal appellate jurisdiction criminal appeal number 645 of 2012 sangeetaben mahendrabhai patel appellant versus state of gujarat anr.
+respondents j u d g m e n t dr. b.s. chauhan, j. 1.
+
+--- JUDGMENT BODY ---
+
+this appeal has been preferred against the impugned judgment and order dated 18.8.2011 passed by the high court of gujarat at ahmedabad in criminal misc.
+application number 7807 of 2006, by which the high court has dismissed the application filed by the present appellant under section 482 of criminal procedure code, 1973  hereinafter referred as cr.p.c.   for quashing the i.cr number 18 of 2004 and criminal case number 5 of 2004 pending before the chief judicial magistrate, patan, on the plea of double jeopardy for the reason that the appellant has already been tried and dealt with under the provisions of section 138 of negotiable instruments act, 1881  hereinafter referred as n.i. act  for the same offence.
+2. facts and circumstances giving rise to this appeal are that a. respondent number 2 filed a complaint dated 22.10.2003 i.e. criminal case number 1334 of 2003 under section 138 of n.i. act on the ground that the appellant had taken hypothecation loan of rs. 20 lakhs and had not repaid the same.
+in order to meet the said liability, the appellant issued cheque bearing number 59447 and on being presented, the cheque has been dishonoured.
+b. subsequent thereto on 6.2.2004, the respondent number 2 filed an fir being i.c.r.
+number 18 of 2004 under sections 406/420 read with section 114 of indian penal code, 1860  hereinafter referred as ipc  with the sidhpur police station for committing the offence of criminal breach of trust, cheating and abetment etc.
+c. in the criminal case number1334 of 2003 filed under section 138 of n.i. act, the trial court convicted the appellant.
+aggrieved, appellant preferred appeal number 12 of 2006, before the district judge wherein, he has been acquitted.
+against the order of acquittal, respondent number 2 has preferred criminal appeal number 1997 of 2008 before the high court of gujarat which is still pending consideration.
+d. appellant filed an application under section 482 cr.p.c., seeking quashing of icr number 18 of 2004 and criminal case number 5 of 2004, pending before the chief judicial magistrate, patan, on the grounds, inter-alia, that it amounts to abuse of process of law.
+the appellant stood acquitted in criminal case under section 138 of n.i. act.
+thus, he cannot be tried again for the same offence.
+in the facts of the case, doctrine of double jeopardy is attracted.
+the high court dismissed the said application.
+hence, this appeal.
+3. shri abhishek singh, learned counsel appearing for the appellant, has submitted that the icr as well as the criminal case pending before the chief judicial magistrate, patan, is barred by the provisions of section 300 cr.p.c.
+and section 26 of the general clauses act, 1897  hereinafter called general clauses act  as the appellant has already been dealt with tried under section 138 of n.i. act for the same offence.
+thus, the high court committed an error in not quashing the said icr and the criminal case.
+it amounts to double jeopardy and, therefore, the appeal deserves to be allowed.
+4. on the contrary, shri rakesh upadhyay, learned counsel appearing for the respondent number 2 and mr. s. panda, learned counsel appearing for the state of gujarat, have vehemently opposed the appeal contending that the provisions of section 300 cr.p.c.
+i.e. doctrine of double jeopardy are not attracted in the facts and circumstances of the case, for the reason, that the ingredients of the offences under sections 406/420 read with section 114 ipc are entirely distinct from the case under section 138 of n.i. act, and therefore, do not constitute the same offence.
+the appeal is devoid of any merit and liable to be dismissed.
+5. we have considered the rival submissions made by learned counsel for the parties and perused the record.
+the sole issue raised in this appeal is regarding the scope and application of doctrine of double jeopardy.
+the rule against double jeopardy provides foundation for the pleas of autrefois acquit and autrefois convict.
+the manifestation of this rule is to be found contained in section 300 cr.p.c section 26 of the general clauses act and section 71 i.p.c.
+section 300 1  cr.p.c.
+reads a person who has once been tried by a court of competent jurisdiction for an offence and convicted or acquitted of such offence shall, while such conviction or acquittal remains in force, not be liable to be tried again for the same offence, nor on the same facts for any other offence for which a different charge from the one made against him might have been made under sub-section  1  of section 221, or for which he might have been convicted under sub-section  2  thereof.
+section 26 of the general clauses act, 1897 reads provision as to offences punishable under two or more enactments.
+where an act or omission constitutes an offence under two or more enactments, then the offender shall be liable to be prosecuted and punished under either or any of those enactments, but shall not be liable to be punished twice for the same offence.
+section 71 of i.p.c. reads 1 limit of punishment of offence made up of several offences.
+- where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided.   ?6. in maqbool hussain v. state of bombay, air 1953 sc 325, the constitution bench of this court dealt with the issue wherein the central issue arose in the context of the fact that a person who had arrived at an indian airport from abroad on being searched was found in possession of gold in contravention of the relevant notification, prohibiting the import of gold.
+action was taken against him by the customs authorities and the gold seized from his possession was confiscated.
+later on, a prosecution was launched against him in the criminal court at bombay charging him with having committed the offence under section 8 of the foreign exchange regulation act, 1947  hereinafter called fera  read with the relevant notification.
+in the background of these facts, the plea of autrefois acquit was raised seeking protection under article 20 2  of the constitution of india, 1950  hereinafter called the constitution .
+this court held that the fundamental right which is guaranteed under article 20  2  enunciates the principle of autrefois convict or double jeopardy i.e. a person must not be put in peril twice for the same offence.
+the doctrine is based on the ancient maxim nemo debet bis punire pro uno delicto, that is to say that no one ought to be twice punished for one offence.
+the plea of autrefois convict or autrefois acquit avers that the person has been previously convicted or acquitted on a charge for the same offence as that in respect of which he is arraigned.
+the test is whether the former offence and the offence now charged have the same ingredients in the sense that the facts constituting the one are sufficient to justify a conviction of the other and not that the facts relied on by the prosecution are the same in the two trials.
+a plea of autrefois acquit is not proved unless it is shown that the verdict of acquittal of the previous charge necessarily involves an acquittal of the latter.
+7. the constitution bench of this court in s.a.venkataraman v. union of india anr., air 1954 sc 375, explained the scope of doctrine of double jeopardy, observing that in order to attract the provisions of article 20  2  of the constitution, there must have been both prosecution and punishment in respect of the same offence.
+the words prosecuted and punished are to be taken not distributively so as to mean prosecuted or punished.
+both the factors must co-exist in order that the operation of the clause may be attractive.
+8. in om prakash gupta v. state of u.p., air 1957 sc 458 and state of madhya pradesh v. veereshwar rao agnihotri, air 1957 sc 592, this court has held that prosecution and conviction or acquittal under section 409 ipc do not debar trial of the accused on a charge under section 5 2  of the prevention of corruption act, 1947 because the two offences are not identical in sense, import and content.
+9. in leo roy frey v. superintendent, district jail, amritsar anr., air 1958 sc 119, proceedings were taken against certain persons in the first instance before the customs authorities under section 167 8  of the sea customs act and heavy personal penalties were imposed on them.
+thereafter, they were charged for an offence under section 120- b ipc.
+this court held that an offence under section 120-b is not the same offence as that under the sea customs act the offence of a conspiracy to commit a crime is a different offence from the crime that is the object of the conspiracy because the conspiracy precedes the commission of the crime and is complete before the crime is attempted or completed, equally the crime attempted or completed does not require the element of conspiracy as one of its ingredients.
+they are, therefore, quite separate offences.   emphasis added  10.
+in the state of bombay v. s.l. apte and anr.
+air 1961 sc 578, the constitution bench of this court while dealing with the issue of double jeopardy under article 20 2 , held to operate as a bar the second prosecution and the consequential punishment thereunder, must be for the same offence.
+the crucial requirement therefore for attracting the article is that the offences are the same i.e. they should be identical.
+if, however, the two offences are distinct, then notwithstanding that the allegations of facts in the two complaints might be substantially similar, the benefit of the ban cannot be invoked.
+it is, therefore, necessary to analyse and compare not the allegations in the two complaints but the ingredients of the two offences and see whether their identity is made out.
+xx xx xx xx xx xx xx the next point to be considered is as regards the scope of section 26 of the general clauses act.
+though section 26 in its opening words refers to the act or omission constituting an offence under two or more enactments, the emphasis is not on the facts alleged in the two complaints but rather on the ingredients which constitute the two offences with which a person is charged.
+this is made clear by the concluding portion of the section which refers to shall not be liable to be punished twice for the same offence.
+if the offences are not the same but are distinct, the ban imposed by this provision also cannot be invoked.   emphasis added  11.
+in roshan lal ors.
+v. state of punjab, air 1965 sc 1413, the accused had caused disappearance of the evidence of two offences under sections 330 and 348 ipc and, therefore, he was alleged to have committed two separate offences under section 201 ipc.
+it was held that neither section 71 ipc nor section 26 of the general clauses act came to the rescue of the accused and the accused was liable to be convicted for two sets of offences under section 201 ipc, though it would be appropriate not to pass two separate sentences.
+a similar view has been reiterated by this court in kharkan ors.
+v. state of u.p., air 1965 sc 83. 12.
+in bhagwan swarup lal bishan lal v. the state of maharashtra, air 1965 sc 682, while dealing with the issue, held the previous case in which this accused was convicted was in regard to a conspiracy to commit criminal breach of trust in respect of the funds of the jupiter and that case was finally disposed of by this court in sardul singh caveeshar v. state of bombay, air 1957 sc 747.
+therein it was found that caveeshar was a party to the conspiracy and also a party to the fraudulent transactions entered into by the jupiter in his favour.
+the present case relates to a different conspiracy altogether.
+the conspiracy in question was to lift the funds of the empire, though its object was to cover up the fraud committed in respect of the jupiter.
+therefore, it may be that the defalcations made in jupiter may afford a motive for the new conspiracy, but the two offences are distinct ones.
+some accused may be common to both of them, some of the facts proved to establish the jupiter conspiracy may also have to be proved to support the motive for the second conspiracy.
+the question is whether that in itself would be sufficient to make the two conspiracies the one and the same offence.
+the two conspiracies are distinct offences.
+it cannot even be said that some of the ingredients of both the conspiracies are the same.
+the facts constituting the jupiter conspiracy are not the ingredients of the offence of the empire conspiracy, but only afford a motive for the latter offence.
+motive is not an ingredient of an offence.
+the proof of motive helps a court in coming to a correct conclusion when there is no direct evidence.
+where there is direct evidence for implicating an accused in an offence, the absence of proof of motive is not material.
+the ingredients of both the offences are totally different and they do not form the same offence within the meaning of article 20 2  of the constitution and, therefore, that article has no relevance to the present case.   emphasis added  13.
+in the state of a.p. v. kokkiligada meeraiah anr., air 1970 sc 771, this court while having regard to section 403 cr.p.c., 1898, held the following important rules emerge from the terms of section 403 of the code of criminal procedure  1  an order of conviction or acquittal in respect of any offence constituted by any act against or in favour of a person does not prohibit a trial for any other offence constituted by the same act which he may have committed, if the court trying the first offence was incompetent to try that other offence.   2  if in the course of a transaction several offences are committed for which separate charges could have been made, but if a person is tried in respect of some of those charges, and not all, and is acquitted or convicted, he may be tried for any distinct offence for which at the former trial a separate charge may have been, but was not, made.   3  if a person is convicted of any offence constituted by any act, and that act together with the consequences which resulted therefrom constituted a different offence, he may again be tried for that different offence arising out of the consequences, if the consequences had not happened or were not known to the court to have happened, at the time when he was convicted.   4  a person who has once been tried by a court of competent jurisdiction for an offence and has been either convicted or acquitted shall not be tried for the same offence or for any other offence arising out of the same facts, for which a different charge from the one made against him might have been made or for which he might have been convicted under the code of criminal procedure.   emphasis added  14.
+the constitution bench of this court in the assistant collector of the customs, bombay anr.
+v. l. r. melwani anr.
+air 1970 sc 962, repelled the contention of the respondents therein that their criminal prosecution for alleged smuggling was barred because proceedings were earlier instituted against them before collector of customs.
+it was observed that neither the adjudication before the collector of customs was a prosecution, nor the collector of customs was a court.
+therefore, neither the rule of autrefois acquit can be invoked, nor the issue estoppel rule was attracted.
+the issue estoppel rule is a facet of doctrine of autrefois acquit.
+15.
+this court has time and again explained the principle of issue estoppel in a criminal trial observing that where an issue of fact has been tried by a competent court on an earlier occasion and a finding has been recorded in favour of the accused, such a finding would constitute an estoppel or res judicata against the prosecution, not as a bar to the trial and conviction of the accused for a different or distinct offence, but as precluding the acceptance reception of evidence to disturb the finding of fact when the accused is tried subsequently for a different offence.
+this rule is distinct from the doctrine of double jeopardy as it does not prevent the trial of any offence but only precludes the evidence being led to prove a fact in issue as regards which evidence has already been led and a specific finding has been recorded at an earlier criminal trial.
+thus, the rule relates only to the admissibility of evidence which is designed to upset a finding of fact recorded by a competent court in a previous trial on a factual issue.   vide pritam singh anr.
+v. the state of punjab, air 1956 sc 415 manipur administration, manipur v. thokchom bira singh, air 1965 sc 87 workmen of the gujarat electricity board, baroda v. gujarat electricity board, baroda, air 1970 sc 87 and bhanu kumar jain v. archana kumar anr., air 2005 sc 626 .
+16.
+in v.k. agarwal v. vasantraj bhagwanji bhatia ors., air 1988 sc 1106, wherein the accused were prosecuted under customs act, 1962  hereinafter referred to as customs act  and subsequently under gold  control  act, 1968,  hereinafter called as gold  control  act  it was held that the ingredients of the two offences are different in scope and content.
+the facts constituting the offence under the customs act are different and are not sufficient to justify the conviction under the gold  control  act.
+it was held that what was necessary is to analyse the ingredients of the two offences and not the allegations made in the two complaints.
+17.
+in m s. p.v. mohammad barmay sons v. director of enforcement air 1993 sc 1188, it was held the further contention that under the sea custom act for the self same contravention, the penalty proceedings terminated in favour of the appellant, is of little avail to the appellant for the reasons that two acts operate in different fields, one for contravention of fera and the second for evasion of excise duty.
+the mere fact that the penalty proceedings for evasion of the excise duty had ended in favour of the appellant, does not take away the jurisdiction of the enforcement authorities under the act to impose the penalty in question.
+the doctrine of double jeopardy has no application.   see also state of bihar v. murad ali khan ors., air 1989 sc 1 union of india etc. etc.
+v. k.v.
+jankiraman etc. etc., air 1991 sc 2010 state of tamil nadu v. thiru k.s. murugesan ors.,  1995  3 scc 273 and state of punjab anr.
+v. dalbir singh ors.,  2001  9 scc 212 .
+18. in a.a. mulla ors.
+v. state of maharashtra anr., air 1997 sc 1441, the appellants were charged under section 409 ipc and section 5 of the prevention of corruption act, 1947 for making false panchnama disclosing recovery of 90 gold biscuits on 21-9-1969 although according to the prosecution case the appellants had recovered 99 gold biscuits.
+the appellants were tried for the same and acquitted.
+the appellants were also tried for offence under section 120-b ipc, sections 135 and 136 of the customs act, section 85 of the gold  control  act and section 23 1-a  of fera and section 5 of import and export  control  act, 1947.
+the appellants filed an application before the judicial magistrate contending that on the selfsame facts they could not be tried for the second time in view of section 403 of the code of criminal procedure, 1898  corresponding to section 300 cr.p.c. .
+this court held after giving our careful consideration to the facts and circumstances of the case and the submissions made by the learned counsel for the respective parties, it appears to us that the ingredients of the offences for which the appellants were charged in the first trial are entirely different.
+the second trial with which we are concerned in this appeal, envisages a different fact-situation and the enquiry for finding out facts constituting offences under the customs act and the gold  control  act in the second trial is of a different nature.
+not only the ingredients of offences in the previous and the second trial are different, the factual foundation of the first trial and such foundation for the second trial is also not indented  sic .
+accordingly, the second trial was not barred under section 403 crpc of 1898 as alleged by the appellants.   emphasis added  19. in union of india ors.
+v. sunil kumar sarkar, air 2001 sc 1092, this court considered the argument that if the punishment had already been imposed for court martial proceedings, the proceedings under the central rules dealing with disciplinary aspect and misconduct cannot be held as it would amount to double jeopardy violating the provisions of article 20  2  of the constitution.
+the court explained that the court martial proceedings deal with penal aspect of the misconduct while the proceedings under the central rules deal with the disciplinary aspect of the misconduct.
+the two proceedings do not over- lap at all and, therefore, there was no question of attracting the doctrine of double jeopardy.
+while deciding the said case, the court placed reliance upon its earlier judgment in r. viswan ors.
+v. union of india ors., air 1983 sc 658. 20.
+in union of india anr.
+v. p.d. yadav,  2002  1 scc 405, this court dealt with the issue of double jeopardy in a case where the pension of the official, who stood convicted by a court-martial, had been forfeited.
+the court held this principle is embodied in the well-known maxim nemo debet bis vexari si constat curiae quod sit pro una et eadem causa, meaning no one ought to be vexed twice if it appears to the court that it is for one and the same cause.
+doctrine of double jeopardy is a protection against prosecution twice for the same offence.
+under articles 20-22 of the indian constitution, provisions are made relating to personal liberty of citizens and others offences such as criminal breach of trust, misappropriation, cheating, defamation etc., may give rise to prosecution on criminal side and also for action in civil court other forum for recovery of money by way of damages etc., unless there is a bar created by law.
+in the proceedings before general court martial, a person is tried for an offence of misconduct and whereas in passing order under regulation 16  a  for forfeiting pension, a person is not tried for the same offence of misconduct after the punishment is imposed for a proven misconduct by the general court martial resulting in cashiering, dismissing or removing from service.
+only further action is taken under regulation 16  a  in relation to forfeiture of pension.
+thus, punishing a person under section 71 of the army act and making order under regulation 16  a  are entirely different.
+hence, there is no question of applying principle of double jeopardy to the present cases.
+21.
+in state of rajasthan v. hat singh ors.
+air 2003 sc 791, this court held that as the offence of glorification of sati under section 5 of the rajasthan sati  prevention  act, 1987, is different from the offence of violation of prohibitory order issued under section 6 thereof, the doctrine of double jeopardy was not attracted for the reason that even if prohibitory order is promulgated, a subsequent criminal act even if falls under section 5 could not be covered under section 6 3  of the said act.
+doctrine of double jeopardy is enshrined in section 300 cr.p.c.
+and section 26 of the general clauses act.
+both the provisions employ the expression same offence.
+22.
+similar view has been reiterated by this court in state of haryana v. balwant singh, air 2003 sc 1253, observing that there may be cases of misappropriation, cheating, defamation etc. which may give rise to prosecution on criminal side and also for action in civil court other forum for recovery of money by way of damages etc.
+therefore, it is not always necessary that in every such case the provision of article 20 2  of the constitution may be attracted.
+23. in hira lal hari lal bhagwati v. c.b.i., new delhi, air 2003 sc 2545, this court while considering the case for quashing the criminal prosecution for evading the customs duty, where the matter stood settled under the kar vivad samadhan scheme 1988, observed that once the tax matter was settled under the said scheme, the offence stood compounded, and prosecution for evasion of duty, in such a circumstance, would amount to double jeopardy.
+24.
+in view of the above, the law is well settled that in order to attract the provisions of article 20 2  of the constitution i.e. doctrine of autrefois acquit or section 300 cr.p.c.
+or section 71 ipc or section 26 of general clauses act, ingredients of the offences in the earlier case as well as in the latter case must be the same and not different.
+the test to ascertain whether the two offences are the same is not identity of the allegations but the identity of the ingredients of the offence.
+motive for committing offence cannot be termed as ingredients of offences to determine the issue.
+the plea of autrefois acquit is not proved unless it is shown that the judgment of acquittal in the previous charge necessarily involves an acquittal of the latter charge.
+25.
+in radheshyam kejriwal v. state of west bengal anr.,  2011  3 scc 581, while dealing with the proceedings under the provisions of foreign exchange regulation act, 1973, this court quashed the proceedings  by a majority of 21  under section 56 of the said act because adjudication under section 51 stood finalised.
+the court held the ratio which can be culled out from these decisions can broadly be stated as follows  i  adjudication proceedings and criminal prosecution can be launched simultaneously  ii  decision in adjudication proceedings is not necessary before initiating criminal prosecution  iii  adjudication proceedings and criminal proceedings are independent in nature to each other  iv  the finding against the person facing prosecution in the adjudication proceedings is not binding on the proceeding for criminal prosecution  v  adjudication proceedings by the enforcement directorate is not prosecution by a competent court of law to attract the provisions of article 20 2  of the constitution or section 300 of the code of criminal procedure  vi  the finding in the adjudication proceedings in favour of the person facing trial for identical violation will depend upon the nature of finding.
+if the exoneration in adjudication proceedings is on technical ground and not on merit, prosecution may continue and  vii  in case of exoneration, however, on merits where the allegation is found to be not sustainable at all and the person held innocent, criminal prosecution on the same set of facts and circumstances cannot be allowed to continue, the underlying principle being the higher standard of proof in criminal cases.
+the ratio of the aforesaid judgment is not applicable in this case for the reason that proceedings under section 138 of n.i. act are still sub judice as the appeal is pending and the matter has not attained finality.
+26. learned counsel for the appellant has further placed reliance on the judgment in g. sagar suri anr.
+v. state of u.p. ors.,  2000  2 scc 636, wherein during the pendency of the proceedings under section 138 n.i. act, prosecution under sections 406/420 ipc had been launched.
+this court quashed the criminal proceedings under sections 406/420 ipc, observing that it would amount to abuse of process of law.
+in fact, the issue as to whether the ingredients of both the offences were same, had neither been raised nor decided.
+therefore, the ratio of that judgment does not have application on the facts of this case.
+same remained the position so far as the judgment in kolla veera raghav rao v. gorantla venkateswara rao anr.,  2011  2 scc 703, is concerned.
+it has been held therein that once the conviction under section 138 of n.i. act has been recorded, the question of trying a same person under section 420 ipc or any other provision of ipc or any other statute is not permissible being hit by article 20 2  of the constitution and section 300 1  cr.p.c.
+27.
+admittedly, the appellant had been tried earlier for the offences punishable under the provisions of section 138 n.i. act and the case is sub judice before the high court.
+in the instant case, he is involved under sections 406/420 read with section 114 ipc.
+in the prosecution under section 138 n.i. act, the mens rea i.e. fraudulent or dishonest intention at the time of issuance of cheque is not required to be proved.
+however, in the case under ipc involved herein, the issue of mens rea may be relevant.
+the offence punishable under section 420 ipc is a serious one as the sentence of 7 years can be imposed.
+in the case under n.i. act, there is a legal presumption that the cheque had been issued for discharging the antecedent liability and that presumption can be rebutted only by the person who draws the cheque.
+such a requirement is not there in the offences under ipc.
+in the case under n.i. act, if a fine is imposed, it is to be adjusted to meet the legally enforceable liability.
+there cannot be such a requirement in the offences under ipc.
+the case under n.i. act can only be initiated by filing a complaint.
+however, in a case under the ipc such a condition is not necessary.
+28.
+there may be some overlapping of facts in both the cases but ingredients of offences are entirely different.
+thus, the subsequent case is not barred by any of the aforesaid statutory provisions.
+the appeal is devoid of any merit and accordingly dismissed.
+j.  dr. b.s. chauhan  j.  jagdish singh khehar  new delhi, april 23, 2012 -----------------------

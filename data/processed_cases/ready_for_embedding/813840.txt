@@ -1,0 +1,49 @@
+--- PREAMBLE & CASE INFO ---
+
+case number appeal civil 5308-5309 of 2002 petitioner kerala road lines respondent commissioner of income tax, cochin date of judgment 12/03/2008 bench ashok bhan j.m.panchal judgment j u d g m e n t civil appeal number 5308-5309 of 2002 ashok bhan, j. these two appeals have been filed by the appellant-assessee hereinafter referred to as the assessee with the leave of the court against a common judgment dated 13th day of november, 2001 passed by the high court of kerala at ernakulam in income tax reference numbers234 of 1997 and 310 of 1999.
+the following two questions were referred by the income tax appellate tribunal, cochin to the high court at the instance of the revenue in itr number234 of 1997 for its opinion 1.
+whether, on the facts and in the circumstances of the case, the tribunal is right in law and fact in holding that the assessee is entitled to deduct the entire amount of interest as revenue expenditure under section 37 of the income-tax act?
+2. whether, on the facts and in the circumstances of the case and also on an interpretation of the agreement dated 27.9.1993, the tribunal is right in holding that the assessee would not only to forfeit the advances but also stand exposed to civil and criminal action and in that sense allowing the payment of interest as contractual obligation?
+the following two questions were referred by the income tax appellate tribunal, cochin to the high court at the instance of the assessee in itr number310 of 1999 for its opinion 1. whether the tribunal was right in rectifying the order passed under section 256 1 on the ground that there was a mistake apparent from record?
+2. whether the tribunal was right in holding that it has inherent power for rectifying the order under section 256 1 for rendering justice?
+the questions referred to the high court in itr number310 of 1999 at the instance of the assessee were answered in favour of the revenue and against the assessee relying upon its own earlier decision dated 31.10.2001 passed in itr numbers61/1997, 275/1999 and o.p.no.20583 of 1996.
+it is brought to our notice that against the relied on judgment dated 31.10.2001 passed in itr numbers61/1997, 275/1999 and o.p.no.20583 of 1996, assessee filed special leave petitions in this court which were dismissed by this court in limini.
+since, the special leave petitions against the relied on judgment were dismissed by this court, we are not inclined to interfere with the order passed by the high court insofar as questions referred in itr 310 of 1999 at the instance of the assessee are concerned.
+accordingly civil appeal number5308 of 2002 filed against itr number310 of 1999 is dismissed.
+to decide civil appeal number5309 of 2002 in which merits of the dispute have been challenged, it would be necessary to refer to few facts to understand the dispute which are as under assessee entered into an agreement with m s. peirce leslie india limited on 27.9.1983 for purchase of an extent of 466 cents of land with buildings thereon at calicut.
+it was agreed that the sale deed will either be got executed in favour of the assessee or its nominees.
+as per agreement, if the purchase price was not paid within the specified time, assessee was liable to pay interest at the rate of 18 per annum.
+the buildings standing on the lands were demolished and the scrap materials were sold for rs.5,88,001/-.
+this income was treated as business income.
+under the agreement, the assessee had to pay an interest of rs.4 lacs for the delayed payment of purchase consideration.
+the assessee claimed this amount as a revenue expenditure.
+the assessing authority disallowed the claim of the assessee on the ground that the payment of interest on the purchase of the property would be in the nature of a capital expenditure and not as revenue expenditure.
+this order of assessing authority was confirmed by the commissioner of income tax appeals .
+it was held that the intention of the assessee was to enter into an adventure in the nature of trade and ultimately the assessee had retained only 65.57 cents of land with it and the remaining land was purchased by the sister concerns of the assessee in small pieces.
+it was held that since the assessee was only an intermediary for the other sister concerns, the part of interest referable to the lands sold to the sister concerns could not be allowed as revenue expenditure.
+thus, commissioner of income tax gave part relief and allowed the interest referable to 65.57 cents of land retained by the assessee.
+assessee, being aggrieved, filed an appeal before the income tax appellate tribunal, cochin bench for short the tribunal .
+the tribunal accepted the appeal, set aside the order passed by the cit appeals .
+it was held that the assessee had entered into an agreement to purchase the entire property including buildings standing thereon.
+the building was demolished and structure standing thereon was sold as scrap material for rs.5,88,001/-.
+this sum was offered for assessment
+
+--- JUDGMENT BODY ---
+
+as business income and assessed as such.
+the payment of interest of rs.4 lacs for the delayed payment of purchase consideration has been provided in the agreement and thus, the payment of interest was a contractual obligation.
+it was held by the tribunal that the payment of interest was to be viewed as an expenditure under section 37 of the income tax act, 1961 for short the act , especially when the sale proceeds of the scrap materials from the demolished structures have been treated as business income and ultimately allowed the claim of the assessee for deduction of interest.
+aggrieved against the said order, the assessee as well as revenue filed reference application under section 256 1 of the act.
+accordingly, two questions each, as quoted above, were referred at the instance of the assessee as well as revenue.
+insofar as questions referred at the instance of the assessee in civil appeal number5308 of 2002 are concerned, we have already held that since the special leave petitions against the relied on judgment dated 31.10.2001 passed in itr numbers61/1997, 275/1999 and o.p.no.20583 of 1996 were dismissed by this court, we are not inclined to interfere in the present appeal as well.
+the appeal is dismissed accordingly.
+insofar as dispute on merits is concerned, we find some substance in the argument raised by the counsel appearing for the assessee.
+the high court without answering the question as to whether the expenditure is capital or revenue in nature reversed the decision of the tribunal by holding that assessee was not doing the business in real estate that the business of the assessee was transport only and, therefore, the expenditure would not be covered by the provisions of section 37 1 of the act.
+counsel for the parties have been heard.
+tribunal in its order has categorically recorded that the sale proceeds in the sum of rs.5,88,001/- of the scrap material after demolishing the structures standing on the land was treated as business income of the assessee.
+if that be so, the tribunal was right in observing that the payment of interest which was the contractual obligation would also be a business expenditure.
+the high court has erred in recording a finding to the contrary.
+once the revenue has accepted the sum of rs.5,88,001/- as business income as sale proceeds from the scrap material of the structures standing on the lands then correspondingly assessee would be entitled to claim a sum of rs.4 lacs as revenue expenditure paid as interest on the delayed payment of the purchase consideration.
+for the foregoing reasons, we set aside the order passed by the high court and restore that of the tribunal treating the income of rs.4 lacs as revenue expenditure.
+accordingly, question number1 is answered in favour of the assessee and against the revenue and correspondingly question number2 is answered in favour of the assessee and against the revenue.
+the appeal is allowed accordingly.

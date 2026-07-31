@@ -1,0 +1,104 @@
+--- PREAMBLE & CASE INFO ---
+
+judgment s. ranganathan, j. 1.these are three appeals by the state of maharashtra.
+
+--- JUDGMENT BODY ---
+
+they arise out of the sales tax assessments of two assessees - m s. shiv datt and sons and m s. vora brothers.
+in the case of m s. shiv datt and sons there are two assessment years 1968-69 and 1969-70 involved, while in the case of m s. vora brothers, the assessment relates to the period from 1-11-66 to 31-10-67.
+all the three appeals involve the same issue and can be disposed of by a common order.
+2.m s. shiv datt and sons are dealers for exide batteries while m s. vora brothers are dealers for standard batteries.
+they purchase the batteries from the manufacturers and sell them.
+the question is whether they can be treated as having resold the same good that they have purchased making them eligible for relief under section 8 of the bombay sales tax act, 1959.
+3. the above question arises for consideration in the following circumstances the manufacturers sell to the assessees before us what are described as, dry batteries without electrolyte.
+the batteries, when manufactured by the manufacturers, undergo a process known as formation charge.
+in this process, the plates of the battery are immersed in a solution of sulphuric acid and distilled water.
+the plates are connected together by a lead strip and then connected to the two terminals of a source of supply of direct current.
+this current has an electrolytic action on the plates.
+after this process is undergone, the plates are dried in the ordinary way.
+but even after drying, the plates are put in electrolyte and electric current is passed through the plates for a long time.
+it is not necessary here to discuss the chemical transformation which occurs as a result of this charge.
+what is important is that, before the manufacturers transport the batteries to dealers such as the present respondents, the electrolyte is thrown out and the plates assembled in the battery manufactured by the manufacturers are dried.
+these plates do have some electricity charge, which can be retained for about six months if the battery remains in a hermetically sealed condition.
+however, if the battery comes in contact with air, the charge is lost gradually.
+it is in this state that the batteries are received by the dealers like the present respondents.
+4. after receiving the batteries in the above condition, the dealers, before they sell the batteries, have to again immerse the plates in electrolyte and charge them with electric current for a substantial period before the batteries can be used for the purpose for which they are sold.
+dry battery in the condition in which it is received by the dealer, will not give out a charge, even if the electrodes are joined by wire.
+this is because the positive and negative plates in battery stand separated for want of electrolyte and an electrolyte is a conductor of electricity.
+that is why it becomes necessary for the dealers to put the plates in electrolyte and also pass a current through the electrolyte for some hours.
+5. the respondents were assessed to sales tax under item 58 of schedule c to the bombay sales tax act, 1959.
+they, however, claimed that they were entitled to a concession provided in section 8 of the act under which they were entitled to the deduction of such part of their turnover as represented the resale of goods purchased by them from a registered dealer  subject to certain condition with which we are not here concerned .
+the question that arose was whether the batteries, in the form they were sold by the respondents, could be said to be re-sale of the goods which they had purchased from the manufacturers.
+in this context, it is necessary to refer to the definition of re-sale in section 2 26  of the act.
+this definition, in so far as it is now relevant for our purposes, reads as follows section 2 26  - re-sale, for the purposes of section 8 means sale of purchased goods-  i  in the same form in which they were purchased, or  ii  without doing anything to them which amounts to, or results in a manufacture,  iii   xxx xxx xxx and the word re-sale shall be construed accordingly.   underlining added  6.
+the word manufacture is also defined by the act.
+section 2 17  says manufacture, with all its grammatical variations and cognate expressions, means producing, making, extracting altering, ornamenting, finishing or otherwise processing, treating, or adapting any goods but does not include such manufacturer or manufacturing processes as may be prescribed.
+rule 3 deals with the prescriptions under the second part of section 2 17 .
+this rule refers to various processes such as the dying, bleaching and printing of pure silk cloth the roasting or grinding of coffee seeds the blending of different varieties of tea the cutting of paper from reels into reams the preparing of butter from cream or ghee from butter the rolling of bidis by hand and subjecting the goods specified in any entry in schedule b to any process or doing anything to them which does not take them out of the description thereof in that entry.
+7. on behalf of the state of maharashtra it is strongly urged that in view of the definitions of re-sale and manufacture contained in section 2 of the act, the sale of batteries by the respondents cannot be said to be re-sale of the same goods as have been purchased by them.
+this contention of the state of maharashtra was negatived by a full bench of the maharashtra sales tax appellate tribunal by its order dated 23rd march, 1976.
+the state has preferred a direct appeal to this court under article 136 of the constitution, for the reason that they feel that the same issue had been decided in principle against them in the case of commr.
+of sales tax v. dunken coffee manufacturing company  1975  35 stc 493  bom , though, on facts that case had been decided in favour of the state.
+8.
+we have heard shri dholakia for the state of maharashtra and shri bobde, learned counsel for the respondents.
+we do not think that there can be any doubt that, on general concepts, the goods sold by the respondents are the same goods as the goods purchased by them from the manufacturers.
+apart from the fact that they are only dealers distributing the goods of the manufacturers, it is very difficult to agree with the view that the recharged batteries sold by the respondents are a different commodity from the dry batteries purchased by them from the manufacturers.
+this aspect has been dealt with at length by the tribunal and we fully agree with the reasoning of the tribunal in this respect.
+9. the question, however, is whether the position is different because of the definition of manufacture and re-sale contained in the act.
+shri dholakia, learned counsel for the appellant submits that this definition is very wide and unrestricted.
+any process with reference to the goods purchased will, according to this definition, amount to a process of manufacture and consequently render the resold goods, goods of a different class altogether.
+he, particularly, refers to the words altering, processing, treating and adapting used in the definition of manufacture and to the nature of the processes referred to in rule 3.
+he points out that the dry batteries purchased by the respondents, cannot, on practical considerations, be re-sold without charging the same.
+for this purpose, the dealers have to add electrolyte and have also to pass electric current through the plates for a substantial period of time so that they can be sold for the purpose of being used in motor vehicles of various types.
+according to him, the dry batteries purchased by the dealers are practically unfit for the purpose for which they are eventually sold unless they undergo this process of re-charging.
+having regard to the fundamental importance of this process rendering the goods sold by the respondents marketable, he submits that this is a case which is clearly governed by the special definition in section 2 17  read with section 2 26  of the act.
+10. prima facie, this argument looks very attractive.
+but, on careful consideration, we are of the opinion that the terms of section 2 17  should not be given such a wide interpretation.
+if such a wide interpretation is given there may be very absurd results flowing as a consequence thereof.
+for instance, the definition includes the word ornamenting.
+if a dealer purchases certain goods and merely adds some decorative material thereto, according to the states interpretation, there will be a manufacture.
+for instance, if a car is purchased and some lights or some special gadgets are added thereto, the interpretation will result in rendering the re-sale of the same cars the re-sale of a different commodity.
+again, if a piece of furniture is sold in a dismantled condition and the distributor puts the parts together and sells it, the definition, if construed as widely as interpreted by the state, can be said to amount to manufacture and render the furniture sold a different item of goods from the furniture purchased.
+this clearly is not the intention of the legislature.
+the purpose of section 8 is that, where substantially the goods purchased are re-sold, there should be a deduction of the turnover on which purchase tax has already been paid.
+this provision should be interpreted in a practical and workable manner.
+the mere fact that the words used in the definition of manufacture are very wide should not lead us to so widely interpret them as to render the provision practically meaningless and so as to treat the goods sold as different merely because some slight additions or changes are made in the goods which are purchased before they are sold.
+it is true that under the section it is not necessary that there should be manufacture in the sense that a new commodity has been brought into existence as would have been required if that word is interpreted in its literal sense.
+but, at the same time, the section should be so interpreted to mean only such of the various processes referred to in the definition and applied to the goods as are of such a character as to have an impact on the nature of the goods.
+this is indeed made clear by the closing word of the definition which refer to manufacture or manufacturing processes.
+the last category of the processes referred to in rule 3 extracted also in relation to goods in schedule b also emphasises this basic idea.
+in the present case, the goods purchased by the respondents are no doubt described as dry batteries.
+but it is common ground that even before the dry batteries are manufactured, the plates are immersed in electrolyte and completely charged, a process which has been described as formation charge.
+they are also kept immersed in electrolyte.
+only, before the goods are actually delivered to the dealers the electrolyte is thrown out because it consists of an acid component and there may be risks involved if it were to spilt in the process of transportation.
+all that the dealer does is to reintroduce this electrolyte into the battery after it is purchased and, where efflux of time makes it necessary, also to recharge it so that it may serve the purpose for which it is required.
+basically speaking, therefore, the goods produced by the manufacturers as well as the goods sold by the respondents are one and the same viz.
+batteries falling under entry 58.
+it is not as if the assessee has purchased dead batteries and resurrected them.
+the batteries purchased by the respondents are batteries in good condition.
+the only thing is that they do not contain the electrolyte element which has to be added.
+also some charging is done lest the charge induced earlier should have worn off due to efflux of time.
+but the electrolyte was there earlier and its removal is only for the purpose already mentioned.
+the plates had also been charged earlier.
+nothing is done to the goods afresh which had not been already done.
+the process is somewhat akin to the polishing of vessels and utensils or articles of furniture before sale.
+it is very difficult to say, in this situation, that the process applied is a process contemplated by the definition of manufacture in section 2 17 .
+11.
+the decision in  1975  35 stc 493  bom , in the case of dunken coffee manufacturing company  supra  referred to on behalf of the state of maharashtra dealt with a different set of facts but at page 499 there is reference to an earlier decision in nilgiri ceylon tea supplying company v. state of bombay  1959  10 stc 500  bom .
+in that case, the assessees purchased in bulk different brands of tea and, without the application of any mechanical or chemical process, mixed up the brands of tea so purchased and sold the tea as tea mixture.
+on a reference, the high court held that there was neither processing nor alteration in any manner of the tea purchased by the assessees and they were, therefore, entitled to deduct from their turnover the value of the tea purchased by them.
+the court observed in our view, the quantities of tea purchased by the assessees cannot, since the date of the purchases, be regarded as purchased within the meaning of proviso to clause  a  of section 8 of the act.
+there is not even application of mechanical force so as to subject the commodity to a process, manufacture, development, or preparation.
+the commodity has remained in the same condition.
+it is true that in the preparation of the tea mixture which is marketed, there may be some skill involved.
+but that, in our judgment, cannot be regarded as processing within the meaning of the proviso.
+it cannot however be said that in the preparation of tea mixture there is any alteration in the goods.
+undoubtedly by mixing up the different varieties of tea purchased by the assessees there resulted a mixture in which the individuality of the components was obscured, but that, in our judgment, is not alteration within the meaning of the act.
+the alteration contemplated by the legislature is some alteration in the nature or character of the goods.
+12.
+in other words, though the words used by the statute, namely processed or altered in any manner after such purchase were very wide, the court read down the scope of this expression and considered that, for the purposes of the definition, there should be some alteration in the nature or character of the goods.
+in our opinion, the interpretation of section 2 17  calls for a like limitation on the words used by the statute.
+as we have already pointed out, that if a very wide interpretation is given, it may lead to impractical consequences.
+13. for the reasons mentioned above, we are of the opinion that the tribunal arrived at the correct decision.
+we, therefore, affirm the order of the tribunal and dismiss these appeals.
+there will be no order regarding costs.

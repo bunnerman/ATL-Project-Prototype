@@ -1,0 +1,183 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal number5167 of 2008 m s. queens educational society appellant versus commissioner of income tax respondent with c.a. number5168 of 2008 c.a.
+
+--- JUDGMENT BODY ---
+
+number8962 of 2010 c.a. number909 of 2011 civil appeal number 2919 of 2015 arising out of slp  civil  number3804 of 2011 civil appeal number 2920 of 2015 arising out of slp  civil  number5381 of 2011 civil appeal number 2921 of 2015 arising out of slp  civil  number5383 of 2011 civil appeal number 2922 of 2015 arising out of slp  civil  number5530 of 2011 civil appeal number 2923 of 2015 arising out of slp  civil  number19945 of 2012 j u d g m e n t r.f.nariman, j. 1. leave granted in the special leave petitions.
+2. the present appeals relate to a common judgment dated 24th september, 2007 passed by the high court of uttarakhand, nainital in two income tax appeals, and a judgment of the punjab and haryana high court dated 29th january, 2010 in pine grove international charitable trust v. union of india -  2010  327 itr 273 .
+various other appeals  excepting civil appeal number8962 of 2010  are filed by the union of india central board of direct taxes in cases where the aforesaid judgment in pine grove has been followed.
+3. the facts necessary to understand the controversy in the two income tax appeals before the uttarakhand high court, nainital, may be gleaned from the facts of one of them, namely, the queens educational society case.
+the appellant filed its return for assessment years 2000-2001 and 2001-2002 showing a net surplus of rs.6,58,862/- and rs.7,82,632/- respectively.
+since the appellant was established with the sole object of imparting education, it claimed exemption under section 10 23c   iiiad  of the income tax act, 1961.
+the assessing officer vide its order dated 20th february, 2003 rejected the exemption claimed by the appellant.
+the cit  appeals  by its order dated 28th march, 2003 allowed the appellants appeal, and the itat, delhi, by its judgment dated 7th july, 2006 passed an order dismissing the appeal preferred by the revenue.
+in a reference to the high court under section 260a of the income tax act, the high court vide the impugned judgment set aside the judgment of the itat and affirmed the order of the assessing officer.
+4. these appeals from the uttarakhand high court, nainital, concern themselves with the provision of section 10 23c   iiiad  of the act section 10- incomes not included in total income.-in computing the total income of a previous year of any person, any income falling within any of the following clauses shall not be included-  23-c  any income received by any person on behalf of-   iii-ad  any university or other educational institution existing solely for educational purposes and not for purposes of profit if the aggregate annual receipts of such university or educational institution do not exceed the amount of annual receipts as may be prescribed 5.
+it will be noticed that the section has three requirements -  a  the educational institution must exist solely for educational purposes  b  it should not be for purposes of profit and  c  the aggregate annual receipts of such institution should not exceed the amount or annual receipts as may be prescribed.
+such prescription is to be found in rule 2ca being an amount of rs.1 crore.
+6. the said section was inserted by finance act number2 of 1998 with effect from 1st april, 1999.
+prior thereto, the income tax act had a corresponding section, namely, section 10 22  which was as follows- section 10- incomes not included in total income.-in computing the total income of a previous year of any person, any income falling within any of the following clauses shall not be included-  22  any income of a university or other educational institution, existing solely for educational purposes and not for purposes of profit 7.
+we have heard learned counsel for the assessees as well as learned counsel for the revenue.
+the assessees argue that the impugned judgment is contrary to the law laid down by at least three supreme court judgments.
+further, the wrong test has been adopted and followed, which is a test laid down by the assessing officer and not by any supreme court judgment - namely, that whenever a profit surplus is made by an educational institution, it ceases to exist solely for educational purposes and becomes a profit making enterprise.
+in support of the punjab and haryana high court judgment under appeal, counsel for the assessees argued that since the sole basis for not granting them exemption for the assessment years under question was the following of the uttarakhand high court judgment, if the said judgment is found to be incorrect, they are bound to succeed.
+for that reason, the revenues appeal against the punjab and haryana high court judgment should be dismissed.
+counsel for the revenue, on the other hand, attempted to support the uttarakhand high court judgment by stating that the section does not contemplate the making of large profits.
+if an educational institution in fact makes large profits then even though it may plough such profits back into the purchase of assets for education, yet such institution cannot be said to be existing solely for educational purposes.
+it would then become an institution which would really be for profit.
+8. in cit v. surat art silk cloth manufacturers assn.,  1980  121 itr 1, this court while construing the definition of charitable purpose in section 2 15  of the income tax act held 17.
+the next question that arises is as to what is the meaning of the expression activity for profit.
+every trust or institution must have a purpose for which it is established and every purpose must for its accomplishment involve the carrying on of an activity.
+the activity must, however, be for profit in order to attract the exclusionary clause and the question therefore is when can an activity be said to be one for profit?
+the answer to the question obviously depends on the correct connotation of the preposition for.
+this preposition has many shades of meaning but when used with the active participle of a verb it means for the purpose of and connotes the end with reference to which something is done.
+it is not therefore enough that as a matter of fact an activity results in profit but it must be carried on with the object of earning profit.
+profit-making must be the end to which the activity must be directed or in other words, the predominant object of the activity must be making a profit.
+where an activity is not pervaded by profit motive but is carried on primarily for serving the charitable purpose, it would not be correct to describe it as an activity for profit.
+but where, on the other hand, an activity is carried on with the predominant object of earning profit, it would be an activity for profit, though it may be carried on in advancement of the charitable purpose of the trust or institution.
+where an activity is carried on as a matter of advancement of the charitable purpose or for the purpose of carrying out the charitable purpose, it would not be incorrect to say as a matter of plain english grammar that the charitable purpose involves the carrying on of such activity, but the predominant object of such activity must be to subserve the charitable purpose and not to earn profit.
+the charitable purpose should not be submerged by the profit making motive the latter should not masquerade under the guise of the former.
+the purpose of the trust, as pointed out by one of us  pathak,j.  in dharmadeepti v. cit  1978  3 scc 499 1978 scc  tax  193 must be essentially charitable in nature and it must not be a cover for carrying on an activity which has profit making as its predominant object.
+this interpretation of the exclusionary clause in section 2 clause  15  derives considerable support from the speech made by the finance minister while introducing that provision.
+the finance minister explained the reason for introducing this exclusionary clause in the following words the definition of charitable purpose in that clause is at present so widely worded that it can be taken advantage of even by commercial concerns which, while ostensibly serving a public purpose, get fully paid for the benefits provided by them namely, the newspaper industry which while running its concern on commercial lines can claim that by circulating newspapers it was improving the general knowledge of the public.
+in order to prevent the misuse of this definition in such cases, the select committee felt that the words not involving the carrying on of any activity for profit should be added to the definition.
+it is obvious that the exclusionary clause was added with a view to overcoming the decision of the privy council in the tribune case air 1939 pc 208 in re the trustees of the tribune,  1939  7 itr 415 where it was held that the object of supplying the community with an organ of educated public opinion by publication of a newspaper was an object of general public utility and hence charitable in character, even though the activity of publication of the newspaper was carried on commercial lines with the object of earning profit.
+the publication of the newspaper was an activity engaged in by the trust for the purpose of carrying out its charitable purpose and on the facts it was clearly an activity which had profit making as its predominant object, but even so it was held by the judicial committee that since the purpose served was an object of general public utility, it was a charitable purpose.
+it is clear from the speech of the finance minister that it was with a view to setting at naught this decision that the exclusionary clause was added in the definition of charitable purpose.
+the test which has, therefore, now to be applied is whether the predominant object of the activity involved in carrying out the object of general public utility is to subserve the charitable purpose or to earn profit.
+where profit making is the predominant object of the activity, the purpose, though an object of general public utility, would cease to be a charitable purpose.
+but where the predominant object of the activity is to carry out the charitable purpose and not to earn profit, it would not lose its character of a charitable purpose merely because some profit arises from the activity.
+the exclusionary clause does not require that the activity must be carried on in such a manner that it does not result in any profit.
+it would indeed be difficult for persons in charge of a trust or institution to so carry on the activity that the expenditure balances the income and there is no resulting profit.
+that would not only be difficult of practical realisation but would also reflect unsound principle of management.
+we, therefore, agree with beg, j., when he said in sole trustee, loka shikshana trust case  1976  1 scc 254 1976 scc  tax  14  1975  101 itr 234 that if the profits must necessarily feed a charitable purpose under the terms of the trust, the mere fact that the activities of the trust yield profit will not alter the charitable character of the trust.
+the test now is, more clearly than in the past, the genuineness of the purpose tested by the obligation created to spend the money exclusively or essentially on charity.
+the learned judge also added that the restrictive condition that the purpose should not involve the carrying on of any activity for profit would be satisfied if profit making is not the real object  emphasis supplied .
+we wholly endorse these observations.
+the application of this test may be illustrated by taking a simple example.
+suppose the gandhi peace foundation which has been established for propagation of gandhian thought and philosophy, which would admittedly be an object of general public utility, undertakes publication of a monthly journal for the purpose of carrying out this charitable object and charges a small price which is more than the cost of the publication and leaves a little profit, would it deprive the gandhi peace foundation of its charitable character?
+the pricing of the monthly journal would undoubtedly be made in such a manner that it leaves some profit for the gandhi peace foundation, as, indeed, would be done by any prudent and wise management, but that cannot have the effect of polluting the charitable character of the purpose, because the predominant object of the activity of publication of the monthly journal would be to carry out the charitable purpose by propagating gandhian thought and philosophy and not to make profit or in other words, profit making would not be the driving force behind this activity.
+but it is possible that in a given case the degree or extent of profit making may be of such a nature as to reasonably lead to the inference that the real object of the activity is profit making and not serving the charitable purpose.
+if, for example, in the illustration given by us, it is found that the publication of the monthly journal is carried on wholly on commercial lines and the pricing of the monthly journal is made on the same basis on which it would be made by a commercial organisation leaving a large margin of profit, it might be difficult to resist the inference that the activity of publication of the journal is carried on for profit and the purpose is non-charitable.
+we may take by way of illustration another example given by krishna iyer, j., in the indian chamber of commerce case  1976  1 scc 324 1976 scc  tax  41  1975  101 itr 796 where a blood bank collects blood on payment and supplies blood for a higher price on commercial basis.
+undoubtedly, in such a case, the blood bank would be serving an object of general public utility but since it advances the charitable object by sale of blood as an activity carried on with the object of making profit, it would be difficult to call its purpose charitable.
+ordinarily there should be no difficulty in determining whether the predominant object of an activity is advancement of a charitable purpose or profit making.
+but cases are bound to arise in practice which may be on the borderline and in such cases the solution of the problem whether the purpose is charitable or not may involve much refinement and present real difficulty.
+there is, however, one comment which is necessary to be made whilst we are on this point and that arises out of certain observations made by this court in sole trustee, loka shikshana trust case  1976  1 scc 254 1976 scc  tax  14  1975  101 itr 234 as well as indian chamber of commerce case  1976  1 scc 324 1976 scc  tax  41  1975  101 itr 796 .
+it was said by khanna, j. in sole trustee, loka shikshana trust case  1976  1 scc 254 1976 scc  tax  14  1975  101 itr 234 if the activity of a trust consists of carrying on a business and there are no restrictions on its making profit, the court would be well justified in assuming in the absence of some indication to the contrary that the object of the trust involves the carrying on of an activity for profit.
+and to the same effect, observed krishna iyer, j. in the indian chamber of commerce case   1976  1 scc 324 1976 scc  tax  41  1975  101 itr 796 when he said an undertaking by a business organisation is ordinarily assumed to be for profit unless expressly or by necessary implication or by eloquent surrounding circumstances the making of profit stands loudly negatived .
+a pragmatic condition, written or unwritten, proved by a prescription of profits or by long years, of invariable practice or spelt from some strong surrounding circumstances indicative of anti-profit motivation - such a condition will qualify for charitable purpose.
+now we entirely agree with the learned judges who decided these two cases that activity involved in carrying out the charitable purpose must not be motivated by a profit objective but it must be undertaken for the purpose of advancement or carrying out of the charitable purpose.
+but we find it difficult to accept their thesis that whenever an activity is carried on which yields profit, the inference must necessarily be drawn, in the absence of some indication to the contrary, that the activity is for profit and the charitable purpose involves the carrying on of an activity for profit.
+we do not think the court would be justified in drawing any such inference merely because the activity results in profit.
+it is in our opinion not at all necessary that there must be a provision in the constitution of the trust or institution that the activity shall be carried on no profit no loss basis or that profit shall be proscribed.
+even if there is no such express provision, the nature of the charitable purpose, the manner in which the activity for advancing the charitable purpose is being carried on and the surrounding circumstances may clearly indicate that the activity is not propelled by a dominant profit motive.
+what is necessary to be considered is whether having regard to all the facts and circumstances of the case, the dominant object of the activity is profit making or carrying out a charitable purpose.
+if it is the former, the purpose would not be a charitable purpose, but, if it is the latter, the charitable character of the purpose would not be lost.
+9. coming closer to the section at hand, in aditanar educational institution v. additional commissioner of income tax,  1997  224 itr 310, this court while construing the predecessor section, namely, section 10 22  of the income tax act, held the high court has made an observation that any income which has a direct relation or incidental to the running of the institution as such would qualify for exemption.
+we may state that the language of section 10 22  of the act is plain and clear and the availability of the exemption should be evaluated each year to find out whether the institution existed during the relevant year solely for educational purposes and not for the purposes of profit.
+after meeting the expenditure, if any surplus results incidentally from the activity lawfully carried on by the educational institution, it will not cease to be one existing solely for educational purposes since the object is not one to make profit.
+the decisive or acid test is whether on an overall view of the matter, the object is to make profit.
+in evaluating or appraising the above, one should also bear in mind the distinction difference between the corpus, the objects and the powers of the concerned entity.
+10.
+in american hotel lodging assn.
+educational institute v. cbdt,  2008  301 itr 86 , this court dealt with section 10 23c  vi  as follows 29.
+in cit v. surat art silk cloth manufacturers assn.   1980  2 scc 31 1980 scc  tax  170  1980  121 itr 1 it has been held by this court that test of predominant object of the activity is to be seen whether it exists solely for education and not to earn profit.
+however, the purpose would not lose its character merely because some profit arises from the activity.
+that, it is not possible to carry on educational activity in such a way that the expenditure exactly balances the income and there is no resultant profit, for, to achieve this, would not only be difficult of practical realisation but would reflect unsound principles of management.
+in order to ascertain whether the institute is carried on with the object of making profit or not it is the duty of the prescribed authority to ascertain whether the balance of income is applied wholly and exclusively to the objects for which the applicant is established.
+30. in deciding the character of the recipient, it is not necessary to look at the profits of each year, but to consider the nature of the activities undertaken in india.
+if the indian activity has no correlation with education, exemption has to be denied  see judgment of this court in oxford university press  2001   3 scc 359  2001  247 itr 658  .
+therefore, the character of the recipient of income must have character of educational institution in india to be ascertained from the nature of the activities.
+if after meeting expenditure, surplus remains incidentally from the activity carried on by the educational institution, it will not cease to be one existing solely for educational purposes.
+in other words, existence of surplus from the activity will not mean absence of educational purpose  see judgment of this court in aditanar educational institutionv.
+cit  1997  3 scc 346  1997  224 itr 310  .
+the test is-the nature of activity.
+if the activity like running a printing press takes place it is not educational.
+but whether the income profit has been applied for non-educational purpose has to be decided only at the end of the financial year.
+32.
+we shall now consider the effect of insertion of provisos to section 10 23-c  vi  vide the finance  number 2  act, 1998.
+section 10 23-c  vi  is analogous to section 10 22 .
+to that extent, the judgments of this court as applicable to section 10 22  would equally apply to section 10 23-c  vi .
+the problem arises with the insertion of the provisos to section 10 23- c  vi .
+with the insertion of the provisos to section 10 23-c  vi  the applicant who seeks approval has not only to show that it is an institution existing solely for educational purposes which was also the requirement under section 10 22  but it has now to obtain initial approval from the pa, in terms of section 10 23-c  vi  by making an application in the standardised form as mentioned in the first proviso to that section.
+that condition of obtaining approval from the pa came to be inserted because section 10 22  was abused by some educational institutions universities.
+this proviso was inserted along with other provisos because there was no monitoring mechanism to check abuse of exemption provision.
+with the insertion of the first proviso, the pa is required to vet the application.
+this vetting process is stipulated by the second proviso.
+under the twelfth proviso, the pa is required to examine cases where an applicant does not apply its income during the year of receipt and accumulates it but makes payment therefrom to any trust or institution registered under section 12- aa or to any fund or trust or institution or university or other educational institution and to that extent the proviso states that such payment shall not be treated as application of income to the objects for which such trust or fund or educational institution is established.
+the idea underlying the twelfth proviso is to provide guidance to the pa as to the meaning of the words application of income to the objects for which the institution is established.
+therefore, the twelfth proviso is the matter of detail.
+the most relevant proviso for deciding this appeal is the thirteenth proviso.
+under that proviso, the circumstances are given under which the pa is empowered to withdraw the approval earlier granted.
+under that proviso, if the pa is satisfied that the trust, fund, university or other educational institution, etc. has not applied its income in accordance with the third proviso or if it finds that such institution, trust or fund, etc. has not invested deposited its funds in accordance with the third proviso or that the activities of such fund or institution or trust, etc. are not genuine or that its activities are not being carried out in accordance with the conditions subject to which approval is granted then the pa is empowered to withdraw the approval earlier granted after complying with the procedure mentioned therein.
+33.
+having analysed the provisos to section 10 23-c  vi  one finds that there is a difference between stipulation of conditions and compliance therewith.
+the threshold conditions are actual existence of an educational institution and approval of the prescribed authority for which every applicant has to move an application in the standardised form in terms of the first proviso.
+it is only if the prerequisite condition of actual existence of the educational institution is fulfilled that the question of compliance with requirements in the provisos would arise.
+we find merit in the contention advanced on behalf of the appellant that the third proviso contains monitoring conditions requirements like application, accumulation, deployment of income in specified assets whose compliance depends on events that have not taken place on the date of the application for initial approval.
+34. to make the section with the proviso workable we are of the view that the monitoring conditions in the third proviso like application utilisation of income, pattern of investments to be made, etc. could be stipulated as conditions by the pa subject to which approval could be granted.
+11.
+thus, the law common to section 10 23c   iiiad  and  vi  may be summed up as follows where an educational institution carries on the activity of education primarily for educating persons, the fact that it makes a surplus does not lead to the conclusion that it ceases to exist solely for educational purposes and becomes an institution for the purpose of making profit.
+the predominant object test must be applied - the purpose of education should not be submerged by a profit making motive.
+a distinction must be drawn between the making of a surplus and an institution being carried on for profit.
+no inference arises that merely because imparting education results in making a profit, it becomes an activity for profit.
+if after meeting expenditure, a surplus arises incidentally from the activity carried on by the educational institution, it will not be cease to be one existing solely for educational purposes.
+the ultimate test is whether on an overall view of the matter in the concerned assessment year the object is to make profit as opposed to educating persons.
+12.
+the uttarakhand high court in the impugned judgment dated 24th september, 2007 quoted the itat order in paragraph 7 as follows the itat while granting exemption under section 10 23c   iiiad  recorded the following reasons during the years relevant for asstt.
+year 2000-01 and 2001-02, the excess of income over expenditure stood at rs.6,58,862/- and rs.7,82,632/- respectively.
+it was also noticed that the appellant society had made investment in fixed assets including building at rs.9,52,010/- in f.y. 1999- 2000 and rs.8,47,742/- in fy 2000-01 relevant for asstt.
+years 2000-01 and 2001-02 respectively.
+thus, if the amount of investment into fixed assets such as building, furniture and fixture etc. were also kept in view, there was hardly any surplus left the assessee society is undoubtedly engaged in imparting education and has to maintain a teaching and non teaching staff and has to pay for their salaries and other incidental expenses.
+it, therefore, becomes necessary to charge certain fee from the students for meeting all these expenses.
+the charging of fee is incidental to the prominent objective of the trust i.e. imparting education.
+the trust was initially running the school in a rented building and the surplus, i.e. the excess of the receipts over expenditure.
+in the year under appeal  and in the earlier appeals  has enabled the appellant to acquire its own property, acquire computers, library books, sports equipments etc.
+for the benefit of the students.
+and more importantly the members of the society have not utilized any part of the surplus for their own benefit.
+the ao wrongly interpreted the resultant surplus as the main objective of the assessee trust.
+as held above, profit is only incidental to the main object of spreading education.
+if there is no surplus out of the difference between receipts and outgoings, the trust will not be able to achieve the objectives.
+any education institution cannot be run in rented premises for all the times and without necessary equipment and without paying to the staff engaged in imparting education.
+the assessee is not getting any financial aid assistance from the government or other philanthropic agency and, therefore, to achieve the objective, it has to raise its own funds.
+but such surplus would not come within the ambit of denying exemption u s 10 23c   iiiad  of the act.
+13.
+having set out the itat order, the uttarakhand high court held thus, in view of the established fact relating to earned profit, we do not agree with the reasoning given by the itat for granting exemption.
+14.
+having said this, the impugned judgment goes on to quote aditanar educational institution v. cit.
+as follows- after meeting the expenditure, if any surplus result incidentally from the activity lawfully carried on by the educational institution, it will not cease to be one existing solely for educational purpose since the object is not one to make profit.
+the decisive or acid test is whether on an overall view of the matter, the object is to make profit.
+in evaluating or appraising the above, one should also bear in mind the distinction difference between the corpus, the objects and powers of the concerned entity.
+if one looks at the object clause, there are other noble and pious objects but assessee society has done nothing to achieve the other objects except pursuing main object of providing education and earning profit.
+further, with profit earned the society has strengthened or enhanced its capacity to earn more rather than to fulfill other noble objects for the cause of poor and needy people or advancement of religious purpose.
+therefore, the law laid down by the apex court has rightly been applied and exemption has also rightly been refused by the assessing officer in the facts and circumstances of the case.
+15.
+it is clear that the high court did not apply its mind independently.
+what has been copied is one paragraph from the supreme court judgment in aditanar followed by a paragraph of faulty reasoning by the assessing officer and the said faulty reasoning of the assessing officer has been wrongly said to be the law laid down by the apex court.
+16.
+further, the supreme court judgment in municipal corpn.
+of delhi v. children book trust and safdarjung enclave educational society,  1992  3 scc 390 has then been followed.
+the aforesaid judgment dealt with a property tax provision, namely, section 115  4  of the delhi municipal corporation act, 1957.
+three questions were raised in the said judgment as follows- 56.
+in the present case, the questions which arise for our determination are  i  whether the society or body is occupying and using the land and building for a charitable purpose within the meaning of sub-section  4 ?   ii  what is the meaning of the expression supported wholly or in part by voluntary contribution?   iii  whether any trade or business is carried on in the premises within the meaning of sub-section  5 ? 17.
+in answering question one, the court held that school education would only come within an exemption if it involved public benefit.
+having so held, the court stated 78.
+the rulings arising out of income tax act may not be of great help because in the income tax act charitable purpose includes the relief of the poor, education, medical relief and the advancement of any other object of general public utility.
+the advancement of any other object of general public utility is not found under the delhi municipal corporation act.
+in other words, the definition is narrower in scope.
+this is our answer to question number 1. 18.
+secondly, the extracted portion from the said judgment in the judgment of the uttarakhand high court concerned itself with question two, namely, whether the educational society is supported wholly or in part by voluntary contributions.
+it is part of paragraph 80 of the said judgment.
+if the sentences after the quoted portion are also set out, it becomes clear that the passage relied upon by the high court has absolutely nothing to do with the present case.
+the entirety of the passage is now set out hereinbelow 82.
+in other words, what we want to stress is, where a society or body is making systematic profit, even though that profit is utilised only for charitable purposes, yet it cannot be said that it could claim exemption.
+if, merely qualitative test is applied to societies, even schools which are run on commercial basis making profits would go out of the purview of taxation and could demand exemption.
+thus, the test, according to us, must be whether the society could survive without receiving voluntary contributions, even though it may have some income by the activities of the society.
+the word part mean an appreciable amount and not an insignificant one.
+the part in other words, must be substantial part.
+what is substantial would depend upon the facts and circumstances of each case.
+19.
+it is clear, therefore, that the uttarakhand high court has erred by quoting a non existent passage from an applicable judgment, namely, aditanar and quoting a portion of a property tax judgment which expressly stated that rulings arising out of the income tax act would not be applicable.
+quite apart from this, it also went on to further

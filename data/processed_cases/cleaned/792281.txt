@@ -1,0 +1,84 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner controller of estates duty,andhra pradesh hyderabad vs. respondent kancharla kesava rao date of judgment04/04/1973 bench hegde, k.s. bench hegde, k.s. khanna, hans raj citation 1973 air 2484 1973 scr  3  897 1973 scc  2  384 citator info rf 1976 sc1935  14,26  act estate duty act, 1953, ss. 7 and 24--partition-allotment to widow of member of a hindu undivided family property for life time in lieu of her share-if liable to estate duty on her death.
+
+--- JUDGMENT BODY ---
+
+headnote a partition was effected among the members of a hindu undivided family by a registered partition deed.
+under that deed, the widow of one of the members, who had a tight to inherit her husbands share in the non-agricultural properties as well as the, right to be maintained from out of the family income, gave up those rights, and in lieu thereof, the other members of the family allotted to her share 25 acres of land to be enjoyed by her during her life time.
+on her death, her interest in the land ceased and passed on to the other members of the former joint family as provided in the partition deed.
+therefore, the authorities under the estate duty act, 1953, proceeded to levy estate duty under s. 7 of the act on the property allotted to her.
+on the question whether the arrangement in the partition dead could be considered a disposition within the meaning of s. 24 of the act, and therefore the value of the land allotted was exempt from estate duty, the high court, on reference, held in favour of the assessee.
+allowing the appeal to this court, held a partition of a hindu undivided family is a mere adjustment of rights.
+it cannot be considered to be a transfer and therefore, cannot be a disposition within the meaning of s. 24 of the act.
+hence, the case fell under s. 7 of the act.
+900c commissioner of income-tax, gujarat v. keshevlal lallubhai patel, 55 i.t.r.
+637 and commissioner of gift tax, madras v. n. s. getti chettiar, 82 i.t.r. 599 605, followed.
+judgment civil appellate.
+jurisdiction civil appeal number 107 of 1970.
+appeal by certificate from the judgment and order dated december 24, 1968 of the andhra pradesh high court at hyderabad in case referred number 28 of 1965.
+g. c. sharma, s. p. nayar and r. n. sachthey, for the appellant.
+g. s. rama rao, for the respondent.
+the judgment of the court was delivered hegde, j.-this is an appeal by certificate.
+it is directed against the decision of the andhra pradesh high court in a reference under section 64 1  of the estate duty act, 1953  to be hereinafter referred to as the act .
+the question of law referred to the high court was whether the value of 25 acres of wet land is exempt from levy of estate duty under section 24 of estate duty act, 1953 ?
+the material facts of the case, as can be gathered from the case stated are these one venkataramayya died in april, 1940 leaving behind him his widow and two sons, who constituted a hindu undivided family.
+one of his sons, namely, chandrasekhara rao died in the year 1941, leaving behind him six minor sons and a widow.
+subsequently, a partition.was effected between the members of the family on 16-6-1943 by a registered partition deed.
+under that deed kotamma, the widow of venkataramayya, who had a right to inherit her husbands share in the non- agricultural properties as well as the right to be maintained from out of the family income, gave up her right both in the non-agricultural properties, except the right to reside in a portion of the family house as well as her right to be maintained out of the family income.
+at the same time the other members of the family allotted to her 25 acres of wet land, which she was to enjoy during her lifetime and the same was to devolve after her death on the other members of the former family as per the stipulations in the partition deed.
+she was not entitled to alienate the property allotted to her share.
+kotamma died on april 9, 1958.
+the authorities under the act proceeded to levy estate duty on the value of the property allotted to kotamma under the partition deed dated 16-6-1943 under section 7 of the act.
+the accountable persons contended that the estate in question is not liable to pay estate duty as it came within the scope of section 24 of the act.
+the departmental authorities, including,, the tribunal,, rejected that contention thereafter, at the instance of the revenue, the question set out above was referred to the high court.
+the high court has answered that question in the affirmative and in favour of the assessee.
+the revenue has come up in appeal to this court.
+the only question for consideration is whether the facts of the present case fall within the scope of section 24 of the act.
+section 7 1  of the act says 7 1  interests ceasing on death.-subject to the provisions of this section, property in which the deceased or any other person had an interest ceasing on the death of the deceased shall be deemed to pass on the deceaseds death to the extent to which a benefit accrues or arises by the cesser of such interest, including, in particular, a coparcenary interest in the joint family property of a hindu family governed by the mitakshara, marumakkattayam or aliyasantana law.
+the remaining portions of that section are not relevant for our present purposes.
+there is no dispute that when kotamma died her interest in the wet land ceased and that it passed on to the other members of the former joint family as provided in the partition deed.
+hence prima-facie the present case comes under section 7 of the act.
+only question is whether the arrangement made under the partition deed can be considered as disposition within the meaning of that expression in section 24 of the act.
+now let us turn to, section 24 1 .
+that section reads 24 1  property reverting to disponer.--where by a disposition of any property an interest is conferred on any person other than the disponer for the life of such person or determinable on his death, the remainder being conferred upon the disponer absolutely, and such person enters into possession of the interest and thenceforward retains possession of it, then, on the death of such person, the property shall not be deemed to pass by reason only of its reverter to the disponer in his lifetime.
+the remaining portion of this section is also not necessary for our present purposes.
+it was urged on behalf of the revenue by mr. sharma, its learned counsel, that section 24 is wholly.
+inapplicable to the facts of the present case.
+he contended that on the facts of this case there was no disposition.
+he further contended that under the terms of the partition deed, the property did not revert wholly to the disponers.
+according to him it partly reverted to the disponers and partly to the widow of chandrasekhara rao, who cannot be considered as one of the disponers.
+mr. rama rao, learned counsel for the assessee, on the other hand, contended that under the partition deed, there was a disposition in favour of kotamma and on her death the property reverted back to all the disponers.
+as we are in agreement with the contention of mr. sharma on the first point, namely, that there was no disposition under the partition deed, we do not think it necessary to go into other contention.
+we are unable to accept the contention of mr. rama rao that under the partition deed there was disposition.
+according to him, the true nature of the transanctions entered into under the partition deed were that kotamma gave up all her rights in the family properties, including her right to maintenance unilaterally, but at the same time the other members of the family voluntarily gave her 25 acres of wet land to be enjoyed by her during her life-time.
+for this contention of his he placed reliance on the terms of the partition deed.
+in a matter like this we are not merely to look the form in which the deed is drawn up.
+we are to find out the true nature of the transaction.
+from the facts set out above it is absolutely clear that under the partition deed kotamma gave up her rights to the extent mentioned earlier and in lieu thereof the other members of the family allotted to her share 25 acres of wet land to be enjoyed by her during her life-time.
+it was an adjustment of rights.
+the contention of mr. rama rao that there was disposition under the partition deed- the contention which has appealed to the high court-appears to us to be an erroneous one.
+a partition is not a transfer in a strict sense.
+it is an adjustment of the rights of the various members of the family.
+in commissioner of income- tax, gujarat v. keshavlal lallubhai, patel   this court quoted with the approval a passage from the decision of the madras high court in gutta radhakrishnayya v. gutta sarasamma.   2  that passage reads thus partition is really a process in and by which a joint enjoyment is transformed into an enjoyment in severality.
+each one of the sharers had an antecedent title and, therefore, no conveyance is involved in the process, as a conferment on a new title is not necessary.
+this court had to consider the meaning of the word disposition occurring in section 2 xxiv  of the gift tax act.
+that section defined the expression transfer of property thus 2.   xxiv  transfer of property means any disposition, conveyance, assistant, settlement, delivery, payment or other alienation of property and, without limiting the generality of the foregoing, includes-  a  the creation of a trust in property  b  the grant or creation of any lease, mortgage, charge, easement, licence, power, partnership interest in property c  the exercise of a power of appointment of property vested in any person, not the owner of the property, to determine its disposition in favour of any person other than the donee of the power and  d  any transaction entered into by any person with intent thereby to diminish directly or indirectly  1  55 i. t. r.
+637.   2  1.
+l. r. 1951 mad.
+607.
+the value of his own property and to increase the value of the property of any other person.
+the question for consideration in that case was, inter-alia, whether a partition is a disposition.
+dealing with this question this court in commissioner of gift tax, madras v. m. s. getti chattiar 1 . observed a reading of this section clearly goes to show that the words disposition, conveyance, assignment, settlement, delivery and payment are used as some of the modes of transfer of property.
+the dictionary gives various meanings for those words but those meanings do not help us.
+we have to understand the meaning of those words in the context in which they are used.
+words in the section of a statute are not to be interpreted by having those words in one hand and the dictionary in the other.
+in spelling out the meaning of the, words in a section, one must take into consideration the setting in which those terms are used and the purpose that they are intended to serve.
+if so understood, it is clear that the word disposition, in the context, means giving away or giving up by a person of something, which was his own, conveyance means transfer of ownership, assignment means the transfer of the claim, right or property to another, settlement means, settling the property, right or claim--conveyance or disposition of property for the benefit of another, deli- very contemplated therein is the delivery of ones property to another for no consideration and payment implies gift of money by someone to another.
+we do not think that a partition in a hindu undivided family can be considered either as disposition or conveyance or assignment or settlement or delivery or payment or alienation within meaning of those, words in section 2 xxiv .
+we see no reason why we should not place the same interpretation on the word disposition in section 24 of the act.
+for the reasons mentioned above this appeal is allowed.
+the answer given by the high court to the question referred to it is vacated and in its place we answer that question in the negative and in favour of the revenue.
+the respondent shall pay the costs, of the appellant in this court.
+v.p.s. appeal allowed  1  82 1. t. r. 599, 605.
+9 02

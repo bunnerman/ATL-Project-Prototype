@@ -1,0 +1,264 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner roshan lal mehra vs. respondent ishwar das date of judgment 02/08/1961 bench das, s.k. bench das, s.k. sinha, bhuvneshwar p. cj  sarkar, a.k. ayyangar, n. rajagopala mudholkar, j.r. citation 1962 air 646 1962 scr supl.  
+2  947 citator info f 1963 sc1060  4,5  act standard rent,  fixation of-newly constructed and old buildings-classification, if violative of fundamental right and principles of natural justice-constitution of india, art.
+14-delhi and ajmer-marwara rent control act, 1947  act xix of 1947 , ss. 7, 7a, sch.
+iv.
+headnote the appellants applied to the rent controller for fixation of fair and standard rent of certain shops and other premises alleging that the rent charged by the landlords was exorbitant.
+the questions arising for determination were  1  whether the delhi and ajmer-marwara rent control act, 1947 in so far as it provided for the fixation of standard rent in respect of premises the construction of which was completed after march 24, 1947 by the rent controller violated the fundamental right guaranteed under art.
+14 of the constitution and  2  whether the procedure to be followed by the rent controllerviolated the principles of natural justice.
+held, that s. 7a and the relevant provision-, of sch.
+iv of the act laying down the procedure for fixing standard rent by the rent controller are not unconstitutional and do not violate art.
+14 of the constitution.
+the classification between premises the construction of which was completed before march 24, 1947 when the act came into force and those which were completed thereafter, is reasonable, and the criteria for the fixation of standard rent for both old and new buildings under the act were not substantially different.
+the procedure laid down under those provisions does not violate the principles of natural justice.
+the power given to the rent controller is not arbitraly and he has to exercise it on a judicial consideration of all the circumstances of the case.
+948 g.d. soni v s. n. bhalla, a.i.r. 1959 punj.
+381 approved.
+new prakash transport, company limited v. new suwarna transport company limited,  1957  s.c.r.
+98, union of india v. t.r. verma  1958  s.c.r.
+499 followed.
+in the instant case ample opportunity was given to the landlord for producing all relevant evidence in the case which he did not avail himself of.
+it was not necessary under para 2, sch.
+tv, to have two enquiries one for ascertaining whether there were good reasons for believing that the rent charged was exorbitant and another for fixing the standard rent.
+the proceedings before the rent controller were not vitiated merely because standard rent of certain vacant shops was also., fixed in the process of fixing the standard rent for the entire building in which those shops were situated that would not affect the legality of the fixation of the rent for the shops which had been let out to tenants.
+judgment civil- appellate jurisdiction civil appeal number 171 of 1958.
+appeal by special leave from the judgment and order dated march 7, 1956, of the punjab high court  circuit bench  at delhi in civil misc.
+number 249-d of 1956.
+with civil appeals numbers 172 to 186 of 1958.
+appeals from the judgment and order dated august 26, 1954, of the punjab high court in civil revisions numbers 243, 274, 276, 277, 281 to 286, 288, 290 and 293 and 295 of 1951.
+anoop singh, for the appellant in civil appeal number 171 of 1958.
+basant kumar jaggi, for the respondent.  
+in civil appeals numbers 172 to 186 of 1958 .
+a.v. viswanatha sastri, r. ganapathy iyer and o. gopalakrishnan, for the appellants in civil appeals numbers 1722 to 186 of 1958.
+c.k. daphtaru solicitor general of india, c.b. aggarwala and k.p. gupta, for the respondent nos 1 to 4. 1961.
+august 2. the judgment of the court ,,as delivered by s.k. das, t.-these are 16 appeals which have been heard together.
+for facility of considering them on merits, it would be convenient to classify them into three categories.
+in the first category fall civil appeals numbers 172 to 184 of 1958.
+in the second category are two appeals, civil appeals numbers 185 and 186 of 1958.
+in the third category falls civil appeal number 171 of 1958.
+the appeals in the first two categories arise out of a judgment in revision rendered by the high court of punjab at simla on august 26, 1954.
+that decision was reported in british medical stores v. l. bhagirath mal  1 .
+the appeal in the third category arises out of a short order of the said high court dated march 7, 1956, by which it dismissed an application made by the appellant-tenant under art.
+227 of the constitution.
+it appears that the order war, based on the decision given by the high court in the first two categories of cases.
+the appeals in the first two categories have been brought to this court on a certificate granted by high court, and have been consolidated by an order made by the said court.
+civil appeal number 171 of 1958 has been brought to this court in pursuance of special leave gran
+
+--- JUDGMENT BODY ---
+
+ted by.
+this court on november 19, 1956.
+the reason why these appeals have been put in three categories is this.
+the judgement of the high court against which appeals are really directed is the judgment rendered in the first two categories of eases  reported in messrs. british medical stores v. l. bhagirath mal  1 .
+that judg- ment related to four sets of buildings of chandini chowk in delhi.
+in civil appeals numbers 172 to 186, we are concerned with two of these buildings owned by the landlord bhagirath mal, who has since died , 1   1955  i. l. r. 8 punjab 639.
+and is now represented by some of the respondents.
+for convenience, however, we shall refer to him as the landlord.
+the two buildings we are concerned with are called  1  chemists market, also known as medicine market, and  2  prem building.
+both these buildings are part of a colony called bhagirath colony.
+several tenants took on rent flats or rooms in the said buildings and the question which fell for determination was the fair and standard rent payable for the said flats or rooms under s. 7a of the delhi and ajmer marwara rent control act, 1947,  act xix of 1947 , hereinafter referred to as the control act, 1947.
+in the first two categories of appeals, the main point for consideration before us is whether the judgment rendered by the high court on august 26, 1954, was correct, the high court having held that the whole proceedings taken before the rent controller were ultra vires and without jurisdiction.
+the reasons given for this finding by the high court were not quite the same in respect of the two buildings somewhat different reasons were given in the cases of the two tenants in the prem building.
+therefore, it would be convenient to deal with the main judgment of the high court in civil appeals numbers 172 to 184 of 1958 of the tenants in the building known as chemists market.
+we shall then deal with the special considerations arising in the two appeals preferred by the tenants of the prem building.
+lastly, we shall deal with civil appeal number 111 of 1958 which relates to a different building altogether belonging to a different proprietor, namely two ground-floor flats of a house on plot no 20, block number 13 in western extension area, karolbagh, new delhi.
+we.
+shall later state the facts of that appeal, but it is sufficient to state here that the application for fixation of standard rent for the flats in the karolbagh house was dismissed on the ground that the high court had held earlier in the first two categories of cases, that s. 7a of the control act, 1947 was unconstitutional and void after the coming into force of the constitution of india on january 26, 1950.
+civil appeals numbers 172 to 184 of 1958 having made these preliminary remarks with regard to the classification of the appeals, we proceed now to state the facts with regard to the first category of appeals relating to the chemists market in bhagirath colony.
+on july 30, 1948, nine tenants made an application to the rent con- troller, delhi, asking for a determination of fair and standard rent of the tenements  shops  rented to them by the landlord, on the ground that under the stress of circumstances which resulted from the partition of the country and scarcity of business premises available in delhi after partition, they were forced to take on rent the shops in question on an excessive and exorbitant rate of rent charged by the landlord.
+they alleged that the premises were completed after march 24, 1947, and they were entitled to have the fair and standard rent determined for the shops in question by the rent controller.
+on august 1, 1948, the rent controller recorded an order to the effect that in order to fix the rent of the shops in question in accordance with s. 7a read with sch.
+tv of the control act, 1947 a summary enquiry would be held on august 18, 1948.
+a notice was issued to that effect to the landlord, directing him to attend and bring all relevant authenticated records such as plans, account books, vouchers etc., showing the cost of construction of the building the landlord was also asked to bring documentary evidence relating to the date of completion of construction of the building.
+it is necessary to explain here why-the date of completion of construction of the building was important.
+the control act, 1947 came into force on march 24, 1947.
+by s. 1 2  thereof, as it originally stood, it was not applicable to any premises the construction of which was not completed by march 24, 1947, and which was not let to a tenant before the enforcement of the act.
+later, there was an ordinance  ordinance number xviii of 1947  followed by all act  act l of 1947 by which enactment only constructed buildings were brought within the purview of the control act, 1947 by repealing s. 1 2  of the act in so far as it affected buildings iii. delhi and by introducing s,7 a and sell.
+iv to the act.
+we shall presently read s. 7 a and the relevant provisions of sch.
+iv.
+we may just state here that s.7a laid down that the fair rent of the constructed buildings shall be fixed according to the provisions set forth in sch. tv.
+buildings which were completed earlier than march 24, 1947, had to be dealt with by the civil court under s.7 of the act.
+under s.7a read with.
+sch.
+iv, the rent controlled had jurisdiction to fix the, fair and standard rent in respect of buildings which were not completed before the commencement of the act.
+therefore, the rent controller had to determine the date of completion of the building, in order to have jurisdiction under s.7a of the control act, 1947.
+we have referred to the notice which the rent controller had directed to be issued to the landlord on august 12, 1948 fixing august, 18 1948, as the date for the hearing of the case.
+on august 18, the landlord made an application by means of a letter sent to the rent controller in which he, asked for postponement of the case to some date in september.
+the case was postponed to august 26, 1948, but on that date the landlord again asked for an adjournment.
+then on september 1, 1948, an application was made on behalf of the landlord, in which there was a reference to 14 tenants who had applied for fixation of standard rent for the shops in the chemists market.
+in this application the landlord stated that he himself had applied for fixation of standard rent under s. 7 of the control act, 1-947 in the court of the subordinate judge, delhi and as those applications were pending, he prayed that the proceedings for determining the identical question of fixation of standard rent by the rent controller tinder s.7a should be stayed.
+the printed record does not clearly show how and when tenants other than the 9 tenants who had originally applied for fixation of standard rent on july 30, 1948, had also applied for fixation of standard rent for the shops in their occupation.
+it is clear, however, from the application of, the landlord dated september 1, 1948 that 14 tenants including some of those who had applied on july 30, 1948 had applied for fixation of standard rent for the shops occupied by them.
+on november 9, 1948, the rent controller wrote a letter to the landlord in which he referred to some enquiry held in his officer on september 1, 1949 and said.
+on that day you promised to produce some papers to show that these shops were completed before march 24, 1947.
+as the case is unnecessarily being delayed, you are requested to appear in my office with all the necessary document at 3 p.m. on wednesday the 17th november, 1948.
+it may please be noted that no further adjournment will be possible.
+your failing to comply with this notice, ex-parte decision will be given.
+on november 15, 1948 the rent controller again wrote to the landlord that on a representation by the landlords representative, the date had been extended to november 19, 1948 and the landlord should produce all necessary documents relating to the building in quest-ion.
+the rent controller again reminded the landlord that there would be a final hearing on november 19.
+on that date, however, the landlord again made an application saying that as there were regular suits for the determination of the standard rent pending in the court of the subordinate judge, delhi, the proceedings before the rent controller should be stayed.
+on november 26, 1948 the rent controller wrote to the landlord to the following effect as you have failed to attend my office personally on the fixed date and your attorney did not possess any information or documents regarding the newly constructed chemists market, you are now directed to submit your written statement on oath, duly countersigned by your advocate, giving full details regarding the date of construction of the said building.
+please note that your statement must reach this office before the 3rd december 1948.
+then on december 3, 1948 the rent controller wrote to the landlord saying that he would be visiting the premises on december 5, 1948.
+on december 3, a telegram was sent on behalf of the landlord saying that lie was out of station.
+on that date the rent controller recorded the following order these shops were first let out from 1st april, 1948.
+note.-the advocate for the landlord was requested to tell the landlord that he must submit his statement in writing  countersigned by the. advocate  within the next 15 days whether he contends or does not contend that this building was completed after 24th march, 1947.
+the advocate for the landlord gave an application asking for staying the proceedings as he had applied to the sub-judge for fixa- tion of standard rent of the premises.
+he was told that i was not prepared to stay the pro- ceedings unless he or his client were prepared to say on oath that the building was completed before the 24th march, 1947.
+on december 9, 1948 the rent controller again wrote to the landlord to the following effect i am in receipt of your telegram dated the 3rd december, 1948.
+on 19th november, 1948, the last date of hearing, your advocate shri jugal kishore and your general attorney shri kundal lal were given definite instruction to see that your written statement, as to when the construction of the chemists market was started and when completed, was sent to me within 15 days.
+these instructions were later confirmed in writing vide this office number r. c. 42/ camp.
+dated the 26th november, 1948.
+my instructions, however, have not been complied with so far and it is presumed that you are try g to evade the issue.
+i, however, give you another final opportunity and direct you to submit your written ,statement on oath within one week from the receipt hereof, showing the date of completion of construction of your building known as chemists market in bhagiratli colony, chandni chowk, delhi.
+please take notice that your failure to comply with  torn  within the stipulated period will amount to disobeying the orders of this court and the case will be referred to appropriate authorities for necessary action in the matter.
+the landlord took no steps whatsoever to furnish any written statement.
+in these circumstances, the rent controller passed his final order on january 10, 1949.
+in that order he recited the facts stated above and ended up by saying that though the landlord had been given sufficient oppor- tunity, he had not made any statement in writing or otherwise and that the landlord was clearly trying to avoid the trial of the issue.the rent controller had inspected the building on december 12.
+194s and made local enquiries.
+he came to the finding that the shops in question were completed only in the beginning of 1948.
+he said i inspected this building on 12th december, 1948 and made local enquiries when it transpired that the building  shops  was com- pleted only in the beginning of 1948.
+the very look of the building also confirms this information.
+on the other hand, no data has been placedbefore me by the landlord, his attorney or the advocate to show that the construction of the building was completed.
+before 24th march, 1947.
+according to the admitted statement of the attorney the shops have been let out for the first time in 1948 and otherwise too his statement of 19th novem- ber, 1948 shows that the building had not been.completed before 24th march, 1947.
+no completion certificate or house-tax receipts have been produced in support of this conten- tion.
+it is, therefore, not understandable how it is claimed that the shops were comple- ted before 24th march, 1947.
+the owner is knowingly avoiding to give a statement himself that the shops were completed before 24th march, 1947.
+evidently because he realises that this is not true.
+it has also not been stated what use was made of these shops till january, 1948, when they were first let out if they had been completed before 24th march, 1947 as alleged.
+it is unbelievable that shops like these could remain unoccupied for nearly 9 to 1.0 months after completion.
+i am, therefore, convinced beyond a shadow of doubt that the construction of there shops was completed long after 24th march, 1947, and the fixation of their standard rent definitely falls within the scope of s. 7 a of the delhi and ajmer- marwara rent control act, 1947 as amended .
+i,therefore, proceed to fix the rent accordingly.
+after taking into consideration the nature of the construction and the fittings, etc., and other relevant considerations the rent controller fixed the valuation at rs. 9-7-0 per sq. ft. of plinth area for working out the probable cost of the construction of the building.
+the cost of the land, he estimated at rs. 275 per sq. yd.
+but he allowed only one-third of the estimate inasmuch as the building was one storeyed and all the buildings in the vicinity were mostly three-storeyed.
+on these calculations, lie held that the standard rent for all the shops in the building work out at rs. 335 per month including 10 for repairs but excluding house tax and charges for consumption of water and electricity.
+a calculation sheet was prepared fixing the standard rent for each of the shops including some shops which were vacant, oil the aforesaid basis.
+the calculation sheet showed that the standard rent of 18 ,shops in the building varied from rs. 10 per month to rs. 50 per month.
+against the order of the rent controller dated january 10, 1949, nineteen appeals were taken to the district judge.
+one of the points taken before the district judge was that the rent controller had no jurisdiction to fix the standard rent inasmuch as the building had been completed before march 24, 1947.
+the learned district judge dealt with this point at length, and held that the rent controllers finding on the question of jurisdiction was correct.
+as to fair rent, he held that though the building was single-storeyed, there was no reason why the landlord should not be allowed the full value of the land on which the building.
+stood.
+allowing full value for the land and having regard to the rent of premises in the neighbouring area the learned district judge modified the order of the rent controller and fixed the standard rent of the building at rs. 670 per month, viz., double. of what was fixed by the rent controller.
+the learned district judge passed his order on january 15, 1951.
+it appears that from the order of the district judge, delhi dated january 15, 1951, certain applications in revision were.
+made to the punjab high court.
+most of the applications were by the landlord, but one of them was by a tenant.
+these applications were heard together by the high court.
+the high court allowed the applications of the landlord and held in effect that the proceedings before the rent controller violated the principles of natural justice and were, therefore, bad and without jurisdiction.
+the high court, it appears, travelled over a wide field and dealt with a number of questions, though its decision was based on the finding stated above.
+the first question which the high court considered was whether s.7a read with sch.
+iv of the control act, 1947 prescribed a discriminatory procedure without a reasonable classification in respect of premises completed after march 24, 1947 and thus violated the guarantee of equal protection under art.
+14 of the constitution.
+along with this question was canvassed another connected question viz., whether these cases would be governed by the law in force at the time of the decision given by the rent controller or by the law existing at the time when the district judge heard the appeals.
+it may be here noted that the constitution of india came into force on january 26, 1950 and at the date of decision of the rent controller art.
+14 of the constitution was not in force.
+the high court expressed the view that the law to be applied was the law in existence at the time when the district judge decided the appeals.
+it further held that s. 7a read with sch.
+iv of the control act, 1947 was violative of the guarantee of equal protection of laws under art.
+14 of the constitution, there being no rational nexus between the classification made regarding premises old and new and the objects of the statute.
+having given these two findings, the high court said, however, that it would prefer not to base its judgment on these findings, because to do so might be giving retrospective effect to the constitution.
+the high court then went, on to consider the further contention urged before it that in the proceedings before the rent controller there was a violation of the principles of natural justice inasmuch as all recognised principles governing tribunals which exercise quasi-judicial powers or follow a procedure subserving the orderly administration of justice had been.
+disregarded.
+on this point the learned judge, delivering the judgment of the court, expressed himself as follows in the present case no evidence as to rent was called from the parties or recorded by the controller nor was any opportunity afforded to the parties to adduce such or any evidence which they considered necessary to submit.
+the controller made private enquiries and his order shows that he has based his decision on the cost of the building which he himself calculated without allowing the petitioner an opportunity to show that such calculation was wrong or its basis erroneous.
+of course, there is no procedure prescribed by the schedule and whatever procedure was followed does not subserve the orderly administration of justice.
+so that the, determination is based oil private enquiries, unchecked calculations and no evidence of the parties who were afforded no opportunity of proving their respective cases.
+with regard to the flats in prem buildinga farther ground given by the high court was that they were, not now construction as held by the district judge, and therefore s.7a was not applicable for determination of fair and standard rent in respect thereof.
+we may first dispose of the constitutional point that s.7 a read with sch.
+iv of the control act, 1947 violated the fundamental right guaranteed under.art.
+14 of the constitution.
+we may here read s.7a and some of the provisions of sch. iv.
+7a.
+the provisions set out in the fourth schedule shall apply to the fixation of rent and other matters relating to the premises in delhi  hereinafter referred to as the newly constructed premises  the construction of which was not completed before the commencement of this act.
+the fourth schedule 1.rent controller or the purposes of this schedule means the person appointed by the central government as the rent controller.
+2.if the rent controller on a written complaint or otherwise has reason to believe that the rent of any newly constructed premi- ses is excessive, he may, after making such inquiry as he thinks fit proceed to fix the standard rent thereof.
+3.the rent.
+controller in fixing the standard rent shall state in writing his reasons therefor.
+4.in fixing the standard rent the rent controller shall take into consideration all circumstances of the case including any amount paid or to be paid by the tenant by way of premium or any other like sum in addition to- rent.
+5 and 6.
+x x x x x 7.for the purposes of an inquiry under paragraphs 2, 5 and 6, the rent controller may-  a require the landlord to produce any book of account, document or other information relating to the newly constructed premises,  b enter and inspect such premises after due notice, and  e authorise any officer subordinate to him to enter and inspect such premises after due notice.
+8 to 10.
+x x x x x 11.
+any person aggrieved by an order of the rent controller may, within thirty days from the date on which the order is communicated to him, appeal to the district judge, delhi.
+this very question was considered by a full bench of the same high court in a later decision  see g. d. soni v. s. n. bhalla 1 .
+in that decision the high court went into the entire history of legislation with regard to the control of house rent in both old delhi and new delhi from 1939 onwards when the second world war broke out.
+the high court pointed out that the new delhi house rent control order, 1939 made under r. 81 of the defence of india rules was the first control order seeking to control rent of houses in new delhi and the civil lines.
+from 1939 till 1942 no rent control act applied to the municipal area of delhi.
+on october 16, 1942 the punjab urban rent restriction act, 1941 with suitable adaptations was extended to that area.
+under that act a landlord could recover only standard rent from the tenant and the term standard rent- was defined as meaning the, rent at  1  a i.r. 1959 punj.
+381.
+which the premises were let on january 1, 1939 and if not so, the rent at which the were last let.
+in cases not governed entirely by this definition, the court was given the power to fix standard rent.
+in 1944 the then governor-general promulgated the delhi rent control ordinance, 1944.
+under this ordinance the chief commissioner could apply it to any area within the province of delhi and whenever the ordinance was made applicable to any area, the punjab urban rent restriction act, 1941 ceased to be operative.
+in the ordinance also standard rent was defined substantially in the same terms as in the punjab act.
+the central legislature then enacted the control act, 1947 which repealed the punjab act as extended to delhi and also the rent control order of 1939 and the 1944 ordinance.
+by s.1 2  the act, was made inapplicable to any premises the construction of which was not completed by march 24, 1947 and under s.7 of the control act, 1947, at court in case of dispute had to determine the standard rent on the principles set forth in the second schedule.
+we have already stated earlier that s.1  2  of the control act, 1947 was later repealed  so far as, it affected buildings in delhi , and newly constructed buildings were brought within the purview of the control act, 1947 by introducing s.7a and schedule, iv to it.
+from this brief survey of the legislative history of the control of rent of premises situated in the province of delhi, it is clear that the control act, 1947 brought about uniformity in the law relating to rent control by laying down that the standard rent of newly constructed premises shall be fixed by the rent controller while the court will fix the standard rent in respect of other premises.
+there is no doubt that a classification was made between premises the construction of which was, completed before march 24, 1947 and those the construction of which was completed after that date.
+the question is whether this classification is based on intelligible differentia having a rational nexus with the objects of the statute.
+dealing with this question bishan narain, j. delivering the judgment of of full bench said the learned counsel for the landlord challenged the validity of these provisions on the grounds  1  that there is no reasonable basis for fixing the standard rent of newly constructed premises differently on a different principle from the principle on which standard rent is fixed for old buildings in the same locality and  2  that there is no reason for discriminating against the landlords of newly constructed buildings by laying down that their standard rent shall be fixed by rent controllers appointed by the central government while the standard rent of other buildings is to he fixed by courts of law which are bound to follow procedure laid down in the the civil procedure it is urged that the rent controller is not bound by any procedures laid down by the civil procedure code or the punjab courts act.
+x x x section 7 says that the standard rent shall be determined in accordance with the principles set forth in the second schedule.
+the second schedule fixes basic rent as determined tinder the control order of 1939 or under the 1944 ordinance and in other cases the contractual rent on 1- 11-1939 or if not on that day then on the date first let after 1-11-1939.
+the standard rent thus fixed is to be increased by certain percentage specified in the schedule.
+if the premises were let after 2-6-1944 then the basic rent and the standard rent were to be the same.
+obviously this principle for fixation of standard rent could not possibly have any application to premises constructed and let after 24-3-1947.
+section 7 then proceeds.
+to lay down that if for any reason it is not possible to determine the standard rent of any premises set forth in the second schedule then the courts shall determine it having regard to the standard rent of similar premises in the same locality and other relevant considerations.
+para 4 of schedule iv lays down in fixing the standard rent the rent controller shall take into consideration all the circumstances of the case including any amount paid or to be paid by the tenant by way of premium or any other like sum in addition to rent.
+it was argued on behalf of the landlord that the critera laid down in s.7 2  and para 4 of schedule iv of the act is substantially different and that there is no valid reason for such a differentiation.
+he urgent that the rent controller  1  may ignore the standard rent of similar premises in the same locality while he is under an obligation to take into consideration any amount paid or agreed to be paid by the tenant by way of premium etc.
+in addition to rent and that the rent controller  2  cannot interfere with the agreed rent unless he finds it excessive and in that he can only reduce the rent fixed between the parties and cannot increase it.
+it is urged that under s. 7 2  it is open to the court to increase the standard rent and also not to take into consideration any amount paid by the tenant as premium in addition to rent.
+now the rent controller is enjoined by para 4 to take into consideration all the circumstances of the case when fixing standard rent.
+it is not understood how a rent controller can omit to consider the standard rent of similar premises in the same locality.
+this is obviously a relevant consideration though para 4 does not specifically mention it.
+it is true that this criteria has been specifically mentioned in s.7 2 of the act and has not been so mentioned in s.7a.but.
+this circumstance cannot lead to the inference that it is open to the rent controller to ignore it.
+the words of para 4 are in fact as.wide in effect as the words used in s.7 2  of the act.
+in this context it must not be forgotten that if such a mistake is made by the rent controller then the aggrieved party  may he be landlord or the tenant  can appeal to the district judge whose powers are co-extensive with those of the rent controller and who can set right any mistake made by the rent controller.
+i am, therefore, of the opinion that the criterion laid down for fixation of standard rent in s.7 2  and para 4 is substantially the same in scope and is not different.
+x x x x x undoubtedly under schedule iv the rent controller can fix standard rent only if he finds that the rent agreed upon between the parties is excessive.
+this provision is to protect the landlord from frivolous applica- tions by tenants and it is not clear why a landlord should object to this provision.
+the reason for this provision is intelligible.
+it is.
+well known that rents in delhi prior to 1-11-1939 were very, low and in some cases uneconomic.- therefore the legislature decided that in such cases a landlord should be.
+in a position to, got standard rent fixed at a rate higher than fixed by agreement of the parties in 1939 or earlier.
+no such consideration arises in the case of buildings constructed. or completed after 1947.
+in 1947 there existed an acute shortaae of accommodation in delhi and the landlords were in, a position to dictate terms and, there- fore, presumably the fixed between the parties were not so low as to require, in- considered unnecessary to provide for increase of rent in schedule iv.
+i am, therefore, of the opnion that it is not possible on these grounds to hold that s.7-a and schedule iv are unconstitutional.
+the learned counsel then brought to our notice two other matters in which the newly constructed buildings have been treated differently from the old buildings.
+he pointed out that under para 10 2  of schedule iiv the standard rent fixed by rent controller must necessarily be retrospective in effect while under s.7 5  the court can fix the date from which the payment of estandard rent would become effective.
+he further pointed out that under s. 4 2  a landlord on making improvements can increase the standard rent by an amount not exceeding 61 per cent of the cost of improvement, while under para 6 of the schedule iv the rent controller can increase the standard rent in such circumstances to an amount not exceeding 7-1/2 per cent of the cost of improvement.
+these are, however, no grounds for hold.
+ing the impugned provisions to be unconstitu- tional.
+the delhi and ajmer-marwara rent control act, 1947, came into force on 24-3- 1947 originally for two years only and s.7-a with schedule iv were introduced in september 1947.
+therefore the standard rent for new buildings could well be fixed from the beginning of the lease.
+the old buildings were let long before 1947 and, therefore, it was considered advisable to leave it to courts to fix the date from which the payment of standard rent would become effective.
+this is a rational difference.
+so is the matter of differenace of return on the cost of improvements.
+there is no reason for equating the return on cost of improvements of old buildings- with the return oil the cost of improvements of new buildings.
+this is a matter for the legislature to consider and this possible slight difference, in returns cannot be said to be discriminatory and violative of article 14 of the constitution.
+for these reasons i am of the opinion that the criteria for the fixation of standard rent for new and old buildings is substantially the same and does not violate article 14 of the constitution and there is no valid reason for coming to the conclusion that the standard rent of old and new buildings of the same type and in the, same locality would necessarily be different.
+the first ground, therefore, fails and rejected.
+the second ground also has no force.
+it is urged that in schedule tv there is no provision for recording the evidence of the parties nor is it laid down whether the evi- dence is to be on oath.
+it is futher urged that the principles of natural justice have been disregarded by schedule iv and it is open to the rent controller to fix standard rent arbitrarily without recording any evidence.
+now para 2 schedule iv says that the rent controller shall make such enquiry as he considers fit to fix the standard rent.
+x x x x x in fixing standard rent the rent controller decides a dispute between a landlord and a tenant.
+to do this effectively he has to take evidence and to hold a judicial inquiry particularly when he has to give reasons for his decision.
+para 7 is also indicative of such a judicial.
+inquiry.
+there is no reason for presuming and assuming that the rent controller would not hold s a oh an inquiry.
+if he doesnot do go then the aggrieved party can always appeal to the district judge, delhi who invariably is a very senior and experienced judicial officer.
+x x in this context it must not be forgotten that considering the recent rise in prices of land, building material and labour costs in delhi the standard rent should be correlated to these costs.
+in the circumstances the legislature in its wisdom has thought fit that the enquiry, into standard.
+rent.
+of new building should continue to remain with the rent controllers who can expeditiously decide the matter.
+in this context it can be reasonably expected that the central government

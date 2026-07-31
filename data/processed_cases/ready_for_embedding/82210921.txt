@@ -1,0 +1,199 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal numbers 4435-37 of 2016 arising out of slp civil numbers20822-20824 of 2011 itc limited gurgaon appellant versus commissioner of i.t.
+tds delhi respondent with civil appeal numbers 4438-40 of 2016 arising out of slp civil numbers9587-9589 of 2012 civil appeal number 4441 of 2016 arising out of slp civil number10653 of 2012 civil appeal number 4442 of 2016 arising out of slp civil number17964 of 2012 civil appeal numbers 4443-44 of 2016 arising out of slp civil numbers18128-18129 of 2012 j u d g m e n t r.f. nariman, j. 1. leave granted.
+2. these appeals arise out of a common judgment of the delhi high court dated 11.5.2011.
+3. the assessees are engaged in the business of owning, operating, and managing hotels.
+surveys conducted at the business premises of the assessees allegedly revealed that the assessees had been paying tips to its employees but not deducting taxes thereon.
+4. the assessing officer treated the receipt of the tips as income under the head salary in the hands of the various employees and held that the assessees were liable to deduct tax at source from such payments under section 192 of the income tax act, 1961.
+the assessees were treated by the assessing officers as assessees-in-default under section 201 1 of the act.
+the assessing officers in various assessment orders worked out the different amounts of tax to be paid by all the aforesaid assessees under section 201 1 , as also interest under section 201 1a of the said act for assessment years 2003-2004, 2004-2005 and 2005-2006.
+5. the cit appeals vide his common order dated 28.11.2008 allowed the various appeals of the assessees holding that the assessees could not be treated as assessees- in-default under section 201 1 of the act for non- deduction of tax on tips collected by them and distributed to their employees.
+appeals filed by the revenue to the income tax appellate tribunal itat came to be dismissed by the tribunal by relying upon its own order for assessment year 1986-1987 in the case of itc and the case of nehru palace hotels limited.
+against the said orders of the tribunal, appeals were preferred by the revenue to the high court.
+6. the high court vide the impugned judgment dated 11.5.2011 framed the questions of law as follows- a whether on the facts and in the circumstances of the case, the ld. itat erred in law and on merits holding that the assessee was not an assessee in default for short non deduction of tax at source on account of banquet and restaurant tips collected and paid by it to its employees?
+b whether on the facts and in the circumstances of the case, the ld. itat erred in law and on merits in holding that the payment of banquet and restaurant tips to the employees of the assessee in its capacity as employer were not profits in lieu of salary within the meaning of section 17 3 ii of the income tax act, 1961?
+7. the high court held, after considering sections 15, 17 and 192 of the income tax act, that tips would amount to profit in addition to salary or wages and would fall under section 15 b read with section 17 1 iv and 17 3 ii .
+even so, the high court held that when tips are received by employees directly in cash, the employer has no role to play and would therefore be outside the purview of section 192 of the act.
+however, the moment a tip is included and paid by way of a credit card by a customer, since such tip goes into the account of the employer after which it is distributed to the employees, the receipt of such money from the employer would, according to the high court, amount to salary within the extended definition contained in section 17 of the act.
+for arriving at this interpretation, the high court relied upon the decision of this court in karamchari union, agra v. union of india, 2000 3 scc 335, while distinguishing the judgments of this court in rambagh palace hotel v. rajasthan hotel workers union, 1976 4 scc 817 and quality inn southern star v. esi corpn., 2008 2 scc 549.
+after distinguishing the said judgments, the high court arrived at the following conclusion- from the above discussion, we may conclude that the receipt of the tips constitute income at the hands of the recipients and is chargeable to the income tax under the head salary under section 15 of the act.
+that being so, it was obligatory upon the assessees to deduct taxes at source from such payments under section 192 of the act.
+8. since the assesses were, therefore, declared to be assessees-in- default under section 201 of the act, the high court found that despite the fact that the assessees did not deduct the said amounts based on a bonafide belief and no dishonest intention could be attributed to any of them, yet the high court held that levy of interest under section 201 1a would follow, as the payment of simple interest under the said provision is mandatory and not being penal in nature, no qu
+
+--- JUDGMENT BODY ---
+
+estion of bonafide belief would arise to absolve the assessees from any interest liability under the said provision.
+9. learned senior advocates shri vohra and shri syali, assailed the judgment of the high court before us.
+they argued that tips are paid by customers out of their own volition as payments to the employees being waiters in a restaurant for the quality of service provided to them and for courteous behavior.
+since this payment is gratuitous, and the assessees act as mere trustees in collecting the tips charged to the customers credit cards, and then pass over the same to the employees, it is clear that no amount by way of tip has any connection with the contract of employment between the employer and the employee.
+they further submitted that the tips received by the employees are not remuneration or reward for services rendered by the employees to the assessees.
+they argued that there was no vested right of an employee to claim any tip from a customer.
+it was further argued that the expression employer contained in sections 15 and 17 is of crucial importance, and must be contrasted with the expression any person occurring in section 17 3 iii .
+it was also argued, based on the hotel receipts tax act and a circular issued thereunder, that tips do not form any part of taxable receipts of the employers.
+further, we were shown a publication in which guidelines were issued by the australian tax office stating that voluntary tips are not consideration for the supply of food or service in a hotel or restaurant.
+the intervenor represented by shri s. ganesh also argued that section 192 is attracted only when any person responsible for paying any income chargeable under the head salary is to deduct income tax on the amount payable.
+according to the learned counsel, since the income received from tips is not income chargeable under the head salary, so far as the employees are concerned, but income from other sources, section 192 is not at all attracted.
+it was further agued by him that the machinery provision contained in section 192 is not possible of compliance inasmuch as it is impossible for the employer to predicate how much each individual employee would get by way of income from tips, particularly when the schemes for distribution are many and varied and may include different sums being received by different employees based on various criteria.
+he also argued that no question of section 201 would come into play in this case as it is only in consequence of failure to comply with section 192 that section 201 is at all attracted.
+it was also argued that since the high court had found that the conduct of the assessees was bonafide, interest therefore could not have been charged from them under section 201 1a .
+all the learned counsel have relied upon various judgments of this court and other courts in support of their submissions.
+10.
+shri neeraj k. kaul, learned additional solicitor general, appearing on behalf of the revenue, argued that section 15 b referred to salary that is paid or allowed to an employee by or on behalf of an employer, and stated that the expression allowed is an expression of wide import and would include amounts such as tips paid by employers to their employees.
+he also relied upon section 17 3 ii to state that any payment received by an assessee from an employer would be regarded as profit in lieu of salary, and that since the amount of tips received by way of credit cards from the customer are first put into the employers account and thereafter received by the employees from the employer, that was sufficient to attract profits in lieu of salary as defined.
+according to the learned counsel, the section makes no reference to the contract of employment, which is therefore a foreigner to the section.
+the learned additional solicitor general for this proposition relied heavily upon karamchari union, agras case supra , to buttress this submission and stated that the high court correctly relied upon the said decision.
+he went on to add that the judgments contained in rambagh palace hotel and quality inn southern star were not directly on point and were rightly distinguished by the high court.
+he also supported the finding of the high court that bonafide belief would have no bearing on payability of interest under section 201 1a .
+he referred to the provision of section 192 3 in order to buttress his submission that the machinery provisions contained in section 192 could easily be worked out as monthly estimates of the tips that were received or receivable had to be made by the employer.
+11.
+before adverting to the contentions raised by counsel for both the parties, it will be necessary to set out some of the provisions of the income tax act.
+192. salary 1 any person responsible for paying any income chargeable under the head salaries shall, at the time of payment, deduct income-tax on the amount payable at the average rate of income-tax computed on the basis of the rates in force for the financial year in which the payment is made, on the estimated income of the assessee under this head for that financial year.
+xx 3 the person responsible for making the payment referred to in sub- section 1 or sub-section 1a or sub-section 2 or sub-section 2a or sub-section 2b may, at the time of making any deduction, increase or reduce the amount to be deducted under this section for the purpose of adjusting any excess or deficiency arising out of any previous deduction or failure to deduct during the financial year.
+201.consequences of failure to deduct or pay. 1 where any person, including the principal officer of a company, a who is required to deduct any sum in accordance with the provisions of this act or b referred to in sub-section 1a of section 192, being an employer, does not deduct, or does not pay, or after so deducting fails to pay, the whole or any part of the tax, as required by or under this act, then, such person, shall, without prejudice to any other consequences which he may incur, be deemed to be an assessee in default in respect of such tax providedthat any person, including the principal officer of a company, who fails to deduct the whole or any part of the tax in accordance with the provisions of this chapter on the sum paid to a resident or on the sum credited to the account of a resident shall not be deemed to be an assessee in default in respect of such tax if such resident i has furnished his return of income under section 139 ii has taken into account such sum for computing income in such return of income and iii has paid the tax due on the income declared by him in such return of income, and the person furnishes a certificate to this effect from an accountant in such form as may be prescribed providedfurtherthat no penalty shall be charged under section 221from such person, unless the assessing officer is satisfied that such person, without good and sufficient reasons, has failed to deduct and pay such tax. 1a without prejudice to the provisions of sub-section 1 , if any such person, principal officer or company as is referred to in that sub-section does not deduct the whole or any part of the tax or after deducting fails to pay the tax as required by or under this act, he or it shall be liable to pay simple interest, i at one per cent for every month or part of a month on the amount of such tax from the date on which such tax was deductible to the date on which such tax is deducted and ii at one and one-half per cent for every month or part of a month on the amount of such tax from the date on which such tax was deducted to the date on which such tax is actually paid, and such interest shall be paid before furnishing the statement in accordance with the provisions of sub-section 3 of section 200 providedthat in case any person, including the principal officer of a company fails to deduct the whole or any part of the tax in accordance with the provisions of this chapter on the sum paid to a resident or on the sum credited to the account of a resident but is not deemed to be an assessee in default under the first proviso to sub-section 1 , the interest under clause i shall be payable from the date on which such tax was deductible to the date of furnishing of return of income by such resident.
+15.salaries.
+the following income shall be chargeable to income-tax under the head salaries a any salary due from an employer or a former employer to an assessee in the previous year, whether paid or not b any salary paid or allowed to him in the previous year by or on behalf of an employer or a former employer though not due or before it became due to him c any arrears of salary paid or allowed to him in the previous year by or on behalf of an employer or a former employer, if not charged to income- tax for any earlier previous year.
+explanation 1.for the removal of doubts, it is hereby declared that where any salary paid in advance is included in the total income of any person for any previous year it shall not be included again in the total income of the person when the salary becomes due.
+explanation 2.any salary, bonus, commission or remuneration, by whatever name called, due to, or received by, a partner of a firm from the firm shall not be regarded as salary for the purposes of this section.
+17.salary, perquisite and profits in lieu of salary defined.
+for the purposes of sections 15 and 16and of this section, 1 salary includes xx iv any fees, commissions, perquisites or profits in lieu of or in addition to any salary or wages xx 3 profits in lieu of salary includes i the amount of any compensation due to or received by an assessee from his employer or former employer at or in connection with the termination of his employment or the modification of the terms and conditions relating thereto ii any payment other than any payment referred to in clause 10 , clause 10a , clause 10b , clause 11 , clause 12 , clause 13 or clause 13a of section 10 , due to or received by an assessee from an employer or a former employer or from a provident or other fund, to the extent to which it does not consist of contributions by the assessee or interest on such contributions or any sum received under a keyman insurance policy including the sum allocated by way of bonus on such policy.
+explanation.for the purposes of this sub-clause, the expression keyman insurance policy shall have the meaning assigned to it in clause 10d of section 10 iii any amount due to or received, whether in lump sum or otherwise, by any assessee from any person a before his joining any employment with that person or b after cessation of his employment with that person.
+12.
+at this stage it is important to analyse section 192 of the income tax act.
+first and foremost, under sub-section 1 thereof, any person responsible for paying any income chargeable under the head salaries is alone brought into the dragnet of deduction of tax at source.
+the person responsible for paying an employee an amount which is to be regarded as the employees income is only the employer.
+in the facts of the present case, it is clear that the person who is responsible for paying the employee is not the employer at all, but a third person namely, the customer.
+also, if an employee receives income chargeable under a head other than the head salaries, then section 192 does not get attracted at all.
+in emil webber v. cit, 1993 2 scc 453, the ballarpur paper and straw board mills wanted to set up a caustic soda chlorine manufacturing plant at ballarpur.
+for this purpose, it entered into two agreements with krebs, a french concern, which in turn entered into an agreement with a swiss concern for making available services of certain personnel.
+the assessee, emil webber, was a person engaged by the swiss concern.
+the assessee came to india and worked in connection with the setting up of the said plant.
+the question that was posed before this court was whether the tax component paid by ballarpur of the assessees taxable income could be included within the income of the assessee.
+this court, in answering the said question, specifically stated in paragraph 8, that the question arose as to under which head of income should the said income be placed.
+this court held that inasmuch as the assessee is not an employee of ballarpur, which made the payment, it cannot be brought within the purview of section 17 of the act.
+thus, such income must necessarily be placed under section 56 1 of the act as income from other sources.
+13.
+following the aforesaid decision, it is clear that as income from tips would be chargeable in the hands of the employees as income from other sources, such tips being received from customers and not from the employer, section 192 would not get attracted at all on the facts of the present case.
+14.
+section 15 of the act is in three parts.
+sub-clause a refers to salary that is due from an employer or a former employer, whether paid or not.
+under this sub-clause, salary is taxable upon accrual it matters not whether payment is actually made or not.
+on the other hand, under sub- clause b , with which we are directly concerned, any salary that is paid or allowed to an employee by or on behalf of an employer or former employer though not due, or before it becomes due, becomes taxable.
+under this sub- clause, it matters not whether the salary is at all due.
+payment made or allowance given to the employee by or on behalf of an employer or former employer is sufficient to bring such payment or allowance to tax under the said sub-clause.
+under sub-clause c any arrears of salary paid or allowed to an employee by or on behalf of an employer or previous employer if not earlier charged to income tax in any previous year is also brought to tax.
+15.
+it can be seen, on an analysis of section 15, that for the said section to apply, there should be a vested right in an employee to claim any salary from an employer or former employer, whether due or not if paid or paid or allowed, though not due.
+in cit v. l.w. russel reported in 53 itr 91 sc , this court dealt with the provisions of section 7 1 of the 1922 act, which preceded sections 15 and 17 of the present act.
+holding that it is necessary for the employee to have a vested right to receive an amount from his employer before he could be brought to tax under the head salaries, this court held- now let us look at the provisions of section 7 1 of the act in order to ascertain whether such a contingent right is hit by the said provisions.
+the material part of the section reads 7. 1 -the tax shall be payable by an assessee under the head salaries in respect of any salary or wages, any annuity, pension or gratuity, and any fees, commissions, perquisites, or profits in lieu of, or in addition to, any salary or wages, which are allowed to him by or are due to him, whether paid or not, from, or are paid by or on behalf of .
+a company .
+explanation i- for the purpose of this section, perquisite includes- v any sum payable by the employer, whether directly or through a fund to which the provisions of chapters ixa and ixb do notapply, to effect an assurance on the life of the assessee or in respect of a contract of annuity on the life of the assessees.
+this section imposes a tax on the remuneration of an employee.
+it presupposes the existence of the relationship of employer and employee.
+the present case is sought to be brought under the head perquisites in lieu of, or in addition to, any salary or wages, which are allowed to him by or are due to him, whether paid or not, from, or are paid by or on behalf of a company.
+the expression perquisites is defined in the oxford dictionary as casual emoluments, fee or profit attached to an office or position in addition to salary or wages.
+explanation 1 to section 7 1 of the act gives an inclusive definition.
+clause v thereof includes within the meaning of perquisites any sum payable by the employer, whether directly or through a fund to which the provisions of chapters ixa and ixb do not apply, to effect an assurance on the life of the assessee or in respect of a contract for an annuity on the life of the assessee.
+a combined reading of the substantive part of section 7 1 and clause v of explanation 1 thereto makes it clear that if a sum of money is allowed by the employee by or is due to him from or is paid to enable the latter to effect an insurance on his life, the said sum would be a perquisite within the meaning of section 7 1 of the act and, therefore, would be eligible to tax.
+but before such sum becomes so exigible, it shall either be paid to the employee or allowed to him by or due to him from the employer.
+so far as the expression paid is concerned, there is no difficulty, for it takes in every receipt by the employee from the employer whether it was due to him or not.
+the expression due followed by the qualifying clause whether paid or not shows that there shall be an obligation on the part of the employer to pay that amount and a right on the employee to claim the same.
+the expression allowed, it is said, is of a wider connotation and any credit made in the employers account is covered thereby.
+the word allowed was introduced in the section by the finance act of 1955.
+the said expression in the legal terminology is equivalent to fixed, taken into account, set apart, granted.
+it takes in perquisites given in cash or in kind or in money or moneys worth and also amenities which are not convertible into money.
+it implies that a right is conferred on the employee in respect of those perquisites.
+one cannot be said to allow a perquisite to an employee if the employee has no right to the same.
+it cannot apply to contingent payments to which the employee has no right till the contingency occurs.
+in short, the employee must have a vested right therein.
+16.
+on the facts of the present case, it is clear that there is no vested right in the employee to claim any amount of tip from his employer.
+tips being purely voluntary amounts that may or may not be paid by customers for services rendered to them would not, therefore, fall within section 15 b at all.
+also, it is clear that salary must be paid or allowed to an employee in the previous year by or on behalf of an employer.
+even assuming that the expression allowed is an expression of width, the salary must be paid by or on behalf of an employer.
+it must first be noticed that the expression employer is different from the expression person.
+an employer is a person who employs another person under a contract of employment, express or implied, to perform work for the employer.
+therefore, section 15 b necessarily has reference to the contract of employment between employer and employee, and salary paid or allowed must therefore have reference to such contract of employment.
+on the facts of the present case, it is clear that the amount of tip paid by the employer to the employees has no reference to the contract of employment at all.
+tips are received by the employer in a fiduciary capacity as trustee for payments that are received from customers which they disburse to their employees for service rendered to the customer.
+there is, therefore, no reference to the contract of employment when these amounts are paid by the employer to the employee.
+shri kaul, however, argued that there is an indirect reference to the contract of employment inasmuch as but for such contract, tips to employees could not possibly have been paid at all.
+we are afraid that this argument must be rejected for the simple reason that the payments received by the employees have no reference whatsoever to the contract of employment and are received from the customer, the employer only being a conduit in a fiduciary capacity in between the two.
+indeed, if shri kauls arguments were to be accepted, even the position accepted by the revenue and consequently the high court that tips given in cash, which admittedly are not covered by section 192, would also then be covered inasmuch as such tips also would not have been given but for the contract of employment between employer and employee.
+clearly, therefore, such argument does not avail revenue.
+17.
+however, the sheet anchor of shri kauls submission is section 17 3 ii in which shri kaul stressed that any payment received by an assessee from an employer would be regarded as profits in lieu of salary.
+according to shri kaul it is undisputable that payments were received by the employees from their employer and that, without more, section 17 would therefore be attracted to the facts of the case.
+this argument again cannot be countenanced for the simple reason that section 17 3 itself uses two different expressions employer in sub-clause ii and person in sub- clause iii .
+obviously person is wider than employer.
+even the word person which appears in the said sub-clause has reference either to a future employer or a past employer.
+therefore, it is clear that under the scheme of section 17, payment must be by an employer, whether such employer is a future employer or a past employer of the employee in question.
+when sub-clause ii uses the expression employer, it uses the said expression in the same sense as is used in section 15, as the opening line of section 17 itself states that for the purposes of section 15 salary includes profits in lieu of salary.
+we have already held that the word employer in section 15 necessarily brings in a contract of employment, express or implied, and for this reason also we are afraid we are not able to accept shri kauls argument.
+18.
+the judgment of this court in cit v. l.w. russel reported in 53 itr 91 sc was relied upon by shri kaul stating that the expression allowed is of a wider connotation and would be equivalent to fixed, taken into account, set apart or granted.
+we have already held that given the fact that the expression allowed is of wide amplitude, yet the other expressions in section 15 as construed by us would exclude tips from its purview.
+19. interestingly, this court in rambagh palace hotels case supra , in paragraph number2 held as under- we regret to be unable to agree with the counsel on this point.
+it is well- known that in important hotels in the country the appellant is now a five star hotel the customers are of the affluent variety and pay tips either to the waiters directly or in the shape of service charges or otherwise to the management along with the bill for the items consumed.
+in short, the true character of tips cannot be treated as any payment made by the management out of its pocket but a transfer of what is collected to the staff as it is intended by the payer to be so distributed.
+it may also happen that more money comes in by way of tips into the pockets of the management than distributed by it.
+we cannot therefore consider the receipt of tips by the staff as anything like a payment made by the management to its employees warranting consideration by the tribunal to depress the award of dearness allowance.
+of course, it is a factor which may perhaps be in the mind of the tribunal when he finalised the actual figures.
+there is no reason for us to think that although not specifically put down in his order, the tribunal has lost sight of this circumstance.
+for this reason, we think there is no ground for interference with the award of the industrial tribunal.
+having regard to the fair way the case has been placed before us, we do not regard this as a case where costs should be awarded while dismissing the appeal.
+the appeal is dismissed but the parties will bear their own costs.
+this judgment was followed in quality inn southern star v. esi corpn., 2008 2 scc 549. 20.
+shri kaul sought to distinguish the aforesaid judgments as they arose in contexts that were outside the income tax act.
+for this, he relied upon jagatram ahuja v. commissioner of gift tax, hyderabad, 2000 8 scc 249 at paragraph 23, for the proposition that words judicially construed in a particular statute cannot be a guide to construction of the same words in another statute, unless the concerned statutes are statutes in pari materia.
+he argued that the rambagh palace hotel judgment arose in the context of an award made by the industrial tribunal in favour of the workers of the rambagh palace hotel who had raised a dispute on the score that the price index having gone up, the workers were entitled to adequate compensation by way of dearness allowance.
+it is in this context, that according to shri kaul, this court held that the true character of tips cannot be treated as any payment made by the management out of its pocket but only as a transfer of what is collected, to the staff, as it is intended by the employer to be distributed to the staff.
+21.
+shri kaul may be right in his submission that generally speaking the context of the two statutes being different, no reliance can be placed as a precedent on the rambagh palace hotel case.
+however, we may point out that the statement by this court that the true character of tips cannot be treated as any payment made by the management but only as a transfer of what is collected from the customer and paid to the staff is equally applicable to the facts of the present case.
+similarly, the quality inn southern star case was also a judgment in a different context, namely the employees state insurance act, 1948.
+in that case, it was held that the amounts of tips received by employees were not in the nature of wages as they were not given to the employees under the terms of the contract of employment, either express or implied.
+the aforesaid statement made by this court, though made in a different context, would apply on all fours in the present case, again for the reasons mentioned hereinabove.
+22.
+along the lines of the aforesaid judgments, the house of lords, in wrottesley v. regent street florida restaurant, 1951 2 k.b. 277 dealt with a case in which, under a tronc system, customers tips are shared out between the waiters, and, in some cases, other members of the staff.
+this judgment arose under section 9 2 of the catering wages act, 1943 which provided that if an employer fails to pay to a worker, to whom a wages regulation order applies, remuneration not less than the statutory minimum remuneration clear of all deductions , he shall be guilty of an offence.
+the question that arose in that case is whether tips received by waiters under the tronc system were to be regarded as remuneration so as to take the employer out of section 9 2 aforesaid.
+in this context, the house of lords held what we have to decide is whether, when a waiter receives a payment from the tronc in the manner found in the case, that sum can be regarded as remuneration paid to him by, or as remuneration obtained by him in cash from, his employer.
+in our opinion, when a customer gives a tip to a waiter the money becomes the property of the latter.
+the customer has no intention of giving anything to the employer.
+mr. salmon, indeed, did not contend that in a case where no tronc existed, a tip given by a customer could be regarded as remuneration paid by or obtained from the employer.
+but where the tronc system obtains the money given by the customer is paid into a tronc or pool by the waiter so that it then becomes the joint property of all those entitled to share in the pool.
+in parenthesis, it may be seen by reference to a french dictionary, that the word tronc is applied to a box or receptacle for money, and can be used to indicate, for instance, a poor box.
+it seems to us that there is no ground for saying that these tips ever became the property of the employers.
+even if the box were kept in the actual custody of the employer he would have no title to the money the position would be exactly the same as if the owner of some bank notes and coin put them in a bag and handed it to some person to keep for him.
+when the tronc money is shared out the waiters are dividing up their own money.
+accordingly, we hold that the sums received from the tronc by the waiters cannot be taken into account in computing the amounts paid by the respondents to them.
+23.
+we approve of the reasoning contained in this judgment and hold that payments of collected tips made in the manner indicated in paras 7 and 9 above would not be payments made by or on behalf of an employer.
+we agree with the statement of law that there is no ground for saying that these tips ever became the property of the employers.
+even if the box were kept in the actual custody of the employer he would have no title to the money as he would hold such money in a fiduciary capacity for and on behalf of his employees.
+in the said circumstances, it is clear that such payments would be outside the purview of section 15 b of the act.
+24.
+it remains to deal with the sheet anchor of shri kauls submission, which is this courts judgment in karamchari union, agra v. union of india, 2000 3 scc 335.
+in this judgment, this court was faced with whether city compensatory allowance and other allowances such as house rent allowance are salary under section 17.
+this court held that section 17 gives an exhaustive meaning to the expression salary by extending the ordinary connotation of the word to fees, commissions, perquisites or payments of profits in lieu of salary which are not ordinarily considered to be salary.
+the question posed before this court was what does the expression salary signify.
+would it also include any payment received from the employer relatable to or out of the profits or could it be understood as any pecuniary gain or advantage?
+this court held- in our view, even though there is much substance in the contentions raised by the learned counsel for the assessee yet it is to be stated that the act is a self-contained code and the taxability of the receipt of any amount or allowance is to be determined on the basis of the meaning given to the words or phrases in the act.
+section 2 24 of the act gives a wide inclusive definition to the word income.
+similarly, for levying tax on salary income, an exhaustive definition is given under section 17, which includes perquisites and profits in lieu of salary.
+the only exclusion provided under sub-section 3 is any payment referable to clause 10 , clause 10-a , clause 10-b , clause 11 , clause 12 , clause 13 or clause 13-a of section 10.
+in view of this specific inclusion and exclusion in the meaning of the word income and salary, it is rightly submitted that payment received by the assessee has no connection with the profits of the employer.
+the word profits is used only to convey any advantage or gain by receipt of any payment by the employee.
+applying the aforesaid general meaning of the word profits and considering the dictionary sicstatutory meaning given to it under sections 17 1 iv and 3 ii , it can be said that advantage in terms of payment of money received by the employee from the employer in relation or in addition to any salary or wages would be covered by the inclusive definition of the word salary.
+because of the inclusive meaning given to the phrase profits in lieu of salary would include any payment due to or received by an assessee from an employer, even though it has no connection with the profits of the employer.
+it is true that the legislature might have avoided giving an inclusive meaning to the word salary by stating that any payment received by the employee from an employer would be considered to be salary except the payments which are excluded by section 17 3 ii i.e. clause 10 , 10-a , 10-b , 11 , 12 , 13 or 13-a of section 10.
+however, it is for the legislature to decide the same.
+this would not mean that by giving an exhaustive and inclusive meaning, the word profits can be given a meaning only when it pertains to sharing of profits by the employer.
+for the assessee, the receipt of such amount would be a profit, gain or advantage in addition to salary, even though it is not named as salary.
+therefore, the word profits in context is required to be understood as a gain or advantage to the assessee.
+hence, it is not possible to accept the contention of the learned counsel for the employee that as the cca amount is paid to meet the additional expenditure as contemplated by the statutory service rules, it cannot be said to be profit, gain or additional salary.
+under the act, such receipt of the amount as conceded is covered by the definition of the word income and as provided it would be in addition to salary.
+hence, it would be part and parcel of income by way of salary, which would be a taxable one.
+in the result, we hold that da, cca and hra would be ta

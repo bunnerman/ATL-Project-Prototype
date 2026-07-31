@@ -1,0 +1,98 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner commissioner of income tax, tamil nadu vs. respondent s. balasubramanian date of judgment 24/03/1998 bench sujata v.manohar, d.p. wadhwa act headnote judgment j u d g m e n t mrs. sujata v. manohar, j. the following question was referred to the high court of madras under section 256 1 of the income-tax act, 1961 whether on the facts and in the circumstances of the case, the appellate tribunal was right in holding that the provisions of section 15595 of the income-tax act, 1961 are not applicable to the facts of the case and that the developments rebate allowed for assessment years 1960-61 to 1965-66 cannot be withdrawn by the income- tax officer?
+the assessee at t he material time, was a hindu undivided family of which one srinivasa iyer was the karta and his son, the respondent, was a coparcener.
+the joint family carried on business.
+for the assessment years 1960-61 to 1965-66 development rebate was allowed to the joint hindu family on new machinery and plant installed by joint hindu family for the purpose its business.
+on 1.8.1967, there were a partial partition of the joint family and the plant and machinery which had been the subject matter of development rebate was allotted to the two coparceners at written down value.
+after the partition, the two members sold the machinery and plant allotted to them respectively to a third party on 1st of october, 1967.
+on coming to know of the sale within a period of eight years from the installation of the said plant and machinery, the income-tax officer by his letter dated 6th of february, 1961, proposed to withdraw the development rebate granted to the assessee on the ground that the machinery had been sold within the statutory period.
+it was contended on behalf of the assessee that the person to whom the development rebate had been allowed was the hindu undivided family.
+the hindu undivided family did not sell or transfer the plant or machinery and hence section 155 5 of the income-tax act, 1961 would not be attracted.
+this contention has been upheld by the tribunal as well as by the high court.
+the high court further held that the hindu undivided family had not merely not sold the machinery or plant itself, or transferred it, but it had also not ceased to utilise by section 34 3 .
+as a result, the withdrawal of the development rebate by the income-tax officer was held to be wrong.
+to decide the controversy before us, it is necessary to set out the relevant provisions of sections 33, 34 and 155 5 as they stood at the relevant time.
+33.
+development rebate - 1 a in respect of a new ship or new machinery or plant, other than office appliances or road transport vehicles which is owned by the assessee and is wholly used for the purposes of the business carried on by him, there shall, in accordance with and subject to the provisions of this section and of section 34, be previous year in which the ship was acquired or the machinery or plant was installed or, if he ship, machinery or plant is first put to use in the immediately succeeding previous year, then, in respect of that previous year, a sum by way of development rebate as specified in clause b . . .
+34. conditions for depreciation allowance and development rebate- 3 a the deduction referred to in section 33 shall not be allowed unless an amount equal to seventy- five per cent of the development rebate to be actually allowed is debited to the profit and loss account of any previous year and credited to a reserve account to be utilised by the assessee during a period purposes of the business undertaking.
+other than - .
+b if any ship, machinery or plant is sold or otherwise transferred by the assessee to any person at any time before the expire of eight years form the end of the previous year in which it the end of the previous year in which it was acquired or installed, any allowance made under section 33 or under the corresponding provisions of the indian income tax act, 1922 11 of 1922 , in respect of that ship, machinery or plant shall be deemed to have been wrongly shall be deemed to have been wrongly made for the purposes of this act, and the provisions of sub-section 5 of section 155 shall apply accordingly . underlining ours section 155 5 which deals with withdrawal of development rebate provides as follows 155 5 where an allowance by way of development rebate has been made wholly or partly to an assessee in respect of a ship, machinery or plant installed after the 31st day of december, 1957, in any assessment year under section 33 or under the corresponding provisions of the indian income tax act, 1922, and
+subsequently - i at any time before the expiry of eight years from the end of the previous year in which the ship was acquired or the machinery or plant was installed, the ship, machinery or plant is sold or otherwise transferred by the assessee to any person other than the government, a local authority, a corporation established by a central, state or provincial act
+
+--- JUDGMENT BODY ---
+
+or a government company as defined in section 617 of the companies act, 1956 or in connection with any amalgamation or in connection with any amalgamation or succession referred to in sub- section 3 or sub-section 4 of section 33 or ii at any time before the expire of the eight years referred to in sub-section 3 of section 34, the assessee utilises the amount credited to the reserve account under clause a of that sub-section- a for distribution by way of dividends or profits or b for remittance outside india as profits or for the creation of any asset outside india or c for any other purpose which is not a purpose of the business of the undertaking the development rebate originally allowed shall be deemed to have been wrongly allowed, and the assessing officer may, notwithstanding anything contained in this act, recompute the total income of the assessee for the relevant previous year and make the necessary amendment, and the provisions of section 154 shall, so for as may be, apply thereto, the period four years specified in sub-section 7 of that section being reckoned from the end of the previous year in which the sale or transfer took place or the money was so utilised. underlining ours in the present case, we are concerned with the application of section 155 5 and the withdrawal of development rebate.
+there are two situations in which the development rebate which was originally allowed shall be deemed to have been wrongly allowed.
+and the income-tax officer will be entitled to recompute the total income of the assessee for the relevant previous years and make the necessary amendment as set out in that section.
+these two conditions are 1 that at any time before the expiry of eight years from the end of the previous year in which the machinery or plant was installed, the machinery or plant is sold or otherwise transferred by the assessee as set out in that section.
+92 if the assessee at any time before the expiry of eight years utilises the amount in the reserve account either for remittance outside india as profits or for the creation of any asset outside india or for any other purpose which is not a purpose of the business of the undertaking.
+in the present case, the reason for invoking the provisions of section 155 5 is that the assessee has, before the expiry of eight years, sold or other wise transferred the machinery or plant.
+the joint hindu family, in the present case, effected a partial partition.
+as a result of that partial partition, portions of plant and machinery came to the share of each of the coparceners.
+these coparceners, in turn, sold the machinery to a third party.
+section 155 95 1 the plant or machinery should be sold or otherwise transferred 2 the transfer should be by the assessee to any person.
+here, on a partial partition of the joint hindu family portions of plant and machinery have come to the share of two coparceners.
+we have to examine first, whether this amounts to a transfer of plant and machinery by the joint hindu family to the individual coparceners.
+the term transfer is defined under section 2 47 of the income-tax act, 1961, in a wide manner so as to include not merely a sale or exchange, but also extinguishment of any right in the capital assets vide capital gains .
+whether in the present case the partial partition results in the extinguishment of any right of the assessee joint hindu family in the assets of the joint hindu family, or amounts to a transfer of its assets to the individual coparcener, requires to be considered.
+a similar question came up before this court and was considered by a bench of three judges in malabar fisheries company v. commissioner of income-tax, kerala 120 itr 49 .
+in that case the development rebate had been granted to he partnership firm which was dissolved within a period of eight years.
+on dissolution of the firm, assets were distributed between the partners.
+this court examined the question whether on dissolution of the partnership firm there was any transfer of assets from the partnership firm to the partners.
+this court held that there was not transfer of any asset from the partnership firm to its partners on dissolution of the firm.
+this court observed p.54 , on a plain reading of section 34 3 b it will appear clear that before that provision can be invoked or applied three conditions are required to be satisfied a that the ship, machinery or plant must have been sold or otherwise transferred, b that such a sale or transfer must be by the assessee, and c that the same must be before the expiry of eight years from the end of the previous year in which it was acquired or installed.
+it is only when these three conditions are satisfied that any allowance made under section 33 shall be deemed to have been wrongly made and the income-tax officer acting under section 155 5 will be entitled to withdraw such allowance.
+referring to the definition of transfer in section 2 47 the court said.
+the question is whether the distribution, division or allotment of assets of a firm consequent on its dissolution amounts to a transfer of assets within the meaning of words otherwise transferred occurring in section 34 3 b of the act, regard being had to the definition of transfer contained in section 2 47 .
+to put it pithily, the question is whether the dissolution of a firm extinguishes the firms rights in the assets of the partnership so as to constitute a transfer of assets under section 2 47 .
+af ter examining a number of authorities in a detailed judgment, this court came to the conclusion that the partnership firm under the indian partnership act, 1932 is not a distinct legal entity apart from the partners constituting it and equally in law, the firm, as such, has no separate rights of its own in the partnership assets.
+when one talks of the firms property or firms assets, all that is meant is property or assets in which all partners have a joint or common interest.
+if that be the position, it is difficult to accept the contention that upon dissolution the firms rights in the partnership assets are extinguished.
+the firm as such has no separate rights of its own in the partnership assets but it is the partners who own jointly or in common the assets of the partnership and, therefore, the consequence of the distribution, division or allotment of assets to the partners which flows upon dissolution after discharge of liabilities is nothing but a mutual adjustment of rights between the partners and there is no question of any extinguishment of the firms rights in the partnership assets amounting to a transfer of assets within the meaning of section 2 47 of the act.
+the same reasoning would apply to partition of a hindu joint family.
+in principles of hindu law, mulla, at page 262 16th edition has compared a partnership firm and a joint hindu family firm and set out points of distinction between the two.
+the main distinction is that in a joint family business no member of the family can say that he is the owner of any specific share.
+the essence of joint hindu family property is unity of ownership and community of interest.
+shares of the members are not defined.
+however, in view of the unity of ownership and community of interest of all coparceners in the joint hindu family business, the position on partition of joint hindu family business, whether it be partial or complete, is very similar in law to be position on dissolution of a partnership firm.
+on partition the shares of the coparceners in the joint family business become defined and their community of interests is separated.
+division of assets is a matter of mutual adjustment of accounts as in the case of a dissolved partnership firm.
+the property which so comes to the share of the coparcener, therefore, cannot be considered as transfer by the joint family to a coparcener or the extinguishment of the right of the joint family in that property, the joint family not having its own separate interest in that property which can be transferred.
+therefore, the entire reasoning in the case of malabar fisheries company supra equally applies to the partition of the assets of a joint hindu family.
+if that be so, then the ratio in the case of malabar fisheries company supra covers the present case as has been held in the impugned judgment of the madras high court.
+in the malabar fisheries company supra there is an additional reason given for holding that section 34 3 b is not attracted.
+the court has said that the sale or transfer of assets must be by the assessee to a person.
+upon dissolution, the firm ceases to exist.
+then follows the making up of the accounts, distribution of assets etc.
+this distribution is not done by the dissolved firm.
+in this sense, there is no transfer of assets by the assessee, that is to say, the dissolved firm, to any person.
+the same will be the position in the case of partition of a joint hindu family when assets are divided between the coparceners.
+in the present case, however, unlike the malabar fisheries companys case supra , a further event has occurred within eight years after the partial partition of the hindu joint family and distribution of its assets amongst the coparceners.
+the coparceners have sold the machinery to a third party within a period of eight years.
+looking to the conditions which have been stipulated in section 3493 b , the sale or transfer is required to be by the assessee to a third party.
+in the present case since the sale is not by the joint family to the third party this condition is held as not fulfilled by the madras high court, although there is, in fact, a sale to a third party.
+in the light of the judgment in the malabar fisheries companys case supra , the madras high court has, therefore, held that the re-opening by the income-tax officer under section 155 5 of the income-tax act, 1961 was not in accordance with law.
+the appellant, however, has drawn out attention to two recent decisions of this court where a somewhat different view has been taken of the provisions relating to development rebate.
+in the case of south india steel rolling mills, madras v. commissioner of income tax, madras 1997 9 scc 728 , a bench of two judges of this court examined the case where the partnership firm had obtained the benefit of development rebate under section 33 1 a but the partnership firm stood dissolved before the expiry of eight years on account of the death of one of the two partners, although from the next day a new partnership firm was constituted.
+this court said that under section 33 1 a , the words which qualify an assessee for obtaining development rebate are, plant and machinery which is owned by the assessee and is wholly used for the purposes of the business carried on by him.
+therefore, the machinery must be used for a period of eight years by the assessee for the purposes of the business carried on by him.
+since the assessee had ceased to carry on business within the period of eight years, it ceased to comply with section 33 1 a and the similar requirements of section 34 3 a .
+hence it would lose its right to the development rebate which was earlier granted.
+this court distinguished the decision in malabar fisheries companys case supra by saying that in that case this court had construed the expression transfer in the context of section 34 3 b of the act which in the case before it the partnership firm ceased to exist because it was dissolved before the period of eight years.
+in the case of commissioner of income-tax v. narang dairy products 219 itr 478 development rebates was withdrawn when the assessee did not use the machinery for the purpose of his business for eight years.
+the right to recompute the total income which is given to the income-tax officer under section 155 5 on the ground that the development rebate originally allowed shall be deemed to have been wrongly allowed has to be exercised in accordance with the provisions of section 155 5 .
+the circumstances under which the development rebate shall be deemed to have been wrongly allowed are set out in section 155 5 and these are 9 that at any time before the expiry of eight years, the plant or machinery is sold or otherwise transferred by the assessee to any person. 2 the second condition is about the breach of terms relating the utilisation of the reserve account.
+there is no express requirement under section 155 5 1 or section 34 3 b that the plant or machinery should be used for a period of eight years by the assessee wholly for the purpose of his business.
+however, sections 155 5 and 34 3 b cannot be read in isolation ignoring section 33.
+in malabar fisheries companys case supra the question whether the asset could be said to be used by the partnership firm for a period of eight years for the purposes of its business when the firm was dissolved within eight years, was never raised.
+moreover, this question possibly did not arise because the machinery remained with the partners during eight years although the firm was dissolved.
+in the present case, although the partial partition does not result in any transfer and we may treat the machinery as with the assessee, there is a sale of the machinery to a third party within eight years.
+therefore, this is a clear case where the assessee has not used the machinery for his business for a period of eight years even if we take the assessee as a compendium of joint hindu family-cum-coparceners.
+sections 33, 34 and 155 5 have to be read together.
+development rebate can be granted when the new machinery is wholly used by the assessee for the purpose of his business.
+it should be so used by the assessee for a period of eight years.
+it should also not be sold or otherwise transferred by the assessee.
+since that is not the case here, section 155 5 has been rightly invoked in the present case.
+the appeals are, therefore, allowed.
+the question is answered in the negative and in favour of the revenue.

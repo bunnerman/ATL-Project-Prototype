@@ -1,0 +1,15 @@
+# Environment variables (sensitive keys)
+.env
+.env.txt
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ChromaDB persistence directory
+chroma_db/
+
+# OS specific files
+.DS_Store
+Thumbs.db

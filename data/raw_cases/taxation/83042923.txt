@@ -1,0 +1,122 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal number 6924 2012 arising out of s.l.p.
+c  number10700 of 2009 price waterhouse coopers pvt.
+limited appellant versus commissioner of income tax, kolkata-i .respondents and anr.
+j u d g m e n t madan b. lokur, j. 1. leave granted.
+2. the assessee is aggrieved by a judgment and order dated 18.12.2008 passed by the high court of calcutta in ita number120 of 2006.
+by the impugned judgment, a penalty imposed on the assessee under section 271 1  c  of the income tax act, 1961 was upheld, though the quantum was reduced.
+we are of the view that on the facts of the case the imposition was not justified.
+3. we are concerned with the assessment year 2000-2001.
+the assessee provides multi-disciplinary management consultancy services and has a worldwide reputation.
+it filed its return of income on 30.11.2000 under section 139 6  read with section 139 6a  of the income tax act  for short, the act .
+as statutorily required by section 139 6a  of the act, the assessee also filed its tax audit report under section 44ab of the act.
+the statement of particulars filed by the assessee was in form 3cd as required by rule 6g 2  of the income tax rules, 1962 and is, in a sense, an integral part of the return.
+4. in column 17 i  of the statement, it was stated as follows - 17.
+amounts debited to the profit and loss account being-  a  xx
+xx xx
+xx
+xx
+xx  
+b  xx
+xx xx
+xx
+xx
+xx  c  xx
+xx
+xx
+xx
+xx
+xx  
+d  xx
+xx
+xx
+xx
+xx
+xx  
+e  xx
+xx xx
+xx
+xx
+xx  
+f  xx
+xx xx
+xx
+xx
+xx  
+g  xx
+xx
+xx
+xx
+xx
+xx  h  
+xx xx
+xx
+xx
+xx
+xx  
+i  provision for payment of rs.23,70,306/- gratuity not allowable under liability provided for section 40a 7  payment of gratuity  5. even though the statement indicated that the provision towards payment of gratuity was not allowable, the assessee claimed a deduction thereon in its return of income.
+on the basis of the return and the statement, an assessment order was passed under section 143 3  of the act on 26.03.2003.
+according to the assessee, the claim for deduction was inadvertent and it also seems to have been overlooked by the assessing officer.
+6. much later, the assessing officer issued a notice to the assessee under section 148 of the act on 22.01.2004 for reopening the assessment.
+the notice did not indicate any reason why it was issued except to state that income for the assessment year 2000-2001 had escaped assessment.
+7. in response to the notice, the assessee filed its return under protest on 16.02.2004 and also requested for the grounds for reopening the assessment.
+8. by a letter dated 16.12.2004, the assessee was furnished the reasons for reopening the assessment, which read as under- a. reasons for-opening u s 147 relevant to a.y. 2000-01 in this case, regular assessment was completed under section 143 3  on 26.03.03 at a total income of rs.24,42,91,550/-.
+on perusal of the assessment records, it is seen from clause 17 i  of the tax audit report that rs.23,70,306/- being liabilities provided for payment of gratuity, was provided for during the year.
+this provision is not allowable u s 40a 7  and was required to be added back.
+however, the same has not been added by the assessee in its computation, thereby leading to underassessment of income by rs.23,70,306/-.
+9. soon after the assessee was communicated the reasons for re- opening the assessment, it realized that a mistake had been committed and accordingly by a letter dated 20.01.2005 the assessing officer was informed that there was no willful suppression of facts by the assessee but that a genuine mistake or omission had been committed which also appears to have been overlooked by the assessing officer before whom the tax audit report was placed.
+accordingly, the assessee filed a revised return on the same day.
+a re-assessment was passed on the same day and the assessee then paid the tax due as well as the interest thereon.
+10.
+unfortunately for the assessee, the assessing officer thereafter initiated penalty proceedings under section 271 1  c  of the act.
+11.
+after obtaining a response from the assessee, the assessing officer saddled the assessee with penalty at 300 on the tax sought to be evaded by the assessee by furnishing inaccurate particulars.
+the quantum of the penalty was determined at rs.27,37,689/-.
+12.
+feeling aggrieved, the assessee preferred an appeal, but the commissioner of income tax  appeals  rejected the appeal and upheld the penalty imposed on the assessee.
+in a further appeal, the income tax appellate tribunal  for short the tribunal  upheld the imposition.
+significantly, the tribunal mentions that the assessee had made a mistake, which could be described as a silly mistake, but since the assessee is a high-calibre and competent organization, it was not expected to make such a mistake.
+accordingly, the tribunal reduced the penalty to 100.
+13.
+against the order of the tribunal, the assessee approached the calcutta high court which dismissed its appeal
+
+--- JUDGMENT BODY ---
+
+filed under section 260-a of the act by the impugned order.
+the only reason given by the high court for dismissing the appeal reads as under- after analysing the facts of this case, considering the submissions made by the learned advocates for the parties and the materials placed before us, we cannot brush aside the fact that the assessee company is a well known and reputed chartered accountant firm and a tax consultant.
+we also do not find any substance in the submissions made by dr. pal on the contrary, in our considered opinion, we find that section 271 1  c  of the act has specifically stated about the concealment of the particulars of income or furnishing of inaccurate particulars of such income which has to be read either or and on the given facts of this case would automatically come within the four corners of section 271 1  c  of the act and we come to the conclusion that the appellant have failed to discharge their strict liability to furnish their true and correct particulars of accounts while filing the return.
+we are also of the opinion that the penalty under that provision is a civil liability and wilful concealment is not an essential ingredient for attracting civil liability as in the matter of prosecution under section 276c, as has been held by the honble supreme court.
+we also find that the mens rea is not an essential element for imposing penalty for breach of civil obligations or liabilities.
+we, therefore, accept the contention of mr. shome and dismiss the appeal answering the questions in the negative.
+14.
+during the course of hearing this appeal against the judgment and order of the calcutta high court, we had required the assessee to explain to us how and why the mistake was committed.
+15.
+the assessee has filed an affidavit dated 14th september, 2012 in which it is stated that the assessee is engaged in multidisciplinary management consulting services and in the relevant year it employed around 1000 employees.
+it has a separate accounts department which maintains day to day accounts, pay rolls etc.
+it is stated in the affidavit that perhaps there was some confusion because the person preparing the return was unaware of the fact that the services of some employees had been taken over upon acquisition of a business, but they were not members of an approved gratuity fund unlike other employees of the assessee.
+under these circumstances, the tax return was finalized and filled in by a named person who was not a chartered accountant and was a common resource.
+16.
+it is further stated in the affidavit that the return was signed by a director of the assessee who proceeded on the basis that the return was correctly drawn up and so did not notice the discrepancy between the tax audit report and the return of income.
+17.
+having heard learned counsel for the parties, we are of the view that the facts of the case are rather peculiar and somewhat unique.
+the assessee is undoubtedly a reputed firm and has great expertise available with it.
+notwithstanding this, it is possible that even the assessee could make a silly mistake and indeed this has been acknowledged both by the tribunal as well as by the high court.
+18.
+the fact that the tax audit report was filed along with the return and that it unequivocally stated that the provision for payment was not allowable under section 40a 7  of the act indicates that the assessee made a computation error in its return of income.
+apart from the fact that the assessee did not notice the error, it was not even noticed even by the assessing officer who framed the assessment order.
+in that sense, even the assessing officer seems to have made a mistake in overlooking the contents of the tax audit report.
+19.
+the contents of the tax audit report suggest that there is no question of the assessee concealing its income.
+there is also no question of the assessee furnishing any inaccurate particulars.
+it appears to us that all that has happened in the present case is that through a bona fide and inadvertent error, the assessee while submitting its return, failed to add the provision for gratuity to its total income.
+this can only be described as a human error which we are all prone to make.
+the calibre and expertise of the assessee has little or nothing to do with the inadvertent error.
+that the assessee should have been careful cannot be doubted, but the absence of due care, in a case such as the present, does not mean that the assessee is guilty of either furnishing inaccurate particulars or attempting to conceal its income.
+20.
+we are of the opinion, given the peculiar facts of this case, that the imposition of penalty on the assessee is not justified.
+we are satisfied that the assessee had committed an inadvertent and bona fide error and had not intended to or attempted to either conceal its income or furnish inaccurate particulars.
+21.
+under these circumstances, the appeal is allowed and the order passed by the calcutta high court is set aside.
+no costs.
+cji.   s.h. kapadia  j.  madan b. lokur  new delhi september 25, 2012

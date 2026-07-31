@@ -1,0 +1,35 @@
+--- PREAMBLE & CASE INFO ---
+
+judgment shah, j. 1.
+this is an appeal with special leave against the judgment of the income-tax appellate tribunal, calcutta bench, calcutta.
+
+--- JUDGMENT BODY ---
+
+the appellant is private company registered under the india companies act incorporated with the objects, amongst other, 1 to by and develop landed properties and 2 to promote and develop markets.
+in 1946 the appellant purchased ten bighas of land in the town of calcutta and set up a market therein.
+the appellant constructed shops and stalls on platforms on that land.
+for the assessment year 1953-54 the appellant received rs. 53,145 as income from the tenants of shops and rs. 29,721 from the tenants or occupants of stalls.
+the income-tax officer assessed the income derived from shops and stalls under section 9 of the income-tax act.
+the order of assessment was confirmed in appeal by the appellate assistant commissioner and by the tribunal.
+the appellant has obtained special leave to appeal against the order of the tribunal.
+2. the appellant contends that because it is a company formed with the object of promoting and developing markets, its income derived from the shops and stalls is liable to be taxed under section 1o of the income-tax act as profits or gains of business and that the income is not liable to be taxed as income from property under section 9 of the act.
+the appellant is undoubtedly, under the provisions of the calcutta municipal act, 1951 required to obtain a licence from the corporation of calcutta and to maintain sanitary and other services in conformity with the provisions of that act and for that act and for that purpose has to maintain a staff and to incur expenditure.
+but on that account, the income derived from letting out property belonging to the appellant does not become profits or gains from business within the meaning of sections 6 and 1o of the income-tax act.
+by section 6 of the income-tax act the following six different heads of income are made charageable 1 salaries, 2 interest on securities, 3 income from property, 4 profits and gains of business, profession or vocation, 5 income from other sources and 6 capital gains.
+this classification under distinct heads of income, profits and gains is made having regard to the sources from which income is derived.
+income-tax is undoubtedly levied on the total taxable income of the taxpayer and the tax levied is a single tax on the aggregate taxable receipts from all the sources it is not a collection of taxes separately levied on distinct heads of income.
+but the distinct heads specified in section 6 indicating the sources are mutually exclusive and income derived from different sources falling under specific heads has to be computed for the purpose to taxation in the manner provided by the appropriate section.
+if the income from a source falls within a specific head set out in section 6 the fact that it may indirectly be covered by another head will not make the income taxable under the latter head.
+3. the income derived by the company from shops and stalls is income received from property and falls under the specific head described in section 9.
+the character of that income is not altered because it is received by a company formed within object of developing and setting up markets.
+in united commercial bank limited v. commissioner of income- tax this court explained after an exhaustive review of the authorities that under the scheme of the income-tax act, 1922, the heads of income, profits and gains enumerated in the different clauses of section 6 are mutually exclusive, each specific head covering items of income arising from a particular source.
+4. in fry v. salisbury house estate company limited a company formed to acquire, manage and deal with a block of buildings, having let out the rooms as unfurnished offices to tenants, was held chargeable to tax under schedule a to the income tax act.
+1918, and not schedule d. the company provided a staff to operate the lifts and to act as porters and watch and protect the building and also provided certain services such as heating and cleaning to the tenants at an additional charge.
+the taxing authorities sought to charge the income from letting out of the rooms as receipts of trade chargeable under schedule d, but that claim was negatived by the house of lords holding that the rents were profits arising from the ownership of land assessable under schedule a and that the same could not be included in the assessment under schedule d as trade receipts.
+5. in commercial properties limited v. commissioner of income-tax income derived from rents by a company whose sole object was to acquire lands, build houses and let them to tenants and whose sole business was management and collection of rents from the said properties, was held assessable under section 9 and not under section 10 of the income-tax act.
+it was observed in that cases that, merely because the owner property, was a company incorporated with object of owning property, the incidence of income derived from the property owned could not be regarded as altered the income came more directly and specifically under the head property than income from business.
+6. the income received by the appellant from shops is indisputable income from property so is the income from stalls from occupants.
+the character of the income is not altered merely because some stalls remain occupied by the same occupants and the remaining source of income from the stalls is occupation of the stalls, and it is a matter of little moment that the occupation which is the source of the income is temporary.
+the income-tax authorities were, in our judgment, right in holding that the income received by the appellant was assessable under section 9 of the income-tax act.
+7. the appeal, therefore, fails and is dismissed with costs.
+8. appeal dismissed.

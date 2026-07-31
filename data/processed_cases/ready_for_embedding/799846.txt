@@ -1,0 +1,58 @@
+--- PREAMBLE & CASE INFO ---
+
+judgment b.k. mukherjea, j. 1.
+
+--- JUDGMENT BODY ---
+
+this application is for review of a decision of the taxing officer, presented by shri s. subramania, an agent of this court, under the provision of order 40, rule 35 of the supreme court rules.
+there is no controversy about the facts which are material for purposes of this application and they lie within a very short compass.
+shri subramania acted as an agent for the respondent in civil appeal number 102 of 1949 which was disposed of by this court on 19-3-1951.
+the appeal was dismissed and the appellants were directed to pay to the respondent the costs of the appeal.
+the taxation proceeding then began before the taxing officer and it transpired in course of these proceedings that there was an agreement between shri subramania and his client at the time when he was engaged as an agent by the latter that he would be paid, as his remuneration, a consolidated sum of rs. 300/-, to which all out-pocket expenses would be added but that in the event of the case being decided in favour of his client, he would have the benefit of the taxed costs.
+the question that arises for consideration is, whether in taxing costs between party and party the appellants should be directed to pay to the respondent only what the latter agreed to pay to his agent, or the respondent would have the full benefit of the taxed costs that are normally allowed in such cases?
+the taxing officer has held that the respondent can have from the appellants not the ordinary taxed costs, but a sum of rs.
+300/-only plus the out-pocket expenses incurred by his agent.
+it is the propriety of this decision that has been challenged before me in this application for review.
+2. it is conceded by both sides that there is no provision in our rules exactly covering a case of this description.
+under order 40, rule 2 of the supreme court rules the taxing officer is bound in such circumstances to be guided by the rules and practice of the supreme court in england.
+3. mr. umrigar, who appears in support of this application, put forward a two-fold contention on behalf of his client.
+it was argued in the first place that the english practice, as has been described by the taxing officer and upon which his decision is based, is not the settled practice under the rules of the supreme court in england.
+the practice referred to by the taxing officer has its origin in certain statutory enactments and there is controversy regarding it even now.
+the second point urged is that even if the taxing officer is right in his decision, as the agent entered into this agreement under a bona fide mistake and there was no rule or authoritative pronouncement of this court to guide him in this matter, i should in the exercise of my discretion allow the taxed costs in the present case though once the practice is settled, they may be disallowed in future in cases of this description.
+4. the second contention is apparently devoid of any substance, and as regards the first i do not think there is any doubt or controversy regarding the english practice.
+the question, however, still remains to be decided as to whether the application of the english rule to the facts of the present case leads to the conclusion that has been arrived at by the taxing officer.
+as this is the first case of its kind which has come up for decision before the court, it is necessary that the matter should be examined with some care.
+5. prior to any statutory provision, a solicitor, under the general law of england, was not incapable of entering into an agreement with his client regarding remuneration for his professional business but if such agreement was unfavourable to the client, the court would not enforce it unless it was satisfied that it was made in circumstances precluding any suspicion of an improper attempt to gain benefit at the clients expense.
+vide -- clare v. joseph, 1907- 2 k b 369 a halsburys laws of england, 2nd edition, vol.
+xxxi page 165.
+the attorneys and solicitors act of 1870 purported to make an alteration of law in this respect.
+under section 4 of the act, such agreement was valid if it was made in writing and it could be set up by the solicitor against his client.
+section 5 of the act further provides that agreements of this kind should not affect the rights of third parties and consequently any person, who is bound to pay costs to which such an agreement relates, may require the costs payable by him to be taxed according to the rules for the time being in force.
+but there is a proviso attached to this section which lays down that the client, who has entered into such agreement, shall not be entitled to recover from any other person under any order for payment of costs which constitute the subject matter of such agreement more than the amount payable by the client to his own attorney or solicitor under the same.
+these provisions have subsequently been incorporated in sections 59 and 60 1 , solicitors act of 1932.
+there is another provision in clause 5 of section 60 of the 1932 act which lays down that if the business covered by the agreement is business in any action, then no remuneration under the agreement is to be received by the solicitor until the agreement has been examined allowed by the taxing officer of the court if in the opinion of the taxing officer such agreement is unfair or unreasonable, he may require the opinion of the court and the court may reduce the amount, or order the agreement to be cancelled.
+this provision has been adopted in its entirety in rule 46, order 40 of the rules of our court, but as this is a matter entirely between the agent and the client, we are not concerned with it in the present case.
+the rule that is relevant for our present purpose is the one which provides that a client, who has entered into an agreement with his agent or solicitor fixing the amount or the manner of the latters remuneration, is not entitled to recover from the opposite party anything in excess of that amount even though on taxation the costs might be much more.
+this is based upon the principle of english law that party and party costs are only an indemnity--an imperfect indemnity it is true--but never more than indemnity vide the observation of fletcher moulton, l. j. in -- gundry v. sainsbury, 1910-1 k b 645 at p. 650 b and consequently, the successful party will not be allowed to make any profit out of the order for costs made in his favour.
+6.
+but although i have no doubt as to the soundness of the principle upon which this rule is based and no doubt also that this rule should be applied to this court--there being no specific provision on this point in our own rules-- yet i am not convinced that the application of this rule justifies the order that has been made by the taxing officer in the present case.
+if the agreement between the agent and the client had been merely this, that the client would pay the agent in addition to out-pocket expenses a sum of rs. 300/- as his remuneration for the entire work in connection with the appeal, the order of the taxing officer would have been a perfectly good order.
+but there is the other part of the agreement to which due and proper attention does not seem to have been paid.
+under this part of the agreement, the agent is entitled to recover from his client, in case the latter succeeds in litigation, whatever sum might be allowed to him on proper taxation.
+this is the agreement between the parties.
+the latter part undoubtedly embodies a contingent promise, the performance of which is made to depend upon the happening of an uncertain event but as the event has happened in the present case, the obligation has ripened into an absolute one.
+in these circumstances, it is the latter part of the agreement which is now operative and not the earlier part.
+this being the position, the application of the english doctrine does not, in my opinion, help the appellants in any way.
+in the contingency which has happened, the respondent is entitled under the terms of the agreement with the agent to pay to the latter whatever amount might be allowed as agents fees, on proper taxation.
+if the principle of indemnity is the correct principle to be applied, the appellants cannot claim that they should pay a less amount than what their opponent would have to pay to his agent.
+7. the taxing officer seems to be under an impression that the latter part of the agreement is not enforceable because it is not a bona fide arrangement and is calculated to aid gambling in litigation.
+if the agreement was to relieve the client of his costs in the event of the litigation not being successful, the law of maintenance might have some bearing on such agreement.
+the question of champerty again could arise if the solicitor is to be paid out of the proceeds of the litigation.
+obviously, nothing like that has happened here.
+but assuming that the agreement is void unenforceable for some reason or other, even then, the whole of it has got to be disregarded and the party and party costs are to be taxed, as if no such agreement existed.
+the court is not competent to substitute a new contract for the parties and the first part of the agreement cannot be taken to be the whole contract ignoring the second part altogether.
+8. as i have said already, the question of an agreement between client and agent regarding the remuneration of the latter being oppressive or unreasonable might arise when the costs as between agent and client have got to be taxed and order 40, rule 46 of the rules of our court provides for relief which the taxing officer can afford to the client in such circumstances.
+no such question arises in the present case.
+9. the result is that the order of the taxing officer is set aside and the matter is remitted to him with the direction that he would tax party and party costs in his appeal in the normal way.
+10.
+there will be no order as to costs of this, application.

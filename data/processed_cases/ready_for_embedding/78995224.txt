@@ -1,0 +1,201 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal number 4513 of 2005 m s. hcl limited appellant s versus commissioner of customs new delhi respondent s j u d g m e n t a.k. sikri, j. classification of the machines known as risograph, which are imported by the appellant m s. hcl limited, is the issue involved in the present appeal.
+the question is as to whether risograph is an office machine having duplicating function and thus to be classified under sub- heading 8472.90 of the customs tariff act, 1975 or is it a printing machine to fall under sub-heading 8443.50.
+the main chapter under which both the sub-headings fall is chapter 84 which deals with machinery and mechanical appliances.
+sub-heading 84.43 thereof relates to printing machinery machines for uses ancillary to printing and various entries under this sub- heading are as follows 84.43 printing machinery machines for uses ancillary to printing - offset printing machinery 8443.11 - reel fed 65 8443.12 - sheet fed, office type sheet size not 65 exceeding 22 x 36 cm 8443.19 - other 65 - letterpress printing machinery, 8443.21 - reel fed 65 8443.29 - other 65 8443.30 - flexographic printing machinery 65 8443.40 - gravure printing machinery 65 8443.50 - other printing machinery 65 8443.60 - machines for uses ancillary to printing 65 8443.90 - parts 65 sub-heading 84.72, on the other hand, deals with other office machines and includes duplicating machines.
+various entries under this sub-heading read as under 84.72 other office machines for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines 8472.10 - duplicating machines 65 8472.20 - addressing machines and address plate 65 embossing machines 8472.30 - machines for sorting or folding mail or 65 for inserting mail in envelopes or bands, machines for opening, closing or sealing mail and machines for affixing or cancelling postage stamps 8472.90 - other 65 as per the appellant-assessee, risograph machine is a printing machine which should be covered by sub-heading 8443.50, namely, other printing machinery.
+on the other hand, the respondent-revenue has taken the position that it is a specie of duplicating machine and falls under the sub- heading 8472.90, viz.
+other.
+though under both the sub-headings the import duty is 65, however, insofar as printing machinery is concerned, by virtue of notification number 59/94-cus dated march 01, 1994, which includes chapter heading 84.43, the duty is to be calculated at the rate of 25 ad valorem.
+that is the precise reason behind the present lis between the parties from the aforesaid, one thing is clear.
+risograph machine does not fit in any of the specific descriptions contained either in sub-heading 84.43 or 84.72.
+both the parties are trying to fit it in the respective residual clauses viz.
+other printing machine or other respectively.
+therefore, what needs to be examined is as to whether the risograph machine would belong to the family of printing machinery or it belongs to the clan of duplicating machine.
+right from the order-in-original passed by the adjudicating authority, commissioner of customs appeals to the customs excise and service tax appellate tribunal cestat , the view taken is in favour of the revenue thereby holding the risograph machine to be in the nature of a duplicating machine, which does not qualify to be a printing machine at all.
+the tribunal, while holding that it is to be classified as an office machine having duplicating function, has relied upon its earlier judgment in the case of pioneer international v. collector of customs, kandla1.
+the attempt on the part of the appellant to demonstrate that it does printing job and is improperly referred to as a duplicating machine has not cut any ice with the tribunal which has chosen to follow its own decision in the case of pioneer international.
+in a case like this, the first query of the court was as to whether in the case of pioneer international any appeal was preferred.
+answer given was in the negative, which means that the correctness of the order of the tribunal in pioneer international was not tested in this court.
+questioning the wisdom of the authorities below with the contention that they have arrived at incorrect conclusion in this behalf, it was argued by the learned counsel for the appellant that a detailed reply dated february 01, 1995 was filed to the show-cause notice dated january 13, 1995 issued by the assistant collector of customs contending that the machine is classifiable under sub-heading 8443.50.
+it was pointed out that in support of the aforesaid plea taken by the appellant it had enclosed opinions from various customers who were using the risograph machine as a printing machine and also the assessment by the japanese customs specifically classifying the machine un
+
+--- JUDGMENT BODY ---
+
+der sub-heading 8443.50.
+the appellant categorically brought to the notice of the assistant commissioner the following facts for the purpose of classification a riso kagaku corp, the manufacturers of risograph, were themselves clearing the machine under sub-heading 8443.50 of the classification without raising any objection b test of trade parlance was in favour of the appellant wherein risograph is commercially known and understood as a digital printing machine in india as well as abroad, as evident from the declaration of the manufacturers c the mere fact that risograph starts with an original cannot be a ground to say that it is not a printing machine when all other printing machines require an original in some form or the other, be it in the form of plates or digital images d hsn explanatory notes clearly support the classification of the machine under chapter heading 84.43 wherein it specifically provides that in addition to normal type of printing machine chapter heading 84.43 also cover special machines such as small office printing machines which operate by means of printing type or by offset process, and which are improperly referred to as duplicating machines because their operating principles and appearances are similar to those of duplicating machines, no doubt referring to machines like risograph e even if principles of duplication are involved, chapter heading 84.72 would not be attracted because the hsn explanatory notes clearly provide that the said heading specifically excludes small printing machines even if intended for office use and f risograph machine functions in the principles of printing machines as it uses ink drums and squeegee rollers therein to print images similar to the process of screen printing.
+besides this, the appellant explained in detail the technical specifications of a risograph machine and its functioning and also explained that the principle of risograph is akin to screen printing for which the appellant submitted technical literature.
+learned counsel for the appellant submitted that the aforesaid aspects are totally ignored by the authorities below and insofar as the tribunal is concerned, it has conveniently omitted to look into these aspects by blindly following its decision in pioneer international and has erred in the following manner thereby a the opinion rendered by the dgtd deputy chief controller of imports and exports is in favour that the risograph is a printing machine and such technical opinion has not been overcome by the impugned order.
+there is no rebuttal to the opinions obtained from dgtd etc.
+by the revenue.
+a number of other buyers have certified that the machine is a printing machine and not rebutted by the revenue. b the japanese customs have classified the risograph only under chapter heading 84.43 and this position is not disputed even by the indian customs. c the scanner has been extensively used in the printing industry to transfer the image by utilising a thermal head to make masters used for printing, and hence the classification of the risograph can only be under that chapter heading. d risograph does not cut stencils but makes masters of the image to be printed. e chapter heading 84.72 is a residuary entry and the hsn specifically rules out classification of the risograph under that heading. f the bare literature of the risograph machine clearly shows that the machine is nothing but a printing machine. g the tribunal in para of the order in pioneer international has held that the risograph is used to reproduce copies and does not have any mechanism to print any original matter.
+this is totally incorrect inasmuch as once the master is made then from the master, by the principle principle using ink, which flows through the pores of the paper plastic master, fresh prints are taken out.
+there is no copying principle as in a photocopying machine. h operation guide itself shows how the master is first made and thereafter prints are taken out and hence the conclusion of the tribunal in para 9 in pioneer international is totally incorrect and perverse. i in the case of offset printing, as per the tribunal, the impression is taken on a rubber roller and then on to the paper.
+in other words, the master is made which is transferred to the rubber rollers, which thereafter prints on the blank paper.
+in the present case, the risograph makes the master and from the master prints are obtained and hence it is nothing but a printing process.
+the process of making master is akin to the printing plates made in the printing industry and there is no escape from this conclusion.
+moreover, the inked prints obtained as per the technical literature of the risograph is the same as what is recorded in para 10 of the order in pioneer international, that is offset printing is a process in which the inked impression is made on to the paper.
+in the case of the risograph machine, ink goes through the pores of the long fibred paper used in the paper plastic master to make the prints. j the master made by the risograph is not like the stencil which is a simple process in stencil duplicating machine, but the master is by the printing technology principles for making the master.
+such stencil making process for printing is indeed recognised in the hsn explanatory notes inasmuch as heading 84.43 even covers screen printing machines using a stencil screen band.
+thus, the risograph, after making the master, prints as in the case of an ordinary printing machine.
+it is incorrect to equate the risograph master to an ordinary tencil cut out on a typewriter for use in a stencil duplicating machine.
+mr. k. radhakrishnan, learned senior counsel appearing for the revenue, on the other hand, took us through the reasons given by the assistant commissioner as well as the commissioner appeals in support of their findings and also relied upon the tribunals decision in pioneer international for the reasons given therein and submitted that the impugned order of the tribunal does not call for any interference.
+he further submitted that risograph machine is not a machine to print original matter.
+master board is only for reproduction.
+giving details of the risograph machine, he submitted that the risograph works by the process of automatic digital scanning, thermal screening duplicating systems.
+the principal operations involved in the risograph printer are screening, master making and printing.
+the printers scanner consists of photo sensors comprising of light emitting devices and of photo detector.
+the light emitted from the light emitting devices strikes the original.
+the light is reflected by lighter white area of the original, whereas the light falling on the darker area of the original is absorbed.
+the photo detector detects the reflected light and reads white and black areas of the original, as read by the scanner.
+the thermal head, which consists of hundreds of heat emitting elements, is used to make the master copy on the basis of the signal received from the image scanner.
+this master copy is exactly similar to a stencil used in a duplicating machine, which is then loaded on to the drum.
+the ink which is carried in the drum pieces through the micro-pores in the master on the paper when it is fed underneath the rotating drum.
+it is, therefore, submitted that risograph is nothing but a transformation of the duplicator with certain additional functions.
+the afore-mentioned process clearly indicates that there are no principles of offset printing or photocopying involved.
+it is further submitted that the principal function is that of a duplicating machine and cannot be treated as a offset printing machine.
+he also submitted that on february 02, 1993, the conference of collector of customs examined under which chapter tariff heading risograph should be classified.
+the collectors conference, after examining the detailed catalogue and working of risograph, came to the conclusion that the machine is a duplicating machine and, therefore, appropriately classifiable under heading 84.72.
+the collectors conference also came to conclusion that risograph is more appropriately classifiable under sub-heading 8472.10.
+he, thus, summed up his arguments by contending that printing and photocopying were somewhat overlapping in the instant case.
+however, insofar as risograph machine is concerned, unlike normal printing machines, original goes into the said machine and master copy is made inside the machine and then copies are prepared taken.
+simply because it is able to make 130 copies in one minute would not make it a printing machine, but it was only a high quality photocopy machine with following features a. the following three systems function in tandem to produce 130 copies or so per minute a master making system high-speed digital scanning and thermal screening system b printing system automatic stencil duplicating system c image scanning system flat-bed scanner moving system thus, the specification itself establishes that the printing system inside the risograph is an automatic stencil duplicating system.
+b.
+the input is the original and the output is the copy of the original.
+c. technology in risograph is simple, highly reliable, speed-wise far more superior and cost-wise less expensive than a standard photocopier.
+d. per contra, in printing there is no original.
+the original has to be printed.
+e. the concepts of common parlance and principal function ensure that the risograph merits classification in sub-heading 8472.90.
+according to mr. radhakrishnan, common parlance theory shall also apply in this case inasmuch as in the market and to the general consumers of this product, it was known as photocopying duplicating machine only and not as printing machine, which was its principal function.
+we have given our due consideration to the aforesaid submissions of the learned counsel for the parties and have also gone through the material as well as literature produced by the learned counsel in support of their respective submissions.
+in a matter like this it is obvious that we have to understand what is duplicating machine and what is printing machine and how they differ from each other.
+thereafter, we will have to take note of the technical specifications and functioning of the machine in question, namely, risograph machine, to enable us to find an answer as to whether it fits the description of a duplicating machine or a printing machine.
+for better understanding of the matter and to answer the question appropriately, we may first scan through certain statutory and other relevant provisions.
+as already noted above, chapter heading 84.72, applies to other office machines, includes duplicating machines.
+hsn explanatory notes to chapter heading 84.72 explains that the term office machine is to be taken in a wide general sense to include all machines used in offices, shops, factories, workshops, schools, railway stations, hotels, etc., for doing office work i.e. work concerning the writing, recording, sorting, filing, etc., of correspondence, documents, forms, records, accounts, etc. .
+it, thereafter, gives the description of duplicating machines, which is included in the aforesaid heading, as under duplicating machines of the hectograph type e.g. gelatin or spirit duplicators , and stencil duplicating machines which operate with waxed paper stencils previously cut by a stylus or on a typewriter.
+the heading includes small presses designed for use with hectographic apparatus.
+but it excludes small printing machines e.g. letterpress, lithographic or offset printing machines even if intended for office us, and duplicators using embossed plastic or metal sheets including such machines which can also operate with stencils heading 84.43 , and photocopying or thermocopying apparatus and microfilm apparatus chapter 90 .
+the hsn explanatory notes makes it amply clear that small printing machines, even if intended for office use and even duplicators using embossed plastic or metal sheet, which can also operate with stencils, and photocopying etc. are specifically excluded.
+what follows from the above is that if there is a small printing machine like letterpress, lithographic or offset printing machine, which does the printing work and also, at the same time, performs duplicating work with stencils or otherwise and even photocopying work, it would still be treated as a printing machine and not duplicating machine.
+this would lead us to the description of printing machinery as given in hsn explanatory notes to chapter heading 84.43.
+it is stated therein that this heading covers all machines used for printing by means of the type, printing books, plates or cylinders of the previous heading and excludes the following a office hectograph or stencil duplicating machines, addressing machines and other office machines of headings 84.69 to 84.72. b photocopying or thermocopying apparatus e.g. for the production of blue prints, plans, etc., or for the reproduction of documents, picture postcards, etc. chapter 90 .
+hsn explanatory notes further clarifies that this heading includes the following 1 machines for printing a repetitive design, repetitive wordings or overall colour on textiles, wallpaper, wrapping paper, rubber, plastics sheeting, linoleum, leather, etc. 2 ancillary machinery whether or not presented separately such as feeders and folding machines, provided they are specially designed as ancillary machines to printing machines.
+thereafter, description of printing machinery is given by dividing it into three main categories, namely, i printing presses, ii cylinder printing machines, and iii rotary presses.
+insofar as printing presses are concerned, the variety thereof is stated in the following manner i ordinary presses, used particularly for printing artists engravings or proofs.
+in their simplest form they usually consist of a fixed horizontal slab or bed to hold the forme, clich or plate to be reproduced, and a movable plate which is pressed against the bed by means of a screw or lever mechanism the paper sheet is interposed and backed with a special material blanket to distribute the pressure evenly inking is done by hand or mechanically. ii platen presses these are much more powerful but similar in principle.
+the movable pressure plate or platen , with the blanket and paper sheet is almost horizontal, and closes like a jaw against the type matter held in position by the fixed vertical bed.
+normally, such presses are equipped with a roller inking arrangement, but the group also includes non-inking platen presses for dry relief printing.
+the aforesaid explanation acknowledges that this simplest form of printing presses consists of a fixed slab or bed to hold the forme, clich or plate to be reproduced.
+the ingredient of a plate from which there can be reproduction is, thus, recognised as a process of printing.
+it would also be pertinent to mention that these very hsn explanatory notes clarify that apart from the normal types of printing machines, there are special printing machines which are also covered by this heading.
+examples of 7 such machines are specifically given.
+for the purpose of this case, printing machine described at serial number7 would be pertinent.
+therefore, we reproduce the said description hereunder vii certain small office printing machines which operate by means of printing type or by the offset process, and which are impropery referred to as duplicating machines because their operating principles and papearance are similar to those of duplicating machines.
+this group also includes colour printing machines, used to colour, after they have been first printed in black and white, special art editions, playing cards, childrens illustrations, etc., by means of stencils or stencil-plates, the colour being applied by brushes, rollers or by spraying.
+what is significant is the recognition of the fact that there are many special machines obviously due to advancement of technology which are small office printing machines and they operate by means of printing type or by the offset process.
+it is also acknowledged that many times these machines are confused with duplicating machines and improperly referred to as such, primarily because of their appearance as duplicating machines and similar operating principles.
+nevertheless, as per this note these are not to be treated as duplicating machines, but printing machines.
+underneath the aforesaid special printing machines it is further mentioned that there may be machines for printing a repetitive design, repetitive words, etc. which would still qualify to be printing machines.
+example of four such machines are given in this inclusive description and screen printing machines are specifically included therein.
+the aforesaid aspects are demonstrated in the following specific words machines for printing a repetitive design, repetitive words or overall colour on textiles, wallpaper, wrapping paper, linoleum, leather, etc., include 1 block printing machines in which blocks engraved with the design, generally in relief, are repeatedly pressed on the cloth, wallpaper, etc., as it passes through the machine, thus producing a continuous design the same machines are also used for printing separate designs e.g. on scarves or handkerchiefs . 2 roller printing machines, usually consisting of a large central cylinder pressure bowl around the periphery of which is placed a series of engraved colour rollers, each with its colour trough, furnisher roller, doctor blades, etc. 3 screen printing machines.
+the material to be printed passes through the machine together with a stencil-screen band, the colour being applied through the stencil. 4 yarn printing machines.
+these produce colour effects on the yarn or sometimes on the roving before it is spun into yarn .
+thus, a fine distinction between the printing machine on the one hand and duplicating machine on the other has to be borne in mind with specific understanding that in many cases there may be confusion between duplicating machine and specific form of printing machine, namely, screen printing machine.
+we may point out at this juncture that the endeavour of the appellant is to establish that risograph machine is nothing but screen printing machine.
+after taking note of the basic features which distinguish printing from duplicating, let us understand the process adopted in risograph machine.
+risograph machine consists of an automatic digital scanner, a thermal head and a printing station.
+the prints of tex images which can be taken from these risographs can be suitably enlarged or reduced as per the user.
+the scanner portion of the risograph consists of a photo sensor comprising of light emitting diodes and photo detectors.
+the light emitted from these diodes strike the original.
+the light falling on the dark areas of the original are absorbed.
+the photo detector then detects the reflected light and reads the white and black area of the original as read by image scanner.
+the image thus formed by the scanner is a digital image and not an optical image or continuous image.
+from the scanner, image signals are transferred to thermal head.
+the thermal head is used to make master necessary for printing, based on the signals received from the image scanner.
+the thermal head carrying the signal received from the scanner touches the plastic film portion of the master.
+since the film is heat sensitive, the plastic film melts while the base paper remains unaffected, thus, forming the image of the original documents on the base paper.
+this constitutes the master used for subsequent printing.
+the master material consists of film based on polyester plastic material boded with long fibre japanese type paper through which ink can penetrate .
+the master film is a few microns in thickness and is, thus, thin.
+the polyester based material is bonded to the long fibre japanese type paper by co- polymerization.
+the plastic film used is heat sensitive.
+the paper is basically cellulose web through which ink can penetrate.
+the master material is in the form of a roll of paper.
+the paper is drawn from the roll and thermal head prepares the master.
+the prepared head is cut from the master and wound on the drum.
+the surface of the drum is a fine mesh of steel wire so as to allow ink to pass through the drum as well as the master while printing.
+a squeegee roller is fitted against the drum.
+ink gets filled between the squeegee roller and steel mesh of the drum.
+during printing the squeegee roller rotates thereby forcing the ink to pass through first, the drum surface, then to the master and then on to the paper to be printed.
+from the aforesaid description of the process adopted in risograph machine, it becomes apparent that risograph printing process is more akin to screen printing.
+as already pointed out above, the screen printing process requires a stencil and a screen, with the stencil carrying the design to be printed.
+this stencil is mounted against the screen.
+the printing itself takes place when the ink is squeegeed through the stencil onto the screen and ultimately onto the paper.
+it is the screen which holds the image area, which can carry either a pictorial or typographic material.
+similarly, in the case of a risograph, the long fibre japanese type paper is the master through which the ink is pressed to reproduce the image or text.
+the screen printing stencil prepared is equivalent to the plastic film coating on the cellulose fibre of risograph master.
+thus, the principles adopted for printing in the risograph is akin to that found in screen printing.
+at this stage, let us embark on a brief journey of printing from gutenberg to date to see how it has evolved over a period of time leading to screen printing which is one of the most sophisticated form of printing.
+printing, today, has become one of the most important means of mass communication though with the advent of computers and e-form of communication, in recent years its importance is somewhat dented.
+fact remains that even today it remains an important means of mass communication along with radio, television and films.
+in or around the year 1440, johannes gutenberg invented and developed the printing press.
+it was printing with movable type.
+gutenberg made separate pieces of metal type for each character to be printed.
+with movable type, a printer could quickly make many identical copies of a book.
+using this process, the same pieces of type could be used over and over again to print many different books.
+over a period of time, there has been improvement in the methodology of printing with the advancement of technology.
+however, there are certain steps which are common to all printing processes.
+these steps include i typesetting, ii proofing, iii preparing illustrations for reproduction, and iv page makeup.
+typesetting is the process of putting into type the words to be printed.
+it is also called composition.
+typesetting can be classified as 1 hot-metal typesetting or 2 photocomposition.
+hot-metal type printing is now done mostly by machine, which was earlier done by hand.
+there are two main kind of machines that set metal type the line caster and the monotype.
+photocomposition which is also called phototypesetting on the other hand includes all type setting methods that do not set metal type.
+phototypesetting machines produce images of type characters on photosensitive film or paper.
+it is this method which is now widely used and has replaced hot-metal composition for most printing.
+most commercial printing today is done by one of the three processes 1 relief printing, 2 offset lithography, or 3 gravure printing.
+each of these processes uses a different kind of image carrier the printing surface that carries the images to be printed .
+in relief printing, the printing surface is raised above the level of the non-printing surface.
+in offset lithography, the printing surface and the non-printing surface are on the same level.
+in gravure printing, the printing surface is below the non-printing surface.
+in addition to the aforesaid three kinds of processes, many other printing processes have also been developed.
+notable among those are a screen process printing, b collotype printing and c flexographic printing. a screen process printing requires a stencil and a fine cloth or wire screen.
+the stencil carries the design to be printed.
+it can be made simply by cutting the design out of paper.
+the stencil is mounted against the screen.
+ink is squeezed through the stencil onto the surface to be printed.
+the design can also be traced directly on the screen, and the non- printing parts painted out.
+or the screen can be given a light-sensitive coating and the design put on it photographically.
+screen process can be used to print on paper, glass, cloth, wood, or almost any other material.
+it is used to print on objects of almost all sizes and shapes, including draperies, banners, bottles, toys, and furniture.
+most screen process printing is done on automatic or hand-operated presses.
+screen process is also called silk-screen printing.
+it is difficult to equate risograph machine with duplicating machine.
+duplicating, as opposed to photocopying, requires the preparation of a master sheet which makes duplicates on a machine.
+there are two main types of duplicating stencil duplicating and spirit or hectographic duplicating.
+stencil duplicating is a technique which uses a master sheet on to which lettering is impressed as lines of perforations through which ink can be squeezed on to the copy paper.
+spirit duplicating also known as hectographic duplicating is a process method which uses strong aniline dye.
+originally the ink was transferred to a sheet of gelatin by placing the sheet of paper with the dye on it in a shallow tray.
+the moisture retaining qualities of gelatin kept the ink moist, and the copy was made by pressing an ordinary sheet of paper on to the gelatin.
+the modern process, which has replaced the aforesaid original version, was developed in the year 1923.
+in this process, the master is in two parts, the lower one like a sheet of carbon paper with the dye on the top side the dye is transferred to the back of the top sheet when it is typed or written upon.
+this sheet is then clipped to a revolving drum, and the sheets to be printed are moistened with a volatile fluid which dissolves a thin layer of dye on the master, thus transferring it to the clean paper.
+in a duplicating machine, as provided for in the customs tariff act, the stencil itself is made using a typewriter or stylus i.e. the stencil is created outside of the machine before the same is fed and ink directly passed through it.
+the hsn explanatory notes to customs tariff heading 84.72 itself confirms this understanding wherein it is stated that duplicating machines include the stencil duplicating machines which operate with waxed paper stencils previously cut by a stylus or on a typewriter.
+as pointed out above, the tribunal has simply relied upon its earlier decision in pioneer international.
+we have gone through the said judgment.
+in that case also the assessee had specifically argued that the printing was the principal function of the risograph machine.
+in support, the assessee had relied upon the dictionary meaning assigned to the printing machines as well as duplicating machines and it was argued that it was not a duplicating machine or a photocopier.
+it was emphasized that risograph is a more sophisticated machine with previously unheard print quality that the machine uses a method of scanning at 400 dpi resolution as used in scanners in printing industry that instead of optical system lens mirror as used in a photocopier, risograph uses a charged couple device, as used in the scanners in printing industry that the method is digital only that just like in offset printing which uses a lithographic plate made of aluminium or zinc coated with photo sensitive material, the risograph uses similar materials which are heat sensitive called master that a number of masters are required in the risograph for multicolour printing that inversion of image is carried out during scanning and master making process itself that all the facilities available in printing are available in risograph such as registering errors, adjustment of margin on four sides of paper, margin for binding and fine tuning of the print.
+it was also argued that the process of scanning and master making are ancillary to printing and are inbuilt in the machines that simply because certain processes are separately done in offset printing does not mean that where these processes are inbuilt the same is precluded from the term printing machinery.
+however, the aforesaid arguments were not accepted and plea of the department was acceded to with the solitary observation that the risograph machine is used only to reproduce copies from the originals and it does not have any mechanism to print in original matter.
+this observation, according to us, is contrary to plethora of material produced, coupled with the hsn explanatory notes, as noticed above, which clinch the issue in favour of the assessee herein.
+we are, therefore, of the opinion that pioneer international does not lay down the law correctly and over- rule the said judgment.
+the outcome of the aforesaid discussion would be to allow the appeal holding that the risograph machine is in the nature of a screen printing machine and not duplicating machine.
+it would, therefore, be covered under sub-heading 84.43 and not 84.72.
+we, thus, allow the appeal and set aside the orders of the tribunal and authorities below.
+in the given circumstances, there shall not be any order as to costs.
+j. a.k. sikri j. rohinton fali nariman new delhi july 21, 2015 ----------------------- 1 2000 122 elt 430 tri.

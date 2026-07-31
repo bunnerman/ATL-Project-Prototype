@@ -1,0 +1,180 @@
+--- PREAMBLE & CASE INFO ---
+
+petitioner commissioner of income-tax, patiala ors.
+vs. respondent m s. shahzada nand sons ors.
+
+--- JUDGMENT BODY ---
+
+date of judgment 19/01/1966 bench subbarao, k. bench subbarao, k. hidayatullah, m. bachawat, r.s. citation 1966 air 1342 1966 scr 3 379 citator info rf 1992 sc 718 10 act indian income-tax act,1922 11 of 1922 , s. 34, sub-s. 34 1 a as amended by the finance act 1956 sub-s. 34 1a ,--field of operation of the two sub-sections whether overlapping in respect of war years--whether s. 34 1 a as a special provision over-rides s. 34 1 a in respect of the war years.
+headnote on march 26, 1954 the income-tax authorities issued a notice to the respondents under s. 34 1 a of the indian income- tax act, 1922 in respect of assessment year 1945-46.
+the assessment made pursuant to the notice was set aside by the appellate authorities on the ground that the notice under s. 34 1 a was time barred because the assessment year in question was beyond the period of 8 years covered by s. 34 1 a . sub-ss. 1a to id were inserted in s. 34 by the income-tax amendment act 1954.
+by sub-s. 1a power was given to the income-tax authorities to issue notice in respect of escaped income of the previous years within the period september 1, 1939 to march 31, 1946.
+by the, finance act 1956 with effect from april 1, 1956 s. 34 1 a was amended so that notices in respect of escaped income could be issued at any time subject to certain conditions.
+on july 25, 1958 the income-tax officer again issued a notice to the respondents calling upon them to file a return for the assessment year 1945-46.
+an appeal to the central board of revenue by some of respondents failed.
+thereupon they filed a petition under art.
+226 of the constitution challenging the notice on various grounds.
+their main contention was that no notice under s. 34 1 a could be issued in respect of the war years as the escaped income of the said war years was governed by s. 34 1a , whereunder notices could be issued only up to march 31, 1956.
+the high court having taken a view favourable to the respondents, the revenue appealed to this court by special leave.
+it was contended on behalf of the appellant that the terms of s. 34 1 a after its amendment in 1956 were clear and unambiguous and the scope of the expression at any time could not be curtailed by construction and that s. 34 la did not operate to restrict the operation of s. 34 1 a in respect of the war years.
+on behalf of the respondents it was contended that s. 34 la was a species of which s. 34 1 a was genus that in respect of the war years there was a conflict between the two subsections, and that in view of the maxim, generalia specialibus non derogant, s. 34 1a should prevail.
+held i it would not be appropriate to describe sub-s. 1a as one carved out of sub-s. 1 a or to call it a species of which sub-s. 1 a is the genus.
+when s. 34 la was enacted s. 34 1 a had practically ceased to function in respect of the war years.
+again when s. 34 1 a was amended with effect from april 1, 1956 s. 34 1a had practically ceased to operate as no notices under it could be issued after-march 31, 1956.
+there is no conflict between the two sub-sections after that date.
+the wide phraseology of the amended s. 34 1 a takes 380 in all the escaped concealed incomes during all the years commencing from 1941 and confers power on the income-tax officer to give notice thereunder in respect of the said income without any bar of limitation.
+390 c-f ii sub-section 1a does not really prescribe any period of limitation.
+it enables the income-tax officer to take proceedings within a particular time, though the period of limitation had expired.
+it conferred a special power on the income-tax officer which expired on april 1, 1956.
+the non- obstante clause in sub-s. 1a indicates that it was enacted to operate notwithstanding that the period of 8 years had expired.
+the said sub-section served its purpose only when the period of 8 years governed a notice under sub-s. 1 a .
+but when that bar of limitation was ,removed, sub-s. 1a had become otiose.
+390 g-391 a further sub-s. 1b as amended by the finance act of 1956 and sub-s. 4 added by the indian income-tax act amendment act 1959, also reinforces the construction that sub-s. 34 1 a as amended in 1956 was applicable to, the war years despite sub-s. 34 1a .
+391 b., d-e iii the reason why sub-s. 1a was retained in the statute even after the finance act of 1956 was that though no new notices could be issued under that sub-section after april 1, 1956, notices already issued before that date were pending.
+they could be disposed of in the manner prescribed by sub-ss. 1a , 1b , 1c , and 1d of s. 34.
+all the aid sub-sections formed an integral code.
+the legislature, presumably, intended to keep the said sub-sections whereunder proceedings had already been initiated and make available to the said proceedings the procedure prescribed under the said provisions.
+it may also be that sub-s. 1a was kept in super abundant caution.
+whatever that may be, it cannot, in the circumstances, detract from the clear provisions of sub-s. 1 ,a . 391 f, g case law referred to.
+judgment civil appellate jurisdiction civil appeals numbers 494 and 495 of 1964.
+appeals by special leave from the judgment and order dated september 26, 1961 of the punjab high court in civil writ number 801 of 1959.
+s.t. desai, r. ganapathy iyer and r. n. sachthey, for the appellant.
+n.a. palkhivala, i. m. nanavati, t. a. ramachandran, j. b. dadachanji, o. c. mathur and ravinder, narain, for the respondents.
+n. a. palkhivala, j. b. dadachanji, o. c. mathur and ravinder narain, for intervener numbers 1 and 2. i. m. nanavati, j. b. dadachanji, o. c. mathur and ravinder narain, for intervener number 3. n. a. palkhivala, r. j. kolah, j. b. dadachanji, o. c. mathur and ravinder narain, for intervener number 4.
+d. n. mukherjee, for intervener number 5.
+the judgment of the court was delivered by subba rao, j. these two appeals, one by special leave and the other by certificate, raise the question whether notice can be issued at any time for reassessment under s. 34 1 a , as amended by the finance act, 1956, of the indian income-tax act, 1922, hereinafter called the act, in respect of a concealed income to which s. 34 1a thereof applied.
+the facts may be briefly stated.
+messrs. shahzada and sons, the 1st respondent in both the appeals, was an undivided hindu family firm and it was assessed in that capacity up to the assessment year 1945-46.
+it is alleged that subsequently there was a partition in the family and a new firm came into existence, which took over the business of the family.
+on march 26, 1954, the income-tax authorities issued a notice to the members of the defunct hindu undivided family under s. 34 1 a of the act in respect of the assessment year 1945-46 on the ground that certain income of the said family had escaped assessment.
+pursuant to the proceedings so initiated, a sum of rs. 3,63,000/- was added to the original assessment of the said family.
+the assessee took up the matter on appeal to the appellate assistant commissioner, who held that the said notice was barred by time, though on the merits he confirmed the order of the income-tax officer.
+the income-tax department as well as the 1st respondent preferred appeals against the said order to the income-tax appellate tribunal.
+the tribunal held that the notice was barred by time and, therefore, the income-tax authorities had no jurisdiction to give a finding on the merits.
+meanwhile s. 34 1 a of the act was amended by the finance act, 1956, with effect from april 1, 1956, whereunder, subject to certain conditions, a notice under s. 34 1 a could be issued at any time.
+thereafter, on july 25, 1958, the income-tax officer issued a notice to the 1st respondent calling upon the members who constituted the undivided family to file a return for the assessment year 1945-46.
+respondents 2 to 5, who were the members of the said undivided hindu family, appealed to the central board of revenue for redress without any success.
+thereafter, they filed a petition under art.
+226 of the constitution in the high court of punjab challenging the notice on various grounds.
+their main contention was that no notice under s. 34 1 a could be issued in respect of the war years, as the escaped income during the said years was governed by s. 34 1a of the act whereunder a notice could be issued only before march 31, 1956.
+the writ petition came up before a single judge of the high court, who referred the following question to a larger bench whether or not in the circumstances of the present case the notice under section 34 issued on 25th july 1958 was barred by time.
+the division bench, in its turn, referred the said question to a full bench.
+the full bench, inter alia, held that s. 34 1a was a special provision whereas s. 34 1 a was a general provision and that, as the escaped income of the year 1945-46 was governed by s. 34 1a , no not-ace under s. 34 1 a could be issued.
+in the result, after expressing that view, the full bench sent back the case to the single judge before whom it came in the first instance.
+dua, j., who heard the petition, following the view expressed by the full bench, allowed the petition.
+the appellants, thereafter, preferred a letters patent appeal against that order to a division bench, which dismissed the same.
+civil appeal number 494 of 1964 has been sled by the revenue by special leave against the order of the full bench dated september 8, 1961, and civil appeal number 495 of 1964 has been filed, by certificate, by the revenue against the order of the division bench confirming that of dua, j. at the outset it will be convenient to read the material provisions of s. 34 of the act as amended by the finance act, 1956, and by the income-tax amendment act, 1959.
+section 34. 1 if-- a the income-tax officer has reason to believe that by reason of the omission or failure on the part of an assessee to make a return of his income under section 22 for any year or to disclose fully and truly all material facts necessary for his assessment for that year, income, profits or gains chargeable to income-tax have escaped assessment for that year, or have been under- assessed, or assessed at too low a rate, or have been made the subject of excessive relief under the act, or excessive loss or depreciation allowance has been computed, he may in cases falling under clause a at any time .
+serve on the assessee .
+a notice containing all or any of the requirements which may be included in a notice under sub-section 2 of section 22 and may proceed to assess or reassess such income, profits or gains or recompute the loss or depreciation allowance and the provisions of this act shall, so far as may be, apply accordingly as if the notice were a notice issued under that sub-section provided that the income-tax officer shall not issue a notice under clause a of sub-section 1 - i for any year prior to the year ending on the 31st day of march, 1941 ii for any year, if eight years have elapsed after the expiry of that year, unless the income, profits or gains chargeable to income-tax which have escaped assessment or have been under-assessed or assessed at too low a rate or have been made the subject of excessive relief under this act, or the loss or depreciation allowance which has been computed in excess, amount to, or likely to amount to, one lakh of rupees or more in the aggregate, either for that year, or for that year and any other year or years after which or after each of which eight years have elapsed, not being a year or years ending before the 31st day of march, 1941 iii for any year, unless he has recorded his reasons for doing so, and, in any case falling under clause ii , unless the central board of revenue, and, in any other case, the commissioner, is satisfied on such reasons recorded that it is a fit case for the issue of such notice 1a .
+if in the case of any assessee, the income-tax officer has reason to believe i that income, profits or gains chargeable to income-tax have escaped assessment for any year in respect of which the relevant previous year falls wholly or partly within the period beginning on the 1st day of september, 1939, -and ending on the 31st day of march, 1946, and ii that the income, profits or gains which have so escaped assessment for any such year or years amount, or are likely to amount, to one lakh of rupees or more, he may, notwithstanding that the period of eight years or, as the case may be, four years specified in sub-section 1 has expired in respect thereof, serve on the assessee .
+a notice containing all or any of the requirements which may be included in a notice under sub-section 2 of section 22, and may proceed to assess or re-assess the income, profits or gains of the assessee for all or any of the years referred to in clause i , and thereupon the provisions of this act excepting those contained in clauses i and iii of the proviso to sub-section 1 and in subsections 2 and 3 of this section, shall, so far as may be, apply accordingly provided that the income-tax officer shall not issue a notice under this sub-section unless he has recorded his reasons for doing so, and the central board of revenue is satisfied on such reasons recorded that it is a fit case for the issue of such notice provided further that no such notice shall be issued after the 31st day of march, 1956. 1b where any assessee to whom a notice has been issued under clause a of sub-section 1 or under sub-section ia for any of the years ending on the 31 st day of march of the years 1941 to 1948 inclusive applies to the central board of revenue at any time within six months from the receipt of such notice or before the assessment or reassessment is made, whichever is earlier, to have the matters relating to his assessment settled, the central board of revenue may, after considering the terms of settlement proposed and subject to the previous approval of the central government, accept the terms of such settlement, and, if it does so, shall make an order in accordance with the terms of such settlement specifying among other things the sum of money payable by the assessee. 1c any sum specified in a settlement arrived at in pursuance of sub-section 1b may be recovered and any penalty for default in making payment of any such sum may be imposed and recovered in the manner provided in chapter vi. id any settlement arrived at under this section shall be conclusive as to the matters stated therein and no person, whose assessments have been so settled, shall be en- titled to re-open in any proceeding for the recovery of any sum under this act or in any subsequent assessment or reassessment proceeding relating to any tax chargeable under this act or in any other proceeding whatsoever before any court or other authority any matter which forms part of such settlement. 4 a notice under clause a of sub-section 1 may be issued at any time notwithstanding that at the time of the issue of the notice the period of eight years specified in that sub-section before its amendment by clause a of section 18 of the finance act, 1956 18 of 1956 had expired in respect of the year to which the notice relates.
+sub-section ia was inserted in s. 34 of the act by the income-tax amendment act, 1954, and it came into force on july 17, 1954.
+clause a of sub-s. 1 of s. 34 was amended by the finance act, 1956, with effect from april 1, 1956.
+sub-section 1b of s. 34, which was inserted by the income-tax amendment act, 1954, was also amended by the finance act, 1956, whereunder the words to whom a notice has been issued under clause a of sub-section 1 or under sub-section ia for any of the years ending on the 31st day of march of the years 1941 to 1948 inclusive were substituted for the words to whom a notice has been issued under sub- section 1a .
+sub-section 4 was added by the income-tax amendment act, 1959.
+the gist of the relevant provisions may be stated thus under s. 34 1 a , before it was amended by the finance act, 1956, in the case of concealed income a notice for re- assessment could be issued within 8 years of the end of the relevant year and after the said amendment, notice in respect of the said income could be issued at any time, but it was subject to three conditions, namely, i it would not be issued for any year prior to the year ending on march 31, 1941, ii such concealed income amounted to one lakh of rupees or more in the aggregate, and iii the income-tax officer gave reasons for doing so and obtained the consent of the central board of revenue.
+sub-section ia of s. 34 did not undergo any change after the finance act, 1-956.
+escaped assessment for any year in respect of which the relevant previous year fell within the period beginning on september 1, 1939, and ending on march 31, 1946, could be reached by issuing a notice thereunder but, it was subject to the condition that the income which escaped assessment for any year amounted to or was likely to amount to rupees one lakh or more it was subject to a further condition that no such notice should be issued after march 31, 1956.
+sub- section 1b of s. 34, as amended in 1956, enabled an assessee to whom a notice has been issued under cl. a of sub-s. 1 or sub-s. ia for any of the years ending on march 31 of the years 1941 to 1948 inclusive, to apply to the central board of revenue for a settlement of the amount of tax payable by him, sub-section 4 , which was inserted in 1959, emphasized the fact that a notice could be issued under s. 34 1 a , notwithstanding that the time of 8 years had expired before the finance act, 1956, came into force.
+we may at this stage notice the arguments advanced by learn- ed counsel on the interpretation of the said provisions.
+the arguments.
+of mr. s. t. desai, learned counsel for the revenue, may be summarized thus the terms of s. 34 1 a , after its amendment by the finance act, 1956, are clear and unambiguous and the scope of the expression at any time cannot be curtailed by construction.
+so construed, proceedings for re-assessment in respect of escaped income contemplated by the said clause can be initiated without any restriction of time.
+the legislative history of the fasciculus of sub-sections, namely, sub-ss. 1 a , 1a , 1b , 1c and 1d of s. 34, supports the said construction and explains the relative scope of s. 34 1 a and s. 34 1a --the former, as amended by the finance act, 1956, operated after s. 34 1a ceased to operate so far as the escaped concealed income of war years was concerned.
+the amendment of s. 34 1b by the said act and the introduction of s. 34 4 by the income-tax amendment act, 1959, reinforces the said construction, namely, that the amended s. 34 1 a lifted the ban of limitation also in respect of the escaped income of the war years.
+the retention of s. 34 1a on the statute became necessary as proceedings taken thereunder were pending at the time the finance act, 1956, came into force and the consequential provisions, such as, s. 34 1b etc., with which s. 34 1a was integrally connected could not be applied if the latter was omitted.
+further, the said sub-sections still applied to incomes falling under s. 34 1 b in respect of war years.
+in any view, it must have been retained in superabundant caution and that fact could not restrict the scope of an otherwise clearly expressed provision, viz., s. 34 1 a .
+the construction accepted by the high court led to the anomalous position of the legislature prescribing a shorter period of limitation in the case of tax-evaders during the war years and no period of limitation for evaders of such income during the prewar and post-war years.
+this could not have been the intention of the legislature, as the evasion of tax during the war.
+years was comparatively of larger amounts than during the other periods and for that very reason it has passed the taxation of income investigation commission act, 1947, which was declared to be void by this court.
+this contention was accepted by the bombay and calcutta high courts in laxminarayan r. rathi v. income-tax officer, poona 1 and mandanlal jajodia v. income-tax officer, dist.
+ii 1 , calcutta 2 respectively.
+mr. palkhivala, learned counsel for the respondents, answered this criticism thus.
+in a taxing act one has to look merely what is clearly stated and, if the interpretation is open to doubt, the construction most beneficial to the subject must be adopted.
+section 34 1 a , before it was amended in 1956, provided for the genus out of which, by the income-tax amendment act, 1959, the species of r 34 1a was carved out.
+while s. 34 1 a was a general provision, s. 34 1a was a special provision.
+on the principle of generalia specialibus non derogant, the field covered by s. 34 1a should be excluded from that covered by s. 34 1 a .
+if that was the legal position before the 1956 amendment, the argument proceeded, the same position would continue thereafter, as parliament retained s. 34 1a , along with its provisos, as it stood before the amendment and amended only s. 34 1 a .
+the lifting of the ban of limitation, therefore, should, on the basis of the said doctrine, be confined to the field covered by s. 34 1 a before the amendment.
+if parliament intended to do away with the period of limitation in respect of the escaped incomes during the war period, it would not have retained s. 34 1a on the statute book for, in that event, it would serve no purpose.
+it would be wrong to say that it ceased to be operative after april 1, 1956, for the period of limitation would still apply to proceedings in respect of escaped incomes of the war years.
+sub-s. 4 added in s. 34 in the year 1959 and s. 34 1b , as amended 1 1964 52 i.t.r.
+254. 2 1965 58 i.t.r.
+693.
+in 1956, would not throw any light on the question, but in a way would support the view that they were concerned only with the escaped incomes covered by s. 34 1 a , excluding thereform those covered by s. 34 1a .
+the argument based on the alleged anomaly led nowhere and indeed the retention of s. 34 1a on the statute book was intentionally done, as the parliament, having already placed a particular class of assessees under a special and heavy burden, did not think fit to make any provision which was likely to harass them further.
+the ambiguity in the section, if any, should go for the benefit of the tax-payer and not the tax-gatherer.
+this argument was accepted by the madhya pradesh and gujarat high courts in rustomji v. income-tax officer, special investigation circle, indore 1 , and mathurdas govinddas v. g. n. gadgil, income-tax officer, special investigation office, ahmedabad 2 .
+before we advert to the said arguments, it will be convenient to notice the relevant rules of construction.
+the classic statement of rowlatt, j., in cape brandy syndicate v. i.r.c. 3 .
+still holds the field.
+it reads in a taxing act one has to look merely at what is clearly said.
+there is no room for any intendment.
+there is no equity about a tax.
+there is no presumption as to a tax.
+nothing is to be read in, nothing is to be implied.
+one can only look fairly at the language used.
+to this may be added a rider in a case of reasonable doubt, the construction most beneficial to the subject is to be adopted.
+but even so, the fundamental rule of construction is the same for all statutes, whether fiscal or otherwise.
+the underlying principle is that the meaning and intention of a statute must be collected from the plain and unambiguous expression used therein rather than from any notions which may be entertained by the court as to what is just or expedient.
+the expressed intention must guide the court.
+another rule of construction which is relevant to the present enquiry is expressed in the maxim, generalia specialibus non derogant, which means that when there is a conflict between a general and a special provision, the latter shall prevail.
+the said principle has been stated in craies on statute law, 5th edn., at p. 205, thus the rule is, that whenever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be operative, and the general enactment must be taken to affect only the other parts of the statute to which it may properly apply. 1 1964 54 i.t.r.
+461 2 1965 56 i.t.r.
+621. 3 1921 1 k.b. 64, 71.
+but this rule of construction is not of, universal application.
+it is subject to the condition that there is nothing in the general provision, expressed or implied, indicating an intention to the contrary see maxwell on interpretation of statutes, 11th edn., at pp.
+168-169.
+when the words of a section are clear, but its scope is sought to be curtailed by construction, the approach suggested by lord coke in heydons case 1 , yield better results to arrive at the real meaning, it is always necessary to get an exact conception of the aim, scope, and object of the whole act to consider, according to lord coke 1 what was the law before the act was passed 2 what was the mischief or defect for which the law had not provided 3 what remedy parliament has appointed and 4 the reason of the remedy.
+with these rules of construction in mind, let us now tackle the-problem raised in this case.
+under s. 34 1 a , after it was amended by the finance act, 1956, a notice in respect of an escaped concealed income could be issued at any time.
+the terms of cl. a and the expression at any time are clear and unambiguous and, if there is nothing in the act detracting from the width of the said terms, it is clear that a notice can be issued at any time in respect of the concealed income of any year not being a year ending before march 31, 1941.
+but s. 34 1a provides for the issue of notice in respect of escaped income of the previous years within the period beginning on september 1, 1939, and ending on march 31, 1946.
+does this sub-section detract from the generality of s. 34 1 a ?
+the history of the said provision may usefully be noticed.
+as we have stated earlier, the parliament passed the taxation of income investigation commission act, 1947, mainly to catch the escaped incomes of the war profiteers.
+this court in suraj mall mohta and company v. a. v. viswanatha sastri 2 and muthiah v. c.l.t. 3 held that s. 5 4 and 5 1 of the said act became void on the commencement of the constitution as offending art.
+14 thereof.
+the first decision led to the insertion of sub-ss. ia to id in s. 34 by the income-tax amendment act, 1954, with effect from july 17, 1954.
+the object of the amending act was to provide for the assessment or re-assessment of persons who had, to a substantial extent, evaded payment of taxes during the war years and for matters connected therewith.
+but at the time sub-s. ia was inserted in s.34, the period of limitation provided with regard to issue of notices under s. 34 1 a was 8 years and for cases falling under s. 34 1 b it was 4 years but, as the income-tax amendment act, 1954, came into force only on july 17, 1954, the said periods of limitation prescribed in respect of escaped concealed incomes during the said period had run out except in respect 1 1584 3 rep. 7b. 2 1955 1 s.c.r.
+448. 3 1955 2 s.c.r.
+1247.
+of one or two years.
+so, with the twin object of tending the time and expediting the assessment, the second proviso was introduced therein to the effect that no such notice should be issued after march 31, 1956.
+but, notwithstanding the said act, presumably notices could not have been issued against all the evaders of tax with incomes of rupees one lakh or more during the said period.
+parliament also wanted to bring to tax escaped concealed incomes during the period not covered by the said years.
+with that object, in 1956 s. 34 was amended by the finance act, 1956, by which it was provided that notice under s. 34 1 a can be issued at any time.
+but sub-s. ia was retained, including the second proviso.
+this amendment, along with the other amendments, made by the said act came into force on april 1, 1956.
+in 1959, the said section was again amended by the indian income-tax amendment act, 1959.
+under sub-s. 4 , as amended by the 1959 amendment act, notice under sub-s. 1 a might be issued at any time notwithstanding that at the time of the issue of notice the period of 8 years specified in that sub-section before its amendment by the finance act, 1956, had expired in respect of the year to which the notice related.
+this amendment was necessitated by the judgments of the bombay and calcutta high courts in debi dutt v. t. belan 1 and s. c. prashar v. vasantsen 2 respectively holding that if the right of the income-tax officer to reopen an assessment was barred under the law for the time being in force, no subsequent enlargement of the time could revive such right in the absence of press words or necessary intendment.
+sub-section 4 was added to s. 34 to make it abundantly clear that notice under s. 34 1 a could be issued at any time notwithstanding that the said right was barred before the amendment act of 1956.
+this history of the legislation loaves no room for doubt that the intention of the legislature was to bring the escaped concealed income of rupees one lakh and more to tax without any time limit.
+before the 1956 act was passed, the period of limitation prescribed for proceeding against concealed incomes of rupees one lakh and more during the war years and the earlier years had expired.
+the legislature stepped in to prevent evasion of taxes on such incomes and lifted the ban of limitation in respect thereof, subject to certain conditions.
+but the crucial question is, whether the legislature by making the relevant amendments has succeeded to effectuate its intention.
+to state it differently, do the amended provisions carry out its intention ?
+section 34 1 a , as it now stands on the statute book, expressly states that in cases falling under cl. a of sub- s. 1 notice can be served thereunder on an assessee at any time.
+the terms of s. 34 a read with the 2nd proviso, take in the concealed incomes of all the, 1 1959 35 i.t.r.
+781. 2 1956 29 i.t.r. 857 years commencing from the year ending on march 31, 1941.
+it does not exclude the incomes of the war years, but the said incomes are sought to be excludes on the principle of generalia specialibus non derogant.
+as we have pointed out earlier, the said doctrine embodies a rule of construction, but it has no universal application.
+to invoke it, the general and special provisions shall occupy the same field.
+in this case, both during the period between the amendments of 1954 and 1956 and thereafter they occupied different fields.
+by july 17, 1954, when sub-s. ia was introduced in s. 34, no proceedings under s. 34 1 a could be initiated except for the assessment year 1946-47 in respect of the previous years that fell within the period beginning on september 1, 1939, and ending on march 31, 1946, for they were barred under the unmended section.
+sub-section ia , therefore, practically governed a situation that was not governed by the provisions of s. 34 1 a .
+it was intended to catch escaped incomes of the war years which were out of the reach of s. 34 1 a .
+it is not, therefore, appropriate to describe sub-s. ia as one carved out of sub-s. 1 a or to call it a species of which sub-s. a 1 is the genus.
+sub-section ia operated where sub-s. 1 a practically ceased to function.
+now, coming to the period after the finance act, 1956, was passed, i.e., after april 1, 1956, a different situation arose.
+the extended period given under the second proviso to sub-s. ia expired on march 31, 1956.
+thereafter, sub- s. ia ceased to be operative in the sense that no notice could thereafter be given thereunder.
+it worked itself out.
+the legislature could have extended the period under the second proviso to sub-s. ia , but it did not do so.
+it did not give a further lease of life to it instead it removed the period of limitation under sub-s. 1 a , as sub-s. ia had become practically defunct.
+the wide phraseology of sub-s. 1 a takes in all the escaped concealed incomes during all the years commencing from 1941 and confers a power on the income-tax ,officer to give notice thereunder in respect of the said incomes without any bar of limitation.
+there is, therefore, no conflict after april 1, 1956, between sub-s. a and sub-s. a , as the latter ceased to be opera

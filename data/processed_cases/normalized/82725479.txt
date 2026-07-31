@@ -1,0 +1,213 @@
+--- PREAMBLE & CASE INFO ---
+
+reportable in the supreme court of india civil appellate jurisdiction civil appeal no s. 17753-17755 of 2017 arising out of slp c no s .
+29747-29749 of 2013 venture global engineering llc appellant s versus tech mahindra ltd anr etc. respondent s with civil appeal no s. 17756 of 2017 arising out of slp c number 8298 of 2014 o r d e r in view of the difference of opinion in terms of separate judgments pronounced by us in these appeals today, the registry is directed to place the papers before honble the chief justice of india for appropriate further course of action.
+j. j. chelameswar j. abhay manohar sapre new delhi november 1, 2017 reportable in the supreme court of india civil appellate jurisdiction civil appeal numbers 17753-17755 of 2017 arising out of slp c numbers 29747-29749/2013 venture global engineering llc appellant versus tech mahindra limited another etc.
+respondents with civil appeal number 17756 of 2017 arising out of slp c number 8298/2014 tech mahindra limited another etc. appellants versus venture global engineering llc respondent judgment chelameswar, j. 1. leave granted in both the slps.
+i had the advantage of reading the opinion of my learned brother justice sapre.
+while i agree with the conclusion recorded by him that the high court erred in its conclusion on the question whether the proceedings initiated by venture in op number 390 of 2008 are barred by the principle of issue estoppel, i am unable to persuade myself to agree with his conclusions that the judgment under appeal is required to be reversed on the questions relating to public policy and fraud for the following reasons 2.
+the facts of these appeals are narrated in great detail by my learned brother.
+there is no need to repeat except to mention those which are essential for the purpose of my conclusion.
+3. an arbitral award dated 3rd april, 2006 hereinafter the award came to be passed in an arbitration between venture and satyam.
+the relevant portion of the award reads as under a. i order vge to deliver to satyam share certificates in form suitable for immediate transfer to satyam or its designee evidencing all of vges ownership interest legal and or beneficial in sves.
+i further order it to do all that may otherwise be necessary to effect the transfer of such ownership to satyam or its designee.
+4. the dispute leading to the arbitration and the award arose out of the agreement dated 20th october, 1999 agreement i entered into between venture and satyam.
+5. article viii of the said agreement defined the expression events of default and stipulated the consequences thereof article viii events of default and remedies section 8.01 events of default for the purposes of this agreement, an event of default means, with respect to any shareholder, the occurrence of any of the following a a bankruptcy event occurs with respect to such shareholder.
+b subject to clause c and d below, such shareholder breaches this agreement in any material respect and fails to cure such breach within thirty 30 days after being notified in writing by the other shareholder of such breach.
+c a shareholder transfers, or attempts to transfer, any shares in violation of the transfer restrictions set forth in article vii of this agreement.
+d such shareholder is subject to change in control section 8.02 rights upon events of default generally upon the occurrence of an event of default other than a bankruptcy event with respect to any shareholder the defaulting shareholder , the other shareholder the non- defaulting shareholder shall have the option, within thirty 30 days after becoming aware of the event of default to a purchase the defaulting shareholders shares at book value and repay shareholders loan, or b cause the immediate dissolution and liquidation of the company in accordance with article ix.
+either of such options must be exercised by the non-defaulting shareholder by written notice to the defaulting shareholder within thirty 30 days after becoming aware of the subject event of default.
+section 8.03 rights upon bankruptcy event upon the occurrence of a bankruptcy event with respect to any shareholder the bankrupt shareholder , such shareholder shall give immediate written notice to the other shareholder the solvent shareholder .
+the solvent shareholder shall have the option of a purchasing the shares held by the bankruptcy shareholder at book value and repay such shareholders loans or b causing the immediate dissolution of liquidation of the company in accordance with article ix.
+either of such options must be exercised by the solvent shareholder by written notice to the bankrupt shareholder within one hundred twenty 120 days of receipt of notice of the bankruptcy event from the bankrupt shareholder.
+section 8.04 remedies not exclusive the rights granted in this article are not exclusive of any other rights or remedies available at law or in equity.
+6. the arbitrator inter alia opined tha
+
+--- JUDGMENT BODY ---
+
+t an event of default on the part of venture occurred and therefore, venture the defaulting shareholder is liable to transfer its interest i.e. 50 per cent of the shares in the jvc to satyam non-defaulting shareholder .
+7. satyam filed a petition in the eastern district court of michigan, us seeking enforcement of the award against venture.
+admittedly, the petition was allowed on 31st july, 2006 and the district court of michigan by its judgment directed the enforcement of the award.
+it appears that venture appealed against the said order in the 6th circuit, us appellate court in michigan.
+8.
+i assume for the purpose of these appeals that the directions of the eastern district court of michigan dated 31st july, 2006 is legally tenable.
+in the final analysis, enforcement of the award means transfer of the shares property of venture in the jvc.
+since the jvc is a company registered incorporated in india, transfer of shares therein will have to be effected in accordance with the relevant procedure established by law of india i.e. the companies act and other related enactments which obligate venture to perform certain acts.
+if venture declines to perform its obligations, the directions contained in the judgment of the american court will have to be executed in india in accordance with the procedure prescribed under the code of civil procedure, 1908 for the enforcement of foreign judgments or decrees, as the case may be.
+9. be that as it may, in my opinion, it was really not necessary for satyam to have approached the american court for the enforcement of the award, whether the award is a foreign award as defined under chapters i or ii of part ii of the arbitration and conciliation act, 1996 hereafter the act or not, in view of the judgments of this court in bhatias case 1 and balcos case 2, part i of the act is applicable to the award since the award is anterior to the date of the judgment of this court in balcos case3.
+para 197.
+thus, in order to do complete justice, we hereby order, that the law now declared by this court shall apply prospectively, to all the arbitration agreements executed hereafter.
+therefore, the award would be enforceable as if it were a decree of a civil court in view of section 36 4 of the act.
+10.
+the only way venture could avoid the enforcement of the award is by having the award set aside either under section 34 of the act or any other procedure applicable under any other applicable law in any other appropriate jurisdiction available to venture under the principles of international law.
+we are not informed of any such proceeding either subsisting or successfully pursued by venture in any jurisdiction.
+on the other hand, venture initiated proceedings on 13th april, 2006 before the district court for the northern district of illinois eastern division, bhatia international vs. bulk trading s.a. anr., 2002 4 scc 105 bharat aluminium company vs. kaiser aluminium technical services inc., 2012 9 scc 552 cb 3 th 6 september 2012 section 36. enforcement.
+1 where the time for making an application to set aside the arbitral award under section 34 has expired, then, subject to the provisions of sub-section 2 , such award shall be enforced in accordance with the provisions of the code of civil procedure, 1908 5 of 1908 in the same manner as if it were a decree of the court.
+usa for a declaration that the award was not enforceable in the united states of america.
+subsequently, even that application was dismissed as withdrawn by an order of that court dated 25th april, 2006.
+11.
+thereafter, venture filed os number 80 of 2006 on 28th april, 2006 before the ist additional chief judge, city civil court, secunderabad seeking mainly two reliefs i. a declaration that the award was illegal and without jurisdiction and ii.
+a permanent injunction restraining satyam from enforcing the award.
+12.
+this court had an occasion to examine the maintainability of the said suit in an appeal arising out of certain interlocutory proceedings detailed in the judgment of my learned brother in venture global engineering v. satyam computer services limited another, 2008 4 scc 190 hereinafter called venture-i .
+in substance, this court held subject to certain qualifications that venture is not disentitled to challenge the award in india.
+13.
+consequent upon the judgment in venture-i, the ist additional chief judge, city civil court, secunderabad transferred o.s. number 80 of 2006 to the court of 2nd additional chief judge city civil court at hyderabad.
+the suit was converted into an application under section 34 of the act and was renumbered o.p. number 390 of 2008.
+the suit o.p. as originally filed was based on certain grounds other than the grounds on which the o.p. eventually came to be allowed.
+14.
+on the 7th of january 2009, ramalinga raju, the chairman and founder of satyam made a statement in writing 5 wherein he made certain admissions to the effect that the balance sheets of satyam had been manipulated to inflate profits to the tune of rs. 7080 crores.
+15. venture filed an application6 under order viii rule 9 of the cpc seeking permission to plead additional facts by amending the pleadings in o.p. number 390 of 2008.
+venture contended that the facts disclosed by ramalinga raju and the subsequent developments are crucial at the adjudication of the disputes between the parties and prayed in the foregoing fats sic and circumstances it is humbly submitted that the honble court may be pleased to pass the following orders letter addressed to the board of directors of satyam ia number 1331 of 2009 dated 12.06.2009 in o.p. number 390 of 2008 a that the subsequent developments and events as stated in this petition in para 3 to 21 together with the accompanying documentation be brought on record.
+b such other or further orders as may be necessary in the interests of justice.
+the trial court, by an order dated the 3rd of november, 2009 allowed the application.
+16.
+satyam challenged the order dated 3rd november, 2009 in a revision petition before the high court.
+by an order dated the 19th of february, 2010, the high court allowed the revision petition and dismissed ventures application.
+the high court held in substance that under section 34 of the act, an application for setting aside of an award could only be filed within 3 months extendable only by another 30 days from the date of the award permitting attack against the award on a new ground would amount to permitting the award to be challenged after the expiration of limitation.
+17.
+venture appealed to this court.
+this court, by judgment of the 11th of august, 2010 7, allowed the appeal and restored the order of the trial court.
+39.
+therefore, this court is unable to accept the contention of the learned counsel for the respondent that the expression fraud in the making of the award has to be narrowly construed.
+this court cannot do so primarily because fraud being of infinite variety may take many forms, and secondly, the expression the making of the award will have to be read in conjunction with whether the award was induced or affected by fraud.
+40.
+on such conjoint reading, this court is unable to accept the contentions of the learned counsel for the respondents that facts which surfaced subsequent to the making of the award, but have a nexus with the facts constituting the award, are not relevant to demonstrate that there has been fraud in the making of the award.
+concealment of relevant and material facts, which should have been disclosed before the arbitrator, is an act of fraud.
+if the argument advanced by the learned counsel for the respondents is accepted, then a party, who has suffered an award against another party who has concealed facts and obtained an award, cannot rely on facts which have surfaced subsequently even if those facts have a bearing on the facts constituting the award.
+concealed facts in the very nature of things surface subsequently.
+such a construction would defeat the principle of due process and would be opposed to the concept of public policy incorporated in the explanation.
+18.
+thereafter, op number 390 of 2008 was heard and allowed by the trial court by its order dated 31.01.2012.
+the award was set aside.
+venture global engineering v. satyam computer services limited another, 2010 8 scc 660 venture-ii 19.
+the trial court framed as many as 8 points for consideration, and they read 1 whether the proceeding as it stands now before this court is a suit in the true sense of the term and whether the instant original proceeding can still be construed as a suit as contended by the respondents and, if so, whether the proceeding is liable to be dismissed as not maintainable? 2 whether the proceeding, even if construed as an original petition under section 34 of the act, is still liable to be dismissed as not maintainable as contended by the respondents? 3 whether the instant proceeding is barred by the law of limitation and is liable to be dismissed on that ground? 4 whether the bankruptcy of petitioners affiliates does not constitute a bankruptcy event as per the terms and conditions agreed to between the parties? 5 whether the award in so far as the order of transfer of petitioners shares to the 1st respondent at the book value is violation of foreign exchange management act and also a violation of public policy? 6 whether the award is vitiated by any irregularities in the financial statements of 1st respondent as set out in additional pleadings? 7 whether the petitioner was under any incapacity on account of the suppression of material facts and the indulgence in fraud by the 1st respondent which were said to have come to light after the passing of the award by the learned tribunal?
+and, if so, whether such suppression of material facts and fraud have any causative link, and, if so, whether the award is vitiated by fraud on the part of the 1st respondent in the facts and circumstances urged by the petitioner?
+and, if so, whether the award is liable to be set aside?
+8. whether the petitioner had made out valid and sufficient grounds to set aside the impugned award, and if so, the award is liable to be set aside?
+9. to what relief?
+20.
+after an elaborate discussion of the said points, the trial court concluded at para 12 of the judgment.
+before the last point is taken up, it is necessary to sum up the discussion and findings.
+under point number 1, it is held that the present proceeding after conversion from the suit to the original petition cannot be construed to be a suit and hence cannot be rejected on the assumption that the suit is not maintainable.
+under point number 2, it is held that the present proceeding which to be construed as an original petition under section 34 of the act is not liable to be dismissed as not maintainable.
+under point number 3 it is held that the instant proceeding i.e. original petition is not barred by law of limitation.
+under point number 4 answered against the petitioner it is held that bankruptcy of petitioners affiliates had constituted a bankruptcy event as per the terms and conditions agreed to between the parties.
+however, it is to be noted that when this finding was recorded by the arbitral tribunal the additional pleas now urged by the petitioner before this court were not available to the petitioner and hence the additional pleas were not brought to the notice of the learned arbitral tribunal.
+the said findings of the arbitral tribunal can be sustained if only the issue of fraud is not taken into consideration.
+thus, in the absence of plea of the suppression of material facts and fraud on the part of the 1st respondent, the findings of the learned arbitrator that the bankruptcy of petitioners affiliates constitutes a bankruptcy event is sustainable.
+however, after the suppressed material facts and fraud have come to light even that finding of the arbitral tribunal cannot be sustained for the reasons already assigned under point numbers 6 and 7. under point number 5, the award in so far as it ordered transfer of petitioners share to the 1st respondent book value is in violation to fema and public policy of india.
+under points numbers 6 and 7, it is held that the award which is affected and induced by fraud is vitiated and cannot be enforced being opposed to public policy of india and is liable to set aside.
+in view of the above findings, this court holds that the petitioner has made out valid and sufficient grounds to set-aside the impugned award and hence, the award is liable to be set aside.
+the point is accordingly answered.
+21.
+in substance, the trial court held all the points in favour of venture except point number4 and concluded that the award is required to be set aside on two grounds, i the direction in the award to transfer the shares in jvc of venture at book value is in conflict with the requirements of the foreign exchange management act, 1999 hereafter referred to as fema and therefore violation of public policy 8, ii the award is unsustainable because of the financial irregularities and the manipulation of the accounts of satyam.
+9 in the opinion of the trial court, the award is affected and induced by fraud and cannot be enforced being opposed to public policy of india.
+22.
+whether the above conclusions are tenable?
+was the question before the high court.
+the high court framed 8 points for consideration in the judgment under appeal.
+1 whether the institution of the proceedings by the 1st respondent in the indian courts to enforce a foreign award can be f in view of the discussion coupled with reasons the point is answered in favour of the petitioner and against st the respondents holding that the award in so far as it ordered for transfer of petitioners shares to the 1 respondent at book value is a violation of foreign exchange management act and violation of public policy. .in view of the detailed discussions coupled with the reasons, the points 6 and 7 are thus answered in favour of the petitioner and against the respondent 1 and 2 holding that the award is vitiated by irregularities in the financial statements of 1st respondent as set out in additional pleadings and that the petitioner was under an incapacity on account of the acts of fraud committed by the 1st respondent which had come to light after the passing of the award by the learned tribunal and, therefore, such acts of fraud have causative link, and hence, the award which is affected and inducted by fraud is vitiated and cannot be enforced being opposed to public policy of india and is liable to set aside on the grounds of material suppression of facts, fraud, incapacity of the petitioner and violation of public policy of india.
+justified in view of the judgment of the supreme court in balcos case 4 supra ?
+2 whether the principle of issue estoppel gets attracted in the facts of the case?
+3 whether it is competent for a party to arbitration to invoke part-i as well as part-ii of the arbitration act in relation to a foreign award?
+4 whether the ground of fraud raised by the appellant has been pleaded and proved as required in law, and whether the finding recorded by the trial court on that aspect can be sustained?
+5 whether the award can be said to be opposed to public policy, on the ground that the transfer of money for its implementation, needs permission, under fema?
+6 whether an indian court can set aside a foreign award, which has already been enforced in the proceedings with the participation of both the parties to the award?
+7 whether the trial court followed the correct procedure in deciding the o.p.?
+and 8 whether the miscellaneous orders that are challenged in certain appeals and revisions can be sustained in law?
+23. point numbers4 and 5 above are relevant in the context of the twin reasons given by the trial court for arriving at the conclusion that the award is required to be set-aside.
+24.
+the high court opined that the findings recorded by the trial court are unsustainable.
+the relevant portion of the judgment under appeal insofar as it pertains to point number 4 reads in every alternative sentence, the word fraud has been used and it was proceeded as though fraud was proved.
+it is important to mention that the trial court did not record any finding to the effect that fraud has been proved by the 1st respondent, much less any reference was made to the oral and documentary evidence.
+it hardly needs any mention that the op was required to be tried as a suit, particularly when allegations of far-reaching consequences were made.
+however, the trial court was mostly impressed by the contents of the charge-sheet filed against mr. ramalinga raju by the investigating agencies.
+even while the cases are pending trial before the respective courts, it has proceeded as though the allegation as to fraud was proved.
+for all practical purposes, it has rendered the trial before the concerned courts, nugatory.
+we are, therefore, of the clear view that the finding of the trial court on the question of fraud does not accord with law.
+coming to point number 5, the high court held it is also important to mention that i.a. number 1331 of 2009 did not contain any plea as to public policy.
+it was only in relation to alleged fraud.
+the observation of the trial court is erroneous and contrary to record.
+it is possible to argue that, if the complaint itself is that the award is opposed to public policy, an aggrieved party cannot be expected to raise that plea before the arbitrator and if the violation of the public policy is brought about by the award, the complaint cannot be made at any stage, anterior to that.
+however, when a ground of that nature is raised under section 34 of the act, it must be demonstrated as to how the award is opposed to public policy.
+even at the cost of repetition, it can be said that, it is only when the award exhorts a party to the proceedings to take steps, that has the effect of contravening law of the land, in which it is to be enforced, that the ground can be invoked.
+there is not even a semblance of finding by the trial court in this behalf.
+it is trite that every step for enforcing the award must be in accordance with the relevant provisions of law.
+therefore, we answer this point in favour of the appellant.
+25.
+the net result of the litigation is that while the trial court set aside the award, the high court reversed the trial court judgment and restored the award.
+26. aggrieved by the judgment, the present two appeals are filed one by venture and other by satyam now represented by tech mahindra.
+27.
+naturally venture is aggrieved by the judgment.
+notwithstanding the fact satyam succeeded before the high court, satyam also filed a separate appeal being slp c number 8298 of 2014 questioning the correctness of the decision of the high court insofar as it held that the trial court had the jurisdiction to examine the legality of the award.
+28.
+the crux of the entire litigation is that venture seeks to have the award set aside.
+it must be remembered that satyam has not initiated any proceeding so far in india for the enforcement of the award.
+29. as rightly pointed out by my learned brother, though various submissions were made both before the trial court and the high court, before this court venture confined its attack on the award only to two grounds i.e. the award is contrary to the public policy of india because compliance with the award would amount to violation of the provisions of the fema act., and the award is required to be set aside because of the fraud disclosed by the statement dated 7th january 2009 of ramalinga raju.
+30.
+under the scheme of the act an award can be set aside in this country only on the grounds enumerated in section 34 10, if an section 34. application for setting aside arbitral award.
+1 recourse to a court against an arbitral award may be made only by an application for setting aside such award in accordance with sub-section 2 and sub-section 3 . 2 an arbitral award may be set aside by the court only if- a. the party making the application furnishes proof that- i. a party was under some incapacity, or ii.
+the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law for the time being in force or iii.
+the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case or iv.
+the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside or v. the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this part from which the parties cannot derogate, or, failing such agreement, was not in accordance with this part or b. the court finds that- i. the subject-matter of the dispute is not capable of settlement by arbitration under the law for the time being in force, or ii.
+the arbitral award is in conflict with the public policy of india.
+application praying for such a relief is filed in accordance with the procedure stipulated therein.
+section 34 2 b ii stipulates that an award which is in conflict with public policy of india is liable to be set aside.
+explanation i.-for the avoidance of any doubt, it is clarified that an award is in conflict with the public policy of india, only if, i the making of the award was induced or affected by fraud or corruption or was in violation of section 75 or section 81 or ii it is in contravention with the fundamental policy of indian law or iii it is in conflict with the most basic notions of morality or justice.
+explanation 2.- for the avoidance of doubt, the test as to whether there is a contravention with the fundamental policy of indian law shall not entail a review on the merits of the dispute. 2a an arbitral award arising out of arbitrations other than international commercial arbitrations, may also be set aside by the court, if the court finds that the award is vitiated by patent illegality appearing on the face of the award provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by reappreciation of evidence. 3 an application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the arbitral award or, if a request had been made under section 33, from the date on which that request had been disposed of by the arbitral tribunal provided that if the court is satisfied that the applicant was prevented by sufficient cause from making the application within the said period of three months it may entertain the application within a further period of thirty days, but not thereafter. 4 on receipt of an application under sub-section 1 , the court may, where it is appropriate and it is so requested by a party, adjourn the proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the opinion of arbitral tribunal will eliminate the grounds for setting aside the arbitral award. 5 an application under this section shall be filed by a party only after issuing a prior notice to the other party and such application shall be accompanied by an affidavit by the applicant endorsing compliance with the said requirement. 6 an application under this section shall be disposed of expeditiously, and in any event, within a period of one year from the date on which the notice referred to in sub-section 5 is served upon the other party.
+in the explanation to section 34 2 it is declared that an award is in conflict with the public policy of india if the making of the award was induced or affected by fraud 31.
+though the trial court had set aside the award purportedly on two grounds, in essence the ground is only one, that the award is in conflict with the public policy of india.
+because the conclusion of the trial court on point numbers 6 7 framed by it that the award is affected and induced by fraud is also an aspect of the conflict with the public policy of india.
+32.
+i am of the opinion that the high court is right in reversing the judgment of the trial court, though the reasons given by the high court, in my opinion, are not very elegant and logical.
+therefore, i propose to examine the correctness of the conclusions of the trial court on points number5, 6 7 framed by it.
+public policy 33.
+the trial court recorded that the award is required to be set aside on the ground that the award is opposed to the public policy of india.
+in the opinion of the trial court, the award contained directions which are in conflict with the fema act and regulations made thereunder.
+the trial court considered this under point number5 framed by it in para number10 of its judgment.
+it framed the question as follows a the question under this point is this whether the award in so far as the order of transfer of petitioners shares to the 1st respondent at the book value is a violation of foreign exchange management act and violation of public policy?
+the trial court took note of the contention of venture b the contentions of the petitioner on this aspect are as under it is admitted that the award directed 1st respondent to acquire the petitioners shares in respondent number 2 at book value being less than its fair value.
+such a direction was in express violation of the foreign exchange management transfer or issue of security by a person resident outside india regulations, 2000, which require such transfers to take place at fair value 34.
+the submission of venture appears to be i the award insofar as it directed venture to transfer its shares in the jvc to satyam at book value is in violation of the foreign exchange management transfer or issue of security by a person resident outside india regulations, 2000 and ii the book value of the shares of jvc is less than that of their fair value.
+35.
+it must be pointed out here that even according to the trial court satyam argued that the book value of the shares is the price of shares as recorded in the books of accounts of the company.
+it may be above or below the market value.
+on the above rival submissions, the trial court concluded thus the award to the extent it directed the transfer of petitioners shares to the 1st respondent at the rate of book value is violation of foreign exchange management act and consequently the public policy.
+in view of the discussion coupled with reasons the point is answered in favour of the petitioner and against the respondents holding that the award in so far as it ordered for transfer of petitioners shares to the 1st respondent at book value is a violation of foreign exchange management act and violation of public policy.
+36. in the entire discussion dealing with the submission, neither the text of the regulations nor the scheme of either the fema act or the regulations is subjected to any analysis.
+the trial court did not even indicate the number of the regulation which mandates if at all that the transfer such as the one directed by the award is required to be only at fair value of the shares.
+the trial court simply accepted the submission of venture.
+37.
+assuming for the sake of argument that there is some stipulation in the abovementioned regulation which forbids the transfer of shares in question except for a fair value, there is no discussion in the judgment of the trial court as to i what is meant by fair value of the shares under fema ii how that fair value is to be determined iii whether the fair value of shares is the same as market value of shares iv what exactly is the fair value of the shares in question the trial court did not even record a finding that the book value of the shares of the jvc is less than that of their market value or fair value.
+it must also be pointed out here that the trial court did not even refer to any pleading on the basis of which submission was made before it.
+38.
+the entire exercise undertaken by the trial court only demonstrates the unfortunate trend in the legal system where without settling the facts in issue first and identifying the questions of law relevant in the context for determining the controversy between the parties, case law is dumped upon and examined by the courts.
+the result is an exercise like the one undertaken by the trial court.
+i am of the opinion that the conclusion recorded by the trial court on point number5 is without any basis in facts and without even identifying the provision of law with which the award is in conflict with.
+hence, in my opinion, the conclusion in this point cannot be sustained.
+39.
+in the process of such uncharted debate, the trial court undertook an examination whether the payment of us 622,656 to be made towards the book value of the shares requires permission of the reserve bank of india and whether such permission is required to precede the award etc.
+i failed to identify any categoric conclusion recorded by the trial court on that question.
+whether there are any pleadings calling upon the court to examine those questions is also not indicated in the judgment.
+fraud 40.
+the next question is - whether fudging of the accounts of satyam would in any way provide a ground for venture to seek setting aside of the award?
+41.
+the content of the letter 11 dated 7th january 2009 of ramalinga raju, if true undoubtedly would have legal consequences both civil and criminal for satyam, ramalinga raju and some more persons who are responsible for the fudging of the accounts of satyam.
+various civil and criminal proceedings were in fact initiated and some consequences followed.
+according to the statement of ramalinga raju, the fudging of accounts of satyam took place over a number of years.12 extracted in extenso by my learned brother the gap in the balance sheet has arisen purely on account of inflated profits over a period of last several years limited only to satyam standalone, books of subsidiaries reflecting true performance .
+what started as a marginal gap between actual operating profit and the one reflected in the books of accounts continued to grow over the years.
+it has attained unmanageable proportions as the size of company operations grew significantly annualized revenue run rate of rs. 11,276 crore in the september quarter, 2008 and official reserves of rs. 8,392 crore .
+the differential in the real profits and the one reflected in the books was further accentuated by the fact that the company had to carry additional resources and assets to justify higher lever of operations thereby significantly increasing the costs.
+ramalinga rajus statement is not very clear regarding the point of time at which the fudging of the accounts of satyam commenced.
+13 42.
+in my opinion, points number6 7 framed by the trial court are too vague and imprecise.
+section 34 2 of the act declares that if making of an award is either induced or affected by fraud, the same is liable to be set aside.
+whether the facts relating to the fudging of the accounts of satyam and the non-disclosure of those facts by satyam before the arbitrator would amount either i to inducing the making of the award by fraud or ii the award made in ignorance of those facts by virtue of non-disclosure of those facts by satyam would be an award affected by fraud, - would be the questions relevant for deciding whether the award is required to be set aside.
+43.
+the expression fraud has no definition in law which has universal application.
+in kerr on the law of fraud and mistake 14, it is said the trial court at para 11 a of the judgment recorded a submission that the fudging commenced w.e.f.
+the year 2002.
+mcdonnell, denis lane monroe, john george, a treatise on the law of fraud and mistake, kerr on the law of fraud and mistake, 1952 7th edn. sweet maxwell limited london , page 1.
+it is not easy to give a definition of what constitutes fraud in the extensive signification in which that term is understood by civil courts of justice.
+the courts have always avoided hampering themselves by defining or laying down as a general proposition what shall be he
