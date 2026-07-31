@@ -107,7 +107,7 @@ cd ATL-Project-Prototype
 ### 2. Install Dependencies
 Install all required framework dependencies:
 ```bash
-pip install streamlit fastapi uvicorn langchain langchain-google-genai langchain-huggingface langchain-chroma pypdf chromadb sentence-transformers python-multipart requests
+pip install streamlit fastapi uvicorn langchain langgraph langchain-google-genai langchain-huggingface langchain-chroma pypdf chromadb sentence-transformers python-multipart requests
 ```
 
 ### 3. Configure Environment Variables
