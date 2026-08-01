@@ -108,59 +108,62 @@ if user_input:
         "files": user_input.files,
     })
 
-    # Check uploaded files
+   # Run when user sends message
+if user_input:
+
+    # Save user message
+    st.session_state.messages.append({
+        "role": "user",
+        "content": user_input.text,
+        "files": user_input.files,
+    })
+
+    combined_text = ""
+
+    # Check uploaded files & aggregate OCR text across all uploaded PDFs
     if user_input.files:
-
         for uploaded_file in user_input.files:
-
-            # Read PDF
             with st.spinner(f"Scanning {uploaded_file.name}..."):
-
                 pdf = fitz.open(
                     stream=uploaded_file.getvalue(),
                     filetype="pdf"
                 )
 
-                text = ""
-
-                # Read every page
                 for page in pdf:
-
                     pixmap = page.get_pixmap(dpi=200)
-
                     image = Image.open(
                         io.BytesIO(pixmap.tobytes("png"))
                     )
-
-                    text += pytesseract.image_to_string(image)
-                    text += "\n"
+                    combined_text += pytesseract.image_to_string(image)
+                    combined_text += "\n"
 
                 pdf.close()
 
-            # Send text to AI
-            with st.status("Thinking...", expanded=True) as status:
+    # Send user prompt + extracted text to AI
+    with st.status("Thinking...", expanded=True) as status:
 
-                st.write("Extracting legal facts and timeline...")
-                st.write("Searching legal database for Supreme Court precedents...")
+        st.write("Extracting legal facts and timeline...")
+        st.write("Searching legal database for Supreme Court precedents...")
 
-                result = ai_brain_app.invoke({
-                    "pdf_text": text
-                })
+        result = ai_brain_app.invoke({
+            "prompt": user_input.text,   # <-- Typed message
+            "pdf_text": combined_text    # <-- OCR text from files
+        })
 
-                report = result["final_report"]
+        report = result["final_report"]
 
-                status.update(
-                    label="Thinking complete!",
-                    state="complete",
-                    expanded=False
-                )
+        status.update(
+            label="Thinking complete!",
+            state="complete",
+            expanded=False
+        )
 
-            # Save AI reply
-            st.session_state.messages.append({
-                "role": "assistant",
-                "content": report,
-                "files": []
-            })
+    # Save AI reply
+    st.session_state.messages.append({
+        "role": "assistant",
+        "content": report,
+        "files": []
+    })
 
     # Refresh page
     st.rerun()
