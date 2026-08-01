@@ -9,34 +9,43 @@ from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph, START, END
 
-# --- ENVIRONMENT & MODEL SETUP ---
+# load env variables
 load_dotenv()
 
-api_key = os.getenv("GOOGLE_API_KEY")
+# check streamlit cloud secrets first, fallback to local .env
+api_key = None
+try:
+    import streamlit as st
+    if "GOOGLE_API_KEY" in st.secrets:
+        api_key = st.secrets["GOOGLE_API_KEY"]
+except Exception:
+    pass
+
 if not api_key:
-    print("[WARN] GOOGLE_API_KEY is not properly set in .env file.")
-else:
+    api_key = os.getenv("GOOGLE_API_KEY")
+
+if api_key:
     os.environ["GOOGLE_API_KEY"] = api_key
+else:
+    print("[WARN] GOOGLE_API_KEY is not properly set.")
 
+# init models
 llm = ChatGoogleGenerativeAI(model="gemini-3.1-flash-lite", temperature=0)
-
-
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-
+# setup local vector db
 vector_store = Chroma(
     collection_name="legal_cases",
     embedding_function=embeddings,
     persist_directory="./chroma_db"
 )
-
 retriever = vector_store.as_retriever(search_kwargs={"k": 5})
 
 
-# ---SCHEMAS & PIPELINE STATE ---
+# data structures for graph state
 class ExtractedData(BaseModel):
-    is_legal_document: bool = Field(description="True if document is a legal contract, dispute, or court document. False if unrelated text.")
-    timeline: str = Field(description="Chronological bullet points of factual events.")
+    is_legal_document: bool = Field(description="True if document is a legal contract, dispute, or a plain text legal question. False if out of bounds (math, trivia, etc).")
+    timeline: str = Field(description="Chronological bullet points of factual events, or a summary of the user's legal question.")
     search_query: str = Field(description="Concise legal search query for Indian Supreme Court precedents.")
 
 structured_llm = llm.with_structured_output(ExtractedData)
@@ -51,37 +60,69 @@ class GraphState(TypedDict):
     retry_count: int
 
 
-# ---GRAPH NODES ---
+# --- graph nodes ---
+
 def extract_facts_node(state: GraphState):
+    # catch absolute None values as well as empty strings
+    raw_input = state.get("pdf_text") or ""
+    input_text = str(raw_input).strip()
+    
     print("[INFO] Executing Step 1: Fact extraction and domain validation...")
     
+    # catch empty input to prevent crashes
+    if not input_text:
+        print("[WARN] Empty input received.")
+        return {
+            "is_legal_document": False,
+            "timeline": "No input provided.",
+            "search_query": "NONE",
+            "final_report": "Error: No text received. If you uploaded an image-based PDF, the OCR may have failed. Please type your query in the chat.",
+            "retry_count": 0
+        }
+
+    # strict prompt to block math/trivia and handle both docs and questions
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an expert Indian Legal AI. Read the text, produce a factual timeline, and write a search query for Supreme Court precedents. If the text is NOT a legal document, set is_legal_document to False."),
+        ("system", """You are a highly specialized Indian Legal AI Assistant. Your exclusive purpose is to analyze legal documents and answer legal queries based on Indian law.
+        
+        STRICT GUARDRAILS (YOU MUST OBEY THESE):
+        1. Legal Documents: If the text is a legal document/contract/dispute, extract core facts and build a timeline. Set is_legal_document to True.
+        2. Legal Questions: If the text is a plain legal question (no document), summarize the query as the timeline. Set is_legal_document to True.
+        3. OUT OF BOUNDS: If the user asks a math question (e.g., 2+2), coding question, trivia, or anything unrelated to law, YOU MUST REFUSE TO ANSWER. Set is_legal_document to False, and in the 'timeline' field write EXACTLY: "OUT OF BOUNDS".
+        """),
         ("human", "{text}")
     ])
     
     chain = prompt | structured_llm
     
     try:
-        res = chain.invoke({"text": state["pdf_text"]})
+        res = chain.invoke({"text": input_text})
         
         if not res.is_legal_document:
-            print("[WARN] Non-legal document uploaded. Halting pipeline.")
+            print("[WARN] Non-legal or out-of-bounds input detected. Halting pipeline.")
+            
+            # handle out of bounds vs invalid doc
+            if "OUT OF BOUNDS" in res.timeline.upper():
+                report = "I am a specialized Legal AI Assistant. I can only assist with legal document analysis and questions related to Indian law."
+            else:
+                report = "Invalid Document/Query\n\nThe provided input is not recognized as a legal query, contract, or dispute file. Please ask a legal question or upload a valid legal document."
+            
             return {
                 "is_legal_document": False,
-                "timeline": "Invalid Input: Document is not a recognized legal contract or dispute.",
+                "timeline": res.timeline,
                 "search_query": "NONE",
-                "final_report": "Invalid Document Uploaded\n\nThe provided document is not recognized as a legal contract, lease agreement, or dispute file. Please upload a valid legal document."
+                "final_report": report, 
+                "retry_count": 0
             }
             
         timeline_text = res.timeline
         search_query_text = res.search_query
         is_legal = True
+        
     except Exception as exc:
         print(f"[ERROR] Structured output parsing failed: {exc}")
         is_legal = True
-        timeline_text = "Unable to auto-extract timeline. Please refer to source document."
-        search_query_text = state["pdf_text"][:150]
+        timeline_text = "Unable to auto-extract timeline. Please refer to source text."
+        search_query_text = input_text[:150]
         
     return {
         "is_legal_document": is_legal,
@@ -94,42 +135,52 @@ def extract_facts_node(state: GraphState):
 def retrieve_cases_node(state: GraphState):
     query = state["search_query"]
     attempt = state.get("retry_count", 0) + 1
-    print(f"[INFO] Executing Step 2 (Attempt {attempt}): Querying Chroma DB collection 'legal_cases' with '{query}'...")
+    print(f"[INFO] Executing Step 2 (Attempt {attempt}): Querying Chroma DB...")
     
     if not os.path.exists("./chroma_db"):
-        return {"retrieved_cases": "[ERROR] Chroma DB directory './chroma_db' not found. Run dataset ingestion script first."}
+        return {"retrieved_cases": "[ERROR] Chroma DB directory not found."}
     
-    docs = retriever.invoke(query)
-    
-    if not docs:
-        cases_text = "No matching precedents found in database."
-    else:
-        formatted_chunks = []
-        for i, doc in enumerate(docs):
-            title = doc.metadata.get("case_title", "Unknown Case Title")
-            court = doc.metadata.get("court", "Unknown Court")
-            year = doc.metadata.get("year", "N/A")
-            citation = doc.metadata.get("citation", "No Official Citation")
-            file_name = doc.metadata.get("file_name", "Unknown File")
-            
-            header = f"[Citation: {title} ({year}) | Court: {court} | Ref: {citation} | File: {file_name} | Chunk {i+1}]"
-            formatted_chunks.append(f"{header}\n{doc.page_content}")
-            
-        cases_text = "\n\n---\n\n".join(formatted_chunks)
+    # try/except block just in case chromadb acts up
+    try:
+        docs = retriever.invoke(query)
         
-    return {"retrieved_cases": cases_text}
+        if not docs:
+            cases_text = "No direct Supreme Court precedents were found for this specific scenario."
+        else:
+            formatted_chunks = []
+            for i, doc in enumerate(docs):
+                title = doc.metadata.get("case_title", "Unknown Case Title")
+                court = doc.metadata.get("court", "Unknown Court")
+                year = doc.metadata.get("year", "N/A")
+                citation = doc.metadata.get("citation", "No Official Citation")
+                file_name = doc.metadata.get("file_name", "Unknown File")
+                
+                header = f"[Citation: {title} ({year}) | Court: {court} | Ref: {citation} | File: {file_name} | Chunk {i+1}]"
+                formatted_chunks.append(f"{header}\n{doc.page_content}")
+                
+            cases_text = "\n\n---\n\n".join(formatted_chunks)
+            
+        return {"retrieved_cases": cases_text}
+        
+    except Exception as e:
+        print(f"[ERROR] Database fetch failed: {e}")
+        return {"retrieved_cases": "The legal database is currently unavailable or encountered an error. Please try again later."}
 
 
 def validate_and_format_node(state: GraphState):
-    print("[INFO] Executing Step 3: Validating precedent relevance and generating IRAC report...")
+    print("[INFO] Executing Step 3: Validating precedent relevance and generating report...")
     
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an Adversarial Legal Validator. Evaluate the timeline against the retrieved Supreme Court cases.\n"
-                   "1. Filter out irrelevant precedents.\n"
-                   "2. Display the timeline clearly at the top.\n"
-                   "3. Apply relevant cases using the IRAC (Issue, Rule, Application, Conclusion) framework. Always cite the full case title and citation provided in the '[Citation: ...]' header.\n"
-                   "If no retrieved cases apply, explicitly state 'No relevant precedents found in database.'"),
-        ("human", "TIMELINE:\n{timeline}\n\nRETRIEVED CASES:\n{retrieved_cases}")
+        ("system", """You are an Expert Indian Legal Advisor and Validator. Evaluate the user's situation against the retrieved Supreme Court cases.
+        
+        INSTRUCTIONS:
+        1. If the user provided a legal document/timeline: Apply relevant cases using the IRAC (Issue, Rule, Application, Conclusion) framework.
+        2. If the user asked a general legal question: Answer the question directly and professionally, citing the retrieved cases as your basis.
+        3. ALWAYS cite the full case title and citation provided in the '[Citation: ...]' headers of the retrieved cases.
+        4. Filter out any completely irrelevant precedents.
+        
+        If no retrieved cases apply or the database is unavailable, explicitly state 'No relevant precedents found in database.' and provide general legal guidance based on Indian law."""),
+        ("human", "SITUATION / TIMELINE:\n{timeline}\n\nRETRIEVED CASES:\n{retrieved_cases}")
     ])
     
     chain = prompt | llm
@@ -138,6 +189,7 @@ def validate_and_format_node(state: GraphState):
         "retrieved_cases": state["retrieved_cases"]
     })
     
+    # handle different output formats safely
     report_text = res.content
     if isinstance(report_text, list) and report_text:
         item = report_text[0]
@@ -174,7 +226,7 @@ def reformulate_query_node(state: GraphState):
     }
 
 
-# ---CONDITIONAL ROUTERS ---
+# routers
 def domain_check_router(state: GraphState):
     if state.get("is_legal_document") is False:
         return "invalid_domain"
@@ -190,7 +242,7 @@ def should_retry_router(state: GraphState):
     return "end"
 
 
-# --- WORKFLOW ASSEMBLY ---
+# build workflow
 graph = StateGraph(GraphState)
 
 graph.add_node("extract", extract_facts_node)
@@ -225,7 +277,7 @@ graph.add_edge("reformulate", "retrieve")
 ai_brain_app = graph.compile()
 
 
-# --- CLI TESTING CASE ---
+# local testing
 if __name__ == "__main__":
     sample_lease_dispute = """
     IN THE COURT OF THE RENT CONTROLLER, DELHI
