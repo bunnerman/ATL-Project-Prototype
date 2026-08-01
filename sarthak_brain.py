@@ -9,17 +9,14 @@ from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph, START, END
 
-# ---ENVIRONMENT & MODEL SETUP ---
+# --- ENVIRONMENT & MODEL SETUP ---
 load_dotenv()
 
-
-# api_key = os.getenv("GOOGLE_API_KEY")
-# if not api_key or api_key == "AQ.Ab8RN6JPLXC1PJaOaZ7B-h1vFHt_wUbYA-GoEXGLo8vfyOCUjg":
-#    print("[WARN] GOOGLE_API_KEY is not properly set in .env file.")
-#else:
-#    os.environ["GOOGLE_API_KEY"] = api_key
-
-api_key = "AQ.Ab8RN6JPLXC1PJaOaZ7B-h1vFHt_wUbYA-GoEXGLo8vfyOCUjg"
+api_key = os.getenv("GOOGLE_API_KEY")
+if not api_key:
+    print("[WARN] GOOGLE_API_KEY is not properly set in .env file.")
+else:
+    os.environ["GOOGLE_API_KEY"] = api_key
 
 llm = ChatGoogleGenerativeAI(model="gemini-3.1-flash-lite", temperature=0)
 
