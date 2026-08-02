@@ -242,7 +242,8 @@ for message in st.session_state.messages:
 st.divider()
 
 # Create space so messages do not hide behind the input box
-st.markdown("<div style='height:90vh'></div>", unsafe_allow_html=True)
+# scroll fix maybe? removed the min height
+st.markdown("<div></div>", unsafe_allow_html=True)
 
 # The chat input box at the bottom of the screen
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
